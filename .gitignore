@@ -86,11 +86,6 @@ dmypy.json
 # macOS
 .DS_Store
 
-# Data files (remove these lines if you want to track data)
-data/*
-data/raw/*
-data/processed/*
-
 # Large data files
 *.csv
 *.xlsx
@@ -99,3 +94,17 @@ data/processed/*
 *.pickle
 *.h5
 *.hdf5
+
+# Ignore everything inside data/
+data/*
+data/raw/*
+data/processed/*
+
+# Allow these folders to exist
+!data/
+!data/raw/
+!data/processed/
+
+# Allow only the placeholder files
+!data/raw/.gitkeep
+!data/processed/.gitkeep
