@@ -87,6 +87,7 @@ dmypy.json
 .DS_Store
 
 # Data files (remove these lines if you want to track data)
+data/*
 data/raw/*
 data/processed/*
 
