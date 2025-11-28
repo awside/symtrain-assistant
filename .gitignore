@@ -87,8 +87,8 @@ dmypy.json
 .DS_Store
 
 # Data files (remove these lines if you want to track data)
-data/raw/
-data/processed/
+data/raw/*
+data/processed/*
 
 # Large data files
 *.csv
@@ -98,7 +98,3 @@ data/processed/
 *.pickle
 *.h5
 *.hdf5
-
-# Keep data folder structure (optional - create empty .gitkeep files)
-!data/raw/.gitkeep
-!data/processed/.gitkeep
