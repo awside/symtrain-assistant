@@ -7,13 +7,13 @@ from transformers import AutoTokenizer, AutoModel
 
 from symtrain.config import EMBEDDING_MODEL, MAX_TOKEN_LENGTH
 
-# Load model and tokenizer (cached at module level)
+# Global model cache
 _tokenizer = None
 _model = None
 
 
-def _get_model():
-    """Lazy load the model and tokenizer."""
+def _load_model():
+    """Load and cache the model."""
     global _tokenizer, _model
     if _tokenizer is None:
         _tokenizer = AutoTokenizer.from_pretrained(EMBEDDING_MODEL)
@@ -31,7 +31,7 @@ def get_embedding(text: str) -> np.ndarray:
     Returns:
         Numpy array of shape (768,) representing the embedding.
     """
-    tokenizer, model = _get_model()
+    tokenizer, model = _load_model()
 
     inputs = tokenizer(
         text, return_tensors="pt", truncation=True, max_length=MAX_TOKEN_LENGTH
@@ -44,7 +44,7 @@ def get_embedding(text: str) -> np.ndarray:
     return outputs.last_hidden_state.mean(dim=1).numpy()[0]
 
 
-def embed_dataframe(df: pd.DataFrame, text_column: str = "transcript") -> pd.DataFrame:
+def embed_dataframe_column(df: pd.DataFrame, text_column: str) -> pd.DataFrame:
     """
     Add embeddings to a DataFrame.
 
@@ -53,9 +53,15 @@ def embed_dataframe(df: pd.DataFrame, text_column: str = "transcript") -> pd.Dat
         text_column: Name of the column containing text to embed.
 
     Returns:
-        DataFrame with new 'embedding' column.
+        DataFrame with new '{text_column}_emb' column.
     """
+    output_column = f"{text_column}_emb"
+
     df = df.copy()
-    df["embedding"] = df[text_column].apply(get_embedding)
-    print(f"Generated {len(df)} embeddings of dimension {len(df['embedding'].iloc[0])}")
+    embeddings = [get_embedding(text) for text in df[text_column]]
+    df[output_column] = embeddings
+
+    print(
+        f"Generated {len(df)} embeddings → '{output_column}' (dim={len(df[output_column].iloc[0])})"
+    )
     return df
