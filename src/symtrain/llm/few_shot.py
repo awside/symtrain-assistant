@@ -8,7 +8,10 @@ from symtrain.llm.client import chat
 
 
 def get_few_shot_examples(
-    query: str, df: pd.DataFrame, n_examples: int = 2
+    query: str,
+    df: pd.DataFrame,
+    embedding_column: str = "transcript_emb",
+    n_examples: int = 2,
 ) -> list[dict]:
     """
     Find similar transcripts to use as few-shot examples.
@@ -16,15 +19,16 @@ def get_few_shot_examples(
     Args:
         query: The customer query to find examples for.
         df: DataFrame with embeddings.
+        embedding_column: Name of the column containing embeddings.
         n_examples: Number of examples to retrieve.
 
     Returns:
         List of dicts with 'name' and 'transcript' keys.
     """
-    similar = find_similar(query, df, top_k=5)
+    similar = find_similar(df, embedding_column, query, top_k=n_examples)
 
     examples = []
-    for idx in similar.index[:n_examples]:
+    for idx in similar.index:
         examples.append(
             {
                 "name": df.loc[idx, "name"],
@@ -70,8 +74,24 @@ Respond with JSON only in this exact format:
 
     content = chat(prompt)
 
-    # Parse JSON from response
+    # Parse JSON from response - extract first JSON object only
     try:
-        return json.loads(content)
+        # Find the first { and match its closing }
+        start = content.find("{")
+        if start == -1:
+            return {"raw_response": content, "error": "No JSON found"}
+
+        # Count braces to find matching closing brace
+        depth = 0
+        for i, char in enumerate(content[start:], start):
+            if char == "{":
+                depth += 1
+            elif char == "}":
+                depth -= 1
+                if depth == 0:
+                    json_str = content[start : i + 1]
+                    return json.loads(json_str)
+
+        return {"raw_response": content, "error": "Unmatched braces"}
     except json.JSONDecodeError:
         return {"raw_response": content, "error": "Failed to parse JSON"}
