@@ -18,6 +18,8 @@ def categorize_with_ollama(transcript: str) -> str:
 
 {transcript[:1000]}
 
+Category must not be empty or Other. Try again if needed.
+
 Return only the category name."""
 
     return chat(prompt)
