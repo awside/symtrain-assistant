@@ -1,0 +1,1380 @@
+{
+    "name": "Copy OSA - Parity 2.0 1",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Jim",
+    "voiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "39b786b7-9c5e-4d06-be43-7e0fb136a766",
+            "sequenceNumber": 1,
+            "fileTranscript": "Thank you for calling Northwestern Mutual, Underwriting Case Management, this is ________. How may I help you?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "northwestern mutual,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "how may i help you?",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "8a7567ed-b78f-4bb3-bf71-e6b92bff89cd",
+            "sequenceNumber": 2,
+            "fileTranscript": "Hi! This is Norm Weston calling from John Barrett's office. This case for Marty Juana has taken forever, what is the underwriter waiting on?",
+            "fileId": "fdda3b9a-5776-497d-9b92-84f59aa7382e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "7303057d-33e5-48d8-96bb-118e37c4cfbc",
+            "sequenceNumber": 3,
+            "fileTranscript": "Hi Norm, may I start with a policy number to get started?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "policy number",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "de4e5059-5907-404a-8e1f-4043d33657de",
+            "sequenceNumber": 4,
+            "fileTranscript": "This case for Marty Juana has taken forever, what is the underwriter waiting on? The policy number is T195129.",
+            "fileId": "7306219e-dbbe-4caa-bd0f-094b9da00cbf",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "9b7f62fa-aa23-4d23-86a1-0b563d2ead26",
+            "sequenceNumber": 6,
+            "fileTranscript": "Thank you, Norm, I do have Marty's case pulled up here. You would like to talk about what will move this case to approval, is that correct?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank you,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "is that correct?",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "f0185d7d-3be6-4f8b-a8de-fe61294e1409",
+            "sequenceNumber": 7,
+            "fileTranscript": "Yes, that is what I'm looking for.",
+            "fileId": "7125bff5-3656-4be7-a5f8-60ba59586215",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a2bad08c-aae7-4bf8-b8ca-b26e9698faae",
+            "sequenceNumber": 8,
+            "fileTranscript": "Please give me a moment so I can review the details of the case and see what we can do to get this moving.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "please give me a moment",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "f8c82a34-f372-4086-91d3-40b847baea80",
+            "sequenceNumber": 9,
+            "fileTranscript": "Sounds good!",
+            "fileId": "ea111670-e45a-4fd5-8170-bb7cf1a61b2e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "0438ac31-9ad5-4258-9d9f-46b9bc0b2cbe",
+            "sequenceNumber": 10,
+            "fileTranscript": "Thank you so much, I am all up to speed on this case. It looks like we are awaiting records from Dr. Smith's office and that a special authorization was sent to your office by the APS vendor to be reviewed. Do you have a copy of that completed form?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "d4158787-4c30-4956-bca3-d161643d2af7",
+            "sequenceNumber": 11,
+            "fileTranscript": "No, I thought you sent it to the client and not just to me.",
+            "fileId": "172b138b-a87f-48a7-8788-2af3a503d035",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "62594d8c-215a-4304-8ded-f6a7ec4d2f91",
+            "sequenceNumber": 12,
+            "fileTranscript": "Thank you, Norm. Let me take a moment to review the notes from our APS vendor to determine where the document was sent.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "aps vendor",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "86a4499e-e48e-4854-a455-a3e8e08d9450",
+            "sequenceNumber": 13,
+            "fileTranscript": "Please do, I hope you sent it to the client.",
+            "fileId": "6cee7d28-b352-45a8-8da8-04b8e3c3472e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "ac023e11-29ba-421b-8bf2-79cdce32f614",
+            "sequenceNumber": 14,
+            "fileTranscript": "It doesn't appear that this was sent directly to the client, instead it was sent to your office to facilitate that request. I can have that resent to you right away.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "sent to your office",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "d4bba70e-966f-4757-b108-1d37a1a77164",
+            "sequenceNumber": 15,
+            "fileTranscript": "Ok, that is fine. Do you really need these records though? It's been a long time.",
+            "fileId": "8e148333-96ca-4b43-9e03-9e291ffdbbf1",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "91a8b42d-a449-485e-8e8b-480c2ec0860f",
+            "sequenceNumber": 16,
+            "fileTranscript": "It does look from the notes that the underwriter does require these notes in order to reach the final decision, however, I will put in a note requesting for a risk review and the underwriter will reach out with that information. In the meantime, I'll get the form over to you to reduce any further delay.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "i will put in a note",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "e41e14b0-7700-4898-ab84-d3f3e2cc2ca4",
+            "sequenceNumber": 17,
+            "fileTranscript": "That sounds fair. Thank you.",
+            "fileId": "e73fa05e-fda0-4e5f-a094-676cbef83bf9",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "626d269f-3bfd-4312-9414-93b0f7feaf79",
+            "sequenceNumber": 18,
+            "fileTranscript": "Of course. Is there anything else I can assist you with?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "is there anything else i can assist you with?",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "c2a0c2cb-2842-4c22-8957-085ddb67672e",
+            "sequenceNumber": 19,
+            "fileTranscript": "No, that was all.",
+            "fileId": "9bf959a6-60cc-44aa-9b38-51045389b45d",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c1255622-2369-4c5a-b5ec-3c04214402eb",
+            "sequenceNumber": 20,
+            "fileTranscript": "Awesome, well thank you so much for putting your trust in Northwestern Mutual. Have a great rest of your day.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank you",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "b41525a0-f957-4e53-9e2b-2087fd8f5c1b",
+            "sequenceNumber": 21,
+            "fileTranscript": "Thank you, you as well!",
+            "fileId": "1e819299-7af1-4b0a-9471-daaaf42eca39",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "0fe28975-1b5b-44fe-8df3-8e458718bf6a",
+            "sequenceNumber": 5,
+            "fileTranscript": "Thank you, Norm. Give me one moment to pull up the case.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "fe57a8f0-5d5b-4351-9f81-2b42029e55a8",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Open the call by using the Risk Client Services: Standard Call Flow Mutual Knowledge page. Thank the caller for calling, state your name, and ask who you are speaking with.   Answer call in Five9 Thank the caller for calling, state your name, and ask who you are speaking with.",
+                        "width": 0.19579500657030224,
+                        "height": 0.24182242990654207,
+                        "fontSize": 16,
+                        "positionX": 0.017739816031537452,
+                        "positionY": 0.4824766355140187,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 5000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #23547834-2111-48fe-bf9d-34187086cb49",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "39b786b7-9c5e-4d06-be43-7e0fb136a766"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #e5cd061f-4f33-46df-9f52-61549884f542",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8a7567ed-b78f-4bb3-bf71-e6b92bff89cd"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "64b5ea69-ebb4-4516-b24e-2a5612733f16",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 17",
+            "parentItemId": 1876233,
+            "hotspots": [
+                {
+                    "name": "Audio for #5de2a2c7-46c1-4e53-a046-413627914c84",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "7303057d-33e5-48d8-96bb-118e37c4cfbc"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Ask for a policy number, or spelling of name to pull up the account.  Asking for the caller to give one moment while the system pulls up the case information.  Press the Open Case button to type in the case number",
+                        "width": 0.16688567674113008,
+                        "height": 0.2523364485981308,
+                        "fontSize": 16,
+                        "positionX": 0.05387647831800263,
+                        "positionY": 0.46845794392523366,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 5000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #5043dc22-8caf-4bd4-b964-79515a521d04",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "de4e5059-5907-404a-8e1f-4043d33657de"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #17db9267-60c7-4ed0-8703-82fd9b4a32c4",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "0fe28975-1b5b-44fe-8df3-8e458718bf6a"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "495be0c0-e473-475e-aaec-c1a4af3fd571",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 16",
+            "parentItemId": 1876234,
+            "hotspots": [
+                {
+                    "name": "Policy Number",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.23653088042049936,
+                        "height": 0.07009345794392523,
+                        "fontSize": 16,
+                        "positionX": 0.26412614980289095,
+                        "positionY": 0.5186915887850467,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "T195129",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Coaching Tip",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Enter policy T195129",
+                        "width": 0.08147174770039421,
+                        "height": 0.102803738317757,
+                        "fontSize": 16,
+                        "positionX": 0.17608409986859397,
+                        "positionY": 0.5397196261682243,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 5000
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "5703cd61-fd3f-4d3b-adee-a2641d055f7d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 18",
+            "parentItemId": 1876235,
+            "hotspots": [
+                {
+                    "name": "Audio for #c331ec3a-d83b-47d1-ba3a-0a8d14436f65",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "9b7f62fa-aa23-4d23-86a1-0b563d2ead26"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #c75425ab-5515-4a28-acb2-a9626b7a515b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f0185d7d-3be6-4f8b-a8de-fe61294e1409"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "626c93d4-d007-4cf0-91ca-c37d3d968448",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 2",
+            "parentItemId": 1876236,
+            "hotspots": [
+                {
+                    "name": "Audio for #aef585d3-1edd-446e-8164-a0717d896718",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a2bad08c-aae7-4bf8-b8ca-b26e9698faae"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Case Details",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.2161629434954008,
+                        "height": 0.0455607476635514,
+                        "positionX": 0.02562417871222076,
+                        "positionY": 0.5455607476635514,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #3a0ccafd-3995-49e8-8ef2-7c6f8259d2e8",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f8c82a34-f372-4086-91d3-40b847baea80"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Navigate to the Notes and Amount screen by clicking on \"Notes and Amounts\" in the left-hand navigation panel to review the information and confirm the caller.  You may need to scroll down to see the full screen.",
+                        "width": 0.25229960578186594,
+                        "height": 0.12032710280373832,
+                        "fontSize": 16,
+                        "positionX": 0.017739816031537452,
+                        "positionY": 0.8761682242990654,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "5ad5a101-4e2d-4d31-a185-ee0a360c7cab",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 3",
+            "parentItemId": 1876237,
+            "hotspots": [
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Navigate to the Tasks screen by cliecking on \"Tasks\" in the left-hand navigation panel to review the information and confirm the caller.",
+                        "width": 0.22207621550591328,
+                        "height": 0.10514018691588783,
+                        "fontSize": 16,
+                        "positionX": 0.012483574244415242,
+                        "positionY": 0.875,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 3000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Case Activity",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.13863337713534823,
+                        "height": 0.0455607476635514,
+                        "positionX": 0.026281208935611037,
+                        "positionY": 0.4929906542056075,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "8b45d8dc-fa3e-41ca-a2eb-ffaee966966f",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 4",
+            "parentItemId": 1876238,
+            "hotspots": [
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Review the task cards to determine what requirements are still outstanding and require assistance from the field member that has called. ",
+                        "width": 0.24507227332457293,
+                        "height": 0.12032710280373832,
+                        "fontSize": 16,
+                        "positionX": 0.017082785808147174,
+                        "positionY": 0.8773364485981309,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 5000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #78010c13-3475-41a1-a4ff-49d19658ae5d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "0438ac31-9ad5-4258-9d9f-46b9bc0b2cbe"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #bce84a59-5bfa-4801-aab8-2b50dade75c9",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d4158787-4c30-4956-bca3-d161643d2af7"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #f335641b-be7b-49e1-b1f6-f292bb81f396",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "62594d8c-215a-4304-8ded-f6a7ec4d2f91"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #c29fe0da-16b7-4df5-9287-06f758048023",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "86a4499e-e48e-4854-a455-a3e8e08d9450"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                }
+            ]
+        },
+        {
+            "fileId": "064c7bc6-129c-4566-922a-2a9052bcab23",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 19",
+            "parentItemId": 1876239,
+            "hotspots": [
+                {
+                    "name": "More",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.06767411300919843,
+                        "height": 0.07126168224299065,
+                        "positionX": 0.9211563731931668,
+                        "positionY": 0.2651869158878505,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Launch ROSS by clicking on the upper right-hand kebab and selecting ROSS from the drop-down.  ",
+                        "width": 0.24178712220762155,
+                        "height": 0.11682242990654206,
+                        "fontSize": 16,
+                        "positionX": 0.009198423127463865,
+                        "positionY": 0.8656542056074766,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 5000
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "b2d07411-3467-4f00-b951-b5632dea456d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 5",
+            "parentItemId": 1876240,
+            "hotspots": [
+                {
+                    "name": "ROSS",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.06504599211563732,
+                        "height": 0.04789719626168224,
+                        "positionX": 0.8633377135348226,
+                        "positionY": 0.4182242990654206,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "599994ae-7043-4dd8-9c06-5e0534e4025c",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 20",
+            "parentItemId": 1876241,
+            "hotspots": [
+                {
+                    "name": "List",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.14060446780551905,
+                        "height": 0.06074766355140187,
+                        "positionX": 0.3331143232588699,
+                        "positionY": 0.4614485981308411,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "In the ROSS system, click on \"List\" to review requirements that have been ordered in this system. ",
+                        "width": 0.3002628120893561,
+                        "height": 0.14719626168224298,
+                        "fontSize": 16,
+                        "positionX": 0.022996057818659658,
+                        "positionY": 0.7488317757009346,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "22c367b4-242d-4fab-ac3e-8ee132774980",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 21",
+            "parentItemId": 1876242,
+            "hotspots": [
+                {
+                    "name": "APS",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.8304862023653088,
+                        "height": 0.0514018691588785,
+                        "positionX": 0.08607095926412615,
+                        "positionY": 0.6612149532710281,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click on the APS that you are attempting to review a status.",
+                        "width": 0.36465177398160314,
+                        "height": 0.20093457943925233,
+                        "fontSize": 16,
+                        "positionX": 0.015111695137976349,
+                        "positionY": 0.7780373831775701,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "5df8a601-aa00-406a-acd4-6ceef35d2765",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 6",
+            "parentItemId": 1876243,
+            "hotspots": [
+                {
+                    "name": "Status",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.06307490144546649,
+                        "height": 0.04906542056074766,
+                        "positionX": 0.7194480946123522,
+                        "positionY": 0.9485981308411215,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Once highlighted, clikc on \"Status\" in the now activated toolbar at the bottom of the ROSS application. ",
+                        "width": 0.3311432325886991,
+                        "height": 0.18574766355140188,
+                        "fontSize": 16,
+                        "positionX": 0.0045992115637319315,
+                        "positionY": 0.7908878504672897,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "89f55490-445f-458e-8495-af2e96ce03d0",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 8",
+            "parentItemId": 1876244,
+            "hotspots": [
+                {
+                    "name": "Close",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.17608409986859397,
+                        "height": 0.07476635514018691,
+                        "positionX": 0.3331143232588699,
+                        "positionY": 0.9100467289719626,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Read through the notes from the APS vendor and determine what you need to share with the field member.  Click \"Close this window\" when you are done to return to the view of Underwriting Platform.",
+                        "width": 0.16819973718791065,
+                        "height": 0.169392523364486,
+                        "fontSize": 16,
+                        "positionX": 0.006570302233902759,
+                        "positionY": 0.8119158878504673,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 5000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #ec2805dd-83d4-4b84-b3e8-f1ca5cadabd5",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "ac023e11-29ba-421b-8bf2-79cdce32f614"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #736fb554-1560-40f5-84ff-7493f38ed228",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d4bba70e-966f-4757-b108-1d37a1a77164"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "7d3a2eb0-189c-4217-b12b-b60d7b60df3c",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 9",
+            "parentItemId": 1876245,
+            "hotspots": [
+                {
+                    "name": "Notes",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.03416557161629435,
+                        "height": 0.07710280373831775,
+                        "positionX": 0.9638633377135348,
+                        "positionY": 0.6623831775700935,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click the paper icon on the right-hand navigation panel to open case notes to review and determine if you can see any notes related to the records.",
+                        "width": 0.23653088042049936,
+                        "height": 0.16822429906542055,
+                        "fontSize": 16,
+                        "positionX": 0.011826544021024968,
+                        "positionY": 0.8107476635514018,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "36eb0b1a-03bb-4d92-b107-529a1dbb1076",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 10",
+            "parentItemId": 1876246,
+            "hotspots": [
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Here we can see that the underwriter ordered the medical records on a discretionary basis, indicating that the records were needed for cause and not for age and amount requirements.",
+                        "width": 0.24113009198423127,
+                        "height": 0.1647196261682243,
+                        "fontSize": 16,
+                        "positionX": 0.0164257555847569,
+                        "positionY": 0.8107476635514018,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 5000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Discretionary",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.3199737187910644,
+                        "height": 0.11214953271028036,
+                        "fontSize": 16,
+                        "positionX": 0.6274638633377135,
+                        "positionY": 0.8843457943925234,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 10000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #33a18e28-c147-4879-8477-8134612dcd6c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "91a8b42d-a449-485e-8e8b-480c2ec0860f"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #e942f948-a308-4fd7-8922-511f785b1b9f",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e41e14b0-7700-4898-ab84-d3f3e2cc2ca4"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "b0a91622-2a99-4a27-bc22-eb3f37e561d9",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 7",
+            "parentItemId": 1876247,
+            "hotspots": [
+                {
+                    "name": "Clipboard",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.04007884362680683,
+                        "height": 0.07476635514018691,
+                        "positionX": 0.9579500657030224,
+                        "positionY": 0.741822429906542,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click the clipboard icon in the right-hand naviation panel to open task creatoion.",
+                        "width": 0.22864651773981604,
+                        "height": 0.15654205607476634,
+                        "fontSize": 16,
+                        "positionX": 0.0164257555847569,
+                        "positionY": 0.8119158878504673,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "5851bd8a-73d1-416e-bc42-d49cf37a0bb1",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 11",
+            "parentItemId": 1876248,
+            "hotspots": [
+                {
+                    "name": "Risk Assessment",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.08607095926412615,
+                        "height": 0.04906542056074766,
+                        "options": [
+                            {
+                                "value": "Select",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Field",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Follow Up",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Reminder",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Phone Message",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Question",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Risk Assessment Needed",
+                                "isCorrect": true
+                            },
+                            {
+                                "value": "Referral",
+                                "isCorrect": false
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.7049934296977661,
+                        "positionY": 0.4848130841121495,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "for Task Type select Risk Assessment Needed",
+                        "width": 0.2608409986859396,
+                        "height": 0.15537383177570094,
+                        "fontSize": 16,
+                        "positionX": 0.006570302233902759,
+                        "positionY": 0.8049065420560748,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 5000
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "1138f80b-152b-474f-b3f5-01fbca5e0f78",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 12",
+            "parentItemId": 1876249,
+            "hotspots": [
+                {
+                    "name": "Button",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.12680683311432325,
+                        "height": 0.037383177570093455,
+                        "positionX": 0.6997371879106439,
+                        "positionY": 0.5992990654205608,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Select \"Phone Call\" as the reason and then scroll to the details box.",
+                        "width": 0.2371879106438896,
+                        "height": 0.1483644859813084,
+                        "fontSize": 16,
+                        "positionX": 0.01445466491458607,
+                        "positionY": 0.8294392523364486,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "3f9e5c4a-d4df-4cf8-9d97-0770586764b9",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 13",
+            "parentItemId": 1876250,
+            "hotspots": [
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click the additional details box to type a brief note explaining what is needed for the underwriter review then click \"Create Task\"",
+                        "width": 0.2319316688567674,
+                        "height": 0.14953271028037382,
+                        "fontSize": 16,
+                        "positionX": 0.012483574244415242,
+                        "positionY": 0.8212616822429907,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Create",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.12155059132720106,
+                        "height": 0.06425233644859812,
+                        "positionX": 0.7851511169513797,
+                        "positionY": 0.9322429906542056,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "70278c11-63be-4045-b1cf-13df6bd2995b",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 22",
+            "parentItemId": 1876251,
+            "hotspots": [
+                {
+                    "name": "Button",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.03942181340341656,
+                        "height": 0.07827102803738317,
+                        "positionX": 0.9586070959264126,
+                        "positionY": 0.6670560747663551,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Access case notes by clicking on the paper icon in the right-hand corner to add notes to the Case Notes screen in UWP as needed.",
+                        "width": 0.2371879106438896,
+                        "height": 0.16121495327102803,
+                        "fontSize": 16,
+                        "positionX": 0.011169513797634692,
+                        "positionY": 0.8165887850467289,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "5f466f0a-1b0d-4d8b-babb-b8af8ff24acb",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 14",
+            "parentItemId": 1876252,
+            "hotspots": [
+                {
+                    "name": "Save",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.12943495400788435,
+                        "height": 0.07359813084112149,
+                        "positionX": 0.783180026281209,
+                        "positionY": 0.9240654205607476,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Be sure to click \"Save\" to ensure the note remains on the case. Ask the caller is there is anything else you can assist with. ",
+                        "width": 0.24704336399474375,
+                        "height": 0.17289719626168223,
+                        "fontSize": 16,
+                        "positionX": 0.010512483574244415,
+                        "positionY": 0.802570093457944,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #c4e34dd6-810b-4208-ad3a-e988a4fc89d9",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "626d269f-3bfd-4312-9414-93b0f7feaf79"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #f0ca913c-75a9-4ef7-ac8b-05bddbc84897",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c2a0c2cb-2842-4c22-8957-085ddb67672e"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "26c167cb-c6b2-487e-b449-5e7c43b1c1cc",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 15",
+            "parentItemId": 1876253,
+            "hotspots": [
+                {
+                    "name": "Audio for #25c8660c-6edd-4573-9051-8a8bcdf5e12a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c1255622-2369-4c5a-b5ec-3c04214402eb"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #197df239-6bde-4886-b776-5921c7aa72fe",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b41525a0-f957-4e53-9e2b-2087fd8f5c1b"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Button",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.059789750328515114,
+                        "height": 0.11799065420560748,
+                        "positionX": 0.0045992115637319315,
+                        "positionY": 0.07242990654205607,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click \"Back to Worklist\" in the top left-hand corner to return to the worklist and continue working through cases.",
+                        "width": 0.24244415243101183,
+                        "height": 0.16121495327102803,
+                        "fontSize": 16,
+                        "positionX": 0.005256241787122208,
+                        "positionY": 0.8200934579439252,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        }
+    ]
+}

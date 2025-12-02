@@ -86,24 +86,9 @@ dmypy.json
 # macOS
 .DS_Store
 
-# Large data files
-*.csv
-*.xlsx
-*.parquet
-*.pkl
-*.pickle
-*.h5
-*.hdf5
-
-# Ignore everything inside data/
-data/*
-data/raw/*
-data/processed/*
-
-# Allow these folders to exist
-!data/
-!data/raw/
-!data/processed/
-
-# Allow only the placeholder files
-!data/raw/.gitkeep
+# Large data files (keep these general ignores for other locations)
+*.mp3
+*.jpg
+*.jpeg
+*.png
+*.wav

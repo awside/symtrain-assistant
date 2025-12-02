@@ -1,0 +1,4607 @@
+{
+    "name": "Arise_Disney Resorts Reservations - Booking Multiple Rooms Package Reservation ~ ADV",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": false,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": false,
+    "ttsRequired": true,
+    "voiceName": "Asteria",
+    "voiceId": "6322f356-6419-11ef-8ea8-0278e2f13a2f",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "35b848c4-ade9-4ba4-8d9b-df09718f3e70",
+            "sequenceNumber": 1,
+            "fileTranscript": "Thank you for calling Walt Disney World Resorts, where celebrations are our specialty. My name is {Stage Name}. How may I assist you?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "walt",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "you",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "disney",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "world",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "resorts,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "celebrations",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "assist/help",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "assist",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "help",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "320cff55-b703-4e1b-b0ca-b48a9a3344b6",
+            "sequenceNumber": 2,
+            "fileTranscript": "Hello, I would like to make a reservation.",
+            "fileId": "f1cce5db-3524-4eb2-aeac-0ab0fe22eb94",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "f25cbdc3-c874-4b4a-8160-ca498ce5dce8",
+            "sequenceNumber": 3,
+            "fileTranscript": "I’d be happy to assist you and thank you for choosing Disney as your vacation destination.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "assist",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "you",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "choosing",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "disney",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "vacation",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "destination.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "8bcce37a-c656-4355-993a-588176893f48",
+            "sequenceNumber": 4,
+            "fileTranscript": "May I have your last name and email address?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "last",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "name",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "email",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "47220b98-9569-4669-8e54-0849332b56c3",
+            "sequenceNumber": 5,
+            "fileTranscript": "Callahan, and my email is jcallahan at animail.net.",
+            "fileId": "36dbb4e0-b81b-4739-a880-d47ec9d04245",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "348e991a-45cf-4b0d-9386-378b729f2f7c",
+            "sequenceNumber": 6,
+            "fileTranscript": "Thank you, Joan! What dates and how many nights would you like to stay with us?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "03f99906-b514-4ce3-81ee-0455fad55813",
+            "sequenceNumber": 7,
+            "fileTranscript": "Checking-In on November 24th, 2025, and Checking-Out on November 30th, 2025.",
+            "fileId": "408ddaca-992b-494c-bc51-3aa6c5439565",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "aceeab6f-ca6c-4840-acb9-551f7368a652",
+            "sequenceNumber": 8,
+            "fileTranscript": "Thank you, Joan, who will be traveling with you?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a609a4ad-61f1-4511-a3e2-530c2842f863",
+            "sequenceNumber": 9,
+            "fileTranscript": "My husband Klein.",
+            "fileId": "6827db3f-a374-453d-a2cb-2fa5b26f8726",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "083432f7-f270-4140-9efe-75b722a491d9",
+            "sequenceNumber": 10,
+            "fileTranscript": "Thank you, Joan, who else will be traveling with you?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "d464a1da-ee79-4161-b999-92010afd8f6d",
+            "sequenceNumber": 11,
+            "fileTranscript": "My son, Carrillo.",
+            "fileId": "f31ee6c3-9ccb-4632-bdfb-4404d5af90bd",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "250cf2bd-d44c-4fe9-8d41-a6609fd20b67",
+            "sequenceNumber": 12,
+            "fileTranscript": "Thank you, Joan, will there being anyone else traveling with you?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "33a8fb66-79fc-46b1-a3e2-049e83b5686b",
+            "sequenceNumber": 13,
+            "fileTranscript": "Yes, my daughter Bridget.",
+            "fileId": "f9aa445a-6a2a-4a2d-826e-1e26b782fbda",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b54bd783-4d8e-4849-907d-531c3c25c93b",
+            "sequenceNumber": 14,
+            "fileTranscript": "Thank you.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "2a40dba9-5cf0-4a2c-9557-d359f8ee02a1",
+            "sequenceNumber": 15,
+            "fileTranscript": "Have you decided on which resort you would like to stay at?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "911c0db4-37b6-40be-844a-f0ec490fcffd",
+            "sequenceNumber": 16,
+            "fileTranscript": "Contemporary Resort.",
+            "fileId": "3c5e89ac-1e81-4d65-9b82-0eca4c21a62c",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "7d8d9a08-2040-41e1-9bcb-e1e1f5497599",
+            "sequenceNumber": 17,
+            "fileTranscript": "Have you stayed at this resort before?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c982b676-1ba1-4c7a-b574-944c93939825",
+            "sequenceNumber": 18,
+            "fileTranscript": "We have; we love the resort, it’s our favorite.",
+            "fileId": "b5db7b3e-d15a-441e-b508-dade2bb7bc97",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "2bc3952a-8b4c-497a-a2c2-4a97399091e1",
+            "sequenceNumber": 19,
+            "fileTranscript": "It’s one of my favorites also. I love how the Monorail travels through the middle of the resort.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "5caf3bd8-dad7-4edd-8904-fb175d99ba1e",
+            "sequenceNumber": 20,
+            "fileTranscript": "Joan, will you need theme park tickets?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "1016bab6-cf47-4ee5-92ee-0fc1d02fd6e3",
+            "sequenceNumber": 21,
+            "fileTranscript": "Yes, a 6-day ticket with the Park Hopper Plus.",
+            "fileId": "eb47b681-f870-497d-9af7-be8b63893a9a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "24d40b52-e5e4-49d9-90cf-d15ddad1f4d1",
+            "sequenceNumber": 22,
+            "fileTranscript": "Would you like to include a dining plan?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "dining",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "plan?",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "7be51562-8d75-440e-8b0e-ea30b41cec2c",
+            "sequenceNumber": 23,
+            "fileTranscript": "Yes, I’d like the Disney Dine Plan.",
+            "fileId": "5e86afbd-bb0b-4569-9eb0-0d23846d2d48",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "96182831-1c9a-46db-90fd-06bce3cd9ca6",
+            "sequenceNumber": 24,
+            "fileTranscript": "Would you like to include vacation protection in your package for only $95.00 per adult inclusive of children up to 17 years old? It can cover trip cancellation and trip interruption.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "vacation",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "protection",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "trip",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "cancellation",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "interruption.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "31b020da-9606-4d7f-96bf-586ff7b1b86a",
+            "sequenceNumber": 25,
+            "fileTranscript": "No, thanks. We will need 2 rooms as we would like the kids to have their own room.",
+            "fileId": "137034e2-01b8-4048-b044-7c720e4a480f",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a40f09e4-65f9-4a5d-8fdb-b89d8126129d",
+            "sequenceNumber": 26,
+            "fileTranscript": "I will be happy to assist you, please give me a few moments to check the availability.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "happy",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "to",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "assist",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "few",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "moments",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "check",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "the",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "availability.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "5d3e0ec5-d3ae-49e7-b301-9074ed2a5b47",
+            "sequenceNumber": 27,
+            "fileTranscript": "Would you like to include Memory Maker? Memory Maker is an incredible way to enjoy unlimited digital Disney Photo Pass photos captured at hundreds of locations throughout Walt Disney World Resort—including select attraction and dining locations. The photos are conveniently connected to your online Disney account with a touch of your MagicBand, MagicMobile or Key to the World Card. It is regularly $210, with the advanced price of $185 if purchased at least 3 days prior.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "memory",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "maker?",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "disney",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "photo pass",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "account",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "563fbb8f-77c3-4b7f-94d0-6cb75f018615",
+            "sequenceNumber": 28,
+            "fileTranscript": "No, thanks.",
+            "fileId": "ffd22599-e6fe-47ff-8fd9-aa6e21916a88",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "ba55534c-1615-4135-a3cb-fd26a170fe79",
+            "sequenceNumber": 29,
+            "fileTranscript": "Will you be flying or driving?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "0bcf0c70-cd0b-4e61-9205-a515886cbca8",
+            "sequenceNumber": 30,
+            "fileTranscript": "We’re flying.",
+            "fileId": "137a1a1d-04c6-4943-a689-540c735c06dd",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "9c5294cb-5754-4f04-bd9c-b552c4055e75",
+            "sequenceNumber": 31,
+            "fileTranscript": "Will you need a rental car?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "rental",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "car?",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "022ac536-03be-401a-a3a6-a7cd2605065a",
+            "sequenceNumber": 32,
+            "fileTranscript": "No, we don’t need one.",
+            "fileId": "a8ffdb90-77a9-4420-a5d4-d39de1fa0eaa",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "36f7f97b-14c2-47fd-87f5-702f292e6f8f",
+            "sequenceNumber": 36,
+            "fileTranscript": "Joan, I do have a few policies to review: A deposit of $200.00 is due on August 20, 2025. The balance is due on October 25, 2025. Modifications within 29 days of arrival are subject to a $50.00 change fee. If you cancel the reservation 29-2 days before arrival, there is a $200 cancellation fee. If you cancel the reservation the day prior to or the day of arrival, the full package price is non-refundable. Gratuity is not included with the Dining Plan. Your Tickets will be valid Monday, November 24th, 2025, to Wednesday, December 23rd, 2025.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "deposit",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "due",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "on",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "august",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "2025.",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "balance",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "october",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "modifications",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "29",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "twenty nine",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "days",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "change",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "fee.",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "cancellation",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "non-refundable.",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "non refundable",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "nonrefundable",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "gratuity",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "dining",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "plan.",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "your",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "tickets",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "will",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "be",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "valid",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "81345b1f-dc06-446e-a605-d330e8d55c86",
+            "sequenceNumber": 38,
+            "fileTranscript": "No, I don’t.",
+            "fileId": "2fe2f38b-5eff-47b8-b149-71731e9d8897",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "e95ccdb7-0e81-49ea-9ba3-6f29fffe8ebe",
+            "sequenceNumber": 39,
+            "fileTranscript": "Joan, I have a reservation for you, Klein Callahan, Bridget Callahan (4 years old), and Carrillo (12 years old). Staying at Disney’s Contemporary Resort in a Garden Wing – Resort View Room with 2 Rooms, Disney Dining Plan and 6 Day Theme Park Ticket with the Park Hopper Plus – Checking in on November 24th, 2025, – Checking out on November 30th, 2025.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "contemporary",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "resort",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "view",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "room",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "with",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "2",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "two",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "rooms,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "disney",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "dining",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "plan",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "and",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "6",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "six",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "day",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "theme",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "park",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "ticket",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "the",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "hopper",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "plus",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "november",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "24th,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "twenty fourth",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "2025,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "on",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "30th,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "thirty",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "2025.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "1aae1673-6c6d-4598-98b3-4f5e99c740f1",
+            "sequenceNumber": 44,
+            "fileTranscript": "Yes, please.",
+            "fileId": "377188e4-f096-4141-b192-1d3f06950a08",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "f359468d-518e-4a9a-8dd7-7c845f6450ee",
+            "sequenceNumber": 45,
+            "fileTranscript": "Joan, may I have your credit card number, please?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "credit",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "card",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "number,",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "e2bd5a23-f6d0-42eb-9ff5-321f7ea84d4f",
+            "sequenceNumber": 46,
+            "fileTranscript": "4 2 6 6 - 9 0 2 0 - 0 0 1 8 - 4 2 2 4.",
+            "fileId": "4e183637-12e4-48c9-82fd-d88be25225f0",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c1cd6545-8c94-4971-86e8-332f683e51ee",
+            "sequenceNumber": 47,
+            "fileTranscript": "Thank you.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "2e0dff02-087a-4f9e-93fd-d8b4412cd3d7",
+            "sequenceNumber": 48,
+            "fileTranscript": "May I have the expiration month and year, please?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "expiration",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "month",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "year,",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "10c6c0ab-bacc-48e0-a4b8-ccf64f986bc7",
+            "sequenceNumber": 49,
+            "fileTranscript": "December 2025.",
+            "fileId": "573f37cd-c493-4054-a35b-90ff6a765ba0",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c6f04f84-d497-450e-be14-85c4f486c4da",
+            "sequenceNumber": 50,
+            "fileTranscript": "Thank you.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "aeaf21be-fd3c-4c89-8f54-6ef1a0471995",
+            "sequenceNumber": 51,
+            "fileTranscript": "Joan, is the name and address on the reservation the same name and address on your credit card?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "name",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "address",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "reservation",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "same",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "credit",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "card?",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "b4d9791d-c9e9-4fd4-b638-690a11e8a1fc",
+            "sequenceNumber": 52,
+            "fileTranscript": "Yes.",
+            "fileId": "0957dc4c-e7fb-4a07-8d86-cd9b7524324d",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "e34e6273-8230-47c4-802c-2e69f96fbc78",
+            "sequenceNumber": 53,
+            "fileTranscript": "Joan, would you like to use this credit card for charges incurred during your stay?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "charges",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "incurred",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "c162b248-a28b-47ee-9c0f-e33727c20c19",
+            "sequenceNumber": 54,
+            "fileTranscript": "Yes.",
+            "fileId": "fc19a804-8b42-4e4d-ae67-bc09857e09cb",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "1500428e-079a-4d06-a3c3-0eed1ebe12a4",
+            "sequenceNumber": 55,
+            "fileTranscript": "Joan, your remaining balance is $15,527.38 due 30 days prior to arrival, October 25th, 2025.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "30",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "thirty",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "days",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "prior",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "to",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "arrival,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "october",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "25th,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "twenty fifth",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "2025.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "da61ddec-7fbb-4e56-856d-b682faa634d7",
+            "sequenceNumber": 56,
+            "fileTranscript": "Joan, you can link your reservation to MyDisneyExperience.com or the mobile app.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "mydisneyexperience.com",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "mobile",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "app.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "7536a76e-e5a9-43de-a31b-9c5febcc4e0c",
+            "sequenceNumber": 60,
+            "fileTranscript": "No, thank you.",
+            "fileId": "a23f5fd7-ebb9-4348-9742-db87d3d8da46",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "63b5fead-edc8-444c-af86-ce7ce5d298c1",
+            "sequenceNumber": 61,
+            "fileTranscript": "Joan, is there anything else I can assist you with today?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "joan,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "else",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "assist",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "help",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "8d5ab4df-e734-451c-942d-15e9e2de355b",
+            "sequenceNumber": 62,
+            "fileTranscript": "No, thank you!",
+            "fileId": "cffc5fe8-f774-458c-8e45-674bfaf8698a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "502b2af3-6fe6-41ff-80d8-d71733d4eec6",
+            "sequenceNumber": 63,
+            "fileTranscript": "I have a survey at the end of the call and would greatly appreciate your feedback. Thank you for calling Walt Disney Resorts. We look forward to seeing you in November. Have a Magical Day.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "survey",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "you",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "walt",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "disney",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "resorts.",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "october.",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "november.",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "november",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "42c22683-4810-4da7-9e86-c9e51c159e74",
+            "sequenceNumber": 35,
+            "fileTranscript": "Yes, this sounds perfect.​",
+            "fileId": "0fa36497-8644-418f-8bcd-992dae7fddf0",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "5fd4ecc6-691f-42bc-960c-3e82436e491f",
+            "sequenceNumber": 40,
+            "fileTranscript": "Your confirmation number is 27015181.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "27015181.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "d9832b5a-e049-4355-bf77-f11a7938a7c3",
+            "sequenceNumber": 41,
+            "fileTranscript": "Your deposit of $200.00 is due on August 20th, 2025, with the remaining balance due 30 days prior to arrival on October 25th, 2025.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "august",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "20th,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "twenty",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "2025,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "remaining",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "balance",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "due",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "30",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "thirty",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "days",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "prior",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "to",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "arrival",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "october",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "25th,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "twentyfifth",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "2025.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "3344c0c9-8f22-4c30-9fb2-696cfba5df50",
+            "sequenceNumber": 42,
+            "fileTranscript": "Your total reservation is $15,727.38.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "7a5b4236-3435-42fd-8da8-c4f406e6d268",
+            "sequenceNumber": 43,
+            "fileTranscript": "Would you like to use your Disney Visa Card for your deposit today?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "disney",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "visa",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "card",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "f7432e11-f9b5-481b-85b6-7e17ca256d4f",
+            "sequenceNumber": 57,
+            "fileTranscript": "Our website and app also allow you to book and manage your upcoming ticket, park and dining reservations at Walt Disney World.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "book",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "manage",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "37b93f4c-a5a8-46d0-8ad0-19d3099a87cf",
+            "sequenceNumber": 58,
+            "fileTranscript": "You can begin booking your dining reservations 60 days prior to arrival.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "begin",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "booking",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "dining",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "reservations",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "60",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "sixty",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "days",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "prior",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "arrival.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "a1766d47-6651-4bd5-bbc8-f3090465faa8",
+            "sequenceNumber": 59,
+            "fileTranscript": "Is there a birthday or anything special you will be celebrating during your visit that you would like me to note?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "birthday",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "or",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "anything",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "special",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "celebrating",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "during",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "your",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "visit",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "09abbcbe-018b-4178-8c24-71b1570de155",
+            "sequenceNumber": 34,
+            "fileTranscript": "Would you like to secure the reservation for you and your family today? It will only be a $200 deposit the remaining balance will be due 30 days prior to arrival.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "11a06373-3016-4a62-9570-758e3aa7fe01",
+            "sequenceNumber": 37,
+            "fileTranscript": "Do you have any questions?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c3be750e-6709-4d3f-b6ff-ad34ae5ea9b4",
+            "sequenceNumber": 33,
+            "fileTranscript": "Joan, I do have availability, at Disney’s Contemporary Resort, with a Garden Wing – Resort View, with 2 Rooms arriving on November 24th, 2025, checking out on November 30th, 2025, with the Disney Dining Plan and a 6 Day Park Hopper Plus Theme Park Ticket Valid Monday, November 24th, 2025, thru Wednesday, December 3rd, 2025, your total cost will be $15,727.38 Without travel protection, including tax. This would not include the overnight parking fee that will be charged at the resort upon arrival.​",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "contemporary",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "resort,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "garden",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "wing",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "view,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "november",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "11",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "eleven",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "24th,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "24th",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "twenty four",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "24",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "twenty fourth",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "2025,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "two zero two five",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "twenty twenty five",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "30th,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "30th",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "thirtieth",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "thirty",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "30",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "disney",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "dining",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "plan",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "6",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "six",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "day",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "park",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "hopper",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "plus",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "theme",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "ticket",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "valid",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "monday,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "wednesday,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "overnight",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "tax.",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "december",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "12/03/2025",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "12",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "twelve",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "3rd,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "third",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "3rd",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "three",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "3",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "parking",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "without",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "travel",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "protection,",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "cb9567ac-bc40-467b-98f8-f45c2f7b595e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "1. Slide1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Intro_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "This simulation will give you practice in handling advanced call type. You can go through this as many times as desired until you feel confident in the navigation and call flow. The test version of the advanced simulation will provide you with no prompts. You will need to create your own words instead of reading scripting.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9aeff6-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Drew"
+                            },
+                            "fileId": "af5f0cee-affe-4aef-a746-e1ec10da3ec5"
+                        },
+                        "width": 0.04,
+                        "height": 0.10000000000000002,
+                        "fontSize": 16,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.9838935574229692,
+                        "positionY": 0.978829389788294,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "isVisibleAfterCompletion": false
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Intro_CT 2",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Have your audio and microphone ready.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9aeff6-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Drew"
+                            },
+                            "fileId": "f2f6268c-c12e-4b09-8725-d8216adf76c1"
+                        },
+                        "width": 0.015,
+                        "height": 0.05000000000000001,
+                        "fontSize": 16,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.985,
+                        "positionY": 0.9499999999999998,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0,
+                        "isVisibleAfterCompletion": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "f5f15bef-442f-4b93-8751-1c9b9dbf6d18",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "2. Slide2",
+            "parentItemId": 4597125,
+            "hotspots": [
+                {
+                    "name": "Audio for #66a6c56e-9119-4516-a973-852d6c884889",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "35b848c4-ade9-4ba4-8d9b-df09718f3e70"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #939016ec-7f7e-437c-977e-d7d1a2a5f8cc",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "320cff55-b703-4e1b-b0ca-b48a9a3344b6"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #31fe2d10-cc80-45ae-b3e4-35dfc9a5a705",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f25cbdc3-c874-4b4a-8160-ca498ce5dce8"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "f5f15bef-442f-4b93-8751-1c9b9dbf6d18",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "3. Copy - Slide2",
+            "parentItemId": 4597126,
+            "hotspots": [
+                {
+                    "name": "Audio for #89fbcc4c-2f52-4008-8c58-856adf627ef7",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8bcce37a-c656-4355-993a-588176893f48"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #6b68feee-58c4-4192-9782-c5106c6b77b3",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "47220b98-9569-4669-8e54-0849332b56c3"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "67e8e7b2-2665-420d-9392-b7a1ce417cff",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "4. Slide3",
+            "parentItemId": 4597127,
+            "hotspots": [
+                {
+                    "name": "Name_TE",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.12254901960784312,
+                        "height": 0.039999999999999994,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "callahan"
+                            }
+                        ],
+                        "positionX": 0.01330532212885154,
+                        "positionY": 0.2889165628891656,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Callahan",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "b1f8dfb3-68ee-43de-807c-42d8a157ba07",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "5. Slide4",
+            "parentItemId": 4597128,
+            "hotspots": [
+                {
+                    "name": "Email_TE",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.11974789915966388,
+                        "height": 0.039999999999999994,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "jcallahan@animail.net"
+                            }
+                        ],
+                        "positionX": 0.01610644257703081,
+                        "positionY": 0.4371108343711084,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "jcallahan@animail.net",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "3b99bcd6-d03f-43a6-858a-35accf06fadc",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "6. Slide5",
+            "parentItemId": 4597129,
+            "hotspots": [
+                {
+                    "name": "Find_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05672268907563025,
+                        "height": 0.0361145703611457,
+                        "hotKeys": [
+                            "ENTER"
+                        ],
+                        "positionX": 0.09103641456582633,
+                        "positionY": 0.9439601494396016,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0,
+                        "restrictMouseClicks": false
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "916cddaf-364d-4eb1-ba7d-9ee9d7b33994",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "7. Slide6",
+            "parentItemId": 4597130,
+            "hotspots": [
+                {
+                    "name": "Mail_HL",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.10854341736694678,
+                        "height": 0.0410958904109589,
+                        "positionX": 0.27941176470588236,
+                        "positionY": 0.2901618929016189,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "e4e61de8-c8b7-4f30-8353-b194317db911",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "8. Slide7",
+            "parentItemId": 4597131,
+            "hotspots": [
+                {
+                    "name": "Reserve_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.08893557422969188,
+                        "height": 0.04234122042341221,
+                        "positionX": 0.26750700280112044,
+                        "positionY": 0.1220423412204234,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "fab8d42d-6264-4098-8230-a0d8cf86a27b",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "9. Slide8",
+            "parentItemId": 4597132,
+            "hotspots": [
+                {
+                    "name": "Reserve_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.06092436974789916,
+                        "height": 0.033623910336239106,
+                        "positionX": 0.1799719887955182,
+                        "positionY": 0.9476961394769614,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "5059a773-6eb6-4e27-aa50-e601831eb81f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "10. Slide9",
+            "parentItemId": 4597133,
+            "hotspots": [
+                {
+                    "name": "Reserve_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0819327731092437,
+                        "height": 0.03,
+                        "positionX": 0.15966386554621848,
+                        "positionY": 0.933997509339975,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "a6f54c1a-9a18-4145-890e-81a09e12d336",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "11. Slide10",
+            "parentItemId": 4597134,
+            "hotspots": [
+                {
+                    "name": "Discover_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.10364145658263306,
+                        "height": 0.0323785803237858,
+                        "positionX": 0.38445378151260506,
+                        "positionY": 0.5828144458281445,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "aa3cb50f-613f-4d58-8e35-45c5af824811",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "12. Slide11",
+            "parentItemId": 4597135,
+            "hotspots": [
+                {
+                    "name": "Audio for #659a3923-bcbb-4cf9-bf8e-a4759431c288",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "348e991a-45cf-4b0d-9386-378b729f2f7c"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #592522c1-1cf4-4373-96d8-39a39bbef5d3",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "03f99906-b514-4ce3-81ee-0455fad55813"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "aa3cb50f-613f-4d58-8e35-45c5af824811",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "13. Copy - Slide11",
+            "parentItemId": 4597136,
+            "hotspots": [
+                {
+                    "name": "Date_TE",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.07913165266106442,
+                        "height": 0.039999999999999994,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "11/24/2025"
+                            }
+                        ],
+                        "positionX": 0.17366946778711484,
+                        "positionY": 0.19676214196762143,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "11/24/2025",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "3432a275-78a9-4d75-a637-ed6719610263",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "14. Slide12",
+            "parentItemId": 4597137,
+            "hotspots": [
+                {
+                    "name": "Depart_TE",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.0784313725490196,
+                        "height": 0.039999999999999994,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "11/30/2025"
+                            }
+                        ],
+                        "positionX": 0.31932773109243695,
+                        "positionY": 0.20049813200498132,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "11/30/2025",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "5be22638-ad10-4918-8ada-2d856855103c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "15. Slide13",
+            "parentItemId": 4597138,
+            "hotspots": [
+                {
+                    "name": "Audio for #0f28f0d5-ba23-4220-a649-c56c213b5c50",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "aceeab6f-ca6c-4840-acb9-551f7368a652"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #2c3e18ae-997d-4165-af5a-e47cfbf1ebca",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a609a4ad-61f1-4511-a3e2-530c2842f863"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Guest_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.02100840336134454,
+                        "height": 0.033623910336239106,
+                        "positionX": 0.15476190476190477,
+                        "positionY": 0.40473225404732255,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "9dd093cb-96bf-4963-a022-5d6afe47446f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "16. Slide15",
+            "parentItemId": 4597139,
+            "hotspots": [
+                {
+                    "name": "Audio for #fc0ef59f-fa3b-4be9-801c-01672cd41811",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "083432f7-f270-4140-9efe-75b722a491d9"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #7bfd4f86-d9bc-454a-aa65-af78bcd99bca",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d464a1da-ee79-4161-b999-92010afd8f6d"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Son",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.015,
+                        "height": 0.03,
+                        "positionX": 0.1568627450980392,
+                        "positionY": 0.3711083437110834,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "69900339-e862-4f69-b68a-bdad3628cbd1",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "17. Slide16",
+            "parentItemId": 4597140,
+            "hotspots": [
+                {
+                    "name": "Audio for #007ab79b-d848-4522-b6d3-b4dc5bf80264",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "250cf2bd-d44c-4fe9-8d41-a6609fd20b67"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #1fff0ae7-b183-4528-b5a1-c92d1e99d61d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "33a8fb66-79fc-46b1-a3e2-049e83b5686b"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #b927f246-7a32-4bfa-8c8a-46ef110597a3",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b54bd783-4d8e-4849-907d-531c3c25c93b"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Add_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.01610644257703081,
+                        "height": 0.03,
+                        "positionX": 0.1561624649859944,
+                        "positionY": 0.33623910336239105,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "74de3577-a48c-497d-9c4e-e5fec4592021",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "18. Slide17",
+            "parentItemId": 4597141,
+            "hotspots": [
+                {
+                    "name": "Audio for #04698425-5972-493e-a30c-d62e2d200c21",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "2a40dba9-5cf0-4a2c-9557-d359f8ee02a1"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #b57e8132-48f3-4e24-9d0a-3afd909ec107",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "911c0db4-37b6-40be-844a-f0ec490fcffd"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #4eeddcac-2cf7-4801-84b0-2a7694b52d70",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "7d8d9a08-2040-41e1-9bcb-e1e1f5497599"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #5fc1ae82-a8ff-4bdc-bb7b-be6bd2ab736c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c982b676-1ba1-4c7a-b574-944c93939825"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #cdb2f8fb-965a-4dca-95bc-25450105ac04",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "2bc3952a-8b4c-497a-a2c2-4a97399091e1"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Audio for #9d7e7a1f-567f-4dd8-8e74-66d4177d65d0",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5caf3bd8-dad7-4edd-8904-fb175d99ba1e"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Audio for #3592582e-ca39-4175-b0f5-f5942948c0af",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "1016bab6-cf47-4ee5-92ee-0fc1d02fd6e3"
+                        }
+                    ],
+                    "sequenceNumber": 7
+                },
+                {
+                    "name": "Audio for #f3843c35-8270-40dc-9e97-14ada0e28a53",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "24d40b52-e5e4-49d9-90cf-d15ddad1f4d1"
+                        }
+                    ],
+                    "sequenceNumber": 8
+                },
+                {
+                    "name": "Audio for #7e7a4689-efb6-4351-90b4-5edd4c1fb0d6",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "7be51562-8d75-440e-8b0e-ea30b41cec2c"
+                        }
+                    ],
+                    "sequenceNumber": 9
+                },
+                {
+                    "name": "Audio for #ee51cc8c-1c9a-49dd-80cd-6ed160af15ec",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "96182831-1c9a-46db-90fd-06bce3cd9ca6"
+                        }
+                    ],
+                    "sequenceNumber": 10
+                },
+                {
+                    "name": "Audio for #cc223f06-6ba2-4086-89f3-7496269f0786",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "31b020da-9606-4d7f-96bf-586ff7b1b86a"
+                        }
+                    ],
+                    "sequenceNumber": 11
+                },
+                {
+                    "name": "Audio for #5f9bd204-166b-4d8f-8716-02679a28e848",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a40f09e4-65f9-4a5d-8fdb-b89d8126129d"
+                        }
+                    ],
+                    "sequenceNumber": 12
+                }
+            ]
+        },
+        {
+            "fileId": "d16b41f3-bf86-49b2-814a-c2daf4885aa1",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "19. Slide18",
+            "parentItemId": 4597142,
+            "hotspots": [
+                {
+                    "name": "Audio for #f0100182-c25e-4278-a2a8-158d279ff429",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5d3e0ec5-d3ae-49e7-b301-9074ed2a5b47"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #4c9a89a4-efaa-4de2-a4f4-02d8a482ae29",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "563fbb8f-77c3-4b7f-94d0-6cb75f018615"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #08e9725a-26e6-49b1-8259-c2491a15c790",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "ba55534c-1615-4135-a3cb-fd26a170fe79"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #4eb9c212-ab16-455a-8f2a-14f4c0375247",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "0bcf0c70-cd0b-4e61-9205-a515886cbca8"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #5c32270d-bb8b-47dc-8eff-19562e2a50b2",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "9c5294cb-5754-4f04-bd9c-b552c4055e75"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Audio for #9de086ee-b0cb-4d32-921c-74a1d73e8f26",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "022ac536-03be-401a-a3a6-a7cd2605065a"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "SBC_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.07212885154061624,
+                        "height": 0.03,
+                        "positionX": 0.8865546218487395,
+                        "positionY": 0.9489414694894148,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 7
+                }
+            ]
+        },
+        {
+            "fileId": "088d1805-3813-43c2-b305-8d2fb2259ece",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "20. Slide19",
+            "parentItemId": 4597143,
+            "hotspots": [
+                {
+                    "name": "Tag_TE",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.042717086834733894,
+                        "height": 0.039999999999999994,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "5559"
+                            }
+                        ],
+                        "positionX": 0.4740896358543417,
+                        "positionY": 0.12328767123287668,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "5559",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "89c57c53-4c13-431a-8f75-b581c5fc1b26",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "21. Slide20",
+            "parentItemId": 4597144,
+            "hotspots": [
+                {
+                    "name": "Name_TE",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.08473389355742297,
+                        "height": 0.039999999999999994,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "joan"
+                            }
+                        ],
+                        "positionX": 0.23879551820728293,
+                        "positionY": 0.26525529265255293,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Joan",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "b938d77d-c0e8-4b1e-b11c-7152546e12db",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "22. Slide21",
+            "parentItemId": 4597145,
+            "hotspots": [
+                {
+                    "name": "Days_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.024509803921568627,
+                        "height": 0.03,
+                        "positionX": 0.19397759103641457,
+                        "positionY": 0.4246575342465753,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "5ba5a080-9d80-4be0-976f-47d5bc8bcaa5",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "23. Slide22",
+            "parentItemId": 4597146,
+            "hotspots": [
+                {
+                    "name": "Theme",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.023109243697478993,
+                        "height": 0.03,
+                        "positionX": 0.19327731092436976,
+                        "positionY": 0.42714819427148193,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "276913d7-9855-40ce-86b3-a6909ced8232",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "24. Slide23",
+            "parentItemId": 4597147,
+            "hotspots": [
+                {
+                    "name": "Ticket_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.07983193277310924,
+                        "height": 0.03,
+                        "positionX": 0.34593837535014005,
+                        "positionY": 0.42714819427148193,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "43f8a2d1-3d15-4433-80eb-88399fa46f9e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "25. Slide24",
+            "parentItemId": 4597148,
+            "hotspots": [
+                {
+                    "name": "Park hopper_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0784313725490196,
+                        "height": 0.03,
+                        "positionX": 0.3480392156862745,
+                        "positionY": 0.4259028642590286,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "d631fefd-6d61-4126-b985-77c6921c0f90",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "26. Slide25",
+            "parentItemId": 4597149,
+            "hotspots": [
+                {
+                    "name": "Dining",
+                    "type": "CHECKBOX",
+                    "settings": {
+                        "width": 0.015406162464985995,
+                        "height": 0.03,
+                        "positionX": 0.0546218487394958,
+                        "positionY": 0.4831880448318805,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "653307e1-a905-40c1-a51d-5674e77ca17f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "27. Slide26",
+            "parentItemId": 4597150,
+            "hotspots": [
+                {
+                    "name": "Dining_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.06092436974789916,
+                        "height": 0.03,
+                        "positionX": 0.2079831932773109,
+                        "positionY": 0.4831880448318805,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "9f555831-15da-4482-8626-a6b970e2adb4",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "28. Slide27",
+            "parentItemId": 4597151,
+            "hotspots": [
+                {
+                    "name": "Dine-in_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05952380952380952,
+                        "height": 0.03,
+                        "positionX": 0.20938375350140057,
+                        "positionY": 0.4831880448318805,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "58698e7a-acd1-484a-a8df-a1a8c0f4e343",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "29. Slide28",
+            "parentItemId": 4597152,
+            "hotspots": [
+                {
+                    "name": "Details_HL",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.4684873949579832,
+                        "height": 0.11083437110834372,
+                        "positionX": 0.05322128851540616,
+                        "positionY": 0.40597758405977585,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "50c911c3-4b6c-4fb5-9c6f-63c301fc4f7f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "30. Slide29",
+            "parentItemId": 4597153,
+            "hotspots": [
+                {
+                    "name": "Scroll_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.015,
+                        "height": 0.41469489414694893,
+                        "positionX": 0.5175070028011205,
+                        "positionY": 0.3175591531755915,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "e786042a-43c5-4134-bf9c-5e8def2e02aa",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "31. Slide30",
+            "parentItemId": 4597154,
+            "hotspots": [
+                {
+                    "name": "Contemp._BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.015,
+                        "height": 0.03,
+                        "positionX": 0.18277310924369747,
+                        "positionY": 0.4943960149439601,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "b7f859c1-606f-4909-ba66-f315ab41759e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "32. Slide31",
+            "parentItemId": 4597155,
+            "hotspots": [
+                {
+                    "name": "Cont._BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05322128851540616,
+                        "height": 0.033623910336239106,
+                        "positionX": 0.3606442577030812,
+                        "positionY": 0.05977584059775841,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "8b72b194-f900-4eee-af0a-ed9aeac4f5ab",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "33. Slide32",
+            "parentItemId": 4597156,
+            "hotspots": [
+                {
+                    "name": "OK_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.01680672268907563,
+                        "height": 0.03,
+                        "positionX": 0.6071428571428571,
+                        "positionY": 0.5280199252801993,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "07e4992c-d401-4aed-b1e6-16e0b976e5ba",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "34. Slide33",
+            "parentItemId": 4597157,
+            "hotspots": [
+                {
+                    "name": "freeze_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.031512605042016806,
+                        "height": 0.03,
+                        "positionX": 0.055322128851540614,
+                        "positionY": 0.3698630136986301,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "a2ec4aac-9a72-4b81-856b-55fe8ed6a644",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "35. Slide34",
+            "parentItemId": 4597158,
+            "hotspots": [
+                {
+                    "name": "Offer_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.037815126050420166,
+                        "height": 0.03,
+                        "positionX": 0.18907563025210083,
+                        "positionY": 0.3673723536737235,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "df507cf4-731a-41fe-84a4-e3ebbffde192",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "36. Slide35",
+            "parentItemId": 4597159,
+            "hotspots": [
+                {
+                    "name": "Room_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.01750700280112045,
+                        "height": 0.03,
+                        "positionX": 0.0665266106442577,
+                        "positionY": 0.4520547945205479,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "e3097c07-302a-4bc2-b3d6-53873d9a6307",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "37. Slide36",
+            "parentItemId": 4597160,
+            "hotspots": [
+                {
+                    "name": "2_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0196078431372549,
+                        "height": 0.03,
+                        "positionX": 0.06582633053221287,
+                        "positionY": 0.46948941469489414,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "57a241da-c517-43e5-ac6e-b8dd3ee0687b",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "38. Slide37",
+            "parentItemId": 4597161,
+            "hotspots": [
+                {
+                    "name": "Offer_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.03361344537815126,
+                        "height": 0.03,
+                        "positionX": 0.19187675070028012,
+                        "positionY": 0.3673723536737235,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "91412ae3-a9b2-4820-bfa4-e40954efab68",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "39. Slide38",
+            "parentItemId": 4597162,
+            "hotspots": [
+                {
+                    "name": "Quote_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.02661064425770308,
+                        "height": 0.03,
+                        "positionX": 0.1407563025210084,
+                        "positionY": 0.3686176836861768,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "9cbe86d7-5d44-40ba-9dba-3bc77e330c3b",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "40. Slide39",
+            "parentItemId": 4597163,
+            "hotspots": [
+                {
+                    "name": "Change_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0350140056022409,
+                        "height": 0.03,
+                        "positionX": 0.5014005602240896,
+                        "positionY": 0.47073474470734744,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "3322f20a-6777-49f0-b61e-dad5d1244d45",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "41. Slide40",
+            "parentItemId": 4597164,
+            "hotspots": [
+                {
+                    "name": "2_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.03711484593837535,
+                        "height": 0.03,
+                        "positionX": 0.5364145658263305,
+                        "positionY": 0.4732254047322541,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "e569bf18-1cbc-47e9-980e-be9617a37857",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "42. Slide41",
+            "parentItemId": 4597165,
+            "hotspots": [
+                {
+                    "name": "Change_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0392156862745098,
+                        "height": 0.03,
+                        "positionX": 0.4985994397759104,
+                        "positionY": 0.49937733499377335,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "a0f57aa4-38ee-4dd9-94ff-19643b545947",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "43. Slide42",
+            "parentItemId": 4597166,
+            "hotspots": [
+                {
+                    "name": "1_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.036414565826330535,
+                        "height": 0.03,
+                        "positionX": 0.5371148459383753,
+                        "positionY": 0.49813200498132,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "1608ac6f-830e-4873-926c-155f40f60983",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "44. Slide43",
+            "parentItemId": 4597167,
+            "hotspots": [
+                {
+                    "name": "OK_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.025910364145658265,
+                        "height": 0.03,
+                        "positionX": 0.5560224089635855,
+                        "positionY": 0.43462017434620176,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "e6281a14-22d9-41bf-94c9-21c9fa0ba034",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "45. Slide44",
+            "parentItemId": 4597168,
+            "hotspots": [
+                {
+                    "name": "Audio for #d9b33415-f055-4b06-b84b-f96885a1e98a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c3be750e-6709-4d3f-b6ff-ad34ae5ea9b4"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #2daba992-a2aa-4f63-adc3-d06364c1d22e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "09abbcbe-018b-4178-8c24-71b1570de155"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #69cc0bc0-6d2f-48ce-918f-51ba223422fa",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "42c22683-4810-4da7-9e86-c9e51c159e74"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "slct_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.024509803921568627,
+                        "height": 0.03,
+                        "positionX": 0.11624649859943978,
+                        "positionY": 0.3686176836861768,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 5
+                }
+            ]
+        },
+        {
+            "fileId": "4455546b-6801-44a0-bca7-e1426c6d8b10",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "46. Slide45",
+            "parentItemId": 4597169,
+            "hotspots": [
+                {
+                    "name": "Yes_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.018907563025210083,
+                        "height": 0.03,
+                        "positionX": 0.5889355742296919,
+                        "positionY": 0.5056039850560399,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "8a3b587b-2591-426e-bdd7-192b483a34ea",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "47. Slide46",
+            "parentItemId": 4597170,
+            "hotspots": [
+                {
+                    "name": "New_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.02030812324929972,
+                        "height": 0.03,
+                        "positionX": 0.4964985994397759,
+                        "positionY": 0.7222914072229141,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "8e223414-1c96-47a2-b6be-399a2439ea75",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "48. Slide47",
+            "parentItemId": 4597171,
+            "hotspots": [
+                {
+                    "name": "Notes_TX",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.1568627450980392,
+                        "height": 0.039999999999999994,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "adv gst dep/mod/cxl pol…"
+                            }
+                        ],
+                        "positionX": 0.14915966386554622,
+                        "positionY": 0.24034869240348697,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Adv Gst dep/mod/cxl pol…",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "e88b1e55-21a8-4b60-900f-f63987885bf8",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "49. Slide48",
+            "parentItemId": 4597172,
+            "hotspots": [
+                {
+                    "name": "Deposit_HL",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.4572829131652661,
+                        "height": 0.1357409713574097,
+                        "positionX": 0.05392156862745098,
+                        "positionY": 0.45579078455790784,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #e3d8c447-2574-4f11-8735-8bc01efdfb0e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "36f7f97b-14c2-47fd-87f5-702f292e6f8f"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #ba760ecb-1d62-4cc1-9669-9223f8c96a79",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "11a06373-3016-4a62-9570-758e3aa7fe01"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #d61ba5ca-c252-4f00-ad95-6daa30a42428",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "81345b1f-dc06-446e-a605-d330e8d55c86"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "5de11a2b-193d-4032-a1a3-6a186ab4a58d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "50. Slide49",
+            "parentItemId": 4597173,
+            "hotspots": [
+                {
+                    "name": "Add_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.021708683473389355,
+                        "height": 0.03,
+                        "positionX": 0.26260504201680673,
+                        "positionY": 0.24159402241594025,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "030911fe-1740-4430-b2b1-d97c1cfaea03",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "51. Slide50",
+            "parentItemId": 4597174,
+            "hotspots": [
+                {
+                    "name": "Notes_TX",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.13795518207282914,
+                        "height": 0.039999999999999994,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "grat not incld w/dp..."
+                            }
+                        ],
+                        "positionX": 0.1477591036414566,
+                        "positionY": 0.2403486924034869,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "grat not incld w/dp...",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "ec9e3e74-93de-4e12-96e4-54f22de90fa0",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "52. Slide51",
+            "parentItemId": 4597175,
+            "hotspots": [
+                {
+                    "name": "Add_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.02100840336134454,
+                        "height": 0.03,
+                        "positionX": 0.2647058823529412,
+                        "positionY": 0.24283935242839352,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "b499febe-7bb4-4de1-8078-491658cc0fb5",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "53. Slide52",
+            "parentItemId": 4597176,
+            "hotspots": [
+                {
+                    "name": "Notes_TX",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.13725490196078433,
+                        "height": 0.039999999999999994,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "adv ticket validity dates..."
+                            }
+                        ],
+                        "positionX": 0.1484593837535014,
+                        "positionY": 0.23910336239103364,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "adv ticket validity dates...",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "d02ab1bd-29d9-4a66-9c58-5165fe0fe594",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "54. Slide53",
+            "parentItemId": 4597177,
+            "hotspots": [
+                {
+                    "name": "Add_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.022408963585434177,
+                        "height": 0.03,
+                        "positionX": 0.26330532212885155,
+                        "positionY": 0.2403486924034869,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "eee712ca-04cf-4211-9bd3-d09cc4c5221e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "55. Slide54",
+            "parentItemId": 4597178,
+            "hotspots": [
+                {
+                    "name": "Name_TE",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.11554621848739496,
+                        "height": 0.039999999999999994,
+                        "fontSize": 16,
+                        "positionX": 0.14985994397759103,
+                        "positionY": 0.24283935242839352,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "6bc6a65c-5b1e-484d-be98-daf4c6d55766",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "56. Slide55",
+            "parentItemId": 4597179,
+            "hotspots": [
+                {
+                    "name": "Add_BT 2",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.02100840336134454,
+                        "height": 0.03,
+                        "positionX": 0.26260504201680673,
+                        "positionY": 0.24283935242839352,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "0ef45bd0-1a31-47b7-9d57-267f8a408a3d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "57. Slide56",
+            "parentItemId": 4597180,
+            "hotspots": [
+                {
+                    "name": "OK_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.023109243697478993,
+                        "height": 0.03,
+                        "positionX": 0.4824929971988795,
+                        "positionY": 0.11581569115815692,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "5b083280-ae56-4866-a483-0e3912179373",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "58. Slide57",
+            "parentItemId": 4597181,
+            "hotspots": [
+                {
+                    "name": "Confirm_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.06162464985994398,
+                        "height": 0.0361145703611457,
+                        "positionX": 0.2815126050420168,
+                        "positionY": 0.05603985056039851,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "bcd587f9-ce2d-476b-abaa-2f7554d2f5e6",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "59. Slide58",
+            "parentItemId": 4597182,
+            "hotspots": [
+                {
+                    "name": "NO_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.01610644257703081,
+                        "height": 0.03,
+                        "positionX": 0.6064425770308123,
+                        "positionY": 0.5367372353673724,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "f3910307-9307-4524-a69c-f22371fffa65",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "60. Slide59",
+            "parentItemId": 4597183,
+            "hotspots": [
+                {
+                    "name": "Cont._BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.03991596638655462,
+                        "height": 0.03,
+                        "positionX": 0.4649859943977591,
+                        "positionY": 0.1145703611457036,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "5e4a182d-40bf-4a22-baae-8f438c2dbe8a",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "61. Slide60",
+            "parentItemId": 4597184,
+            "hotspots": [
+                {
+                    "name": "Details_HL",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.46148459383753504,
+                        "height": 0.3636363636363637,
+                        "positionX": 0.0546218487394958,
+                        "positionY": 0.30510585305105853,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Deposit_HL",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.46148459383753504,
+                        "height": 0.0647571606475716,
+                        "positionX": 0.0546218487394958,
+                        "positionY": 0.9227895392278954,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #70a256fb-f49f-4efd-a16a-939b5845895b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e95ccdb7-0e81-49ea-9ba3-6f29fffe8ebe"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #debe750a-86b3-4262-961c-41b8ac462b46",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5fd4ecc6-691f-42bc-960c-3e82436e491f"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #b84dc179-b062-479a-a9f1-f714784f3ab6",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d9832b5a-e049-4355-bf77-f11a7938a7c3"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Audio for #30da66f2-5967-4a32-9925-a34ca8ec8799",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3344c0c9-8f22-4c30-9fb2-696cfba5df50"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Audio for #5263552e-910e-40f1-b4af-f8c65fbeee6e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "7a5b4236-3435-42fd-8da8-c4f406e6d268"
+                        }
+                    ],
+                    "sequenceNumber": 7
+                },
+                {
+                    "name": "Audio for #fb96d969-9a90-4d85-8c0d-ad8da8356515",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "1aae1673-6c6d-4598-98b3-4f5e99c740f1"
+                        }
+                    ],
+                    "sequenceNumber": 8
+                },
+                {
+                    "name": "Reserve_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1015406162464986,
+                        "height": 0.03,
+                        "positionX": 0.4173669467787115,
+                        "positionY": 0.0921544209215442,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 9
+                }
+            ]
+        },
+        {
+            "fileId": "afcf1a32-d1ee-413a-8263-9d74a8d41a32",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "62. Slide61",
+            "parentItemId": 4597185,
+            "hotspots": [
+                {
+                    "name": "Post_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.018207282913165267,
+                        "height": 0.03,
+                        "positionX": 0.07282913165266107,
+                        "positionY": 0.5429638854296388,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "a50f73f3-e56f-4bea-8f66-a440d21c9497",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "63. Slide62",
+            "parentItemId": 4597186,
+            "hotspots": [
+                {
+                    "name": "Audio for #9089c817-9718-49b9-aa6a-44e3f6509b86",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f359468d-518e-4a9a-8dd7-7c845f6450ee"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #d26da2fb-e49a-4c9a-b589-627a936a71be",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e2bd5a23-f6d0-42eb-9ff5-321f7ea84d4f"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #0a650dfc-3172-4bbf-a93e-c7ad3f34c39c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c1cd6545-8c94-4971-86e8-332f683e51ee"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Card_TE",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.21428571428571427,
+                        "height": 0.049813200498132,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "4266902000184224"
+                            }
+                        ],
+                        "positionX": 0.0273109243697479,
+                        "positionY": 0.5168119551681195,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "4266902000184224",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "28aa6bfd-09bb-4b45-a757-fff9afdc48d7",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "64. Slide63",
+            "parentItemId": 4597187,
+            "hotspots": [
+                {
+                    "name": "Audio for #c29346bc-1bae-477b-a447-f56b3733f3e7",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "2e0dff02-087a-4f9e-93fd-d8b4412cd3d7"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #56de0c66-29d7-4634-a2dc-9be95d8383fb",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "10c6c0ab-bacc-48e0-a4b8-ccf64f986bc7"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #c59643fe-9694-481b-8db6-8eccd36d3690",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c6f04f84-d497-450e-be14-85c4f486c4da"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "CC_TX",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.21498599439775912,
+                        "height": 0.048567870485678705,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "12/25"
+                            }
+                        ],
+                        "positionX": 0.028711484593837537,
+                        "positionY": 0.5915317559153176,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "12/25",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "51ec3a95-ce47-4f69-81be-81cdf25f18be",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "65. Slide64",
+            "parentItemId": 4597188,
+            "hotspots": [
+                {
+                    "name": "Scroll_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.015,
+                        "height": 0.46450809464508097,
+                        "positionX": 0.42857142857142855,
+                        "positionY": 0.18306351183063513,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "00c2ee74-993e-4e8c-ab7a-946e66676ffe",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "66. Slide65",
+            "parentItemId": 4597189,
+            "hotspots": [
+                {
+                    "name": "Audio for #120680d0-7919-485d-831d-44c7d603547d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "aeaf21be-fd3c-4c89-8f54-6ef1a0471995"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Details_HL",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.24089635854341737,
+                        "height": 0.18181818181818185,
+                        "positionX": 0.02100840336134454,
+                        "positionY": 0.32627646326276466,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #12c777ba-613e-4385-a0f4-9df8071f7a1d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b4d9791d-c9e9-4fd4-b638-690a11e8a1fc"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Apply_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.07492997198879552,
+                        "height": 0.047322540473225407,
+                        "positionX": 0.09733893557422968,
+                        "positionY": 0.5168119551681195,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "aa021a77-9bf5-453a-9a60-ba19064605ad",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "67. Slide66",
+            "parentItemId": 4597190,
+            "hotspots": [
+                {
+                    "name": "Audio for #24819c1c-3b73-4f67-be6a-5c7884c6e860",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e34e6273-8230-47c4-802c-2e69f96fbc78"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #f434a7bd-c591-4a55-b9d6-2a21546d485c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c162b248-a28b-47ee-9c0f-e33727c20c19"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Yes_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.015,
+                        "height": 0.03,
+                        "positionX": 0.24789915966386555,
+                        "positionY": 0.6911581569115816,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "6eb105bb-ec77-4b42-9b17-502d85c6a4ff",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "68. Slide67",
+            "parentItemId": 4597191,
+            "hotspots": [
+                {
+                    "name": "Prcess_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.06442577030812324,
+                        "height": 0.04234122042341221,
+                        "positionX": 0.5777310924369747,
+                        "positionY": 0.6874221668742216,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "e5f7467d-d321-4aaa-ba69-cfcb0e6c46af",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "69. Slide68",
+            "parentItemId": 4597192,
+            "hotspots": [
+                {
+                    "name": "cls_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.06092436974789916,
+                        "height": 0.043586550435865505,
+                        "positionX": 0.3956582633053221,
+                        "positionY": 0.5056039850560399,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "76210f39-7bef-4655-bc13-4e1c1682c70c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "70. Slide69",
+            "parentItemId": 4597193,
+            "hotspots": [
+                {
+                    "name": "confirm_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.06162464985994398,
+                        "height": 0.034869240348692404,
+                        "positionX": 0.2801120448179272,
+                        "positionY": 0.05603985056039851,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "48f47efa-ce93-4c13-8928-74403d599d4e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "71. Slide70",
+            "parentItemId": 4597194,
+            "hotspots": [
+                {
+                    "name": "NO_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.01680672268907563,
+                        "height": 0.03,
+                        "positionX": 0.6064425770308123,
+                        "positionY": 0.5367372353673724,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "08f4ab3b-bebe-4756-aa31-c3fa746753f2",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "72. Slide71",
+            "parentItemId": 4597195,
+            "hotspots": [
+                {
+                    "name": "Scroll_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.015,
+                        "height": 0.8019925280199253,
+                        "positionX": 0.9838935574229692,
+                        "positionY": 0.1170610211706102,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "44038883-210a-4909-be14-5171cdc216b0",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "73. Slide72",
+            "parentItemId": 4597196,
+            "hotspots": [
+                {
+                    "name": "Advance_HL",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.469187675070028,
+                        "height": 0.05977584059775841,
+                        "positionX": 0.05322128851540616,
+                        "positionY": 0.8904109589041096,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #ce84fce6-ed47-49e9-bac8-f2913b3d9f5d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "1500428e-079a-4d06-a3c3-0eed1ebe12a4"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "dc3ab631-a0b5-46fd-a904-7de149ab90a0",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "74. Slide73",
+            "parentItemId": 4597197,
+            "hotspots": [
+                {
+                    "name": "Scroll_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.015,
+                        "height": 0.8082191780821918,
+                        "positionX": 0.9831932773109244,
+                        "positionY": 0.17683686176836863,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "a3aa4e31-7713-45b5-a5cd-7bf9a393a8e8",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "75. Slide74",
+            "parentItemId": 4597198,
+            "hotspots": [
+                {
+                    "name": "Audio for #450139cc-59a5-464c-83f0-4edd0eae9269",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "da61ddec-7fbb-4e56-856d-b682faa634d7"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #477fdae2-74d6-4d33-a9c5-a933627aaf26",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f7432e11-f9b5-481b-85b6-7e17ca256d4f"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #98824d93-0107-483c-82df-f0f5a036f3fd",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "37b93f4c-a5a8-46d0-8ad0-19d3099a87cf"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #2e0af60a-e874-4725-b34e-18333123b415",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a1766d47-6651-4bd5-bbc8-f3090465faa8"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #0733d64e-456c-43bc-9580-e409afab7040",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "7536a76e-e5a9-43de-a31b-9c5febcc4e0c"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Exit_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.07142857142857142,
+                        "height": 0.03,
+                        "positionX": 0.34593837535014005,
+                        "positionY": 0.0921544209215442,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 6
+                }
+            ]
+        },
+        {
+            "fileId": "b1951333-6ecf-49f4-9c15-a61f01a1e9b8",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "76. Slide75",
+            "parentItemId": 4597199,
+            "hotspots": [
+                {
+                    "name": "Audio for #ab738db3-1b18-4843-916e-f6abefcf4d60",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "63b5fead-edc8-444c-af86-ce7ce5d298c1"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #df73e803-71fc-4ac2-99c5-a10e320989e9",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8d5ab4df-e734-451c-942d-15e9e2de355b"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #a5b2b1e8-52f6-4d0d-8ec6-4cbf0b134aec",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "502b2af3-6fe6-41ff-80d8-d71733d4eec6"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Red_BT",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.02030812324929972,
+                        "height": 0.06351183063511831,
+                        "positionX": 0.9775910364145658,
+                        "positionY": 0.1145703611457036,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "a64ab988-15eb-4bff-90eb-9491ddc3b105",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "77. Slide76",
+            "parentItemId": 4597200,
+            "hotspots": [
+                {
+                    "name": "yes_bt",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05322128851540616,
+                        "height": 0.033623910336239106,
+                        "positionX": 0.5049019607843137,
+                        "positionY": 0.5541718555417185,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "8118d291-9b1e-418c-8931-13123c505cd1",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "78. Slide77",
+            "parentItemId": 4597201,
+            "hotspots": [
+                {
+                    "name": "blank",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.015,
+                        "height": 0.03,
+                        "positionX": 0.9873949579831932,
+                        "positionY": 0.9763387297633872,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#FFFFFF",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "bfe8c3ca-afaf-43d6-bee1-c5933a53437c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "79. Slide78",
+            "parentItemId": 4597202,
+            "hotspots": [
+                {
+                    "name": "Outro_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Congratulations! You have completed this simulation.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9aeff6-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Drew"
+                            },
+                            "fileId": "62cd7bd1-ee83-49e6-8796-da8a52951339"
+                        },
+                        "width": 0.04,
+                        "height": 0.10000000000000002,
+                        "fontSize": 16,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.988095238095238,
+                        "positionY": 0.9863013698630136,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0,
+                        "isVisibleAfterCompletion": false
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        }
+    ]
+}

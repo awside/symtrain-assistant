@@ -1,0 +1,3285 @@
+{
+    "name": "BN_ORDER_LOST_REPLACE_ADV",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": false,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": false,
+    "ttsRequired": true,
+    "voiceName": "Jessica",
+    "voiceId": "2a9b0e30-3c78-11f0-9d9f-12c6e0eaf20b",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "fd6cada0-49f2-4417-b59a-688f34cb1783",
+            "sequenceNumber": 1,
+            "fileTranscript": "Thank you for calling Barnes and Noble. My name is (Your Name). How can I help you?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "barnes",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "and",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "noble.",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "noble",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "how",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "can",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "i",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "help",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "you?",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "you",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "0ac6a9dd-0431-4f8f-a8e7-78f6143f8354",
+            "sequenceNumber": 2,
+            "fileTranscript": "Hi. I placed an order and wanted to know the status. I should have received my order by now. I really need the books to give them as a gift next week.",
+            "fileId": "e3b234d3-39c5-42ca-9745-9166e88bbc1d",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "7dc86446-ecfa-4203-9d6f-8df66e89b0f6",
+            "sequenceNumber": 3,
+            "fileTranscript": "I'm sorry you haven't received your order. I would be happy to check the status of your order. Can I have your order number, please?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "i'm",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "sorry",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "received",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "order.",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "order",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "check",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "the",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "status",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "order",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "number,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "number",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "a40b125c-c8fb-44b8-956b-5f8e8da4ae10",
+            "sequenceNumber": 4,
+            "fileTranscript": "My order number is 4 1 3 6 3 3 3 9 3 0.",
+            "fileId": "a681cff6-fa3e-4f74-99a1-84803790d8a8",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "d6bd7926-d6f3-4f48-b188-5f7f78836200",
+            "sequenceNumber": 5,
+            "fileTranscript": "Thank you. One moment while I locate your order.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "locate",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "your",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "order.",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "order",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "cb013171-491f-431b-87e8-74ca4bc11ca2",
+            "sequenceNumber": 6,
+            "fileTranscript": "No problem. I appreciate it.",
+            "fileId": "dc761206-a7e4-484d-a095-6203d8a0d582",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "d2d4fb51-a297-4726-9655-1d898c8de7fc",
+            "sequenceNumber": 7,
+            "fileTranscript": "Can I have you verify your email address, please?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "verify",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "your",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "email",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "address,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "address",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "a076e622-df33-47b7-8416-833b5a3dac26",
+            "sequenceNumber": 8,
+            "fileTranscript": "Sure. My email address is anita napp at gmail.com.",
+            "fileId": "43186574-ce09-4566-a00a-3d79d499b3e5",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "2e96a600-af66-4c8b-97aa-ffd7f41eaac5",
+            "sequenceNumber": 9,
+            "fileTranscript": "Great, thanks! What is your shipping address, please?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "shipping",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "address,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "address",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "11d31fb1-7773-4575-925c-9457ce3cc895",
+            "sequenceNumber": 10,
+            "fileTranscript": "My address is 5 7 2 Angel Place, Sunny, California 9 0 2 1 0.",
+            "fileId": "7c26bf8a-26f7-4c8e-bc1e-42e1feb8191a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "669e50ab-8057-489f-8192-98afaf7a9cd9",
+            "sequenceNumber": 11,
+            "fileTranscript": "Thank you. Just a moment please, while I research your order.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "you.",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "you",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "0e11e6b2-2eee-4e6a-b0ad-8558af4c324c",
+            "sequenceNumber": 12,
+            "fileTranscript": "Thank you for your patience. I can see your order shipped on January 17th and was expected to be delivered by January 24th. One moment while I review the tracking details.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "shipped",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "on",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "january",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "review",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "the",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "tracking",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "details.",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "details",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "efdef8ee-6b31-4586-8de1-ad952fe88300",
+            "sequenceNumber": 13,
+            "fileTranscript": "Okay, thanks. I appreciate your help.",
+            "fileId": "7ad6701d-f309-4615-ba69-00ebe894d7d9",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b6eab639-e73c-44ae-8a04-0fcd4350d7c9",
+            "sequenceNumber": 14,
+            "fileTranscript": "Thank you for your patience. I've checked the tracking, and I can see that is was delivered on January 24th. Have you checked your mailbox and all of the doors?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "you",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "checked",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "the",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "tracking,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "tracking",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "delivered",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "on",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "january",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "mailbox",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "and",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "all",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "doors?",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "doors",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "5193e712-c359-4333-b59a-2a365694ef59",
+            "sequenceNumber": 15,
+            "fileTranscript": "Yes. I checked everywhere, and I still can't find the package.",
+            "fileId": "345c83d8-1f78-4194-b599-501801f08223",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c9dc3b3c-08f9-48f5-b7fe-9ba9a6104de7",
+            "sequenceNumber": 16,
+            "fileTranscript": "I'm going to consider your order lost in transit. Give me a moment while I check the available options.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "lost",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "in",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "transit.",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "transit",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "available",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "options.",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "options",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "1a885d2a-fc80-4f47-b7a6-222d21663c47",
+            "sequenceNumber": 17,
+            "fileTranscript": "Sure.",
+            "fileId": "7d93628b-e395-45bd-afb1-cb162a8184ec",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "5bcf56aa-46b1-4690-b5b0-2609518871a4",
+            "sequenceNumber": 18,
+            "fileTranscript": "Great news! I have the items in stock, and can have your order replaced free of charge. Would you like me to replace them?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "items",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "in",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "stock,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "stock",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "replaced",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "free",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "of",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "charge.",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "charge",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "7258d1e3-54d7-4ec6-bfe8-091cd080f791",
+            "sequenceNumber": 19,
+            "fileTranscript": "Yes, I want them replaced. I need them for a gift next week.",
+            "fileId": "7a8cc3ac-0eeb-4d45-8d00-3b167127afca",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "8cf230bc-5c50-48d0-b122-c56623166a44",
+            "sequenceNumber": 20,
+            "fileTranscript": "Absolutely! Due to the inconvenience, I will upgrade the shipping level as well.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "upgrade",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "the",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "shipping",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "level",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "ca8476a4-e0f7-40ab-aa56-b0c2771919b0",
+            "sequenceNumber": 21,
+            "fileTranscript": "Ok, thanks! That would be great, and will help so much!",
+            "fileId": "cbf71112-5898-4444-a3dc-a1038c04c594",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "f2e9dadd-357a-4ca8-97c2-c952d26c36bf",
+            "sequenceNumber": 22,
+            "fileTranscript": "Of course. It's my pleasure since you didn't receive them.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "aa251a96-2535-4962-b2d6-71d566f80211",
+            "sequenceNumber": 23,
+            "fileTranscript": "Are there any changes to the delivery address that we need to make?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "any",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "changes",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "f8ad780d-fad2-44bd-970a-9bb80410a387",
+            "sequenceNumber": 24,
+            "fileTranscript": "No, it will go to the same address, but can you add apartment B onto the shipping address?",
+            "fileId": "22580833-1722-4dc7-8708-23ec0c3636c2",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "5cacee0d-246b-4fd2-a00a-8c2332ff241c",
+            "sequenceNumber": 25,
+            "fileTranscript": "Yes, I can update the address to include your apartment number.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "update",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "the",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "address",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "a835e386-86bf-489c-ad6e-0ffe0787913b",
+            "sequenceNumber": 26,
+            "fileTranscript": "The expected delivery date for your order would be on Friday, February 3rd.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3dcd3f59-8a0d-4430-b939-1c3206c1221c",
+            "sequenceNumber": 27,
+            "fileTranscript": "Ok, sounds good. That should be before the party.",
+            "fileId": "6c71e109-0596-44e8-b8cb-fedbd4f3c930",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "fb31a17e-d716-40b1-9a19-7cd1a94d9cdd",
+            "sequenceNumber": 28,
+            "fileTranscript": "You'll receive an email confirming the order shortly. You will also receive a shipping confirmation email when the order ships, which includes tracking information.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "email",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "confirming",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "the",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "order",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "shipping",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "confirmation",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "tracking",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "information.",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "information",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "1c6bf731-92dd-4e1a-8567-5d1fe3468175",
+            "sequenceNumber": 29,
+            "fileTranscript": "Your new order number is 6180000649. I will also email you a return label in case you receive the original and the replacement.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "email",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "you",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "a",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "return",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "label",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "b31cc163-f537-4123-840b-3091b438027a",
+            "sequenceNumber": 30,
+            "fileTranscript": "I just received the first email. Thank you.",
+            "fileId": "ef7a3df1-ae65-4d39-8467-12623da45ed9",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a67655e8-cdad-4f86-9809-8f55e2e3dbcf",
+            "sequenceNumber": 31,
+            "fileTranscript": "You're welcome. Is there anything else I can assist you with?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "anything",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "else",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "7426885b-9374-4fa8-ad6b-3eb46d7f4359",
+            "sequenceNumber": 32,
+            "fileTranscript": "No, that's it. Thanks!",
+            "fileId": "f8364af7-c823-47b7-9280-209ffb47e611",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "49f9029b-8e18-4960-9590-e1e602df3c71",
+            "sequenceNumber": 33,
+            "fileTranscript": "Thank you! Have a great day, and thanks for calling Barnes and Noble.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thanks",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "for",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "calling",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "barnes",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "and",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "noble.",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "noble",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "02e85668-7f3d-4042-a1ee-f20f229f8f83",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "1. Screen - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Intro",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "This simulation will give you practice in handling advanced call type. You can go through this as many times as desired until you feel confident in the navigation and call flow.\nThe test version of the advanced simulation will provide you with no prompts. You will need to create your own words instead of reading scripting. Have your audio and microphone ready. You must complete the test version to receive credit for completion of this simulation. Let's get started.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "e1caa349-f66b-48f5-8dde-7e36f831fe6b"
+                        },
+                        "width": 0.021241548862937925,
+                        "height": 0.032,
+                        "fontSize": 16,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.9834050399508296,
+                        "positionY": 0.9956284153005464,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "4003a961-4ce6-45d0-93fd-1c4273c78be6",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "2. Screen - 2",
+            "parentItemId": 4625549,
+            "hotspots": [
+                {
+                    "name": "Audio for #2f9f0b67-5ffd-43fb-bfd7-2af974953f17",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "fd6cada0-49f2-4417-b59a-688f34cb1783"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #73298570-cd79-4d1b-974c-01bf7ec6bf54",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "0ac6a9dd-0431-4f8f-a8e7-78f6143f8354"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #b5fddc6e-b495-46d3-85a2-3ef96d3a63dd",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "7dc86446-ecfa-4203-9d6f-8df66e89b0f6"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #2cafd7e7-7b60-4ddc-bb28-3376e6414542",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a40b125c-c8fb-44b8-956b-5f8e8da4ae10"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #b95a599b-afdf-4e5c-886e-1df8210b8fea",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d6bd7926-d6f3-4f48-b188-5f7f78836200"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Audio for #4c091787-972e-45bf-bb6c-91456a82598e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "cb013171-491f-431b-87e8-74ca4bc11ca2"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "scroll1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.021293900184842885,
+                        "height": 0.31693989071038253,
+                        "positionX": 0.17991373998767715,
+                        "positionY": 0.6437158469945355,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 7
+                }
+            ]
+        },
+        {
+            "fileId": "971cf46d-f8eb-4ddb-a572-5b62f6516f5e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "3. Screen - 3",
+            "parentItemId": 4625550,
+            "hotspots": [
+                {
+                    "name": "number1ct",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click into the 'Order Number' field and type, '4136333930.' Then press 'Enter.'",
+                        "width": 0.3363774183339467,
+                        "height": 0.20821394460362944,
+                        "fontSize": 24,
+                        "positionX": 0.1954517516902274,
+                        "positionY": 0.3333333333333333,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 1000,
+                        "isVisibleAfterCompletion": true
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "number1",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.13460356484326982,
+                        "height": 0.03715846994535519,
+                        "fontSize": 16,
+                        "positionX": 0.04240934234787953,
+                        "positionY": 0.3792349726775957,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "4136333930",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "80fb965f-1aca-4f2d-9fe5-f656aa998feb",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "4. Screen - 4",
+            "parentItemId": 4625551,
+            "hotspots": [
+                {
+                    "name": "apps",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.021254612546125463,
+                        "height": 0.04480874316939891,
+                        "positionX": 0.9784747847478474,
+                        "positionY": 0.2677595628415301,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "ca1a80a5-9631-43e8-a8d1-cb372c851eba",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "5. Screen - 5",
+            "parentItemId": 4625552,
+            "hotspots": [
+                {
+                    "name": "mgmt",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1720958819913952,
+                        "height": 0.033879781420765025,
+                        "positionX": 0.791641057160418,
+                        "positionY": 0.3704918032786885,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "4aedb25d-68e1-4119-9f0e-a55b1f071827",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "6. Screen - 6",
+            "parentItemId": 4625553,
+            "hotspots": [
+                {
+                    "name": "Audio for #9914ab55-a54e-4e26-8c63-1a2bd84a1dda",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d2d4fb51-a297-4726-9655-1d898c8de7fc"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "emhl",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "text": "",
+                        "width": 0.10646153846153844,
+                        "height": 0.05792349726775956,
+                        "fontSize": 16,
+                        "positionX": 0.004923076923076923,
+                        "positionY": 0.253551912568306,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #4b9ce540-3506-4073-bacf-dcaf427a7c01",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a076e622-df33-47b7-8416-833b5a3dac26"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "c29af5f0-bba0-4e68-9870-2936030530f5",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "7. Screen - 7",
+            "parentItemId": 4625554,
+            "hotspots": [
+                {
+                    "name": "copyem",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.10092307692307692,
+                        "height": 0.036065573770491806,
+                        "hotKeys": [
+                            "CTRL+C"
+                        ],
+                        "positionX": 0.007384615384615384,
+                        "positionY": 0.2754098360655738,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0,
+                        "restrictMouseClicks": true
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Ticket1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1286153846153846,
+                        "height": 0.04699453551912568,
+                        "positionX": 0.016615384615384615,
+                        "positionY": 0.004371584699453552,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "6693ce1b-0aae-4e72-ad69-af882f73413c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "8. Screen - 8",
+            "parentItemId": 4625555,
+            "hotspots": [
+                {
+                    "name": "scroll2",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.021254612546125463,
+                        "height": 0.28852459016393445,
+                        "positionX": 0.18511685116851168,
+                        "positionY": 0.26885245901639343,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "10409855-5897-4d56-990c-879ec505bc2f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "9. Screen - 9",
+            "parentItemId": 4625556,
+            "hotspots": [
+                {
+                    "name": "pasteem",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1352181929932391,
+                        "height": 0.03825136612021858,
+                        "hotKeys": [
+                            "CTRL+V"
+                        ],
+                        "positionX": 0.04240934234787953,
+                        "positionY": 0.2907103825136612,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0,
+                        "restrictMouseClicks": true
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "a1401d6d-141f-475a-bbce-7174e0044377",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "10. Screen - 10",
+            "parentItemId": 4625557,
+            "hotspots": [
+                {
+                    "name": "selectanita",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.12423124231242312,
+                        "height": 0.04480874316939891,
+                        "positionX": 0.05043050430504305,
+                        "positionY": 0.3289617486338798,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "07759124-f4c2-4706-9292-c7190fff4c08",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "11. Screen - 11",
+            "parentItemId": 4625558,
+            "hotspots": [
+                {
+                    "name": "mgmt2",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1917639827904118,
+                        "height": 0.03825136612021858,
+                        "positionX": 0.768899815611555,
+                        "positionY": 0.3989071038251366,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "21202bb3-7ce2-4dfa-ae2e-5c7e5cd8b703",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "12. Screen - 12",
+            "parentItemId": 4625559,
+            "hotspots": [
+                {
+                    "name": "square",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.024600246002460024,
+                        "height": 0.041530054644808745,
+                        "positionX": 0.17650676506765067,
+                        "positionY": 0.40327868852459015,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "7717e091-f6e6-4f5e-8d3a-793eaec0caa6",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "13. Screen - 13",
+            "parentItemId": 4625560,
+            "hotspots": [
+                {
+                    "name": "Audio for #85f97bc3-e028-43ce-9148-aa1198a8bfdd",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "2e96a600-af66-4c8b-97aa-ffd7f41eaac5"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "addhl",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.6969883220651506,
+                        "height": 0.13442622950819672,
+                        "positionX": 0.1524277811923786,
+                        "positionY": 0.8076502732240437,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #c8227cf2-8f82-47f2-a26a-a20fc74859e7",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "11d31fb1-7773-4575-925c-9457ce3cc895"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #774b65c0-25a7-4a8d-84d4-ad667d7b3da7",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "669e50ab-8057-489f-8192-98afaf7a9cd9"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "shipdet",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.08973570989551322,
+                        "height": 0.048087431693989074,
+                        "positionX": 0.25752919483712355,
+                        "positionY": 0.6612021857923497,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 5
+                }
+            ]
+        },
+        {
+            "fileId": "0f0292a0-1154-427a-a283-696a6dd108a6",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "14. Screen - 14",
+            "parentItemId": 4625561,
+            "hotspots": [
+                {
+                    "name": "datehl",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.4880147510755993,
+                        "height": 0.12131147540983608,
+                        "positionX": 0.27904118008604795,
+                        "positionY": 0.6295081967213115,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #586f73f2-32d4-4e07-a8bc-6d81a8e0423c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "0e11e6b2-2eee-4e6a-b0ad-8558af4c324c"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #83939493-31be-4049-93a9-30af5f407cab",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "efdef8ee-6b31-4586-8de1-ad952fe88300"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "scroll3",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.15673017824216348,
+                        "height": 0.04918032786885246,
+                        "positionX": 0.7332513829133375,
+                        "positionY": 0.8622950819672132,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "0e01e5fb-b178-4276-9a8c-1a4c5d08686f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "15. Screen - 15",
+            "parentItemId": 4625562,
+            "hotspots": [
+                {
+                    "name": "clickhere",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05528255528255528,
+                        "height": 0.032,
+                        "positionX": 0.8022113022113022,
+                        "positionY": 0.6983606557377049,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "e5e4a068-c1ad-4a5b-9d74-3f8e1edf1973",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "16. Screen - 16",
+            "parentItemId": 4625563,
+            "hotspots": [
+                {
+                    "name": "date2hl",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.12714987714987716,
+                        "height": 0.09398907103825135,
+                        "positionX": 0.1382063882063882,
+                        "positionY": 0.7770491803278688,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #abad6842-bcda-4f91-aad1-8c84b5fc87cd",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b6eab639-e73c-44ae-8a04-0fcd4350d7c9"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #5167761e-291b-45b3-a156-ff53b6737a86",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5193e712-c359-4333-b59a-2a365694ef59"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "BNtab",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.12714987714987716,
+                        "height": 0.04480874316939891,
+                        "positionX": 0.14557739557739555,
+                        "positionY": 0.00546448087431694,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "56ae8d93-89a0-42d7-8fd7-0009f73f5fc0",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "17. Screen - 17",
+            "parentItemId": 4625564,
+            "hotspots": [
+                {
+                    "name": "pmtdet",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.08906633906633907,
+                        "height": 0.05136612021857923,
+                        "positionX": 0.20085995085995087,
+                        "positionY": 0.1005464480874317,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "c03bc8db-4a72-4247-b128-bbc2efe34553",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "18. Screen - 18",
+            "parentItemId": 4625565,
+            "hotspots": [
+                {
+                    "name": "auth",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.1057160417947142,
+                        "height": 0.10601092896174864,
+                        "positionX": 0.4154886293792256,
+                        "positionY": 0.3519125683060109,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "lines",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.06084818684695759,
+                        "height": 0.0546448087431694,
+                        "positionX": 0.11800860479409957,
+                        "positionY": 0.2065573770491803,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "90ac4231-d4f9-45cd-a67a-afbe4e7e998d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "19. Screen - 19",
+            "parentItemId": 4625566,
+            "hotspots": [
+                {
+                    "name": "sum",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.10196560196560196,
+                        "height": 0.05027322404371585,
+                        "positionX": 0.20638820638820635,
+                        "positionY": 0.273224043715847,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "54a492e1-09d9-4d6f-a399-80b24941a7fe",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "20. Screen - 20",
+            "parentItemId": 4625567,
+            "hotspots": [
+                {
+                    "name": "value",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.9913952059004304,
+                        "height": 0.10382513661202186,
+                        "positionX": 0.005531653349723417,
+                        "positionY": 0.35628415300546445,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #393ca387-c063-42ce-9f3f-3d7c853a1d4b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c9dc3b3c-08f9-48f5-b7fe-9ba9a6104de7"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #abf0da1b-743f-484a-8737-d292e8b078dd",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "1a885d2a-fc80-4f47-b7a6-222d21663c47"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "ticket3",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.12292562999385372,
+                        "height": 0.033879781420765025,
+                        "positionX": 0.022741241548862937,
+                        "positionY": 0.004371584699453552,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "20526eb6-3a9a-4144-b6c4-5364bdbf4e16",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "21. Screen - 21",
+            "parentItemId": 4625568,
+            "hotspots": [
+                {
+                    "name": "KB",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.023355869698832205,
+                        "height": 0.04480874316939891,
+                        "positionX": 0.97480024585126,
+                        "positionY": 0.24043715846994537,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "c13824f0-30fb-41a5-851e-2eb9b072262a",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "22. Screen - 22",
+            "parentItemId": 4625569,
+            "hotspots": [
+                {
+                    "name": "mag",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.027675276752767528,
+                        "height": 0.04480874316939891,
+                        "positionX": 0.9268142681426814,
+                        "positionY": 0.1901639344262295,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "fc6870cf-5ba8-419f-bcca-00e53c27ae14",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "23. Screen - 23",
+            "parentItemId": 4625570,
+            "hotspots": [
+                {
+                    "name": "lost",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.12292562999385372,
+                        "height": 0.03497267759562839,
+                        "fontSize": 16,
+                        "positionX": 0.8100799016594961,
+                        "positionY": 0.19562841530054645,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Lost",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "ct23",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click into the 'Search' field and type, 'Lost.' Then press 'Enter.'",
+                        "width": 0.2562449637389202,
+                        "height": 0.18911174785100288,
+                        "fontSize": 24,
+                        "positionX": 0.32554391619661566,
+                        "positionY": 0.4498567335243553,
+                        "audioEnable": false,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 1000,
+                        "isVisibleAfterCompletion": true
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "f594005a-a2ed-48bd-8d2d-4d28a4ae485a",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "24. Screen - 24",
+            "parentItemId": 4625571,
+            "hotspots": [
+                {
+                    "name": "lostdom",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.17773677736777369,
+                        "height": 0.08852459016393442,
+                        "positionX": 0.7915129151291513,
+                        "positionY": 0.507103825136612,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "227bc2fb-d7af-4875-a053-4bcbd16b331d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "25. Screen - 25",
+            "parentItemId": 4625572,
+            "hotspots": [
+                {
+                    "name": "arrow",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.021241548862937925,
+                        "height": 0.04699453551912568,
+                        "positionX": 0.9483712354025814,
+                        "positionY": 0.1923497267759563,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "f2c49ee7-2d47-4155-8e56-14e65e0a6fcc",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "26. Screen - 26",
+            "parentItemId": 4625573,
+            "hotspots": [
+                {
+                    "name": "scroll4",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.021254612546125463,
+                        "height": 0.2819672131147541,
+                        "positionX": 0.977859778597786,
+                        "positionY": 0.2633879781420765,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "f6d712cc-6a0c-4114-841f-633ef8102540",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "27. Screen - 27",
+            "parentItemId": 4625574,
+            "hotspots": [
+                {
+                    "name": "lego",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.4124154886293792,
+                        "height": 0.05136612021857923,
+                        "positionX": 0.08543331284572833,
+                        "positionY": 0.5016393442622951,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "mgmt4",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.12415488629379226,
+                        "height": 0.041530054644808745,
+                        "positionX": 0.2661339889366933,
+                        "positionY": 0.002185792349726776,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "96ac8622-28cb-408f-9311-fd22f57e5941",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "28. Screen - 28",
+            "parentItemId": 4625575,
+            "hotspots": [
+                {
+                    "name": "order",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.03995082974800246,
+                        "height": 0.04371584699453552,
+                        "positionX": 0.011677934849416104,
+                        "positionY": 0.0918032786885246,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "e48a1fe7-360d-42d7-9c33-c8e5ad180e9b",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "29. Screen - 29",
+            "parentItemId": 4625576,
+            "hotspots": [
+                {
+                    "name": "rep",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.07375537799631224,
+                        "height": 0.032,
+                        "positionX": 0.013521819299323909,
+                        "positionY": 0.2098360655737705,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "439c053f-88b5-4ca9-a3ef-dbc7ffe267ce",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "30. Screen - 30",
+            "parentItemId": 4625577,
+            "hotspots": [
+                {
+                    "name": "stock",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.9686732186732188,
+                        "height": 0.14207650273224043,
+                        "positionX": 0.01044226044226046,
+                        "positionY": 0.45027322404371584,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #6422037c-f448-4907-bd9d-411a7e2cefaa",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5bcf56aa-46b1-4690-b5b0-2609518871a4"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #929efc81-a337-44f1-9cc8-52afd3cd295f",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "7258d1e3-54d7-4ec6-bfe8-091cd080f791"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #63c0fa87-c540-43db-9c44-f81927db14d2",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8cf230bc-5c50-48d0-b122-c56623166a44"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #faef3212-9d0d-459e-ae2c-2b12c1c9c835",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "ca8476a4-e0f7-40ab-aa56-b0c2771919b0"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Audio for #faf982b7-c7f8-4f3a-a40f-2b93c3763605",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f2e9dadd-357a-4ca8-97c2-c952d26c36bf"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "check1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.028255528255528257,
+                        "height": 0.03825136612021858,
+                        "positionX": 0.033169155633814514,
+                        "positionY": 0.4612021857923498,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 7
+                }
+            ]
+        },
+        {
+            "fileId": "7d1923db-82fd-40aa-bf50-6106e7e2159e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "31. Screen - 31",
+            "parentItemId": 4625578,
+            "hotspots": [
+                {
+                    "name": "check2",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.022113022113022112,
+                        "height": 0.03715846994535519,
+                        "positionX": 0.038082405476382114,
+                        "positionY": 0.512568306010929,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "199be4cc-55eb-4e1c-8d63-318de425ecd7",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "32. Screen - 32",
+            "parentItemId": 4625579,
+            "hotspots": [
+                {
+                    "name": "checkdeldate",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.09213759213759214,
+                        "height": 0.05901639344262295,
+                        "positionX": 0.0036851261497850337,
+                        "positionY": 0.6076502732240437,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "39746cba-d0bd-466a-90d0-c44bf306925d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "33. Screen - 34",
+            "parentItemId": 4625580,
+            "hotspots": [
+                {
+                    "name": "Audio for #d924b9b1-88b8-4099-89f7-9e30042eec9b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "aa251a96-2535-4962-b2d6-71d566f80211"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #74999f3e-39f8-44da-ac26-841961eacef6",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f8ad780d-fad2-44bd-970a-9bb80410a387"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #62e254f3-a6a9-42a7-9581-f1196567aafb",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5cacee0d-246b-4fd2-a00a-8c2332ff241c"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "shpspeed",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.3132678132678133,
+                        "height": 0.034972677595628415,
+                        "positionX": 0.34213834767340306,
+                        "positionY": 0.5475409836065573,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "58186c64-b2b3-4668-b477-1c1e6d0be46a",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "34. Screen - 35",
+            "parentItemId": 4625581,
+            "hotspots": [
+                {
+                    "name": "exp",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.3144963144963145,
+                        "height": 0.032,
+                        "positionX": 0.3390663390663391,
+                        "positionY": 0.6229508196721312,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "c35fbaa9-7e35-4346-a41f-1ae5f4277e8b",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "35. Screen - 36",
+            "parentItemId": 4625582,
+            "hotspots": [
+                {
+                    "name": "eddhl",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "text": "",
+                        "width": 0.1375921375921376,
+                        "height": 0.13224043715846995,
+                        "fontSize": 16,
+                        "positionX": 0.6492636543343365,
+                        "positionY": 0.3016393442622951,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #90af099a-e599-40c3-9c0e-5fc431d06784",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a835e386-86bf-489c-ad6e-0ffe0787913b"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #fd16d207-be5b-431e-8de7-f900618a050b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3dcd3f59-8a0d-4430-b939-1c3206c1221c"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "over",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.022113022113022112,
+                        "height": 0.041530054644808745,
+                        "positionX": 0.007984502913820678,
+                        "positionY": 0.580327868852459,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "daa1894c-dac8-400e-89ed-6cdb025ba41b",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "36. Screen - 37",
+            "parentItemId": 4625583,
+            "hotspots": [
+                {
+                    "name": "CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click into the 'Address 2' field and type, 'Apt B.' Then press 'Enter.'",
+                        "width": 0.3774193548387097,
+                        "height": 0.15759312320916904,
+                        "fontSize": 24,
+                        "positionX": 0.5475806451612903,
+                        "positionY": 0.4828080229226361,
+                        "audioEnable": false,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 1000,
+                        "isVisibleAfterCompletion": true
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "B",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.28869778869778867,
+                        "height": 0.033879781420765025,
+                        "fontSize": 16,
+                        "positionX": 0.342750331680221,
+                        "positionY": 0.7213114754098361,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Apt B",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "e29f3df9-0ad9-45b5-928f-2b79afaf07c9",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "37. Screen - 38",
+            "parentItemId": 4625584,
+            "hotspots": [
+                {
+                    "name": "reason",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.32002457002457,
+                        "height": 0.040437158469945354,
+                        "positionX": 0.00921375921375921,
+                        "positionY": 0.9245901639344264,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "1c73b185-28bc-410f-add8-1fcc27b1eab2",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "38. Screen - 39",
+            "parentItemId": 4625585,
+            "hotspots": [
+                {
+                    "name": "reason2",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.14496314496314497,
+                        "height": 0.034972677595628415,
+                        "positionX": 0.010439993834827783,
+                        "positionY": 0.6786885245901639,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "b4b5d156-5998-4d70-8160-dc83e09853fd",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "39. Screen - 40",
+            "parentItemId": 4625586,
+            "hotspots": [
+                {
+                    "name": "submit",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.09029484029484028,
+                        "height": 0.04918032786885246,
+                        "positionX": 0.33476582969514745,
+                        "positionY": 0.766120218579235,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "a731984e-30e8-4dd8-93ec-84e5c800ad9c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "40. Picture42.2",
+            "parentItemId": 4625587,
+            "hotspots": [
+                {
+                    "name": "hlnew",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0645359557467732,
+                        "height": 0.033879781420765025,
+                        "positionX": 0.5808236017209588,
+                        "positionY": 0.30491803278688523,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "ae51d0bc-8a28-4494-aba0-3d5da1107616",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "41. 42.3",
+            "parentItemId": 4625588,
+            "hotspots": [
+                {
+                    "name": "copynew",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.06515058389674247,
+                        "height": 0.033879781420765025,
+                        "hotKeys": [
+                            "CTRL+C"
+                        ],
+                        "positionX": 0.578979717271051,
+                        "positionY": 0.30601092896174864,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0,
+                        "restrictMouseClicks": true
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "7e9f38f4-1c96-431d-907d-f31f4e86bec0",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "42. Screen - 42",
+            "parentItemId": 4625589,
+            "hotspots": [
+                {
+                    "name": "Audio for #604e9bee-7608-4faa-865a-cd2135ceb9be",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "fb31a17e-d716-40b1-9a19-7cd1a94d9cdd"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #aa117869-b05e-4579-acfb-d75431c521e8",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "1c6bf731-92dd-4e1a-8567-5d1fe3468175"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #9bf6f0a0-f6ed-446d-803f-eee6db22f041",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b31cc163-f537-4123-840b-3091b438027a"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #9492d2d1-a2de-40dd-9138-adc23be687f0",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a67655e8-cdad-4f86-9809-8f55e2e3dbcf"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #9da370c2-bf46-473c-92f8-331c4f91380d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "7426885b-9374-4fa8-ad6b-3eb46d7f4359"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Audio for #8e309296-552e-483e-86dd-a4b055af4254",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "49f9029b-8e18-4960-9590-e1e602df3c71"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "ticket4",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1210817455439459,
+                        "height": 0.05027322404371585,
+                        "positionX": 0.020282728948985865,
+                        "positionY": 0,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 7
+                }
+            ]
+        },
+        {
+            "fileId": "9b313c7d-6ede-4fe2-b4d5-a9150e1e2fa2",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "43. Screen - 43",
+            "parentItemId": 4625590,
+            "hotspots": [
+                {
+                    "name": "scroll5",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.021241548862937925,
+                        "height": 0.3693989071038251,
+                        "positionX": 0.18070067609096496,
+                        "positionY": 0.5912568306010929,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "9af045ac-6720-4c9f-b40b-1947f9b7e6a9",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "44. Screen - 44",
+            "parentItemId": 4625591,
+            "hotspots": [
+                {
+                    "name": "type",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.13214505224339274,
+                        "height": 0.032,
+                        "positionX": 0.044253226797787336,
+                        "positionY": 0.5923497267759563,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "1054ef89-621c-498e-ae2e-7bb73f7aac9b",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "45. Screen - 45",
+            "parentItemId": 4625592,
+            "hotspots": [
+                {
+                    "name": "phy",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.10141364474492932,
+                        "height": 0.04480874316939891,
+                        "positionX": 0.049170251997541485,
+                        "positionY": 0.7202185792349727,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "a84a1da7-9f2a-49a9-8429-f2a168253bb4",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "46. Screen - 33",
+            "parentItemId": 4625593,
+            "hotspots": [
+                {
+                    "name": "topic",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.14197910264290103,
+                        "height": 0.041530054644808745,
+                        "positionX": 0.03872157344806392,
+                        "positionY": 0.6568306010928961,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "78007c18-59ee-4e37-a2e6-6a781eb114b6",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "47. Screen - 47",
+            "parentItemId": 4625594,
+            "hotspots": [
+                {
+                    "name": "scroll 6",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.021241548862937925,
+                        "height": 0.2568306010928962,
+                        "positionX": 0.16533497234173325,
+                        "positionY": 0.7005464480874317,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "bb83b6e6-2ac0-4968-bcc8-1b1107603dfc",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "48. Screen - 48",
+            "parentItemId": 4625595,
+            "hotspots": [
+                {
+                    "name": "status",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0878918254456054,
+                        "height": 0.032,
+                        "positionX": 0.05162876459741856,
+                        "positionY": 0.898360655737705,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "54a02074-af2f-425f-829b-9a8667e61715",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "49. Screen - 49",
+            "parentItemId": 4625596,
+            "hotspots": [
+                {
+                    "name": "assess",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1432083589428396,
+                        "height": 0.05245901639344262,
+                        "positionX": 0.03933620159803319,
+                        "positionY": 0.7224043715846995,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "d2a23ef9-c85d-4ec2-9f2c-47bdaf67528f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "50. Screen - 50",
+            "parentItemId": 4625597,
+            "hotspots": [
+                {
+                    "name": "lit",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.11370620774431468,
+                        "height": 0.032,
+                        "positionX": 0.052093326406178565,
+                        "positionY": 0.8754834264956863,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "08307106-0f29-4569-b3a0-bec91741c799",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "51. Screen - 51",
+            "parentItemId": 4625598,
+            "hotspots": [
+                {
+                    "name": "replace",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.12354025814382298,
+                        "height": 0.032,
+                        "positionX": 0.04486785494775661,
+                        "positionY": 0.8622950819672132,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "67785086-356c-4142-a306-8d686d768670",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "52. Screen - 52",
+            "parentItemId": 4625599,
+            "hotspots": [
+                {
+                    "name": "res",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.14557739557739555,
+                        "height": 0.04480874316939891,
+                        "positionX": 0.036237008561731815,
+                        "positionY": 0.8360655737704918,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "fd5e96db-99b6-4924-9692-4d30e22c9212",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "53. Screen - 53",
+            "parentItemId": 4625600,
+            "hotspots": [
+                {
+                    "name": "resolved",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1345208845208845,
+                        "height": 0.032,
+                        "positionX": 0.04054091807625919,
+                        "positionY": 0.9027322404371584,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "acfd5554-4a89-4dcc-a57c-6b6561476624",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "54. Screen - 54",
+            "parentItemId": 4625601,
+            "hotspots": [
+                {
+                    "name": "Issuect",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click into the 'Issue' field and type, 'Customer checking on order status.' Then press 'Enter.'",
+                        "width": 0.5730958230958231,
+                        "height": 0.14349037844270124,
+                        "fontSize": 24,
+                        "positionX": 0.1981738553218139,
+                        "positionY": 0.4668248078037171,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 1000,
+                        "isVisibleAfterCompletion": true
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "issue",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.4914004914004914,
+                        "height": 0.05573770491803279,
+                        "fontSize": 16,
+                        "positionX": 0.22174069406541727,
+                        "positionY": 0.6950819672131148,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Customer checking order status.",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "75fd7219-d896-4a4a-9e88-e1357cad3043",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "55. Screen - 55",
+            "parentItemId": 4625602,
+            "hotspots": [
+                {
+                    "name": "resolutionct",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click into the 'Resolution' field and type, 'Order is late. PDD 01/24. Issued RO and advised PDD 02/03 and email confirms will be sent. Issued a return label. RO number.' Then press 'Enter.'",
+                        "width": 0.5749385749385749,
+                        "height": 0.24419027040568692,
+                        "fontSize": 24,
+                        "positionX": 0.1967117277973128,
+                        "positionY": 0.3876148871874363,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 1000,
+                        "isVisibleAfterCompletion": true
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "resolutioin",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.4576167076167077,
+                        "height": 0.1650273224043716,
+                        "fontSize": 16,
+                        "positionX": 0.2432462653864868,
+                        "positionY": 0.7398907103825136,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Order is late. PDD 01/24. Issued RO and advised PDD 02/03 and email confirms will be sent. Issued a return label. RO number",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "e302575f-b934-4745-9793-4b9bf310fdb4",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "56. 56.1",
+            "parentItemId": 4625603,
+            "hotspots": [
+                {
+                    "name": "pastenew",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.08543331284572833,
+                        "height": 0.04371584699453552,
+                        "hotKeys": [
+                            "CTRL+V"
+                        ],
+                        "positionX": 0.2372464658881377,
+                        "positionY": 0.7562841530054645,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0,
+                        "restrictMouseClicks": true
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "57bd8c51-345e-4472-a5e6-e5221cc047b8",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "57. 56.2",
+            "parentItemId": 4625604,
+            "hotspots": [
+                {
+                    "name": "close",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05347264904732637,
+                        "height": 0.03715846994535519,
+                        "positionX": 0.8377381684081131,
+                        "positionY": 0.9617486338797814,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "e0eface1-61a2-4d6a-bb46-8fb8823639f1",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "58. Screen - 57",
+            "parentItemId": 4625605,
+            "hotspots": [
+                {
+                    "name": "stay",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.07371007371007371,
+                        "height": 0.032,
+                        "positionX": 0.8402978624380839,
+                        "positionY": 0.918032786885246,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "a91e70e5-d118-42af-8491-f0434bdc2423",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "59. Screen - 58",
+            "parentItemId": 4625606,
+            "hotspots": [
+                {
+                    "name": "solved",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1074938574938575,
+                        "height": 0.04918032786885246,
+                        "positionX": 0.8931230358704236,
+                        "positionY": 0.9508196721311476,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "782d6a36-e989-4efe-8506-249257daaa69",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "60. Screen - 59",
+            "parentItemId": 4625607,
+            "hotspots": [
+                {
+                    "name": "tickethl",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.1971744471744472,
+                        "height": 0.05792349726775956,
+                        "positionX": 0.800982800982801,
+                        "positionY": 0.1377049180327869,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "bn4",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.12653562653562653,
+                        "height": 0.041530054644808745,
+                        "positionX": 0.2665847665847666,
+                        "positionY": 0.002185792349726776,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "288a6959-57b0-4d00-a123-b52d6e66d870",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "61. Screen - 61",
+            "parentItemId": 4625608,
+            "hotspots": [
+                {
+                    "name": "order",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.04176904176904177,
+                        "height": 0.04262295081967213,
+                        "positionX": 0.007335460460460462,
+                        "positionY": 0.09566214666396816,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "de924ff6-1c8a-43f5-ac10-29f7512af227",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "62. Screen - 62",
+            "parentItemId": 4625609,
+            "hotspots": [
+                {
+                    "name": "detail",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05958230958230958,
+                        "height": 0.036065573770491806,
+                        "positionX": 0.013510493227764282,
+                        "positionY": 0.13005464480874318,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "de481348-15cc-4f12-a90f-b33520c279c3",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "63. Screen - 63",
+            "parentItemId": 4625610,
+            "hotspots": [
+                {
+                    "name": "return",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.07995079950799508,
+                        "height": 0.04918032786885246,
+                        "positionX": 0.12361623616236164,
+                        "positionY": 0.273224043715847,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "74280727-24b2-4e4e-ae1b-0edd76570a0c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "64. Screen - 64",
+            "parentItemId": 4625611,
+            "hotspots": [
+                {
+                    "name": "send",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.04855562384757222,
+                        "height": 0.05245901639344262,
+                        "positionX": 0.5457897971727105,
+                        "positionY": 0.6819672131147541,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "71731c30-f790-4acc-bd06-c757fe47ac71",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "65. Screen - 65",
+            "parentItemId": 4625612,
+            "hotspots": [
+                {
+                    "name": "send successful",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.27412415488629377,
+                        "height": 0.05901639344262295,
+                        "positionX": 0.006760909649661954,
+                        "positionY": 0.9234972677595628,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "ticket7",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.12784265519360788,
+                        "height": 0.04371584699453552,
+                        "positionX": 0.014751075599262446,
+                        "positionY": 0.004371584699453552,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "70f3e523-5dd1-4962-a730-66394e3e8059",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "66. Screen - 66",
+            "parentItemId": 4625613,
+            "hotspots": [
+                {
+                    "name": "labelconfirmation",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.6056511056511057,
+                        "height": 0.15737704918032788,
+                        "positionX": 0.195330940260258,
+                        "positionY": 0.430601092896175,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "c030d208-35f3-4b7a-b24c-ab1800cae83a",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "67. Screen - 67",
+            "parentItemId": 4625614,
+            "hotspots": [
+                {
+                    "name": "Congrats",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Congratulations! You have completed this simulation.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "49d9703f-5ac1-4e9e-aa19-37313033657f"
+                        },
+                        "width": 0.021241548862937925,
+                        "height": 0.032,
+                        "fontSize": 16,
+                        "positionX": 0.961278426551936,
+                        "positionY": 0.99672131147541,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        }
+    ]
+}

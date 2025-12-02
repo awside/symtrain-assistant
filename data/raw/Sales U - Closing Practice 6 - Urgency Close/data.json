@@ -1,0 +1,574 @@
+{
+    "name": "Sales U - Closing Practice 6 - Urgency Close",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Olivia",
+    "voiceId": "a1daa1e5-800c-11ed-a9d0-02719d001499",
+    "branches": [],
+    "labels": [
+        {
+            "name": "Sales University"
+        },
+        {
+            "name": "Closing"
+        }
+    ],
+    "audioContentItems": [
+        {
+            "externalId": "ee34888c-c9e2-4816-8d62-19fa111b8899",
+            "sequenceNumber": 1,
+            "fileTranscript": "Hello! If you are starting this sym, that means you chose the Urgency Close as the technique you would like to try on your calls. ​ If you wanted to try a different closing technique, now is the time to exit this sym and head to the one you wanted to practice.​ ​",
+            "fileId": "50d8ab65-bc74-4f93-8bc7-51db60b7ed02",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "7cbe898f-7698-4979-99d4-cd5e79ee61a0",
+            "sequenceNumber": 2,
+            "fileTranscript": "Here are a few tips for how to navigate throughout this Sym. Click the arrow when you’re ready to continue.​",
+            "fileId": "0d68564a-b415-4eaf-b7d7-a8a60a5598c1",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "581a6afe-bf0c-49a6-ba87-74571135c78d",
+            "sequenceNumber": 3,
+            "fileTranscript": "As reviewed earlier, the Urgency Close technique creates a sense of immediacy and potential loss if the customer does not purchase today.​",
+            "fileId": "efe26dab-509d-4f97-8321-ea755564f34b",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "da609b3d-15c1-4bfe-856f-e86316d10d6c",
+            "sequenceNumber": 4,
+            "fileTranscript": "Here’s an example of how an urgency close might sound.​",
+            "fileId": "b6a1d3bf-193e-451f-a6d9-c2a405d1a876",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a2e3545f-0fb7-444c-bc9c-6f00ef4a2900",
+            "sequenceNumber": 5,
+            "fileTranscript": "When you get this policy today, you’re locking in the rate. Which means you’re getting the best rate from us before you get any older. ​",
+            "fileId": "32b7a67a-d87a-4374-9ae0-8b14b7f83d12",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "bda14c02-cffe-4296-a0f4-0900741c22ea",
+            "sequenceNumber": 6,
+            "fileTranscript": "Remember, we are going to ask for the sale immediately after providing the price.​ This is why a best practice during the discover process is to ask the budget question last to put yourself in a better position to successfully close because you have all your information you need to know to offer the right product based on the customers needs.​ ​",
+            "fileId": "3c1fc215-5a89-4a22-8098-52a2dfb34c19",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "72dc6a8d-7f55-4846-8e98-780f676556ef",
+            "sequenceNumber": 7,
+            "fileTranscript": "Here are some more examples of an Urgency Close. ​",
+            "fileId": "3fe144d1-ff8e-418b-909a-5cdf62f5971d",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b96b81e2-3aca-400c-a7c9-4639ab44c181",
+            "sequenceNumber": 8,
+            "fileTranscript": "PRICE, and when you get this policy today, you’re locking in the rate. Which means you’re getting the best rate from us before you get any older. ​",
+            "fileId": "509487b0-c19b-4b60-be2a-da40b593d775",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "fd6420cc-777e-4087-a4ce-c6bc5b33f556",
+            "sequenceNumber": 9,
+            "fileTranscript": "PRICE, and if you wait until you get older, you’re just going to have to pay more. You’ll want to do this today so you can lock in this rate. ​",
+            "fileId": "07b7ce39-a1eb-4498-b54c-0ad1152dceee",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "77754415-9f16-4c38-9edd-c745a4597076",
+            "sequenceNumber": 10,
+            "fileTranscript": "PRICE. With your birthday coming up next month, let’s get this taken care of today so you can lock in this rate before you get older!​",
+            "fileId": "eb1915cb-0401-4679-83cb-d803bac4a310",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "e5596966-9224-4321-931f-ab92927157b9",
+            "sequenceNumber": 11,
+            "fileTranscript": "PRICE. Anything can happen tomorrow, so let’s make sure you and your family are prepared today by getting this policy in place.​",
+            "fileId": "aa87a742-8144-4f4a-8fc7-7cacc1383e14",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "5daf2eae-193d-48b0-b9f8-ca704ce9b012",
+            "sequenceNumber": 12,
+            "fileTranscript": "Notice that something they have in common is making the sale today.​",
+            "fileId": "f82162b0-1fbb-46d2-8862-61246dcd0d78",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "514ae393-ad7c-4ec4-bf5e-b257ad6db49a",
+            "sequenceNumber": 13,
+            "fileTranscript": "These examples are in other people’s words, take a moment to write down how you would word your empathy close.​",
+            "fileId": "75a7cd3d-df37-4508-b108-68a7c818e9b7",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a1245cae-9493-4852-8930-b1855173fd15",
+            "sequenceNumber": 14,
+            "fileTranscript": "You’ve completed the discovery process with Sonya and have determined that an $8,000 UCSL policy will best meet her needs.​",
+            "fileId": "0f2df840-2f18-4de0-a05b-612cf34b934e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "9cd54341-c2dd-4c8f-8ec1-ab8905b8c7f9",
+            "sequenceNumber": 15,
+            "fileTranscript": "Take a moment to review the information and write down an Urgency Close you could use for Sonya.​ Remember, you should ask for the sale immediately after providing the price.​",
+            "fileId": "69c6bbf2-f905-41c6-bc7a-55a46ca3fd8b",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "f2a0fdd1-f933-47e5-990f-4643032cee8f",
+            "sequenceNumber": 16,
+            "fileTranscript": "Click the “I’m Ready!” icon when you are ready to practice your option close.​",
+            "fileId": "43286a2a-4e0a-4d72-9473-0cbf0c96ca9f",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "71737f15-ca1c-4ad0-a5e6-ea13614bc8e6",
+            "sequenceNumber": 17,
+            "fileTranscript": "...",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "659bb307-a446-4acf-9344-ec5da4945bfc",
+            "sequenceNumber": 18,
+            "fileTranscript": "Great job practicing your Urgency Close.",
+            "fileId": "10093b2a-bbea-47a4-9a47-cc7d2ab26bab",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "957051ee-15cc-4241-9692-6aef2a34540e",
+            "sequenceNumber": 19,
+            "fileTranscript": "You don’t want to miss out on an opportunity to close a sale, so go use the urgency close on your next call - you got this!​",
+            "fileId": "e668f480-f116-4bef-b2ab-7d10e60b2b8b",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "feec7433-4918-476a-b1e7-a44b3f902a52",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Audio for #47a5450f-31d1-4b0e-a521-b64bddb6e777",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "ee34888c-c9e2-4816-8d62-19fa111b8899"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "100f8dac-d65b-4ac2-bc83-ef707f453311",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 2",
+            "parentItemId": 4460667,
+            "hotspots": [
+                {
+                    "name": "Audio for #46011a8e-49e0-417b-b2cb-7f07dcba8821",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "7cbe898f-7698-4979-99d4-cd5e79ee61a0"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Arrow",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.12734375,
+                        "height": 0.10277777777777776,
+                        "positionX": 0.86875,
+                        "positionY": 0.8666666666666667,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "5d60ecff-6fc1-4c85-97de-0b21f2efb22c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 3",
+            "parentItemId": 4460668,
+            "hotspots": [
+                {
+                    "name": "Audio for #211577e7-941a-48c7-9093-fa2bb7eb679c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "581a6afe-bf0c-49a6-ba87-74571135c78d"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "5411e9ec-3340-4935-b8da-fad7e959fcca",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 4",
+            "parentItemId": 4460669,
+            "hotspots": [
+                {
+                    "name": "Audio for #4460d57b-c127-4b67-a050-ccfc4d92070a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "da609b3d-15c1-4bfe-856f-e86316d10d6c"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #78c5fb88-257f-4031-807a-f16bcc9326b4",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a2e3545f-0fb7-444c-bc9c-6f00ef4a2900"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Arrow",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1203125,
+                        "height": 0.09583333333333334,
+                        "positionX": 0.8703125,
+                        "positionY": 0.8722222222222222,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "56d68756-1100-4fbb-a0fa-d06ecf0da2d6",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 5",
+            "parentItemId": 4460670,
+            "hotspots": [
+                {
+                    "name": "Audio for #2864050d-73e9-40f7-b4ae-a7753d64ed4c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "bda14c02-cffe-4296-a0f4-0900741c22ea"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "34bcfed5-2b73-4c48-8747-54b26138d09d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 6",
+            "parentItemId": 4460671,
+            "hotspots": [
+                {
+                    "name": "Audio for #447c31c6-e57a-42c1-8bae-16efb4299cf0",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "72dc6a8d-7f55-4846-8e98-780f676556ef"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #b4631882-bf92-440a-8233-a4b3176996f4",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b96b81e2-3aca-400c-a7c9-4639ab44c181"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #a38bc90f-e5c3-4928-9629-0e9a1c7bc44c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "fd6420cc-777e-4087-a4ce-c6bc5b33f556"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #336eafe5-e895-4d9a-a127-76ec22c802eb",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "77754415-9f16-4c38-9edd-c745a4597076"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #13f73c3f-45d4-4fc8-9141-4f9f5ccc9b7f",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e5596966-9224-4321-931f-ab92927157b9"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                }
+            ]
+        },
+        {
+            "fileId": "90f240a8-6334-46a3-9022-0e15521e8468",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 7",
+            "parentItemId": 4460672,
+            "hotspots": [
+                {
+                    "name": "Audio for #66896a1a-15fd-449d-b2c6-f6dc3f4c6083",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5daf2eae-193d-48b0-b9f8-ca704ce9b012"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "6836624c-69ee-444c-8d23-74e1cddc15f9",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 8",
+            "parentItemId": 4460673,
+            "hotspots": [
+                {
+                    "name": "Audio for #35c9c567-2393-4919-81e5-4c9a3bd9a175",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "514ae393-ad7c-4ec4-bf5e-b257ad6db49a"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Arrow",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0921875,
+                        "height": 0.08611111111111111,
+                        "positionX": 0.9046875,
+                        "positionY": 0.8833333333333333,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "375a75b2-69af-493c-a7b4-7ffa199e5681",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 9",
+            "parentItemId": 4460674,
+            "hotspots": [
+                {
+                    "name": "Audio for #fef6fb78-67c4-495d-bfa6-244510327b24",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a1245cae-9493-4852-8930-b1855173fd15"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "6ebc7712-54a6-43a5-848f-c192551b3c9a",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 10",
+            "parentItemId": 4460675,
+            "hotspots": [
+                {
+                    "name": "Audio for #e0bac00a-1102-4a9f-adb1-81ba6d88f6ed",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "9cd54341-c2dd-4c8f-8ec1-ab8905b8c7f9"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "6d34e003-9b4d-4c5f-ae0a-39a0d8b4c33f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 11",
+            "parentItemId": 4460676,
+            "hotspots": [
+                {
+                    "name": "Audio for #2816e9f3-7df2-4722-afb0-cabd959aae51",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f2a0fdd1-f933-47e5-990f-4643032cee8f"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Readt",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.12421875,
+                        "height": 0.2152777777777778,
+                        "positionX": 0.87578125,
+                        "positionY": 0.7347222222222223,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #b818bf52-e95a-46cb-9361-fed10a3a918b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "71737f15-ca1c-4ad0-a5e6-ea13614bc8e6"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "903429ea-b919-47ac-904c-c6a51e9f05ae",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 12",
+            "parentItemId": 4460677,
+            "hotspots": [
+                {
+                    "name": "Audio for #4794e3e0-e1f9-4114-b30a-f99138e34d8c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "659bb307-a446-4acf-9344-ec5da4945bfc"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "4d002bc3-39c1-4f89-bc4d-1a2e87977ef7",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 13",
+            "parentItemId": 4460678,
+            "hotspots": [
+                {
+                    "name": "Audio for #7af3cb24-e6a8-40bd-8922-079652b93cce",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "957051ee-15cc-4241-9692-6aef2a34540e"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        }
+    ]
+}

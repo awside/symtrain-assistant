@@ -1,0 +1,1165 @@
+{
+    "name": "Demo sym - Prescription Request__BEG - Screen Navigation",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": false,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": true,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": false,
+    "voiceName": "Jim",
+    "voiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "928a7f3a-0ade-4328-a7e1-4e07f5af82cb",
+            "sequenceNumber": 3,
+            "fileTranscript": "Now, you'll write the customer's full name by clicking on the First Name and Last Name fields on the page.",
+            "fileId": "e885dc80-9d30-4184-b5d6-0b27a1fbe187",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "5b2f08ec-2ae6-4111-8a13-7693b61704a2",
+            "sequenceNumber": 2,
+            "fileTranscript": "You will first enter the customer’s contact reason in the highlighted fields.",
+            "fileId": "6a9d23cf-3722-4991-96ad-b804bc508b41",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "e2b30bc8-c212-49d4-9cce-41a289692b2f",
+            "sequenceNumber": 6,
+            "fileTranscript": "You will now search for the name of the medication the customer is looking to get a prescription for. Use the sample data as advised.",
+            "fileId": "864cac19-e81e-4c50-89f5-48ae29710f11",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "e6446838-a7f1-4d25-ba8d-249a19a025e4",
+            "sequenceNumber": 7,
+            "fileTranscript": "Once you've found the medication details in the system, you'll confirm with the customer if they have ever been prescribed this medication when you take a live call.",
+            "fileId": "140f03db-a5e2-40fd-b6df-62f8f290694d",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b33b131a-0430-4cf3-be92-74b5bda3cb3c",
+            "sequenceNumber": 5,
+            "fileTranscript": "You will now validate the customer's date of birth for security verification purposes.",
+            "fileId": "21aa9399-b8cf-4c6d-bfec-2b0ade44872e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "67800e5c-54fb-49bc-bbf7-ffdccd6d1c30",
+            "sequenceNumber": 4,
+            "fileTranscript": "After entering the customer's full name, click on search.",
+            "fileId": "8a8c8af6-669a-4ec8-b1b3-7e540a289100",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "07a96834-0cbd-4ab4-8807-3ad74eadf48e",
+            "sequenceNumber": 8,
+            "fileTranscript": "Subsequently, you'll write down the dosage and quantity of the medication requested by the customer on a live call.",
+            "fileId": "a5a9545c-9a9c-4fe0-b892-d5c640a9be00",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "72469918-d17e-4063-a364-10ad7ecef2ac",
+            "sequenceNumber": 9,
+            "fileTranscript": "Write in the customer's complete address with the zip code in the required fields.",
+            "fileId": "658de338-83b2-488f-9b90-e1fe87a5237d",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "654257ba-863e-4a52-baf9-1b166d7e6941",
+            "sequenceNumber": 10,
+            "fileTranscript": "For the delivery process, you'll check the options available in the Delivery dropdown and choose accordingly.",
+            "fileId": "ff4ab5dc-bf29-41d8-b559-c107c122f970",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "9bbc436c-c645-4146-adc8-64c4771a1736",
+            "sequenceNumber": 11,
+            "fileTranscript": "Finally, enter the primary healthcare provider's name and phone number.",
+            "fileId": "8a5b13c3-01ae-46a2-b31e-315440e47a62",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "6d4eee84-4b3f-47d3-a7aa-dad697144315",
+            "sequenceNumber": 12,
+            "fileTranscript": "Once you have entered all the details, you'll click on Save to record the information and the task will be completed and assigned.",
+            "fileId": "ca0a7e34-47cf-42c0-803c-484252c7d4a1",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b2946836-0295-43ef-8716-0f6edfdb1fc9",
+            "sequenceNumber": 13,
+            "fileTranscript": "Good job! You have now completed training on \"How to create a prescription request for a customer\". Click on the screen to finish and wait for your trainer to give you further instructions.",
+            "fileId": "ce021bde-013e-4551-b3ae-a5fc04b90dae",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "1bd52173-1676-4ba6-b4ff-cc703af92f28",
+            "sequenceNumber": 1,
+            "fileTranscript": "Hello and welcome to our ABC BackOffice tool training. Here, we will learn how to create a prescription request for a client. All the data that you will enter in this simulation is sample data. This is a practice sym, once you get on a live call, the data will be based on the interactions with the caller.",
+            "fileId": "d46d0ac3-d3e9-45d2-b99e-af096d59d521",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b14d6ca4-d6e8-4c98-a67a-36475fb148bd",
+            "sequenceNumber": 14,
+            "fileTranscript": "This concludes your simulation.",
+            "fileId": "fcb0154f-f44f-4ec0-8ef3-66a33e594831",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "fd6fc09d-c7d1-432a-b676-d5044be63d18",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 12 - 1 - 1 - 1 - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Audio for #ae0187f6-e4e4-4e64-b182-b1fabd21ce5b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "1bd52173-1676-4ba6-b4ff-cc703af92f28"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "93d2c3c0-1073-4403-bf4f-460e8499563d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 1 - 1 - 1",
+            "parentItemId": 1032930,
+            "hotspots": [
+                {
+                    "name": "Audio for #ff501e71-0ce0-48d0-97ca-8deeae519991",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5b2f08ec-2ae6-4111-8a13-7693b61704a2"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Dropdown 1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Select 'Request' in the Contact Reason Dropdown & 'Prescription' in the Sub-Contact Reason Dropdown.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "b39699e3-4b50-4f95-8f3d-b7a3c2d6d791"
+                        },
+                        "width": 0.3238434163701068,
+                        "height": 0.4367088607594936,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.5824436536180309,
+                        "positionY": 0.48523206751054854,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "6a7e73ab-fba4-4c95-9e12-e12d9ae04c78",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": 1032931,
+            "hotspots": [
+                {
+                    "name": "Contact Reason",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.16901117883742706,
+                        "height": 0.04139433551198257,
+                        "options": [
+                            {
+                                "value": "Claim",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Inquiry",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Billing",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Sales",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Request",
+                                "isCorrect": true
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.5788849347568209,
+                        "positionY": 0.3840489782410855,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Enter Sub-Contact Reason",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "text": "",
+                        "width": 0.16901408450704225,
+                        "height": 0.042042414715534576,
+                        "options": [
+                            {
+                                "value": "Procedural",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "General",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Policy Related",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Network Hospital",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Prescription",
+                                "isCorrect": true
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.7545166818124696,
+                        "positionY": 0.384117922837208,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "e14060c7-375b-4a68-b11a-87875e276919",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 2 - 1 - 1",
+            "parentItemId": 1032932,
+            "hotspots": [
+                {
+                    "name": "Audio for #65a2ae6c-f023-4ae7-95ad-c3d47be2b529",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "928a7f3a-0ade-4328-a7e1-4e07f5af82cb"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "First and Last name",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Type 'John Smith' as the first and last name.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "e737de69-2a6c-49c8-a359-00817f8c9623"
+                        },
+                        "width": 0.31316725978647686,
+                        "height": 0.4282700421940928,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.5895610913404508,
+                        "positionY": 0.4915611814345991,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "654fd433-8944-4dfb-999a-e748bfca3528",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": 1032933,
+            "hotspots": [
+                {
+                    "name": "First Name",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.11512553582363748,
+                        "height": 0.03812636165577342,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "john"
+                            }
+                        ],
+                        "positionX": 0.33473895100968387,
+                        "positionY": 0.18266181296709963,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "John",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Last Name",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.1193380303482663,
+                        "height": 0.04008438818565398,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "smith"
+                            }
+                        ],
+                        "positionX": 0.4548019459269413,
+                        "positionY": 0.18143459915611815,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Smith",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 7
+                }
+            ]
+        },
+        {
+            "fileId": "fc04d02a-a41c-4300-8578-f686b5a50228",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 2 - 1 - 1 - 1 - 1",
+            "parentItemId": 1032934,
+            "hotspots": [
+                {
+                    "name": "Audio for #09965e42-3229-4762-82a1-429c69681f99",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "67800e5c-54fb-49bc-bbf7-ffdccd6d1c30"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "search",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.066429418742586,
+                        "height": 0.04430379746835445,
+                        "positionX": 0.8576512455516014,
+                        "positionY": 0.10759493670886076,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "eb5250ec-96ab-422e-82d2-785ab5bab26c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 3 - 1 - 1 - 1 - 1",
+            "parentItemId": 1032935,
+            "hotspots": [
+                {
+                    "name": "Audio for #89b3cab7-833f-4e4f-ad0b-5bc088686b30",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b33b131a-0430-4cf3-be92-74b5bda3cb3c"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "DOB",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.09401709401709404,
+                        "height": 0.03935441433636555,
+                        "positionX": 0.3308505946406302,
+                        "positionY": 0.2475654168872631,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #d584dbe1-db58-429e-b0f3-9aecc525bd84",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e2b30bc8-c212-49d4-9cce-41a289692b2f"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "4.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Select \"XYZ Allergy Relief\" from the Medication dropdown.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "ad157eeb-c4bd-4c83-a127-b3320d2f784c"
+                        },
+                        "width": 0.3075364236396266,
+                        "height": 0.3688212927756654,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.5904469690056878,
+                        "positionY": 0.5126261410854952,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 3000
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "12e73edf-d612-4d66-b51b-8453a667a772",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 3 - 1 - 1",
+            "parentItemId": 1032936,
+            "hotspots": [
+                {
+                    "name": "Medication",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.1708185053380783,
+                        "height": 0.05063291139240506,
+                        "options": [
+                            {
+                                "value": "ABC Relief",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "XYZ Allergy Relief",
+                                "isCorrect": true
+                            },
+                            {
+                                "value": "CDA Stomach Relief",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "XYY Pain Relief",
+                                "isCorrect": false
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.7544483985765125,
+                        "positionY": 0.24261603375527427,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "86fd7707-4ed1-4ba1-a9e0-e002a0f52097",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 4 - 1 - 1 - 1 - 1",
+            "parentItemId": 1032937,
+            "hotspots": [
+                {
+                    "name": "Audio for #f97566c1-bc56-456b-bc09-bf8c73cec494",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e6446838-a7f1-4d25-ba8d-249a19a025e4"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #f705c061-aec0-4bdf-9075-83ee59aeed66",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "07a96834-0cbd-4ab4-8807-3ad74eadf48e"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Dosage",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Write \"60 tablet bottle, 100mg\" in the Dosage/Quantity field.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "7fb85b47-70d0-4467-800a-e58de112e05d"
+                        },
+                        "width": 0.3094170403587444,
+                        "height": 0.41148325358851673,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.5955156950672645,
+                        "positionY": 0.47208931419457734,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "a2c57b2c-05e8-4dbd-8ed8-38b32c67fe7e",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 5 - 1 - 1 - 1 - 1",
+            "parentItemId": 1032938,
+            "hotspots": [
+                {
+                    "name": "DQ",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.16666666666666666,
+                        "height": 0.039923954372623575,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "60 tablet bottle, 100mg"
+                            }
+                        ],
+                        "positionX": 0.5782951975777089,
+                        "positionY": 0.3108683391853294,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "60 tablet bottle, 100mg",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "49b32b40-f453-421e-b3bd-89140146b6f2",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 4 - 1 - 1",
+            "parentItemId": 1032939,
+            "hotspots": [
+                {
+                    "name": "Audio for #37dd7574-e3c8-4a48-993c-6393b5274152",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "72469918-d17e-4063-a364-10ad7ecef2ac"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Address",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Write \"123 Main Street\" in the Address field. Fill in the complete address with zip code in the upcoming screens.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "e57b45cf-8cc0-4280-ae55-ba33a1479eee"
+                        },
+                        "width": 0.3237668161434978,
+                        "height": 0.4130781499202552,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.5829596412556054,
+                        "positionY": 0.4960127591706539,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "ed32fa8c-d86f-4fad-98cb-4c974036498b",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 6 - 1 - 1 - 1 - 1",
+            "parentItemId": 1032940,
+            "hotspots": [
+                {
+                    "name": "address",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.33530719405158865,
+                        "height": 0.03802281368821293,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "123 main street"
+                            }
+                        ],
+                        "positionX": 0.23778697635199875,
+                        "positionY": 0.4728352162812839,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "123 Main Street",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "b76dff71-69ed-4467-a7c1-5ee2810caa95",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 1 - 1 - 1 - 1",
+            "parentItemId": 1032941,
+            "hotspots": [
+                {
+                    "name": "City",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.1423487544483986,
+                        "height": 0.04008438818565401,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "columbus"
+                            }
+                        ],
+                        "positionX": 0.23802988472729789,
+                        "positionY": 0.5845395998627178,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Columbus",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "3ae60e22-88f6-4a48-915c-349e881a231a",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 5 - 1 - 1",
+            "parentItemId": 1032942,
+            "hotspots": [
+                {
+                    "name": "State",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.11390134529147984,
+                        "height": 0.044657097288676235,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "oh"
+                            }
+                        ],
+                        "positionX": 0.38565022421524664,
+                        "positionY": 0.580542264752791,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "OH",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "0fd8fd62-fc35-4715-9534-3c5a72ec6986",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 2 - 1 - 1 - 1",
+            "parentItemId": 1032943,
+            "hotspots": [
+                {
+                    "name": "Postal Code",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.07443946188340807,
+                        "height": 0.03987240829346093,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "12345"
+                            }
+                        ],
+                        "positionX": 0.49955156950672647,
+                        "positionY": 0.5821371610845295,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "12345",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "5a7ddd4a-9320-4d99-8da5-ade43d406173",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 3 - 1 - 1 - 1",
+            "parentItemId": 1032944,
+            "hotspots": [
+                {
+                    "name": "Audio for #9050b500-862d-4954-adf3-69c02e9f6a7d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "654257ba-863e-4a52-baf9-1b166d7e6941"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Delivery",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Select \"Deliver to Address\" from Delivery dropdown.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "0aee9f18-a30c-4a3d-9460-0510944c661a"
+                        },
+                        "width": 0.3112107623318386,
+                        "height": 0.41626794258373206,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.5910313901345291,
+                        "positionY": 0.4960127591706539,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "6c0aa720-1c5e-4b90-be4f-846264c0fc89",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 7 - 1 - 1 - 1 - 1",
+            "parentItemId": 1032945,
+            "hotspots": [
+                {
+                    "name": "Delivery",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.17399103139013453,
+                        "height": 0.04319864646060362,
+                        "options": [
+                            {
+                                "value": "In-store Pick-up",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Deliver to Address",
+                                "isCorrect": true
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.7524663677130045,
+                        "positionY": 0.3076785465218525,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "6f37e577-c28a-42e1-857a-b0a92036b81e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 6 - 1 - 1",
+            "parentItemId": 1032946,
+            "hotspots": [
+                {
+                    "name": "Audio for #117ebf8b-9b91-421a-a0cb-18d1d33b7b25",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "9bbc436c-c645-4146-adc8-64c4771a1736"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Healthcare provider.",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Select \"Jane Doe\" in the Healthcare Provider dropdown and write \"123-456-7890\" in the Contact Number field.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "2fc8a952-2d8a-418a-a74d-ecec19d84d28"
+                        },
+                        "width": 0.3112107623318386,
+                        "height": 0.40350877192982454,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.5883408071748879,
+                        "positionY": 0.5023923444976076,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "4b7d7e21-ad1a-4c1d-91b2-4f21cc771ed9",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 9 - 1 - 1 - 1 - 1",
+            "parentItemId": 1032947,
+            "hotspots": [
+                {
+                    "name": "HP",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.13841743468077988,
+                        "height": 0.03992395437262357,
+                        "options": [
+                            {
+                                "value": "Will Mallorie",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Jane Doe",
+                                "isCorrect": true
+                            },
+                            {
+                                "value": "Sara Carrigan",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Jose Vela",
+                                "isCorrect": false
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.32552223800328745,
+                        "positionY": 0.38378784846665576,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "CN",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.10219041048637456,
+                        "height": 0.039923954372623575,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "123-456-7890"
+                            }
+                        ],
+                        "positionX": 0.47000689893066583,
+                        "positionY": 0.3805980558031789,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "123-456-7890",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "14044796-dd0f-4712-aed6-1ef46ac1c13e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 10 - 1 - 1 - 1 - 1",
+            "parentItemId": 1032948,
+            "hotspots": [
+                {
+                    "name": "Audio for #91a7096c-5862-43e7-8a99-2a228018fff0",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "6d4eee84-4b3f-47d3-a7aa-dad697144315"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Click save",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.060089686098654706,
+                        "height": 0.04784688995215311,
+                        "positionX": 0.7937219730941704,
+                        "positionY": 0.10526315789473684,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #59f2061c-6026-41a8-9f7a-c0fe3c149eb1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b2946836-0295-43ef-8716-0f6edfdb1fc9"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Click to save",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.8807174887892377,
+                        "height": 0.9059011164274322,
+                        "positionX": 0.05201793721973094,
+                        "positionY": 0.06220095693779904,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "40018e3e-7ad1-4268-88eb-32641d361395",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 11 - 1 - 1 - 1 - 1",
+            "parentItemId": 1032949,
+            "hotspots": [
+                {
+                    "name": "Audio for #3eded255-0c7b-4cdb-84db-f41ce1fde1e3",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b14d6ca4-d6e8-4c98-a67a-36475fb148bd"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        }
+    ]
+}

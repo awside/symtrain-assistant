@@ -1,0 +1,536 @@
+{
+    "name": "Sales U - Closing Practice 4 - Empathy Close",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Olivia",
+    "voiceId": "a1daa1e5-800c-11ed-a9d0-02719d001499",
+    "branches": [],
+    "labels": [
+        {
+            "name": "Sales University"
+        },
+        {
+            "name": "Closing"
+        }
+    ],
+    "audioContentItems": [
+        {
+            "externalId": "42e19bdd-4e18-4755-b95b-eba814eb8fe4",
+            "sequenceNumber": 1,
+            "fileTranscript": "Hello! If you are starting this sym, that means you chose the Empathy Close as the technique you would like to try on your calls. ​ If you wanted to try a different closing technique, now is the time to exit this sym and head to the one you wanted to practice.",
+            "fileId": "e815831f-a420-42a3-9c48-028e0c52834b",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "dd201d56-d35c-461b-b23b-6fb84f23e311",
+            "sequenceNumber": 2,
+            "fileTranscript": "Here are a few tips for how to navigate throughout this Sym. Click the arrow when you’re ready to continue.​",
+            "fileId": "ba147148-df64-4e41-ad47-5562f4c706b9",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "52b4b76a-7529-48c1-8ded-f556b6b62755",
+            "sequenceNumber": 3,
+            "fileTranscript": "As reviewed earlier, the Empathy Close technique focuses on the customer’s perspective and feelings and leaning into those emotions to show how the product will help them.​",
+            "fileId": "8851a2f4-1c68-4397-a9b7-9c253b583222",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "ea5654d1-b13c-4ded-b12c-ca5434172321",
+            "sequenceNumber": 4,
+            "fileTranscript": "Here’s an example of how an empathy close might sound.​",
+            "fileId": "280ab788-56f1-4ad5-907f-e1f6ab5d92a8",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a5113ded-bda0-449f-b964-d0d6e98ec4b8",
+            "sequenceNumber": 5,
+            "fileTranscript": "I know you’re concerned about having this in place for your loved ones so it will just take a few minutes to get you covered today. ​",
+            "fileId": "1349b300-5add-4805-b2fc-fdb14383f207",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "f4389bc2-de5b-4250-a228-0548bc7c0169",
+            "sequenceNumber": 6,
+            "fileTranscript": "Remember, we are going to ask for the sale immediately after providing the price.​ This is why a best practice during the discover process is to ask the budget question last to put yourself in a better position to successfully close because you have all your information you need to know to offer the right product based on the customers needs.",
+            "fileId": "41714b0d-3658-4ed5-b26d-5252d0445a2a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "43ec9823-81dc-4f14-9e31-127b6d664b8a",
+            "sequenceNumber": 7,
+            "fileTranscript": "Here are some more examples of an Empathy Close. ​",
+            "fileId": "3abeb7a3-622f-4994-af20-0e4443b8795e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "92d4a9e7-5b55-407f-a212-aceda2296877",
+            "sequenceNumber": 8,
+            "fileTranscript": "PRICE. I know you’re concerned about having this in place for your loved ones so it will just take a few minutes to get you covered today. ​",
+            "fileId": "9a8550d4-cc12-4d80-b7de-930f4908866f",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3b319219-57a6-4ee5-9158-30bfc2cc2123",
+            "sequenceNumber": 9,
+            "fileTranscript": "PRICE, And I realize it has been difficult to find something that works for you, but I believe this will. It will only take a few more minutes to get you covered today.​",
+            "fileId": "eaabc9e3-958a-4fe7-9180-1b07f518ff38",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "6a77ef18-2f67-42c7-938b-26048c45f1f4",
+            "sequenceNumber": 10,
+            "fileTranscript": "Notice that something they have in common is making the sale today.​ They also reference back to something that was discovered about the customer earlier in the call.​",
+            "fileId": "c2f98389-c1c9-451d-ad0a-8fd4e6902ced",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "16cc8135-03de-4708-bcb7-5f34cb8d137b",
+            "sequenceNumber": 11,
+            "fileTranscript": "These examples are in other people’s words, take a moment to write down how you would word your empathy close.​",
+            "fileId": "b75d5fef-f613-465d-8eba-dcb3b228e051",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c1295887-23d0-4467-958a-535585a11b52",
+            "sequenceNumber": 12,
+            "fileTranscript": "Again, let's say you’ve completed the discovery process with Sonya and have determined that an $8,000 UCSL policy will best meet her needs.​",
+            "fileId": "584506da-a24a-4fbc-b2b0-edd61d2ee9b3",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "1a49493e-ab54-4b02-8963-89386fabbeb5",
+            "sequenceNumber": 13,
+            "fileTranscript": "Take a moment to review the information and write down an Empathy Close you could use for Sonya.​ Remember, you should ask for the sale immediately after providing the price.",
+            "fileId": "6809366a-8aeb-46e2-8d57-dc3c98ba7b3a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "edcc0260-405d-4a22-88f9-fb420f84dbe0",
+            "sequenceNumber": 14,
+            "fileTranscript": "Click the “I’m Ready!” icon when you are ready to practice your empathy close.​",
+            "fileId": "bb46df60-4fe1-433f-9273-4c0525a57b29",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "40bcfbfc-6a79-44e6-93e9-e7a6a8831052",
+            "sequenceNumber": 15,
+            "fileTranscript": "...",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "7c014a92-447b-494d-a711-2036cbb9bea5",
+            "sequenceNumber": 16,
+            "fileTranscript": "Great job practicing your Empathy Close.",
+            "fileId": "22fdd021-89d9-4eed-b9d9-dc387ac3f611",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "88eaea50-57c4-4956-ae5e-f910bfebef72",
+            "sequenceNumber": 17,
+            "fileTranscript": "I realize practicing new techniques can be a challenge, but it takes practice to get comfortable. Great job practicing this technique today, try it out on your next call to close the sale – you got this!​",
+            "fileId": "0527601c-f512-4aa9-8c0d-82d6aa862aa7",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "661e2874-d5c3-4d61-beba-1f3dff90b6ca",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Audio for #42e19bdd-4e18-4755-b95b-eba814eb8fe4",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "42e19bdd-4e18-4755-b95b-eba814eb8fe4"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "d57a8913-5385-4696-80e8-e968ed12ed22",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 2",
+            "parentItemId": 3527456,
+            "hotspots": [
+                {
+                    "name": "Audio for #dd201d56-d35c-461b-b23b-6fb84f23e311",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "dd201d56-d35c-461b-b23b-6fb84f23e311"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Arrow",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.11756373937677052,
+                        "height": 0.09319899244332494,
+                        "positionX": 0.8718130311614731,
+                        "positionY": 0.8727959697732998,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "7d69dad9-dc89-4d10-906b-2cecd83cd568",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 3",
+            "parentItemId": 3527458,
+            "hotspots": [
+                {
+                    "name": "Audio for #52b4b76a-7529-48c1-8ded-f556b6b62755",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "52b4b76a-7529-48c1-8ded-f556b6b62755"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "b77bf7d8-5fdd-44ee-a6de-ae56d1c75639",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 4",
+            "parentItemId": 3527470,
+            "hotspots": [
+                {
+                    "name": "Audio for #ea5654d1-b13c-4ded-b12c-ca5434172321",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "ea5654d1-b13c-4ded-b12c-ca5434172321"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #a5113ded-bda0-449f-b964-d0d6e98ec4b8",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a5113ded-bda0-449f-b964-d0d6e98ec4b8"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Arrow 2",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1359773371104816,
+                        "height": 0.10579345088161209,
+                        "positionX": 0.8611898016997167,
+                        "positionY": 0.8664987405541562,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "2a7b2f04-9405-4e0b-859d-e61fd7621948",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 5",
+            "parentItemId": 3527474,
+            "hotspots": [
+                {
+                    "name": "Audio for #f4389bc2-de5b-4250-a228-0548bc7c0169",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f4389bc2-de5b-4250-a228-0548bc7c0169"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "28954854-ea06-4407-b217-9699ab363586",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 6",
+            "parentItemId": 3527479,
+            "hotspots": [
+                {
+                    "name": "Audio for #43ec9823-81dc-4f14-9e31-127b6d664b8a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "43ec9823-81dc-4f14-9e31-127b6d664b8a"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #92d4a9e7-5b55-407f-a212-aceda2296877",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "92d4a9e7-5b55-407f-a212-aceda2296877"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #3b319219-57a6-4ee5-9158-30bfc2cc2123",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3b319219-57a6-4ee5-9158-30bfc2cc2123"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "0cbf0816-e91f-44c2-85b6-cf9c38522093",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 7",
+            "parentItemId": 3527495,
+            "hotspots": [
+                {
+                    "name": "Audio for #6a77ef18-2f67-42c7-938b-26048c45f1f4",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "6a77ef18-2f67-42c7-938b-26048c45f1f4"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "47b7803b-6773-400d-a185-e5d4c00f7b72",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 8",
+            "parentItemId": 3527502,
+            "hotspots": [
+                {
+                    "name": "Audio for #16cc8135-03de-4708-bcb7-5f34cb8d137b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "16cc8135-03de-4708-bcb7-5f34cb8d137b"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Arrow 3",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.09206798866855524,
+                        "height": 0.09193954659949624,
+                        "positionX": 0.9058073654390936,
+                        "positionY": 0.8828715365239295,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "e67ef65a-e4a4-4705-b7bc-6cd77592d0da",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 9",
+            "parentItemId": 3527510,
+            "hotspots": [
+                {
+                    "name": "Audio for #c1295887-23d0-4467-958a-535585a11b52",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c1295887-23d0-4467-958a-535585a11b52"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "d6121222-c9c0-4a50-95b3-3269e9034c43",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 10",
+            "parentItemId": 3527519,
+            "hotspots": [
+                {
+                    "name": "Audio for #1a49493e-ab54-4b02-8963-89386fabbeb5",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "1a49493e-ab54-4b02-8963-89386fabbeb5"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "ae6be591-791b-4b80-a5bd-2e39a3b02bd4",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 11",
+            "parentItemId": 3527540,
+            "hotspots": [
+                {
+                    "name": "Audio for #edcc0260-405d-4a22-88f9-fb420f84dbe0",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "edcc0260-405d-4a22-88f9-fb420f84dbe0"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Ready",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.11685552407932012,
+                        "height": 0.21788413098236775,
+                        "positionX": 0.8810198300283286,
+                        "positionY": 0.7342569269521411,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #40bcfbfc-6a79-44e6-93e9-e7a6a8831052",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "40bcfbfc-6a79-44e6-93e9-e7a6a8831052"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "e0d97169-84a2-4c95-b420-04a2588f819e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 12",
+            "parentItemId": 3527551,
+            "hotspots": [
+                {
+                    "name": "Audio for #7c014a92-447b-494d-a711-2036cbb9bea5",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "7c014a92-447b-494d-a711-2036cbb9bea5"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "3f29cd3b-5963-496f-b864-5bf8d83e6d57",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 13",
+            "parentItemId": 3527563,
+            "hotspots": [
+                {
+                    "name": "Audio for #88eaea50-57c4-4956-ae5e-f910bfebef72",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "88eaea50-57c4-4956-ae5e-f910bfebef72"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        }
+    ]
+}

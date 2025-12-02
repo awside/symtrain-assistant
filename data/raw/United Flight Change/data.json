@@ -1,0 +1,644 @@
+{
+    "name": "United Flight Change",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": false,
+    "isPostSurveyEnabled": true,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Jim",
+    "voiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "bacf7f31-6c6d-4f0c-a338-a40e2977f407",
+            "sequenceNumber": 1,
+            "fileTranscript": "You were about to begin a simulation Please click the United logo to begin",
+            "fileId": "19ccfc0a-f113-46ed-8f07-4bc9f8dd613a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "f8c84417-a2ed-4773-8fd7-6d3adbbfb022",
+            "sequenceNumber": 2,
+            "fileTranscript": "Good morning Mrs. McCann, I see you are calling about confirmation number F7SBF8. Is that correct?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "flight",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "2da70791-7793-416a-9b67-207fb35aee99",
+            "sequenceNumber": 3,
+            "fileTranscript": "Yes, I am I wanted to review my options to take a later flight",
+            "fileId": "1bc280e6-aafe-4afa-9608-019d9b0bafa3",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a72d2d74-5cff-4f2a-bdbd-21ff24251b6c",
+            "sequenceNumber": 4,
+            "fileTranscript": "OK, let me check your options.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "options",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "b14b8743-a784-4f1d-ad1d-9ea1536cabcf",
+            "sequenceNumber": 5,
+            "fileTranscript": "Based on the Basic Economy fare, you can not make changes to your reservation.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "not",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "economy",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "basic",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "a7057e6d-8bbb-45c0-8010-31803cc33108",
+            "sequenceNumber": 6,
+            "fileTranscript": "Yes, I understand I can't make any changes to my ticket, but I'm booked at 1:00 o'clock PM and I need to leave on the 5:50 PM flight instead What am I on? Flight instead What are my options?",
+            "fileId": "fcf70c1e-e3a1-4377-aa68-17f9c7560731",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "f5db05e4-b124-4d67-bc05-a0cdca8dfaba",
+            "sequenceNumber": 7,
+            "fileTranscript": "That's a good question, let's check.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "check",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "5768d7cc-1198-48c6-80b4-3ff109b3281a",
+            "sequenceNumber": 8,
+            "fileTranscript": "Since there is a $200 change fee plus the difference in fare let me look what booking a new flight from Chicago O'Hare to Atlanta as an option for you.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "change",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "option",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "fee",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "ebadadce-4f0e-411a-ba40-497fbeac28ae",
+            "sequenceNumber": 9,
+            "fileTranscript": "OK, great if it's less than $200, that may be a great idea",
+            "fileId": "ea4b0c75-6655-45df-a98b-4ac69baf245b",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "53e52f64-f449-4053-bb45-38801c0084fa",
+            "sequenceNumber": 10,
+            "fileTranscript": "Wow, Mrs. McCann I found the flight you are looking for at 5:50pm from Chicago O'Hare to Atlanta for $106 plus a $25 non-refundable booking fee. Would you like me to book that for you?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "book",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "booking",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "found",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "f0e0c411-6d80-43bc-a6b4-5d054921dee3",
+            "sequenceNumber": 11,
+            "fileTranscript": "That's great, let me check and see if that helps and I can book it online",
+            "fileId": "05f1aaae-f43f-46e5-81f4-62003a5e2e3a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "8e4c5952-5f6b-4c96-80f0-4616ac4b237a",
+            "sequenceNumber": 12,
+            "fileTranscript": "No problem. Thank you for calling United Airlines and make it a great day.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "you",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "great",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "day",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "c7bdbafb-e0ca-4dcd-8599-fbaf94a60d85",
+            "sequenceNumber": 13,
+            "fileTranscript": "This completes the simulation",
+            "fileId": "a5c7d7fb-7027-4bbb-8ea6-e5187602c6a9",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "3aecf290-4549-4c66-a138-bbb9931f9530",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "1-2",
+                    "type": "BUTTON",
+                    "settings": {
+                        "text": "1.2",
+                        "width": 0.29102165,
+                        "height": 0.30134156,
+                        "positionX": 0.3490712,
+                        "positionY": 0.61816305,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #bacf7f31-6c6d-4f0c-a338-a40e2977f407",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "bacf7f31-6c6d-4f0c-a338-a40e2977f407"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "9ffba459-253c-4c5c-b2a6-cc0e8991ba66",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 2",
+            "parentItemId": 926324,
+            "hotspots": [
+                {
+                    "name": "Audio for #f8c84417-a2ed-4773-8fd7-6d3adbbfb022",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f8c84417-a2ed-4773-8fd7-6d3adbbfb022"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #2da70791-7793-416a-9b67-207fb35aee99",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "2da70791-7793-416a-9b67-207fb35aee99"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #a72d2d74-5cff-4f2a-bdbd-21ff24251b6c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a72d2d74-5cff-4f2a-bdbd-21ff24251b6c"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "2-4",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.17447917,
+                        "height": 0.08562533,
+                        "positionX": 0.30989587,
+                        "positionY": 0.7005712,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#34a853",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "4eaa13c1-64b0-4caf-970c-d0023727b042",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 3",
+            "parentItemId": 926326,
+            "hotspots": [
+                {
+                    "name": "3-1",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.083333336,
+                        "height": 0.1263983,
+                        "positionX": 0.39479166,
+                        "positionY": 0.85374296,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#34a853",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "6658f6c1-04cd-490c-bc3d-a2b63dce47e0",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 4",
+            "parentItemId": 926329,
+            "hotspots": [
+                {
+                    "name": "Audio for #b14b8743-a784-4f1d-ad1d-9ea1536cabcf",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b14b8743-a784-4f1d-ad1d-9ea1536cabcf"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #a7057e6d-8bbb-45c0-8010-31803cc33108",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a7057e6d-8bbb-45c0-8010-31803cc33108"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #f5db05e4-b124-4d67-bc05-a0cdca8dfaba",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f5db05e4-b124-4d67-bc05-a0cdca8dfaba"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "4-4",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.090104155,
+                        "height": 0.052111585,
+                        "positionX": 0.46510416,
+                        "positionY": 0.08093926,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#34a853",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "7ba2fec5-43c5-44ce-83de-6239f3f81ea8",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 5",
+            "parentItemId": 926333,
+            "hotspots": [
+                {
+                    "name": "5-1",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.049110547,
+                        "height": 0.057791557,
+                        "positionX": 0.26488346,
+                        "positionY": 0.24148607,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#34a853",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "34981c59-f107-4a9d-9c07-4a4bb973bb26",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 6",
+            "parentItemId": 926338,
+            "hotspots": [
+                {
+                    "name": "Audio for #5768d7cc-1198-48c6-80b4-3ff109b3281a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5768d7cc-1198-48c6-80b4-3ff109b3281a"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #ebadadce-4f0e-411a-ba40-497fbeac28ae",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "ebadadce-4f0e-411a-ba40-497fbeac28ae"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "6-3",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.11406252,
+                        "height": 0.03958331,
+                        "positionX": 0.21718751,
+                        "positionY": 0.32812503,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": {
+                            "highlightColor": "#34a853",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "8a67c335-54e1-49fc-b965-d16eb1b5d343",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 7",
+            "parentItemId": 926344,
+            "hotspots": [
+                {
+                    "name": "7-1",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.15516841,
+                        "height": 0.043343637,
+                        "positionX": 0.214728,
+                        "positionY": 0.40350878,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#34a853",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "adea92f5-934b-48e4-9a41-6ea5776c7806",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 8",
+            "parentItemId": 926351,
+            "hotspots": [
+                {
+                    "name": "8-1",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.11964163,
+                        "height": 0.03818371,
+                        "positionX": 0.37825564,
+                        "positionY": 0.32610938,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "isHighlight": false,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": null,
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "f6312f76-3e52-4faf-b12a-9c6dbefaafec",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 9",
+            "parentItemId": 926359,
+            "hotspots": [
+                {
+                    "name": "9-1",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.15569085,
+                        "height": 0.04437564,
+                        "positionX": 0.37616584,
+                        "positionY": 0.3653251,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#34a853",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "45d445a6-0a59-4085-8c09-3eddb6611286",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 10",
+            "parentItemId": 926368,
+            "hotspots": [
+                {
+                    "name": "10-1",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.16143785,
+                        "height": 0.073271416,
+                        "positionX": 0.53446895,
+                        "positionY": 0.3890609,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#34a853",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "d72015f7-8894-4e7b-a0eb-46fa7a8f82bd",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 11",
+            "parentItemId": 926378,
+            "hotspots": [
+                {
+                    "name": "Audio for #53e52f64-f449-4053-bb45-38801c0084fa",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "53e52f64-f449-4053-bb45-38801c0084fa"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #f0e0c411-6d80-43bc-a6b4-5d054921dee3",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f0e0c411-6d80-43bc-a6b4-5d054921dee3"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #8e4c5952-5f6b-4c96-80f0-4616ac4b237a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8e4c5952-5f6b-4c96-80f0-4616ac4b237a"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "27ae3076-a7fb-4fe2-b147-813317f21ca5",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 12",
+            "parentItemId": 926389,
+            "hotspots": [
+                {
+                    "name": "Audio for #c7bdbafb-e0ca-4dcd-8599-fbaf94a60d85",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c7bdbafb-e0ca-4dcd-8599-fbaf94a60d85"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        }
+    ]
+}

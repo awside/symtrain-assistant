@@ -1,0 +1,797 @@
+{
+    "name": "TRAINEE STARTS HERE: How did you do? View your Playback!  ",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Jim",
+    "voiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "d81397f8-2a08-48de-968b-c0140eba3921",
+            "sequenceNumber": 1,
+            "fileTranscript": "Congratulations on running your first sym. Now lets see how you did. From here you can already see your Completion Time, Keyword and Click score.",
+            "fileId": "c9bb1959-9935-4aa7-b2e9-e027123862ca",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "093e47ab-3f5e-4439-8bfd-068dcf4ceea7",
+            "sequenceNumber": 3,
+            "fileTranscript": "All of the playbacks for every sym you execute will always be in Playback on the left side of the screen, last tab, with the headphone icon.",
+            "fileId": "815135f1-b70d-4e01-a082-29aaf62dbe3e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3ade6337-b50f-49b8-ac9b-17ad4c80beff",
+            "sequenceNumber": 21,
+            "fileTranscript": "Great Job! This concludes your simulation.",
+            "fileId": "33ae0d35-d0a1-4627-a855-a5d55f97d95f",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "95f4bdde-a2d1-4fcd-bf88-0c973cd1ba48",
+            "sequenceNumber": 2,
+            "fileTranscript": "Keywords are structure words in the the conversation that are good word choices or can even be compliance words that must be said. If the sym has no agent lines you will not have a keyword score. Click score is scoring where on the visual components of the sym you navigated and clicked through during the process. Click score will only be in visual syms.",
+            "fileId": "624b1b12-2eb5-4678-9a9d-ad2c0f4c6faa",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b65a8f3a-7fb2-4c82-90a0-228225272746",
+            "sequenceNumber": 4,
+            "fileTranscript": "For now, Click the Green View Playback button to see more detail on how you did.",
+            "fileId": "95ec7cea-0ad4-495a-bd4a-4d2acdef00c0",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "43a080fa-d5d8-4684-a83e-5ff4b3bfa022",
+            "sequenceNumber": 5,
+            "fileTranscript": "Starting at the top left, you can see every attempt you have completed of this sym, and the playback for each. This allows you to see how you are improving with each attempt.",
+            "fileId": "68f9f940-7e2c-4506-8990-baf03b4283ed",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "13d8bd81-57be-4ed8-9cdb-957894375276",
+            "sequenceNumber": 6,
+            "fileTranscript": "You can also see if you completed it in Practice or Test Mode, the day and time completed, and you can even click re-attempt and do it again.",
+            "fileId": "36cf9007-69ac-44c7-a871-ac586ba16c9a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "af3d4221-a189-41d5-8e2f-6849131c9528",
+            "sequenceNumber": 15,
+            "fileTranscript": "As a reminder you will not receive a sentiment score in your practice attempts, only in your test attempts, and if your sym has no agent lines, you will not have a sentiment score.",
+            "fileId": "9d8e331c-a658-44c6-be47-a6cddc801d3d",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "fe22f811-4bff-4f3c-a1eb-834a5fc1f0ae",
+            "sequenceNumber": 7,
+            "fileTranscript": "Next you will see your Sym Accuracy Score. This measures how well your response matched the intent of what the customer was asking in the customer script line. If this is a beginner sym your score should be in the 90% range, because you would have said the script line pretty close to word for word, to learn the intent. In Intermediate and Advanced Syms, when you are formulating your own words, this score might go down, but you want to aim for the 80-90% range, so that your intent is matching the need of the customer as closely as possible. If your sym has no agent lines you will not have a sym accuracy score.",
+            "fileId": "d9e6d69d-7d23-4e5a-91be-595e055d3774",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c0116742-660d-4a87-a74c-4df38ce2f777",
+            "sequenceNumber": 8,
+            "fileTranscript": "Completion time is important because if it is taking you longer to navigate the conversation and screens, it can be an indication that you just need to practice the beginner sym more to learn the process better. It won't take long before you will know exactly what to do. Keep practicing.",
+            "fileId": "4a1fac62-3397-46f6-9a9a-8339349ca728",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "e6ca74f0-851f-4d6e-a0f3-22787822086d",
+            "sequenceNumber": 9,
+            "fileTranscript": "The first number in the keyword score is your score, and the second is the possible score. Keywords are structure words that are good word choices you will want to say, or they can even be compliance words you must say. Keywords guide you to the best and fastest way to customer resolution and satisfaction.",
+            "fileId": "4991ea49-afb8-4de8-91eb-5cdd999f11a8",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "5f9c1275-9593-49fe-9135-fa6f9e4a2055",
+            "sequenceNumber": 10,
+            "fileTranscript": "The first number in the click score is your score, and the second is the possible score. Click scores are the places on the screens where you clicked, and it scored you if you clicked in the correct place.",
+            "fileId": "5a46c321-1dec-4ac0-8d24-9953f497b0f3",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "580340f6-3084-45c5-b79c-8c0cb78a8227",
+            "sequenceNumber": 12,
+            "fileTranscript": "Text Field Keyword score will appear if the sym was created with keywords in the Text Fields that can be put into visual syms. A best practice is to always enter text into those fields exactly as directed because you never know if that text will be a keyword or not until you finish.",
+            "fileId": "bd6b7c3b-3f52-42ea-b4b2-0d14b0193aeb",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "6285c105-c02a-4c9a-979d-b7f8defb5111",
+            "sequenceNumber": 13,
+            "fileTranscript": "Confidence, Concentration and Energy are your sentiment scores. These scores are calculated by the level of intent you deliver the script line in the areas of confidence, concentration and energy. These are not calculated on your voice or tone, but on how confident your level of intent is, how your focus or concentration level and how your pace or energy level of intent is. The sentiment score is calculated for the entire sym, not one part or another.",
+            "fileId": "d94a8d56-1f2b-40bd-8cc5-75fd15c71311",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "09d72bf0-dc8a-4ef0-b4ec-0ba34432d578",
+            "sequenceNumber": 14,
+            "fileTranscript": "The measurement for sentiment scores will be High, Medium or Low, and you can click the insights to learn more about what you did well, and what you can do to improve.",
+            "fileId": "07351a0f-e9bd-4d63-a629-99fd90ca0a89",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "403044d1-e36a-42b5-819a-017b4c5170a4",
+            "sequenceNumber": 16,
+            "fileTranscript": "The playback also allows you to listen to a recording of you executing the sym. You can click a script line below and the recording will skip to that part of the recording if you wanted to only listen to a certain part.",
+            "fileId": "a0053ef5-df4d-4856-8640-15d28d28dbf8",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "e0b07d4c-ad49-4fcc-be8a-692b2522ceb2",
+            "sequenceNumber": 17,
+            "fileTranscript": "If you see a dot in the recording like this, this is the Text Field Key Word Score we just talked about. This will show you if you got that word or if you missed it. As you can see I missed it because it is red, and it gave me the correct response.",
+            "fileId": "c8a35645-e7a9-4ffa-9515-9b0755624fb7",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "1e6de5f8-50aa-4476-86d6-9ba5ea1a023e",
+            "sequenceNumber": 18,
+            "fileTranscript": "The bottom part of the playback page is the actual script. The highlighted words are the keywords. If they are green I got them. If they are red I missed them. You will also notice the KS and SA and then a number score, like 3/4 and a percent, such as 86%. These are your Keyword Scores and Sym Accuracy scores by script line. The first number in the keyword score is your score and the second is the possible score. The Sym Accuracy score tells you how you did in this line with intent compared to the customer script line you were responding to.",
+            "fileId": "d5b5ddb4-c714-4597-a800-f0a7b6dff73f",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3c60e667-f489-4244-8ac6-cb949a17ec87",
+            "sequenceNumber": 19,
+            "fileTranscript": "This gives you the ability to see exactly in the sym where you can improve on keywords and sym accuracy. The total Sym Accuracy and Keyword scores at the top are a total of these by script line totals.",
+            "fileId": "b2597c51-411d-4ecf-8946-847e888e96b7",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "5475542b-dc94-47be-92d7-05092710f893",
+            "sequenceNumber": 20,
+            "fileTranscript": "And finally you will always see the scripted line with the keywords you said or did not say vs what you said in response. The default is to show both, but you can toggle that off if you want to just see the scripted line and the keywords you said or did not say.",
+            "fileId": "208391ef-65d5-4de0-a51f-a0b27770cd21",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a0c2a07e-0950-4139-8ec6-0609fa84b032",
+            "sequenceNumber": 11,
+            "fileTranscript": "The Sym Score will equal a combined score of the different scoring options. If a sym has all three, Sym Accuracy, Keyword and Click Score, the sym score will be total of all, as one sym score. If a sym has two or only one of these scoring options, the sym score will equal the total of only the scoring options used in that sym.",
+            "fileId": "47f3b9cd-7411-40fe-b02e-e9282beaa98f",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "a8b2bc7a-226c-4818-923c-37d5676b2e54",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Audio for #3ea9b915-9fc1-486c-84a3-3be9936809db",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d81397f8-2a08-48de-968b-c0140eba3921"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "total scores",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.536007292616226,
+                        "height": 0.18962722852512157,
+                        "positionX": 0.3236098450319052,
+                        "positionY": 0.5413290113452188,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "3",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.1640838650865998,
+                        "height": 0.13290113452188007,
+                        "positionX": 0.5223336371923427,
+                        "positionY": 0.5705024311183144,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "4",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.16317228805834094,
+                        "height": 0.1280388978930308,
+                        "positionX": 0.6973564266180492,
+                        "positionY": 0.5721231766612642,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #a28d9091-592b-4209-9385-e30d279a03ef",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "95f4bdde-a2d1-4fcd-bf88-0c973cd1ba48"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "5",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.09571558796718324,
+                        "height": 0.055105348460291734,
+                        "positionX": 0.010938924339106657,
+                        "positionY": 0.2544570502431118,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Audio for #ad978f27-074d-4049-8d6d-a12d280f7ac7",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "093e47ab-3f5e-4439-8bfd-068dcf4ceea7"
+                        }
+                    ],
+                    "sequenceNumber": 7
+                },
+                {
+                    "name": "Audio for #55713705-8556-4d99-a604-f2b8bf5179c1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b65a8f3a-7fb2-4c82-90a0-228225272746"
+                        }
+                    ],
+                    "sequenceNumber": 8
+                },
+                {
+                    "name": "1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.2014585232452142,
+                        "height": 0.0907617504051864,
+                        "positionX": 0.6125797629899726,
+                        "positionY": 0.8541329011345219,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 9
+                }
+            ]
+        },
+        {
+            "fileId": "8dd3a0fe-954f-4da5-b9ce-4bf68b9aba6b",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 2",
+            "parentItemId": 1498945,
+            "hotspots": [
+                {
+                    "name": "1",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.6253418413855971,
+                        "height": 0.06807131280388978,
+                        "positionX": 0.2670920692798541,
+                        "positionY": 0.2560777957860616,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #8c8abfe2-c95d-453d-926e-7b1245a670e0",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "43a080fa-d5d8-4684-a83e-5ff4b3bfa022"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #ad46ccbe-458c-4ba6-98ca-4ffcc8c76126",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "13d8bd81-57be-4ed8-9cdb-957894375276"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "2",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.7757520510483136,
+                        "height": 0.15883306320907617,
+                        "positionX": 0.20601640838650867,
+                        "positionY": 0.34035656401944897,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #1fed2319-81ff-4a82-adb8-35b858a88331",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "fe22f811-4bff-4f3c-a1eb-834a5fc1f0ae"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Audio for #87557698-b283-4e9a-8156-fba97661e825",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c0116742-660d-4a87-a74c-4df38ce2f777"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Audio for #95d0cb33-1477-4f2c-aeae-f829090cfb7f",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e6ca74f0-851f-4d6e-a0f3-22787822086d"
+                        }
+                    ],
+                    "sequenceNumber": 7
+                },
+                {
+                    "name": "Audio for #15a61bfc-df6b-4c27-b9d2-69467d8324b6",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5f9c1275-9593-49fe-9135-fa6f9e4a2055"
+                        }
+                    ],
+                    "sequenceNumber": 8
+                },
+                {
+                    "name": "text",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.19325432999088424,
+                        "height": 0.16045380875202594,
+                        "positionX": 0.2014585232452142,
+                        "positionY": 0.5218800648298217,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 9
+                },
+                {
+                    "name": "Audio for #ce6448e9-f074-4c9d-ae5c-b302d53d01ae",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a0c2a07e-0950-4139-8ec6-0609fa84b032"
+                        }
+                    ],
+                    "sequenceNumber": 10
+                },
+                {
+                    "name": "Audio for #6109f7cc-870b-43ac-9407-a26328018f48",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "580340f6-3084-45c5-b79c-8c0cb78a8227"
+                        }
+                    ],
+                    "sequenceNumber": 11
+                },
+                {
+                    "name": "sentiment",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.5843208751139471,
+                        "height": 0.16045380875202594,
+                        "positionX": 0.4029170464904284,
+                        "positionY": 0.520259319286872,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 12
+                },
+                {
+                    "name": "Audio for #3cf5643a-53df-4481-a155-35467c7af7cf",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "6285c105-c02a-4c9a-979d-b7f8defb5111"
+                        }
+                    ],
+                    "sequenceNumber": 13
+                },
+                {
+                    "name": "Audio for #7ede54b9-7080-452a-8670-0543e46e878b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "09d72bf0-dc8a-4ef0-b4ec-0ba34432d578"
+                        }
+                    ],
+                    "sequenceNumber": 14
+                },
+                {
+                    "name": "insight",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.16134913400182316,
+                        "height": 0.04538087520259319,
+                        "positionX": 0.41294439380127623,
+                        "positionY": 0.6223662884927067,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 15
+                }
+            ]
+        },
+        {
+            "fileId": "7efbfe71-5436-4679-8a66-d7d5677f873e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 3",
+            "parentItemId": 1498946,
+            "hotspots": [
+                {
+                    "name": "high",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.1349134001823154,
+                        "height": 0.11021069692058348,
+                        "positionX": 0.22424794895168643,
+                        "positionY": 0.2171799027552674,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "right",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.1367365542388332,
+                        "height": 0.05348460291734198,
+                        "positionX": 0.21969006381039197,
+                        "positionY": 0.33225283630470015,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "improve",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.14676390154968094,
+                        "height": 0.04862236628849271,
+                        "positionX": 0.2123974475843209,
+                        "positionY": 0.49756888168557534,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #b1bde072-4103-4c15-9bb1-00920d66b98e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "af3d4221-a189-41d5-8e2f-6849131c9528"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "d6cd5294-580d-483c-9d94-b4f1d3bfa1d3",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 4",
+            "parentItemId": 1498947,
+            "hotspots": [
+                {
+                    "name": "play",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.08113035551504102,
+                        "height": 0.16369529983792544,
+                        "positionX": 0.007292616226071103,
+                        "positionY": 0.03241491085899514,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #c26c96de-7d2e-4e05-be2b-158a6e0f8044",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "403044d1-e36a-42b5-819a-017b4c5170a4"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "script",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.6089334548769371,
+                        "height": 0.1912479740680713,
+                        "positionX": 0.37556973564266183,
+                        "positionY": 0.4651539708265802,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "a820db8e-6746-47c3-9e3f-94cd9e77bb63",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 6",
+            "parentItemId": 1498948,
+            "hotspots": [
+                {
+                    "name": "dot",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.15587967183226983,
+                        "height": 0.19611021069692056,
+                        "positionX": 0.7602552415679125,
+                        "positionY": 0.5510534846029174,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #cd50b529-3d44-46a4-b16d-f595ed33ecc4",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e0b07d4c-ad49-4fcc-be8a-692b2522ceb2"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "b55b71b2-ebe9-4ae1-a408-20b40f94c6fa",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 5",
+            "parentItemId": 1498949,
+            "hotspots": [
+                {
+                    "name": "script",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.7903372835004557,
+                        "height": 0.4019448946515397,
+                        "positionX": 0.19416590701914313,
+                        "positionY": 0.5656401944894651,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "scores",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.1686417502278943,
+                        "height": 0.09238249594813616,
+                        "positionX": 0.3053783044667274,
+                        "positionY": 0.7811993517017828,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #b28ec033-c93d-4041-9289-3b5935d0e3f0",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "1e6de5f8-50aa-4476-86d6-9ba5ea1a023e"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #dd564723-87c4-4dce-8312-0faf3c0ed63a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3c60e667-f489-4244-8ac6-cb949a17ec87"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "1",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.04284412032816773,
+                        "height": 0.04051863857374392,
+                        "positionX": 0.9462169553327257,
+                        "positionY": 0.5153970826580226,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Audio for #e7432cd1-3293-4d2e-a934-0cda1717d05a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5475542b-dc94-47be-92d7-05092710f893"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Audio for #8185ccc1-b902-4a77-b5b7-8480f0bab621",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3ade6337-b50f-49b8-ac9b-17ad4c80beff"
+                        }
+                    ],
+                    "sequenceNumber": 7
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,680 @@
+{
+    "name": "Copy TLE eApp-Final Producer Signature 2",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Ethan",
+    "voiceId": "a1daa3a1-800c-11ed-a9d0-02719d001499",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "fb10130c-5619-4120-8619-90b6127ea47c",
+            "sequenceNumber": 1,
+            "fileTranscript": "Da da da da.",
+            "fileId": "2bfb0333-3694-480f-a873-7eca6beebb8a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "dd912049-4d62-4bcc-8f70-19c53daf8a2b",
+            "sequenceNumber": 2,
+            "fileTranscript": "You did it! You have made it to the last sym of the TLE e Application module.",
+            "fileId": "54b4a80c-276c-410e-b92b-a280a8217481",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "7cd79c72-9edd-4f90-a7a8-6d9151fa3b42",
+            "sequenceNumber": 3,
+            "fileTranscript": "Let’s get this application submitted and our customer covered!",
+            "fileId": "c4e9140a-6aa8-4051-aec0-043bfbcec142",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "211cc557-7e37-4873-ab7e-30bced317f75",
+            "sequenceNumber": 4,
+            "fileTranscript": "What did we learn today? Take a moment to review some of the key learnings from this sym.",
+            "fileId": "8e20c684-fcbb-4dc0-9a05-8297221a4b3d",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a5304e94-e94c-4dbf-9045-aba05d62439e",
+            "sequenceNumber": 5,
+            "fileTranscript": "Click the lightbulb when you are ready to continue.",
+            "fileId": "62e83d6a-07f3-4cbe-a011-405dbbbc826c",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c1b0f7e3-0f97-49f7-a26c-fb4594e9eb65",
+            "sequenceNumber": 6,
+            "fileTranscript": "Congratulations! You did it! You have completed the initial TLE eApplication training. I still have a few things to teach you, but you have accomplished a huge milestone getting through the application!",
+            "fileId": "d07dda93-7b84-4b90-a317-82f346cea309",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3d6ae561-d925-4f53-9642-969ce552fe04",
+            "sequenceNumber": 7,
+            "fileTranscript": "I am so proud of you! Give yourself a pat on the back and eat some cake or something! You deserve it.",
+            "fileId": "91bac3a6-f9ec-48f1-90f1-7785c9f2ea31",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "a77a034b-49ee-44ad-b63b-67df2a234fd9",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "1. Screen - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Audio for #0adbe051-b09c-435f-b6a1-f684da709148",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "fb10130c-5619-4120-8619-90b6127ea47c"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #8935593b-f4cf-4c5d-a7e7-4ec19c2cc2e8",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "dd912049-4d62-4bcc-8f70-19c53daf8a2b"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #60b145e7-e8c9-4e5c-ab7e-e9432857b8f2",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "7cd79c72-9edd-4f90-a7a8-6d9151fa3b42"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "d8665f6f-c122-4afc-afd3-c8777387d2b1",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "2. Screen - 3",
+            "parentItemId": 4389732,
+            "hotspots": [
+                {
+                    "name": "You just",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "You just completed your producer statement questions and moved forward to this page. Review the Terms of Use and eSignature consent. Click the scroll button when you’re ready to view the rest of the terms. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "fd53fee5-50f2-49d7-9a50-c2f3dc392b82"
+                        },
+                        "width": 0.3289241622574956,
+                        "height": 0.4278996865203762,
+                        "fontSize": 24,
+                        "positionX": 0.6349206349206349,
+                        "positionY": 0.2006269592476489,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Scroll",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.018624338624338623,
+                        "height": 0.032,
+                        "positionX": 0.9788359788359788,
+                        "positionY": 0.7351097178683386,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "32f6a2a4-7d30-4146-93ba-ff3100f9c6d7",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "3. Screen - 4",
+            "parentItemId": 4389733,
+            "hotspots": [
+                {
+                    "name": "Next",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Next, you will review the application and other forms. Click the Review Your Application button. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "9b166fb0-5268-4760-b4e1-7ad8ef8c49a2"
+                        },
+                        "width": 0.2768959435626102,
+                        "height": 0.3934169278996865,
+                        "fontSize": 24,
+                        "positionX": 0.6763668430335097,
+                        "positionY": 0.2272727272727273,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Review",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.3439153439153439,
+                        "height": 0.045454545454545456,
+                        "positionX": 0.16049382716049382,
+                        "positionY": 0.8793103448275862,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "ea08d9df-989e-4909-8a98-f0539e02ef65",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "4. Screen - 5",
+            "parentItemId": 4389734,
+            "hotspots": [
+                {
+                    "name": "This will",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "This will open the documents and application in a new window. You can read this through in its entirety if you would like, but it is not required. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "0ffc32d4-e6a2-4d93-8941-351dbb7e68c6"
+                        },
+                        "width": 0.24779541446208111,
+                        "height": 0.3573667711598746,
+                        "fontSize": 24,
+                        "positionX": 0.006172839506172839,
+                        "positionY": 0.0768025078369906,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Close",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.036155202821869487,
+                        "height": 0.047021943573667714,
+                        "positionX": 0.6111111111111112,
+                        "positionY": 0.7836990595611285,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "7db41b99-addc-4b65-8b1c-b73e4ba9d599",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "5. Screen - 6",
+            "parentItemId": 4389735,
+            "hotspots": [
+                {
+                    "name": "Now",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Now that you’ve reviewed the pop up window, you’ll see a checkbox appears for you to acknowledge that you have reviewed the application and terms and read each of the pages that are to be e signed. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "8382eca9-d2dd-4a5a-bfec-092dd7b7f953"
+                        },
+                        "width": 0.3871252204585538,
+                        "height": 0.3181818181818182,
+                        "fontSize": 24,
+                        "positionX": 0.5784832451499118,
+                        "positionY": 0.23824451410658307,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "I have",
+                    "type": "CHECKBOX",
+                    "settings": {
+                        "width": 0.018624338624338623,
+                        "height": 0.034482758620689655,
+                        "positionX": 0.5158730158730159,
+                        "positionY": 0.8824451410658307,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "dfadaf8d-d15d-4e97-a75f-1e17ad81be5f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "6. Screen - 7",
+            "parentItemId": 4389736,
+            "hotspots": [
+                {
+                    "name": "Next",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.13668430335097,
+                        "height": 0.05329153605015674,
+                        "positionX": 0.2998236331569665,
+                        "positionY": 0.9373040752351096,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "ceaa1d53-3c0f-47d8-8ce8-8b41201de94e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "7. Screen - 8",
+            "parentItemId": 4389737,
+            "hotspots": [
+                {
+                    "name": "Check",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Check the box to acknowledge that you understand the forms presented and agree to the electronic signature. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "428d658e-cb14-4282-a660-976e1adbfa49"
+                        },
+                        "width": 0.3421516754850088,
+                        "height": 0.2727272727272727,
+                        "fontSize": 24,
+                        "positionX": 0.6261022927689595,
+                        "positionY": 0.3949843260188088,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Agree",
+                    "type": "CHECKBOX",
+                    "settings": {
+                        "width": 0.020282186948853614,
+                        "height": 0.032,
+                        "positionX": 0.16313932980599646,
+                        "positionY": 0.2601880877742947,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "37ab3b23-8112-4899-a5d8-185d09c51013",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "8. Screen - 9",
+            "parentItemId": 4389738,
+            "hotspots": [
+                {
+                    "name": "City",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "When it comes time to enter the “Signed at” city and state, you’ll need to enter the city and state that match the residence listed on the application. You do NOT enter the city and state where you physically work. Anthony lives in Omaha, Nebraska. Enter in the information, then click Apply e Signature. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "632bd783-4451-4ac1-948d-9b102640c7a2"
+                        },
+                        "width": 0.5308641975308642,
+                        "height": 0.3573667711598746,
+                        "fontSize": 24,
+                        "positionX": 0.03262786596119929,
+                        "positionY": 0.6238244514106583,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Signed at",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.2654320987654321,
+                        "height": 0.034482758620689655,
+                        "fontSize": 16,
+                        "positionX": 0.16490299823633156,
+                        "positionY": 0.44200626959247646,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Omaha",
+                        "highlightProp": {
+                            "highlightColor": "#2F9E0C",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "1cefb3ab-1e08-45ab-8b1a-a8c443fc1de2",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "9. Screen - 10",
+            "parentItemId": 4389739,
+            "hotspots": [
+                {
+                    "name": "Click",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click Submit to United of Omaha to submit the completed application. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "bf81f0cb-aefb-4b1a-b44d-50fe532427e6"
+                        },
+                        "width": 0.32451499118165783,
+                        "height": 0.46238244514106586,
+                        "fontSize": 24,
+                        "positionX": 0.6305114638447972,
+                        "positionY": 0.5062695924764891,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Submit",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.41887125220458554,
+                        "height": 0.048589341692789965,
+                        "positionX": 0.15961199294532627,
+                        "positionY": 0.6300940438871473,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "0a90c04d-0190-4344-9805-fc06c0c9cdca",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "10. Screen - 11",
+            "parentItemId": 4389740,
+            "hotspots": [
+                {
+                    "name": "Congrats",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Congratulations! You have submitted the application. You will see at the bottom the policy number and whether the application was approved, referred, or denied.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1daa3a1-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Ethan"
+                            },
+                            "fileId": "fbf1ab7a-66af-4dce-b2b3-a93d8676de3b"
+                        },
+                        "width": 0.3959435626102293,
+                        "height": 0.5736677115987461,
+                        "fontSize": 24,
+                        "positionX": 0.5855379188712522,
+                        "positionY": 0.1238244514106583,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "policy number",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.12248186946011282,
+                        "height": 0.04297994269340974,
+                        "positionX": 0.1563255439161966,
+                        "positionY": 0.6934097421203438,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Approved",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.17405318291700242,
+                        "height": 0.06160458452722063,
+                        "positionX": 0.16116035455278002,
+                        "positionY": 0.8467048710601719,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "CT2",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "We will discuss what to do in each situation in future training. But for now, this concludes your TLE e App simulations!",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "e3f036fc-1832-40cd-ade8-8af54c500723"
+                        },
+                        "width": 0.410958904109589,
+                        "height": 0.3194842406876791,
+                        "fontSize": 24,
+                        "positionX": 0.5785656728444802,
+                        "positionY": 0.3868194842406877,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "d42ff390-d0f8-47e0-a8a2-c7daaf3adbd0",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "11. Screen - 12",
+            "parentItemId": 4389741,
+            "hotspots": [
+                {
+                    "name": "Audio for #0218e2a6-b449-4b71-b964-15f2019348ea",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "211cc557-7e37-4873-ab7e-30bced317f75"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #657e0258-f7bd-45c2-8ffb-04eaea28186e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a5304e94-e94c-4dbf-9045-aba05d62439e"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "LB",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.07495590828924162,
+                        "height": 0.14576802507836992,
+                        "positionX": 0.07142857142857142,
+                        "positionY": 0.14106583072100312,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "ed982f03-c52e-40d5-ba9d-9f90ebfb9883",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "12. Screen - 13",
+            "parentItemId": 4389742,
+            "hotspots": [
+                {
+                    "name": "Audio for #fecc1f54-eedc-4535-b986-76b1c90ca4c8",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c1b0f7e3-0f97-49f7-a26c-fb4594e9eb65"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #248dc839-0472-4335-acce-5e11245085ed",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3d6ae561-d925-4f53-9642-969ce552fe04"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2007 @@
+{
+    "name": "Salesforce Quote Tool",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Jim",
+    "voiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "c4662ca8-884d-4a97-a574-4d2626b0bdd5",
+            "sequenceNumber": 1,
+            "fileTranscript": "Today we’re turning quoting chaos into quoting confidence—because pricing shouldn’t feel like rocket science!",
+            "fileId": "afe3e57a-bff2-4b1d-9aae-cb44faf5f19a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "d3aca039-35e0-4b90-a522-57403911be15",
+            "sequenceNumber": 1,
+            "fileTranscript": "Here are a few tips for how to navigate throughout this Sym. Click the arrow when you’re ready to continue.",
+            "fileId": "7c4ddb01-00a8-4a49-860b-7863f067ebeb",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "aeb09dd4-e072-4c37-a76d-687b5702fc91",
+            "sequenceNumber": 3,
+            "fileTranscript": "The Quote Tool is a new tab available within a prospect or client record.",
+            "fileId": "9f35d569-d122-455d-8419-1eb3bb1f2244",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a72a6b3d-b144-4ba7-b531-1f7e852e1306",
+            "sequenceNumber": 4,
+            "fileTranscript": "Quote Parameter fields will auto populate with the available profile information of that record.",
+            "fileId": "168f88a7-e4a9-47a5-ab43-b2125fa48650",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "6617c4fe-33df-49e5-8751-b5b71abbb867",
+            "sequenceNumber": 5,
+            "fileTranscript": "Let’s go check it out in action in my favorite place, Salesforce!",
+            "fileId": "e0243cb4-0be9-4979-a9fb-837c50dc365e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "981c610d-b43e-4ac4-8675-b2a75dfc582d",
+            "sequenceNumber": 6,
+            "fileTranscript": "Great job getting a quote for Tim and his granddaughter.",
+            "fileId": "07123a64-1cf6-422b-ab6d-5541b609c9f4",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3e66db33-4bf1-4170-8250-10c0eba72e62",
+            "sequenceNumber": 7,
+            "fileTranscript": "What if you have a caller on the line looking for a quote and they don’t have a Salesforce profile?",
+            "fileId": "3905b12a-a159-4589-822e-5dcef72b123c",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a4313547-9b9b-4b82-8aa3-886e83d2a4d5",
+            "sequenceNumber": 8,
+            "fileTranscript": "There’s a quote tool for that situation too, using the DSC Quote Tool located at the bottom left of your Salesforce task bar.",
+            "fileId": "3f73b5cb-c6e7-4810-89c2-3cfadfb3d7a2",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "37133d72-9e09-415f-9118-a9c90b9bee5a",
+            "sequenceNumber": 9,
+            "fileTranscript": "Let's practice!",
+            "fileId": "2309dca2-b82b-4381-8bec-b58e531a6615",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "637119b2-ccbb-4490-a094-5c316c5f3ed5",
+            "sequenceNumber": 10,
+            "fileTranscript": "You’re really getting the hang of this quote tool!",
+            "fileId": "9437b77e-a531-4aec-b676-0e92eb35f177",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "88241161-d99f-4359-9d9d-0bd1f0efa35f",
+            "sequenceNumber": 11,
+            "fileTranscript": "I wanted to bring your attention to a few more smart features of the Quote Tool.",
+            "fileId": "f3e41699-554c-40c4-8b32-d23c4d8e4198",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "aea348af-3c1e-41d6-a2ee-b69a374e1361",
+            "sequenceNumber": 12,
+            "fileTranscript": "These features help make it easier for you to ensure you are providing accurate quotes on every call!",
+            "fileId": "2f7a51b7-e3cf-4d68-be7d-482ecbe22ff3",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "00c9cbbc-8f89-47c2-9a02-e603fdca8823",
+            "sequenceNumber": 13,
+            "fileTranscript": "What did we learn today? Take a moment to review some of the key learnings from this sym.",
+            "fileId": "42c498bb-56d4-47ab-b571-3f6ff15886ba",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "8e3ae846-7ecf-432a-b349-5c2520cbbc9a",
+            "sequenceNumber": 14,
+            "fileTranscript": "Click the lightbulb when you are ready to continue.",
+            "fileId": "7d6cdaef-efea-494f-a41b-afab17a4a105",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "f2d66fb1-1e03-4dcd-a756-685046666cf7",
+            "sequenceNumber": 15,
+            "fileTranscript": "Now that you’ve learned the Salesforce Quote Tool, go hit the phones and quote like a pro—fast, fearless, and fabulously accurate!",
+            "fileId": "cc6de0ce-be7f-4e67-bce7-ba14acb7cbd1",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "48c15273-89b9-4884-97d4-2e42587ebe4f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "1. Screen - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Audio for #9a6804e4-2cf8-4a6b-aa8c-8800170a79e4",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c4662ca8-884d-4a97-a574-4d2626b0bdd5"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "967fa791-3e5f-4202-b9f7-51f6485ebdfb",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "2. Screen - 2",
+            "parentItemId": 4284873,
+            "hotspots": [
+                {
+                    "name": "Audio for #995cfab6-d49c-4e99-9a25-07586e18b238",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d3aca039-35e0-4b90-a522-57403911be15"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Next",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.13456889605157132,
+                        "height": 0.11891117478510028,
+                        "positionX": 0.8581788879935536,
+                        "positionY": 0.8796561604584527,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "7198693d-e699-40cb-874f-97ab4ce2882e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "3. Screen - 3",
+            "parentItemId": 4284874,
+            "hotspots": [
+                {
+                    "name": "Audio for #a0350a95-710a-4cd5-b344-95f402538300",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "aeb09dd4-e072-4c37-a76d-687b5702fc91"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #118f7f21-485c-48ea-a56c-3674dc303312",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a72a6b3d-b144-4ba7-b531-1f7e852e1306"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #7abfa59e-9146-4247-82a4-e0fa7055fbc6",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "6617c4fe-33df-49e5-8751-b5b71abbb867"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Next",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1232876712328767,
+                        "height": 0.11174785100286531,
+                        "positionX": 0.8678485092667204,
+                        "positionY": 0.8825214899713467,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "fd043a0a-cd22-49bb-96b5-03b9c8b7283e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "4. Screen - 4",
+            "parentItemId": 4284875,
+            "hotspots": [
+                {
+                    "name": "CT1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "We have Tim Allen on the line and we’ve done our discovery to find out that the product that meets his needs will likely be around a $15,000 UCSL policy as long as it fits in his budget of $120 a month. Click the quote tool tab to give him a quote. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "2f321099-d29f-4c77-a4ef-d5263a8dfb14"
+                        },
+                        "width": 0.7453666398066076,
+                        "height": 0.4189568094358417,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.24335213537469785,
+                        "positionY": 0.5237366003062787,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Quote Tool",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.10072522159548752,
+                        "height": 0.044412607449856735,
+                        "positionX": 0.31296133192578296,
+                        "positionY": 0.4221358771725824,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "4afdde89-fe9c-47fa-97a2-305152128c28",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "5. Screen - 5",
+            "parentItemId": 4284876,
+            "hotspots": [
+                {
+                    "name": "CT1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "The quote tool pulled in the state, gender, and age from his profile into the quote parameters.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "2fabf620-ca0e-43e4-b1f2-3d794f2803ef"
+                        },
+                        "width": 0.5664786462530218,
+                        "height": 0.5254127961315858,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.40934730056406127,
+                        "positionY": 0.4058192955589586,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Info",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.23851732473811443,
+                        "height": 0.09025787965616046,
+                        "positionX": 0.1765844138087078,
+                        "positionY": 0.1427706376126057,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "CT2",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "We are going to quote UCSL1, so we can keep that. Change the face amount to $15,000.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "590c125b-7972-4c0d-a473-4da2cfc129d9"
+                        },
+                        "width": 0.5688960515713135,
+                        "height": 0.5162244347227036,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.40854149879129736,
+                        "positionY": 0.4150076569678407,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Face Amount",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.18917185648816184,
+                        "height": 0.058655884017779936,
+                        "options": [
+                            {
+                                "value": "$20,000.00",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "$19,000.00",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "$18,000.00",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "$17,000.00",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "$16,000.00",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "$15,000.00",
+                                "isCorrect": true
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.13899351818884076,
+                        "positionY": 0.8280209919393411,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "60afec61-c3db-46a2-bce3-1a90b7cd5fb1",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "6. Screen - 6",
+            "parentItemId": 4284877,
+            "hotspots": [
+                {
+                    "name": "CT1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click Get Quote",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "4fab8d2f-83e2-4b97-aac6-69cf604aa79e"
+                        },
+                        "width": 0.5382755842062853,
+                        "height": 0.5214899713467048,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.426324662462061,
+                        "positionY": 0.4111243237076398,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Get Quote",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.07010475423045931,
+                        "height": 0.05157593123209169,
+                        "positionX": 0.19862146125662047,
+                        "positionY": 0.8950688249516229,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "c57d553a-7691-4899-bac6-74287b83c971",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "7. Screen - 7",
+            "parentItemId": 4284878,
+            "hotspots": [
+                {
+                    "name": "CT1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Great work! A quote card has appeared, letting you know the monthly price for this policy is $141.10. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "050673d0-a3b7-44d1-86f3-eca4a399ce9b"
+                        },
+                        "width": 0.5785656728444802,
+                        "height": 0.19784595672606492,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.4029008863819501,
+                        "positionY": 0.7978560490045942,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Quote",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.35225891708848067,
+                        "height": 0.25644699140401145,
+                        "positionX": 0.3436928486307269,
+                        "positionY": 0.4929310170822784,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "CT2",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Tim said his budget for this policy was around $120 and he absolutely can not go over that. Let’s see if we can find him something in his budget. Click on the face amount drop down in the quote card to see what other options we have. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "1bec18e1-b892-40f5-be78-fe4583ddea5c"
+                        },
+                        "width": 0.5882352941176471,
+                        "height": 0.3467048710601719,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.05686975508762139,
+                        "positionY": 0.070327823534316,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Face Amount",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.14702238546475194,
+                        "height": 0.04936879379719785,
+                        "options": [
+                            {
+                                "value": "$14,000.00",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "$13,000.00",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "$12,000.00",
+                                "isCorrect": true
+                            },
+                            {
+                                "value": "$11,000.00",
+                                "isCorrect": false
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.38786133546548063,
+                        "positionY": 0.5693142077341957,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "77b0128f-449d-424c-8662-ba31dd0207e0",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "8. Screen - 8",
+            "parentItemId": 4284879,
+            "hotspots": [
+                {
+                    "name": "Click",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Notice how the menu here shows the face amount and price. We can see that the $12,000 policy is $113.08. This policy will offer the most coverage while staying within Tim's monthly budget of $120/month.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "31ad1016-88c6-49f5-aeb2-5e3c0a07efb7"
+                        },
+                        "width": 0.8945820847226325,
+                        "height": 0.2343032159264931,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.07441016333938294,
+                        "positionY": 0.7503828483920367,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0,
+                        "isVisibleAfterCompletion": false
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Get Quote",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1433806611738887,
+                        "height": 0.04871060171919771,
+                        "positionX": 0.38978040687090026,
+                        "positionY": 0.2687288555794942,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "60aedb86-f708-4d50-a829-0a1862a5d43a",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "9. Screen - 9",
+            "parentItemId": 4284880,
+            "hotspots": [
+                {
+                    "name": "CT1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Great! $12,000 of coverage is under his budget, $113.08. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "a94d7a1b-dfb9-4ab4-983d-be7e2c1179e2"
+                        },
+                        "width": 0.638136703125553,
+                        "height": 0.1820712865899947,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.33946880936368035,
+                        "positionY": 0.7366003062787136,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 14000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Face Amount",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.27611030253310487,
+                        "height": 0.24079298981557457,
+                        "options": [
+                            {
+                                "value": "$13,000.00",
+                                "isCorrect": true
+                            },
+                            {
+                                "value": "$12,000.00",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "$11,000.00",
+                                "isCorrect": false
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.7032178628415722,
+                        "positionY": 0.4621166579639048,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "63b7b356-fd61-4c50-9953-11382b0b0fb3",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "10. Screen - 14",
+            "parentItemId": 4284881,
+            "hotspots": [
+                {
+                    "name": "CT1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Great! Now, he tells you that the reason he didn’t want to go over $120 for himself is that he wants to put $30 towards getting his 8-year-old granddaughter a policy for as high as he can at that price. He says she is also in Colorado. Type in the age, 8. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "cd581f65-176b-4c90-bd2b-4c0f1ca07071"
+                        },
+                        "width": 0.6752292648325481,
+                        "height": 0.26328341312083964,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.02761311242843391,
+                        "positionY": 0.10425104323444365,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Age",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.1742447430283571,
+                        "height": 0.04,
+                        "fontSize": 16,
+                        "positionX": 0.14444604077870576,
+                        "positionY": 0.6048280582894905,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "8",
+                        "highlightProp": {
+                            "highlightColor": "#2F9E0C",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "a2432f75-d964-4a77-aa69-d0a70c0dc8e4",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "11. Screen - 26",
+            "parentItemId": 4284882,
+            "hotspots": [
+                {
+                    "name": "Change",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Change the Gender to Female. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "5796dcb2-0566-4b2f-94db-2d9fde2bed4d"
+                        },
+                        "width": 0.4780361757105943,
+                        "height": 0.12098009188361408,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.4453057708871662,
+                        "positionY": 0.7886676875957122,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0,
+                        "isVisibleAfterCompletion": false
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Gender",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.1377921031426269,
+                        "height": 0.04,
+                        "options": [
+                            {
+                                "value": "Male",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Female",
+                                "isCorrect": true
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.14755125794610077,
+                        "positionY": 0.6863934145688623,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "9285124a-4554-4edd-906b-5d3af259017e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "12. Screen - 15",
+            "parentItemId": 4284883,
+            "hotspots": [
+                {
+                    "name": "CT12",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Choose CWL as the product.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "3c092675-9f5d-4340-8800-4c21098356b4"
+                        },
+                        "width": 0.5624496373892024,
+                        "height": 0.167621776504298,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.4190169218372281,
+                        "positionY": 0.7421203438395415,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Product",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.18114229515387625,
+                        "height": 0.04297994269340974,
+                        "options": [
+                            {
+                                "value": "CWL",
+                                "isCorrect": true
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.144439100194961,
+                        "positionY": 0.7655388179747868,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "de31173c-b6e0-4a5d-94c1-69ef0ec8bfec",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "13. Screen - 16",
+            "parentItemId": 4284884,
+            "hotspots": [
+                {
+                    "name": "CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Finally, let’s see how much it would cost him to get the maximum amount of coverage for his granddaughter, $50,000. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "891d4792-b81f-4c89-8172-f6b571634460"
+                        },
+                        "width": 0.5608380338436745,
+                        "height": 0.4684813753581662,
+                        "fontSize": 24,
+                        "positionX": 0.4238517324738114,
+                        "positionY": 0.4369627507163324,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Face amount",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.17366798051916957,
+                        "height": 0.04,
+                        "options": [
+                            {
+                                "value": "$50,000.00",
+                                "isCorrect": true
+                            },
+                            {
+                                "value": "$49,000.00",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "$48,000.00",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "$47,000.00",
+                                "isCorrect": false
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.14846810905878047,
+                        "positionY": 0.8383984870358101,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "1cf16930-4051-431e-b862-c35bd64aa2f4",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "14. Screen - 17",
+            "parentItemId": 4284885,
+            "hotspots": [
+                {
+                    "name": "Get quote",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0692989524576954,
+                        "height": 0.05300859598853868,
+                        "positionX": 0.1959264325885393,
+                        "positionY": 0.8934869699908291,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "35d585f9-d9d2-4875-b13a-665b14222fb3",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "15. Screen - 19",
+            "parentItemId": 4284886,
+            "hotspots": [
+                {
+                    "name": "Let's",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Great news! The maximum amount of coverage for his granddaughter is just $23.17. He confirms he wants to purchase the $50,000 CWL. These two policies bring his monthly total right now to $136.25.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "950a0d07-bf7e-481d-8b94-1612d0243757"
+                        },
+                        "width": 0.6804478897502152,
+                        "height": 0.26186830015313933,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.021533161068044888,
+                        "positionY": 0.11944869831546708,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0,
+                        "isVisibleAfterCompletion": false
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Face Amount",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.279555608303992,
+                        "height": 0.1342382743081304,
+                        "options": [
+                            {
+                                "value": "$15,000.00",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "$14,000.00",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "$13,000.00",
+                                "isCorrect": true
+                            },
+                            {
+                                "value": "$12,000.00",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "$11,000.00",
+                                "isCorrect": false
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.695465924857076,
+                        "positionY": 0.46147382370105794,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "You let",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "You let Tim know the new total and that he could go a little higher with his own coverage and still stay under the $150 total budget. He could add about $14 and still be around his budget. Let’s see what he has for options to increase his coverage. Click on the Face Amount drop down in the UCSL1 quote card. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "92de861a-57fa-43c6-8234-3d473f094088"
+                        },
+                        "width": 0.6873385012919897,
+                        "height": 0.327718223583461,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.02239448751076658,
+                        "positionY": 0.11332312404287902,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0,
+                        "isVisibleAfterCompletion": false
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Click",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1421188630490956,
+                        "height": 0.03,
+                        "positionX": 0.3867355727820844,
+                        "positionY": 0.5803981623277182,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "263435a6-6f98-4e89-a7d7-afc696302781",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "16. Slide20",
+            "parentItemId": 4284887,
+            "hotspots": [
+                {
+                    "name": "Check",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Let’s check what his total is with a face Amount of $13,000.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "220b6045-4158-4de3-92c6-55ae06fcc854"
+                        },
+                        "width": 0.35314384151593453,
+                        "height": 0.31393568147013784,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.01636520241171404,
+                        "positionY": 0.10566615620214397,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0,
+                        "isVisibleAfterCompletion": false
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "13",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1438415159345392,
+                        "height": 0.033690658499234305,
+                        "positionX": 0.384151593453919,
+                        "positionY": 0.30627871362940273,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "6eccda2e-81a1-4330-8347-96180597d227",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "17. Screen - 20",
+            "parentItemId": 4284888,
+            "hotspots": [
+                {
+                    "name": "Total",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.2739018087855297,
+                        "height": 0.2894333843797856,
+                        "positionX": 0.7002583979328165,
+                        "positionY": 0.4563552833078101,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Let him know",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "You let him know that adding that extra $1,000 of coverage keeps him under $150 and he says he's ready to buy both! Navigate back to the sales tab to disposition the sale and open the first application. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "1966a648-fddb-4887-9e96-dabe846ccae1"
+                        },
+                        "width": 0.29371231696813094,
+                        "height": 0.49157733537519144,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.029285099052540915,
+                        "positionY": 0.44869831546707506,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0,
+                        "isVisibleAfterCompletion": false
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Age",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05711128740193821,
+                        "height": 0.04066530055244253,
+                        "positionX": 0.3287629589374244,
+                        "positionY": 0.34371448505245794,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "bff036a1-6b9f-40fc-82be-48e00452d51c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "18. Screen - 24",
+            "parentItemId": 4284889,
+            "hotspots": [
+                {
+                    "name": "CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "That concludes the first part of the simulation. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "d1d583d2-28dd-4415-82bb-b48e05c321c6"
+                        },
+                        "width": 0.7485898468976632,
+                        "height": 0.12893982808022922,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.15024489849743303,
+                        "positionY": 0.4142792577348539,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "8e4d3f43-c875-4b63-a51a-4c960c7d2abc",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "19. Screen - 25",
+            "parentItemId": 4284890,
+            "hotspots": [
+                {
+                    "name": "Audio for #6f934817-827a-4da3-a285-31f72b19cead",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "981c610d-b43e-4ac4-8675-b2a75dfc582d"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #8bcb46fa-6ed7-4bdf-ab0f-af35cf973f71",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3e66db33-4bf1-4170-8250-10c0eba72e62"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #727273e6-0afd-411d-80c1-5e155340ff01",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a4313547-9b9b-4b82-8aa3-886e83d2a4d5"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #8e5b03ef-1f20-4d6f-abe9-2249ecada243",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "37133d72-9e09-415f-9118-a9c90b9bee5a"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Next",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.128928283642224,
+                        "height": 0.11174785100286531,
+                        "positionX": 0.8638195004029009,
+                        "positionY": 0.8853868194842407,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 5
+                }
+            ]
+        },
+        {
+            "fileId": "af6e7f55-d33d-44dd-8ac8-f516f987a11c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "20. Screen - 27",
+            "parentItemId": 4284891,
+            "hotspots": [
+                {
+                    "name": "CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "If you have a caller on the line who will not let you create an account until they have gotten a quote, you can still use the standalone quote tool. Click on the tool in the bottom left of your screen. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "7801890e-65a8-4581-b1d2-0e4cf9af3994"
+                        },
+                        "width": 0.9605157131345688,
+                        "height": 0.29656160458452724,
+                        "fontSize": 24,
+                        "positionX": 0.016921837228041903,
+                        "positionY": 0.5630372492836676,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Quote Tool",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0934730056406124,
+                        "height": 0.04154727793696275,
+                        "positionX": 0.09667053257181248,
+                        "positionY": 0.9584527220630372,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "ba395f8b-1a58-4a31-95cc-95c818124e24",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "21. Screen - 28",
+            "parentItemId": 4284892,
+            "hotspots": [
+                {
+                    "name": "CT1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "You have Wilma on the line, a 68-year-old woman living in Iowa. She got a mailer for the CHS product and is interested in the price for the $200 Daily Room Benefit plan. She doesn’t want to give you any information unless she decides to buy. Change the state to Iowa.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "310a0ac8-42e3-4802-8ea3-39d91a788b61"
+                        },
+                        "width": 0.48912167606768736,
+                        "height": 0.6747851002865329,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.24093473005640612,
+                        "positionY": 0.22922636103151864,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "State",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.1788879935535858,
+                        "height": 0.034383954154727794,
+                        "options": [
+                            {
+                                "value": "Idaho",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Illinois",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Indiana",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Iowa",
+                                "isCorrect": true
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.030620467365028207,
+                        "positionY": 0.2819892319776039,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "25ae714f-070d-4a5c-9db8-081ae615b86b",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "22. Screen - 29",
+            "parentItemId": 4284893,
+            "hotspots": [
+                {
+                    "name": "CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Type in the age, 68.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "a099500e-0a45-43c7-9552-e7507e307edd"
+                        },
+                        "width": 0.46253021756647866,
+                        "height": 0.5730659025787965,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.23609991941982272,
+                        "positionY": 0.2335243553008596,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Product",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.18211120064464145,
+                        "height": 0.04011461318051576,
+                        "options": [
+                            {
+                                "value": "UCSL1",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "UCSL3",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "CWL",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "AD",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "CL10",
+                                "isCorrect": true
+                            },
+                            {
+                                "value": "CHS10",
+                                "isCorrect": false
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.028203062046736515,
+                        "positionY": 0.3755073563934585,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "68",
+                        "highlightProp": {
+                            "highlightColor": "#2F9E0C",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "183101ef-d694-40fa-9e03-0f5db758391d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "23. Screen - 30",
+            "parentItemId": 4284894,
+            "hotspots": [
+                {
+                    "name": "CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Change the Gender to female. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "b567327f-9349-4df7-9a6b-992fd5564c04"
+                        },
+                        "width": 0.3150684931506849,
+                        "height": 0.4484240687679083,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.24093473005640612,
+                        "positionY": 0.23065902578796557,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "DRB",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.18211120064464145,
+                        "height": 0.03868194842406877,
+                        "options": [
+                            {
+                                "value": "Male",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Female",
+                                "isCorrect": true
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.02814753737677863,
+                        "positionY": 0.476287533403248,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "073f9bb8-70eb-47db-8333-4bf84931977a",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "24. Screen - 31",
+            "parentItemId": 4284895,
+            "hotspots": [
+                {
+                    "name": "CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Change the Product to CHS10. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "ceeffe44-89d9-44cc-9942-fedb504efb77"
+                        },
+                        "width": 0.3385012919896641,
+                        "height": 0.41347626339969373,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.2988802756244617,
+                        "positionY": 0.23736600306278713,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0,
+                        "isVisibleAfterCompletion": false
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Product",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.18429123799886313,
+                        "height": 0.04727793696275072,
+                        "options": [
+                            {
+                                "value": "UCSL1",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "UCSL3",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "CWL",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "AD",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "CL10",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "CHS10",
+                                "isCorrect": true
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.02759506691069759,
+                        "positionY": 0.5664949516667618,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "6873a930-c45a-4067-8f9a-003dd1b856ab",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "25. Slide32",
+            "parentItemId": 4284896,
+            "hotspots": [
+                {
+                    "name": "Choose",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Choose the $200 Daily Room Benefit.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "69442a26-871b-458d-b8fd-2b33c0f784ec"
+                        },
+                        "width": 0.3832902670111972,
+                        "height": 0.4088820826952526,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.2739018087855297,
+                        "positionY": 0.21286370597243492,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0,
+                        "isVisibleAfterCompletion": false
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "DRB",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.18087855297157623,
+                        "height": 0.04,
+                        "options": [
+                            {
+                                "value": "$80",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "$120",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "$160",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "$200",
+                                "isCorrect": true
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.030146425495262703,
+                        "positionY": 0.663093415007657,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "83115a21-1b7c-4af5-b52a-5f6c848651b9",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "26. Slide33",
+            "parentItemId": 4284897,
+            "hotspots": [
+                {
+                    "name": "Get quote",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.07838070628768304,
+                        "height": 0.05666156202143951,
+                        "positionX": 0.08440999138673558,
+                        "positionY": 0.7274119448698315,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "01e7a750-1085-4fc1-9966-df343666e2a8",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "27. Screen - 32",
+            "parentItemId": 4284898,
+            "hotspots": [
+                {
+                    "name": "CT1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "As you can see, a quote for Wilma would be $53.81.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "e1718782-7ffc-4697-9c23-0dd5b22c7647"
+                        },
+                        "width": 0.6921837228041902,
+                        "height": 0.2664756446991404,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.0499597099113618,
+                        "positionY": 0.6361031518624641,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 5000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Quote",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.37630942788074134,
+                        "height": 0.2808022922636103,
+                        "positionX": 0.2401289282836422,
+                        "positionY": 0.24785100286532952,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "CT2",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "This concludes the simulation. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "1aaadb0d-ce72-4372-83c0-2afe75a06373"
+                        },
+                        "width": 0.48348106365834,
+                        "height": 0.1318051575931232,
+                        "fontSize": 24,
+                        "positionX": 0.2352941176470588,
+                        "positionY": 0.5372492836676218,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "2e5b693d-b2cc-4ee6-97c6-0b2340bddb1c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "28. Screen - 33",
+            "parentItemId": 4284899,
+            "hotspots": [
+                {
+                    "name": "Audio for #7f6aa625-334b-42e0-8127-1d963f6b61b7",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "637119b2-ccbb-4490-a094-5c316c5f3ed5"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #4e7c03ff-04bd-4458-9401-118fd005ae93",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "88241161-d99f-4359-9d9d-0bd1f0efa35f"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #7d9d3c10-a637-453e-901f-eb805491dadf",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "aea348af-3c1e-41d6-a2ee-b69a374e1361"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Next",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.12570507655116842,
+                        "height": 0.10601719197707736,
+                        "positionX": 0.8662369057211926,
+                        "positionY": 0.8868194842406877,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "dbf5b6f8-617c-47fb-8d6b-4b458af59779",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "29. Screen - 34",
+            "parentItemId": 4284900,
+            "hotspots": [
+                {
+                    "name": "Audio for #d3702002-bb8b-42df-8a19-6b203c54e067",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "00c9cbbc-8f89-47c2-9a02-e603fdca8823"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #c95dd62d-1693-45ab-878b-a3cf9604ec3a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8e3ae846-7ecf-432a-b349-5c2520cbbc9a"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Next",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0757453666398066,
+                        "height": 0.1346704871060172,
+                        "positionX": 0.07332796132151491,
+                        "positionY": 0.15329512893982808,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "b5c9435c-8fe3-423f-bb29-59dadfdfb03c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "30. Screen - 35",
+            "parentItemId": 4284901,
+            "hotspots": [
+                {
+                    "name": "Audio for #1d4e79a4-a62f-42e8-9a28-4385903b4b83",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f2d66fb1-1e03-4dcd-a756-685046666cf7"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        }
+    ]
+}

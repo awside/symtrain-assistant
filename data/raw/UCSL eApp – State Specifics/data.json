@@ -1,0 +1,1375 @@
+{
+    "name": "UCSL eApp – State Specifics",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": false,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Jim",
+    "voiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "3f9ab697-f9ff-4e5e-85e1-3d9a29cbd4fd",
+            "sequenceNumber": 1,
+            "fileTranscript": "In this sym, we will review how the UCSL application varies based on state.",
+            "fileId": "a5ae4ab3-3783-49a2-ba7d-1d854a303583",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "0523e6a2-5792-481f-86ac-17f572afa5db",
+            "sequenceNumber": 2,
+            "fileTranscript": "Reminder that we can not C O P whole life applications for Connecticut or Montana.",
+            "fileId": "73d732c9-7eec-4a55-a30b-93471fc1f2bf",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "2f843c84-726b-4225-a65f-db3963d57189",
+            "sequenceNumber": 3,
+            "fileTranscript": "New York has its own application for our Guaranteed Whole Life policy. We’ll go into detail on New York later.",
+            "fileId": "8834ab65-25d9-47ca-bb6e-653ef994b665",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "e10a5344-b754-4944-8f8a-3747e463fde4",
+            "sequenceNumber": 4,
+            "fileTranscript": "The states in red on the map have some different verbatim messages that will appear in the e App.",
+            "fileId": "21c5dd22-eec1-43c0-aa79-b2d8bbb550f1",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b6b40911-8005-40b7-9959-8c85c091355b",
+            "sequenceNumber": 5,
+            "fileTranscript": "Remember that these boxes are verbatim statements.",
+            "fileId": "950166d6-b7b8-4e19-b826-874921c20874",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3ef053cd-b48b-46c5-8e97-3cf95c4e2707",
+            "sequenceNumber": 6,
+            "fileTranscript": "You should not try to memorize these, as they may change for each state.",
+            "fileId": "a6f5fddb-6130-43e7-9207-11e26b77f4ac",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "ecd43a3b-134b-435a-b51a-61aaf3da7359",
+            "sequenceNumber": 7,
+            "fileTranscript": "Always be sure to read what's on your screen word for word.",
+            "fileId": "c4f35bbe-cb34-4d06-9c1d-08231e23f205",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a1b33bf7-44ce-4c35-ae30-4cbeef80d33a",
+            "sequenceNumber": 8,
+            "fileTranscript": "One such example is with California, the final application verbatim has an additional paragraph regarding fraud.",
+            "fileId": "f2c0e8f2-41e8-4325-862c-a7da4e2c3929",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "9c210576-1793-463a-8ff4-c90d7b40f020",
+            "sequenceNumber": 9,
+            "fileTranscript": "This allows us to be compliant with California law. The fraud statement is also provided in the policy documents.",
+            "fileId": "35d3f966-aa9a-430b-bb68-e8151daffb4c",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "1abf5db5-adf4-406e-afa0-0b516b76a7c4",
+            "sequenceNumber": 10,
+            "fileTranscript": "Again, this is why you should not memorize verbatims. Simply follow the application.",
+            "fileId": "bcd1a736-19ef-4d86-bc53-649438a24129",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "198fb201-9bb0-4826-96ab-bc28f618df85",
+            "sequenceNumber": 11,
+            "fileTranscript": "Another California law requires we obtain an email address from our California elders (which is age 65 or older) so we can send them pertinent disclosures before the application is completed.",
+            "fileId": "691e1dde-7dda-4fda-8a0e-0a86361ee637",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "544fe30f-7719-4238-bd8d-8a54066945fa",
+            "sequenceNumber": 12,
+            "fileTranscript": "To comply with the California law, there is a verbatim early in the application regarding consent to electronic delivery and e-signature.",
+            "fileId": "c587cc57-4311-4035-ada9-aedc8f8384b3",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "358b52ee-b7f0-48ea-bfd6-e799f8d39c5a",
+            "sequenceNumber": 13,
+            "fileTranscript": "The verbatim and email address field is mandatory, and the e-app will prevent you from continuing the application if you do not enter in a valid customer email address.",
+            "fileId": "93066c1e-e5e1-4967-9de8-a12d8a69eb38",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "330d4bda-d4a0-49e0-ad2e-5b6911fd0abc",
+            "sequenceNumber": 14,
+            "fileTranscript": "Once you have entered the email address in the box you must press the Send button. If you don’t press this button, the e-app will prevent you from continuing the application.",
+            "fileId": "22141a3d-df48-4cc9-b158-dded04c98dd1",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "ab6e8295-b05a-4d03-bdc1-75a2b1ddb322",
+            "sequenceNumber": 15,
+            "fileTranscript": "If the email fails to send, the Send button will turn red and will say Fail.",
+            "fileId": "0b53489d-686e-4e4f-ae7d-6addace80ce6",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "267e79cf-5e3a-4af6-8df7-0445121c4862",
+            "sequenceNumber": 16,
+            "fileTranscript": "The e-app will prevent you from moving forward until an email has successfully been sent.",
+            "fileId": "57b4d710-4dff-4293-9191-999acc1c77cf",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "fb99c965-23bd-43b4-8140-25acfde15e56",
+            "sequenceNumber": 17,
+            "fileTranscript": "If the email successfully sends, the Send button will turn green and will say Sent.",
+            "fileId": "6c36cecc-ecc7-4708-aede-f801fb32ab90",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "fd1de667-0184-48c0-8daa-488bae7ce46a",
+            "sequenceNumber": 18,
+            "fileTranscript": "Once you have received the green Sent message, you need to ask the customer to verbally confirm they received the email.",
+            "fileId": "125ca460-f48a-456e-a2ce-3806af1f541e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "d9d2ace5-a56f-46ab-93b5-4918b42e99fb",
+            "sequenceNumber": 19,
+            "fileTranscript": "This is what the email that the customer receives looks like.",
+            "fileId": "8dc8af1d-4b88-4953-a3e2-be056269d542",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "157ded53-8369-4fba-9247-ed70263d77a5",
+            "sequenceNumber": 20,
+            "fileTranscript": "Here’s another question that will only appear during the application in certain states.",
+            "fileId": "6fb707b2-dfb1-4073-8670-c0c8c02cc69a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "63840c75-f50b-4624-a987-1a40bdb8b685",
+            "sequenceNumber": 21,
+            "fileTranscript": "These states have state special questions and verbiage that is required to be read about accessing PDF files via the internet and providing their consent to receive electronic documents.",
+            "fileId": "0622974e-6839-4408-8bae-82a418ba0e1d",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a36ff255-d7a3-46b4-ad54-52505794fc5a",
+            "sequenceNumber": 22,
+            "fileTranscript": "The state requires we review this electronic consent.",
+            "fileId": "bd50f17d-7208-48b0-9893-4542a1f55ba8",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "74214da9-94a4-4a3f-9f61-a16c0df5e1e8",
+            "sequenceNumber": 23,
+            "fileTranscript": "We're asking if they can access the internet in any shape or form.",
+            "fileId": "875dd684-e592-4fcf-ba0a-3d4795b38bbf",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3ce59ce9-7bb2-43dd-8771-b02ec52cb6fd",
+            "sequenceNumber": 24,
+            "fileTranscript": "If they say no, you can clarify by asking if they have access to the internet (smart phone, library, etc.).",
+            "fileId": "040942b2-badb-4d6b-94e4-2eaf5b0e8ee8",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b5470c1c-046e-4c50-a60b-dc81b6807607",
+            "sequenceNumber": 25,
+            "fileTranscript": "If they still answer No, you will need to explain to the applicant that if they are not able to access the internet, or do not provide their consent, you will not be able to take their application over the phone and it will need to be mailed to them. This may delay the processing time and the effective date of their policy.",
+            "fileId": "6a7dfb9c-737c-46eb-82e0-eb022e28930e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "e946076e-84ad-4ea7-9dd1-151c02190a90",
+            "sequenceNumber": 26,
+            "fileTranscript": "Let’s practice a state specific scenario! Click the arrow when you are ready to begin.",
+            "fileId": "399a9399-46b8-4949-abeb-eebdc201f0bb",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "8186ee6a-d5a0-45cb-901f-1afec92a715c",
+            "sequenceNumber": 27,
+            "fileTranscript": "Have you received an application packet?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "application",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "a4ff2fcf-e02a-44b8-a110-20c95cdf772e",
+            "sequenceNumber": 28,
+            "fileTranscript": "No.",
+            "fileId": "324a46ca-f3cd-4b2d-b9d1-9edc2adaf95a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "0af85e68-8bcb-4fc5-8579-55956ce777d6",
+            "sequenceNumber": 29,
+            "fileTranscript": "Are you able to open, view and save P D F files via the internet?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "are you able to open, view and save p d f files via the internet?",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "80bdc8f8-7869-4563-9611-74ef533348d5",
+            "sequenceNumber": 30,
+            "fileTranscript": "No.",
+            "fileId": "038ddb90-c4fe-4999-a1f8-d261a3c34c83",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "e917b74f-a7f8-4eb2-baea-7995d0f3ff37",
+            "sequenceNumber": 31,
+            "fileTranscript": "Do you have access to the internet by using a smart phone or going to the library?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "access",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "internet",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "4c0d3672-7f83-406f-b110-4c6fd5d607d2",
+            "sequenceNumber": 32,
+            "fileTranscript": "Oh, yes. I can do that.",
+            "fileId": "3c347d8f-4a8a-4e5c-8e6e-1f5f24cf06d7",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "9ddb92bc-7e73-464f-a7ef-0c766784650a",
+            "sequenceNumber": 33,
+            "fileTranscript": "I am required to obtain your consent for the delivery of electronic documents to you whether through the internet, email, web, text, instant message, digital media or the like. Your consent applies to all documents Mutual of Omaha may be required to deliver to you in writing. Any document provided to you electronically may be provided in paper upon your request. You may withdraw your consent at any time. If you withdraw your consent, I will not be able to complete your application over the phone and I will need to mail you a paper application. You may withdraw your consent, update your contact information or obtain a paper copy of any document for no charge, by contacting (800) 775-6000. You will need access to a computer or other device which provides internet access or email, as well as the ability to open, view and save a PDF, text or html file.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "i am required to obtain your consent for the delivery of electronic documents",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "mutual of omaha",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "internet,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "i will need to mail you a paper application.",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "provides internet access",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "pdf,",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "d94a00c6-f42a-4545-be37-d2c34944d014",
+            "sequenceNumber": 35,
+            "fileTranscript": "Yes",
+            "fileId": "2484805f-5bb6-416f-b76d-4517890f1fc8",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c74a36b6-34f8-41f9-bb48-1fe5ed8bf30c",
+            "sequenceNumber": 36,
+            "fileTranscript": "Disclosures are made available to you at the following website: http://www.mutualofomaha.com/wholelifedocuments",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "website:",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "mutual of omaha",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "http://www.mutualofomaha.com/wholelifedocuments",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "9b7ca7ca-6419-434b-9255-778d525c7231",
+            "sequenceNumber": 37,
+            "fileTranscript": "Great job practicing one of those state specific items in the e App.",
+            "fileId": "874a1ff4-ee49-441b-a3e5-07eb0dedd731",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "8366654a-51c5-4227-b89f-dac65c543f0b",
+            "sequenceNumber": 38,
+            "fileTranscript": "What did we learn today? Take a moment to review some of the key learnings from this sym.",
+            "fileId": "1d831132-fc20-4f76-b3e1-72659cfe4bdc",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "aa6b3c46-32b1-429d-9048-12f40f44d2e8",
+            "sequenceNumber": 39,
+            "fileTranscript": "Click the lightbulb when you are ready to continue.",
+            "fileId": "c4584d2d-eb4d-4c14-a709-621b367a4174",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "caa28dda-c420-4c2c-a940-c1ab41621fc6",
+            "sequenceNumber": 40,
+            "fileTranscript": "Understanding that the e App will vary by state ensures compliance with state-specific rules and regulations, helping us navigate the process accurately and effectively.",
+            "fileId": "ae0d0f89-7894-401c-b4e5-fe881a481516",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "d5704327-7e7d-4edb-b3a3-96db9db12a1d",
+            "sequenceNumber": 34,
+            "fileTranscript": "Do I have your consent to provide you with the necessary documents electronically?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "consent",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "electronically?",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "d6c378e3-6e7c-46e0-b986-659a7e3975da",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "1. Slide1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Audio for #766914a8-0f85-46b3-9b3e-8d598cd68083",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3f9ab697-f9ff-4e5e-85e1-3d9a29cbd4fd"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "f3d3098e-4e45-47a3-8d4c-89233d963520",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "2. Slide2",
+            "parentItemId": 4457436,
+            "hotspots": [
+                {
+                    "name": "Audio for #7ee40b7d-c67e-4579-bd5a-336a79085fd1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "0523e6a2-5792-481f-86ac-17f572afa5db"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #175e0303-2861-4876-bfcc-aaa3c7dbfa74",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "2f843c84-726b-4225-a65f-db3963d57189"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #428d7f37-f984-4ad0-bb3c-9e891ba2af77",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e10a5344-b754-4944-8f8a-3747e463fde4"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "5f696d98-f3ea-48a8-a345-fb802e2ed1af",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "3. Slide3",
+            "parentItemId": 4457437,
+            "hotspots": [
+                {
+                    "name": "Audio for #8bb25187-9257-4927-baed-7212dec07e6a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b6b40911-8005-40b7-9959-8c85c091355b"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #e4bcef5f-fb4f-4158-9e8f-779054fdf057",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3ef053cd-b48b-46c5-8e97-3cf95c4e2707"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #4dbedbdd-6180-4d2b-8f87-47ae9c216cdc",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "ecd43a3b-134b-435a-b51a-61aaf3da7359"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "1298c02e-ad18-48a6-8d77-a74cc5e6a787",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "4. Slide4",
+            "parentItemId": 4457438,
+            "hotspots": [
+                {
+                    "name": "Audio for #dc9ed00d-8927-4726-b5dd-cea6dbee43d5",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a1b33bf7-44ce-4c35-ae30-4cbeef80d33a"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #475f96ca-3555-4939-8936-29c9882d562d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "9c210576-1793-463a-8ff4-c90d7b40f020"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #dcc5d88e-91bc-4727-8cd9-9ee7e562aed6",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "1abf5db5-adf4-406e-afa0-0b516b76a7c4"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "f9f3860b-e1bd-4b97-b5da-973ef7568fb4",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "5. Slide5",
+            "parentItemId": 4457439,
+            "hotspots": [
+                {
+                    "name": "Audio for #b8e81b0b-93c0-4f08-bcc2-dc12982f3990",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "198fb201-9bb0-4826-96ab-bc28f618df85"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #196295c9-99b2-4c5b-9e78-881935240f00",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "544fe30f-7719-4238-bd8d-8a54066945fa"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #07d647e5-102a-43c3-a3e9-4a176908a34f",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "358b52ee-b7f0-48ea-bfd6-e799f8d39c5a"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #b4871bec-5508-484d-8d09-ffbd3847ddbc",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "330d4bda-d4a0-49e0-ad2e-5b6911fd0abc"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "63d1fb07-8993-453c-a7cb-40a01629b868",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "6. Slide6",
+            "parentItemId": 4457440,
+            "hotspots": [
+                {
+                    "name": "Audio for #70cd9379-33e1-4fdf-98f1-7d20375a8613",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "ab6e8295-b05a-4d03-bdc1-75a2b1ddb322"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #20344dc5-7a7a-4cde-b5b0-ecc40587987b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "267e79cf-5e3a-4af6-8df7-0445121c4862"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "79367446-18e7-4e57-b4a8-3bcd07014ea5",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "7. Slide7",
+            "parentItemId": 4457441,
+            "hotspots": [
+                {
+                    "name": "Audio for #32271134-baa9-40bb-b76a-ce1bbac94628",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "fb99c965-23bd-43b4-8140-25acfde15e56"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #24e6f46e-579d-4d51-8d9a-67d0343b82d3",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "fd1de667-0184-48c0-8daa-488bae7ce46a"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "595778f4-b414-43cf-a3c8-3ad7b430cbe7",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "8. Slide8",
+            "parentItemId": 4457442,
+            "hotspots": [
+                {
+                    "name": "Audio for #72f5b514-05a8-4097-9e0f-c57f35ea02c0",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d9d2ace5-a56f-46ab-93b5-4918b42e99fb"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Continue",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.15517241379310345,
+                        "height": 0.15161290322580645,
+                        "positionX": 0.8303085299455535,
+                        "positionY": 0.42258064516129035,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "6bce0822-ff44-4d1d-b166-ac9a9237d9c6",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "9. Slide9",
+            "parentItemId": 4457443,
+            "hotspots": [
+                {
+                    "name": "Audio for #87fde368-9b4f-4512-962c-7bf2046e45c9",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "157ded53-8369-4fba-9247-ed70263d77a5"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #096dc3fe-dc5a-4eef-a41e-a37400378107",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "63840c75-f50b-4624-a987-1a40bdb8b685"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #b000139f-90de-4200-99dd-d85e220e69ff",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a36ff255-d7a3-46b4-ad54-52505794fc5a"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #542f6a22-af9e-405e-8922-81bf26088f76",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "74214da9-94a4-4a3f-9f61-a16c0df5e1e8"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "72b80f73-4825-40be-a51b-b2bc20d27a0d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "10. Slide10",
+            "parentItemId": 4457444,
+            "hotspots": [
+                {
+                    "name": "Audio for #405d8c92-f3a1-41b1-b2e2-156db52e403d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3ce59ce9-7bb2-43dd-8771-b02ec52cb6fd"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #23e8789d-f6f0-4c94-b300-ac345efe8698",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b5470c1c-046e-4c50-a60b-dc81b6807607"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "1f50678d-b2d5-497b-bdaa-130b2f088b0e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "11. Slide11",
+            "parentItemId": 4457445,
+            "hotspots": [
+                {
+                    "name": "Audio for #97b9c470-05c5-4696-9a0b-ea97b9b4658e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e946076e-84ad-4ea7-9dd1-151c02190a90"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Next",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.16424682395644283,
+                        "height": 0.1532258064516129,
+                        "positionX": 0.6560798548094374,
+                        "positionY": 0.8435483870967742,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "161b01c3-43c0-4776-b921-9f9f5e40b79f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "12. Slide12",
+            "parentItemId": 4457446,
+            "hotspots": [
+                {
+                    "name": "CT1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "You are on the phone with Emilia Plyance from Pennsylvania, and just finished confirming her policy quote. Scroll down to continue the application.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "4f497075-18a0-4be2-8fd6-b8d0e00a1506"
+                        },
+                        "width": 0.32123411978221417,
+                        "height": 0.49032258064516127,
+                        "fontSize": 20,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.023593466424682397,
+                        "positionY": 0.4693548387096774,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0,
+                        "isVisibleAfterCompletion": false
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Scroll down",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.032667876588021776,
+                        "height": 0.16451612903225807,
+                        "positionX": 0.9673321234119784,
+                        "positionY": 0.832258064516129,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "53c88545-5329-43bc-91b3-4c06caaa6a22",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "13. Slide13",
+            "parentItemId": 4457447,
+            "hotspots": [
+                {
+                    "name": "CT1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Because Emilia is from Pennsylvania, the application has you ask if she has already received an application packet.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "51d8680a-51a1-418b-80c5-42ddcefe736d"
+                        },
+                        "width": 0.4337568058076225,
+                        "height": 0.21774193548387097,
+                        "fontSize": 20,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.5390199637023594,
+                        "positionY": 0.06774193548387097,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0,
+                        "isVisibleAfterCompletion": true
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #19160230-b2e2-42c6-8fad-9f964359b22b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8186ee6a-d5a0-45cb-901f-1afec92a715c"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #4389362f-9605-4986-bd0b-fd25610ac567",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a4ff2fcf-e02a-44b8-a110-20c95cdf772e"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "No",
+                    "type": "CHECKBOX",
+                    "settings": {
+                        "width": 0.019056261343012703,
+                        "height": 0.029999999999999995,
+                        "positionX": 0.4092558983666062,
+                        "positionY": 0.2129032258064516,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "8f451e5d-06a2-4014-bf24-0212a46d6f67",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "14. Slide14",
+            "parentItemId": 4457448,
+            "hotspots": [
+                {
+                    "name": "CT1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Since she has not already received an application packet, we need to confirm that Emilia is able to open and view files online.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "5313306a-28a7-472f-a13c-9360ff7b46c4"
+                        },
+                        "width": 0.3720508166969147,
+                        "height": 0.2967741935483871,
+                        "fontSize": 20,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.6070780399274047,
+                        "positionY": 0.05967741935483871,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0,
+                        "isVisibleAfterCompletion": false
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #eeab3e82-37e9-4f84-a090-0bf2d4dfbf02",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "0af85e68-8bcb-4fc5-8579-55956ce777d6"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #cc02f2cd-a4b4-48b1-a70c-e7ed442ae334",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "80bdc8f8-7869-4563-9611-74ef533348d5"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "No",
+                    "type": "CHECKBOX",
+                    "settings": {
+                        "width": 0.018148820326678767,
+                        "height": 0.035483870967741936,
+                        "positionX": 0.4092558983666062,
+                        "positionY": 0.27419354838709675,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "852d9c70-795d-41ef-bb3b-bd12c2826f07",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "15. Slide15",
+            "parentItemId": 4457449,
+            "hotspots": [
+                {
+                    "name": "CT1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "As you can see, if they answer no, the system will not allow you to continue the application.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "6a9f3ce5-ec71-42af-b1e6-f908296a1acf"
+                        },
+                        "width": 0.5952813067150635,
+                        "height": 0.40483870967741936,
+                        "fontSize": 20,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.31125226860254085,
+                        "positionY": 0.4693548387096774,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0,
+                        "isVisibleAfterCompletion": false
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Next",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.4818511796733213,
+                        "height": 0.1258064516129032,
+                        "positionX": 0.3566243194192377,
+                        "positionY": 0.3161290322580645,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "CT2",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Before stopping the application, help clarify the question for the applicant.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "7229fcdd-0837-4839-b506-cf33c7d2f2ef"
+                        },
+                        "width": 0.5943738656987296,
+                        "height": 0.4032258064516129,
+                        "fontSize": 20,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.3121597096188748,
+                        "positionY": 0.46774193548387094,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0,
+                        "isVisibleAfterCompletion": false
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #2b96f8b9-1fa0-4290-b9c9-407d00318f6a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e917b74f-a7f8-4eb2-baea-7995d0f3ff37"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #0a9a6131-a4c0-4ebe-845b-6a1f172ad16b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "4c0d3672-7f83-406f-b110-4c6fd5d607d2"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Yes",
+                    "type": "CHECKBOX",
+                    "settings": {
+                        "width": 0.022686025408348454,
+                        "height": 0.03870967741935484,
+                        "positionX": 0.3584392014519056,
+                        "positionY": 0.2709677419354839,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 6
+                }
+            ]
+        },
+        {
+            "fileId": "dbc49283-a92f-485e-ac17-6404c65e9c7b",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "16. Slide16",
+            "parentItemId": 4457450,
+            "hotspots": [
+                {
+                    "name": "CT1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "A new verbatim message will appear. Practice reading this statement.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "e80d51ef-cf5d-43d6-87ec-536744552735"
+                        },
+                        "width": 0.3629764065335753,
+                        "height": 0.2258064516129032,
+                        "fontSize": 20,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.6161524500907442,
+                        "positionY": 0.07903225806451612,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0,
+                        "isVisibleAfterCompletion": false
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #2dd509ee-66c9-42a7-8901-76442beba9ea",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "9ddb92bc-7e73-464f-a7ef-0c766784650a"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #d6433f5a-8a58-41a6-b9b3-a664ee452873",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d5704327-7e7d-4edb-b3a3-96db9db12a1d"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #c4da3c44-09fd-47af-9445-1f32bd48621b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d94a00c6-f42a-4545-be37-d2c34944d014"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Yes",
+                    "type": "CHECKBOX",
+                    "settings": {
+                        "width": 0.017241379310344827,
+                        "height": 0.03064516129032258,
+                        "positionX": 0.3602540834845735,
+                        "positionY": 0.6403225806451613,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 7
+                }
+            ]
+        },
+        {
+            "fileId": "2a3545c8-b22c-4b80-949b-55d43fd2d3fe",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "17. Slide17",
+            "parentItemId": 4457451,
+            "hotspots": [
+                {
+                    "name": "Audio for #839786f3-de2f-4485-a06b-18af94c73346",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c74a36b6-34f8-41f9-bb48-1fe5ed8bf30c"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "CT1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "This concludes the simulation.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jennifer"
+                            },
+                            "fileId": "33752558-cdf0-408f-a5d5-776fea00c0fc"
+                        },
+                        "width": 0.5789473684210527,
+                        "height": 0.1596774193548388,
+                        "fontSize": 20,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.3194192377495463,
+                        "positionY": 0.8064516129032258,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0,
+                        "isVisibleAfterCompletion": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "64d6a640-6a2d-4838-af05-70dd02423c52",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "18. Slide18",
+            "parentItemId": 4457452,
+            "hotspots": [
+                {
+                    "name": "Audio for #4212fd17-1026-4487-942e-237087473576",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "9b7ca7ca-6419-434b-9255-778d525c7231"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #113f1fff-86aa-4944-bbc0-b6d7335b9335",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8366654a-51c5-4227-b89f-dac65c543f0b"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #259855ad-ce00-4dd6-b022-5c8e14563168",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "aa6b3c46-32b1-429d-9048-12f40f44d2e8"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Next",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0780399274047187,
+                        "height": 0.13548387096774195,
+                        "positionX": 0.0662431941923775,
+                        "positionY": 0.15645161290322582,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#1180D6",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "67b0c5ad-17ea-49df-b44e-baea8c65fee8",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "19. Slide19",
+            "parentItemId": 4457453,
+            "hotspots": [
+                {
+                    "name": "Audio for #fad3c768-cac6-4d70-ae43-5ef391293e53",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "caa28dda-c420-4c2c-a940-c1ab41621fc6"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        }
+    ]
+}

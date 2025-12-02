@@ -1,0 +1,1688 @@
+{
+    "name": "Learning Style Assessment Simulation_NAV",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Brian",
+    "voiceId": "a26a1345-b721-11eb-ab80-12a3f1d4ce57",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "8536547c-ff0a-48d7-8957-42825a6bc805",
+            "sequenceNumber": 1,
+            "fileTranscript": "In this simulation we will determine the learning style of each person.",
+            "fileId": "975f3bf9-ed3c-4714-b016-d61a4e19d97a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "7cf809a9-bf12-4e1f-b001-6b47a1ccf59e",
+            "sequenceNumber": 2,
+            "fileTranscript": "This is a screen navigational simulation. Follow the instructions provided throughout the simulation and complete the sym.",
+            "fileId": "52c5dd4e-2651-4296-b0a7-118ad2fdbefa",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "33725091-a2e4-4f31-9b39-26fab66cd491",
+            "sequenceNumber": 3,
+            "fileTranscript": "This is the Hotspot. You would need to click on it to type in the answer or you would need to click on it to move to the next step. After typing in the details, you would need to click the 'enter' key to move forward.",
+            "fileId": "caa09c08-a029-4389-9407-c881c011d426",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "03a1ba48-d133-4214-8f1c-65f633118aec",
+            "sequenceNumber": 5,
+            "fileTranscript": "There are several types of learning, categorized based on theories, approaches, and settings. Here’s an overview",
+            "fileId": "1d4db98c-2338-4c1d-8c92-9f04eb9b15f1",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "dd9c80f1-c604-4906-939b-96a66490309d",
+            "sequenceNumber": 6,
+            "fileTranscript": "Visual learners understand best through pictures, charts, and diagrams. They prefer shapes and patterns over words or speech. Teachers can help by using tools like graphic organizers to explain ideas clearly.",
+            "fileId": "82bd4255-909b-4015-a530-8592b24ebcfc",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "e284de10-6edb-4c49-945d-912bd024f603",
+            "sequenceNumber": 7,
+            "fileTranscript": "Auditory learners learn best by hearing and speaking. They enjoy lectures, group discussions, and talking through ideas. They often figure things out by speaking first, rather than planning what to say.",
+            "fileId": "7db4f960-0713-437b-8c51-dc0ed1d87209",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3ac53d75-00c2-4eda-be68-df3a20edd58b",
+            "sequenceNumber": 8,
+            "fileTranscript": "Reading & writing learners understand best through words. They enjoy reading and do well with written tasks like stories or reports. They prefer learning through text, such as reading books or writing notes. Teachers can help by asking them to explain diagrams or charts in writing, which they can review later to remember the information.",
+            "fileId": "ddd3b1b6-0944-4084-941b-a87c2e117067",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "60cd0e30-38e2-4822-9c34-ec3e681bb61d",
+            "sequenceNumber": 10,
+            "fileTranscript": "Now let’s determine your learning style through a quick evaluation.",
+            "fileId": "731a761d-86f3-4a1e-975b-32db238d6a66",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "fc4ad1c6-2d09-4675-8e7c-891e5753973d",
+            "sequenceNumber": 11,
+            "fileTranscript": "Tip: [Now you’ve to speak the correct option showing on the screen based on your preferences and click “Next” to proceed.]",
+            "fileId": "a7788d0f-7b1b-47ab-aa87-e4f0c8a0e596",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "8cffd763-ce67-40a2-8325-5fc879c35725",
+            "sequenceNumber": 12,
+            "fileTranscript": "What was the arrow color in the previous slide?",
+            "fileId": "54e32aad-4b46-4e3b-8e05-97d48a1bd347",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "742ca54d-5309-4717-a629-c2cff6a2de42",
+            "sequenceNumber": 13,
+            "fileTranscript": "What was the mistake in the previous slide’s sentence?",
+            "fileId": "999ce5a5-b208-4b7b-ba7a-65bad1943b7b",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "09874c04-8616-468b-9d69-dc85d5a9cac6",
+            "sequenceNumber": 14,
+            "fileTranscript": "Let's start!!! I need to find the way to a shop that a friend has recommended. I would",
+            "fileId": "bcf22a3d-567a-43a2-8388-b526dbddcd5d",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "9d7632d8-8d49-4b5a-8551-91d776ddd821",
+            "sequenceNumber": 15,
+            "fileTranscript": "Options: A, B, C, D",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "a,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "a",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "b,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "b",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "c,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "c",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "d",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "d",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "dee58db8-946b-42bf-9a77-f4b79cdae734",
+            "sequenceNumber": 16,
+            "fileTranscript": "A website has a video showing how to make a special graph or chart. A person is speaking, some lists and words describing what to do, and some diagrams. I would learn most from",
+            "fileId": "3c55b437-169c-4b34-93a4-7aff27d363b6",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "1fdbcac4-772c-4942-9343-85ed6e97fcd0",
+            "sequenceNumber": 17,
+            "fileTranscript": "Options: A, B, C, D",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "a,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "a",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "b,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "b",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "c,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "c",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "d",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "d",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "c4fac37b-aa26-4e63-a878-09b475b9fd41",
+            "sequenceNumber": 18,
+            "fileTranscript": "I want to find out more about a tour that I am going on. I would:",
+            "fileId": "c1cb6317-22db-4e74-9c68-b0d4db62b7be",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "1bc25ab8-b436-4a00-b835-123bd9c978ac",
+            "sequenceNumber": 19,
+            "fileTranscript": "Options: A, B, C, D",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "a,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "a",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "b,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "b",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "c,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "c",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "d",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "d",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "d1b613e1-6726-48f2-93de-505fbb5a3e6a",
+            "sequenceNumber": 20,
+            "fileTranscript": "When choosing a career or area of study, these are important for me:",
+            "fileId": "9d1bd748-7023-47c3-acfd-eaea6134e58d",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "d5fca63d-0f7e-420c-a69f-3ac97e731fe7",
+            "sequenceNumber": 21,
+            "fileTranscript": "Options: A, B, C, D",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "a,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "a",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "b,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "b",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "c,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "c",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "d",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "d",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "5ac6d909-42ae-4999-be50-c9dbfa8c6488",
+            "sequenceNumber": 22,
+            "fileTranscript": "When I am learning I",
+            "fileId": "db5a88f0-a402-436c-a8ed-95c76ab16433",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "6c521706-affe-4e71-94f9-eea5b00a222b",
+            "sequenceNumber": 23,
+            "fileTranscript": "Options: A, B, C, D",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "a,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "a",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "b,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "b",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "c,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "c",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "d",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "d",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "7e7a1f37-400b-4698-8395-bfe59e64d6d3",
+            "sequenceNumber": 24,
+            "fileTranscript": "You learning like a pro!!! I want to learn how to play a new board game or card game. I would:",
+            "fileId": "0ba3c226-864a-442f-bdd7-fa275d67f635",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3899f81f-6de4-4686-bfcc-5b885c0daa67",
+            "sequenceNumber": 25,
+            "fileTranscript": "Options: A, B, C, D",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "a,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "a",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "b,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "b",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "c,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "c",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "d",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "d",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "504dfe7a-f82b-45a3-8fe9-cd8e9c94f874",
+            "sequenceNumber": 26,
+            "fileTranscript": "I want to learn to do something new on a computer. I would:",
+            "fileId": "e5a41387-c901-4706-b0fc-51a8524a134a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "8cd8e26c-f284-4fb4-995c-d28870cde09c",
+            "sequenceNumber": 27,
+            "fileTranscript": "Options: A, B, C, D",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "a,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "a",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "b,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "b",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "c,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "c",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "d",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "d",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "c7a7204a-ebb2-4bf9-90fc-90cf87535aaf",
+            "sequenceNumber": 28,
+            "fileTranscript": "I have finished a competition or test and would like feedback:",
+            "fileId": "420d49dc-fb2a-4f07-ac33-6487f8d14f28",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "451c8b32-e358-4d02-9bd1-55fbce47fc82",
+            "sequenceNumber": 29,
+            "fileTranscript": "Options: A, B, C, D",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "a,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "a",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "b,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "b",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "c,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "c",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "d",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "d",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "eae75c2d-c71f-4a1f-bb25-0ced8b49570d",
+            "sequenceNumber": 30,
+            "fileTranscript": "I want to learn how to take better photos. I would:",
+            "fileId": "308d3fef-6229-4754-a8af-0f95f9c4ee2c",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "879ef65c-09c3-4c47-a3b8-a1116a0cf14e",
+            "sequenceNumber": 31,
+            "fileTranscript": "Options: A, B, C, D",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "a,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "a",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "b,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "b",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "c,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "c",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "d",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "d",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "d17acb09-43a4-499d-9e47-77badc0b42d1",
+            "sequenceNumber": 32,
+            "fileTranscript": "When learning from the Internet I like:",
+            "fileId": "77a2b977-54ba-488e-a754-9e56c2226eb3",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "4330d44d-9542-4615-835f-e6fce8763242",
+            "sequenceNumber": 33,
+            "fileTranscript": "Options: A, B, C, D",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "a,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "a",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "b,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "b",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "c,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "c",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "d",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "d",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "d822cfe3-2f80-46b9-a51f-34f1a395a656",
+            "sequenceNumber": 34,
+            "fileTranscript": "Now select which category you think suits you best!",
+            "fileId": "01a9666d-fac3-44c0-ad3c-0a964e3c7952",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "d9964733-4bf7-4022-88e6-e79ea7b719a6",
+            "sequenceNumber": 37,
+            "fileTranscript": "Congratulations!!! Nows've completed the assessment. Your trainer will tell you the result.",
+            "fileId": "9293af17-dcbf-4c44-b462-51ad0137dd55",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3b445f15-1a9a-4cf9-8c2c-c4262d29b3cc",
+            "sequenceNumber": 38,
+            "fileTranscript": "This concludes your simulation.",
+            "fileId": "f66f71a7-4f18-45ca-affb-6d1a2d005260",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "7799a0b5-c988-47f8-a84e-0e9393dbe5cb",
+            "sequenceNumber": 36,
+            "fileTranscript": "Click on ‘FINISH’.",
+            "fileId": "6a0bc402-76b6-43c2-a58b-480c81bd9717",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "24addc45-8bab-4494-96f4-c25d4c58267a",
+            "sequenceNumber": 35,
+            "fileTranscript": "Write down in the text box given.",
+            "fileId": "72d40bd6-e7cd-4269-a863-93d047e405ff",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "4049a460-94d1-4ed2-b584-78e3b00a2467",
+            "sequenceNumber": 9,
+            "fileTranscript": "Kinesthetic learners learn best by doing. They like hands-on activities, real-life examples, and practicing skills through physical actions. Teachers can help by giving them practical tasks, like recreating experiments or working through examples to understand new ideas.",
+            "fileId": "f7a471c8-b1fd-4ab3-b8be-0ac0f61e3529",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c538056b-3fe2-4e17-9184-371dc4702977",
+            "sequenceNumber": 4,
+            "fileTranscript": "Concentrate on each slide detail to WIN the quiz at the end.",
+            "fileId": "fed1bc1e-63ba-4e18-8e85-79275d67b078",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "12e91830-2b18-4f4c-90b7-69bdb6e674ca",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Audio for #74652265-6510-418f-b4fc-2e91fc0ea4c7",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8536547c-ff0a-48d7-8957-42825a6bc805"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "ba5df93f-ca62-41e4-8a0e-975ebd06fcdc",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 3",
+            "parentItemId": 4671911,
+            "hotspots": [
+                {
+                    "name": "inst",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.5491559086395233,
+                        "height": 0.15167548500881833,
+                        "positionX": 0.01191658391261172,
+                        "positionY": 0.6596119929453262,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 3000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #1ff719d2-f723-48e2-ba8f-0228db00ab6e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "7cf809a9-bf12-4e1f-b001-6b47a1ccf59e"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "c2976551-3379-4359-90d1-f6d67684f503",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 4",
+            "parentItemId": 4671912,
+            "hotspots": [
+                {
+                    "name": "Audio for #33699120-53c2-453b-959e-9897878a7a2e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "33725091-a2e4-4f31-9b39-26fab66cd491"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "button 1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05461767626613704,
+                        "height": 0.08465608465608465,
+                        "hotKeys": [
+                            "ENTER"
+                        ],
+                        "positionX": 0.9364448857994042,
+                        "positionY": 0.8941798941798942,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0,
+                        "restrictMouseClicks": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "cb952176-e51e-4d4d-b888-556c2b47d7ca",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 5",
+            "parentItemId": 4671913,
+            "hotspots": [
+                {
+                    "name": "inst",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.48659384309831183,
+                        "height": 0.1164021164021164,
+                        "positionX": 0.45183714001986097,
+                        "positionY": 0.7530864197530864,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 3000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #43b343fa-414c-4457-8219-c49d7c0b2f9f",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c538056b-3fe2-4e17-9184-371dc4702977"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "button 2",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05858987090367428,
+                        "height": 0.08112874779541446,
+                        "hotKeys": [
+                            "ENTER"
+                        ],
+                        "positionX": 0.9344587884806356,
+                        "positionY": 0.8959435626102292,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0,
+                        "restrictMouseClicks": false
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "b265b578-31cd-4632-a348-730b354da741",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 6",
+            "parentItemId": 4671914,
+            "hotspots": [
+                {
+                    "name": "Audio for #a6768069-b8c2-48ec-a03b-d6fdd8905350",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "03a1ba48-d133-4214-8f1c-65f633118aec"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "3",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05561072492552135,
+                        "height": 0.08641975308641975,
+                        "hotKeys": [
+                            "ENTER"
+                        ],
+                        "positionX": 0.9344587884806356,
+                        "positionY": 0.8941798941798942,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0,
+                        "restrictMouseClicks": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "59eb2df6-9f62-4ec7-96e3-dcddc474fc8c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 7",
+            "parentItemId": 4671915,
+            "hotspots": [
+                {
+                    "name": "Audio for #664ae8da-cca3-4703-8e47-e49171623611",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "dd9c80f1-c604-4906-939b-96a66490309d"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "4",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05660377358490566,
+                        "height": 0.09347442680776014,
+                        "hotKeys": [
+                            "ENTER"
+                        ],
+                        "positionX": 0.9344587884806356,
+                        "positionY": 0.8888888888888888,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0,
+                        "restrictMouseClicks": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "dad798d7-6b29-4f4c-ae4e-da485517252b",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 8",
+            "parentItemId": 4671916,
+            "hotspots": [
+                {
+                    "name": "Audio for #2abf8ea6-e3d0-43b4-9782-2bde3a5d0e92",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e284de10-6edb-4c49-945d-912bd024f603"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "5",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05362462760675273,
+                        "height": 0.08818342151675485,
+                        "hotKeys": [
+                            "ENTER"
+                        ],
+                        "positionX": 0.9364448857994042,
+                        "positionY": 0.892416225749559,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0,
+                        "restrictMouseClicks": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "228053bf-9c40-4ff7-9465-5ddc84d59f37",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 9",
+            "parentItemId": 4671917,
+            "hotspots": [
+                {
+                    "name": "Audio for #aefa304f-ef27-4293-8d16-80c4337215e1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3ac53d75-00c2-4eda-be68-df3a20edd58b"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "6",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05561072492552135,
+                        "height": 0.08289241622574955,
+                        "hotKeys": [
+                            "ENTER"
+                        ],
+                        "positionX": 0.9344587884806356,
+                        "positionY": 0.8959435626102292,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0,
+                        "restrictMouseClicks": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "48d9abed-14a8-4a48-974a-b94ab0d57f11",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 10",
+            "parentItemId": 4671918,
+            "hotspots": [
+                {
+                    "name": "Audio for #228fa401-2883-4e25-949b-bbd7bca7fdc8",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "4049a460-94d1-4ed2-b584-78e3b00a2467"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "6",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05958291956305859,
+                        "height": 0.08818342151675485,
+                        "hotKeys": [
+                            "ENTER"
+                        ],
+                        "positionX": 0.9344587884806356,
+                        "positionY": 0.892416225749559,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0,
+                        "restrictMouseClicks": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "e49d5e8a-43a4-462d-a092-a94070a84533",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 11",
+            "parentItemId": 4671919,
+            "hotspots": [
+                {
+                    "name": "Audio for #64265d43-284e-48a4-b784-377de19a4fde",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "60cd0e30-38e2-4822-9c34-ec3e681bb61d"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "7",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05660377358490566,
+                        "height": 0.09171075837742504,
+                        "hotKeys": [
+                            "ENTER"
+                        ],
+                        "positionX": 0.9334657398212513,
+                        "positionY": 0.8888888888888888,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0,
+                        "restrictMouseClicks": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "2e373b56-d3c0-4881-b0bf-0648ddcb2ce0",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 12",
+            "parentItemId": 4671920,
+            "hotspots": [
+                {
+                    "name": "Audio for #3b524c65-ae2d-4422-9ca4-b23d1232a715",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8cffd763-ce67-40a2-8325-5fc879c35725"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "txt 1",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.7388282025819265,
+                        "height": 0.14462081128747797,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "yellow"
+                            }
+                        ],
+                        "positionX": 0.08242303872889771,
+                        "positionY": 0.30335097001763667,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Yellow",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #7a966d6f-cc71-44df-900a-32a41ac077d9",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "742ca54d-5309-4717-a629-c2cff6a2de42"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "txt 2",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.7616683217477657,
+                        "height": 0.15520282186948853,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "a"
+                            },
+                            {
+                                "score": 1,
+                                "keyword": "capitilization"
+                            }
+                        ],
+                        "positionX": 0.08937437934458789,
+                        "positionY": 0.7548500881834215,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "A, capital word, capital A, a",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "7935d556-79df-4f78-a221-30dda7a40bba",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 13",
+            "parentItemId": 4671921,
+            "hotspots": [
+                {
+                    "name": "Audio for #0c6bca0c-5390-4b93-9107-1a5ea90788bd",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "fc4ad1c6-2d09-4675-8e7c-891e5753973d"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #7a55a965-eb7f-4e7c-b4d3-aba9fab4303b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "09874c04-8616-468b-9d69-dc85d5a9cac6"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #db9d355f-9975-4abd-8a89-730ab3134035",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "9d7632d8-8d49-4b5a-8551-91d776ddd821"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "a40b710c-b516-4439-9fc1-bda85f602bf7",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 14",
+            "parentItemId": 4671922,
+            "hotspots": [
+                {
+                    "name": "Audio for #193b8e66-fb97-4f23-9cba-9d8d6b58a51e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "dee58db8-946b-42bf-9a77-f4b79cdae734"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #1115b85e-2556-4e04-a569-bedc3d37f8cc",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "1fdbcac4-772c-4942-9343-85ed6e97fcd0"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "5030339a-cef8-41f4-9517-70fe6477e409",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 15",
+            "parentItemId": 4671923,
+            "hotspots": [
+                {
+                    "name": "Audio for #b89a0fcc-ef3c-4909-893a-82f27eee42de",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c4fac37b-aa26-4e63-a878-09b475b9fd41"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #ed133209-089d-4832-97ce-d11bb23c3279",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "1bc25ab8-b436-4a00-b835-123bd9c978ac"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "e603f446-e924-43d8-84cc-103c8dc08fb7",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 16",
+            "parentItemId": 4671924,
+            "hotspots": [
+                {
+                    "name": "Audio for #4c803a0a-46db-45ff-8cf9-e849f08c73a2",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d1b613e1-6726-48f2-93de-505fbb5a3e6a"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #a383a069-ddeb-40b2-9a6a-c18a18bdafa5",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d5fca63d-0f7e-420c-a69f-3ac97e731fe7"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "30a5a621-4f5b-4df3-9564-6bc2e1ff2053",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 17",
+            "parentItemId": 4671925,
+            "hotspots": [
+                {
+                    "name": "Audio for #b64ef10e-d51d-45b1-b677-02012f1a695e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5ac6d909-42ae-4999-be50-c9dbfa8c6488"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #4e2855f3-54e0-4c6c-8834-8805dfeefab7",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "6c521706-affe-4e71-94f9-eea5b00a222b"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "a5fa4e80-ef83-43c8-a3f9-fb2cb92e633c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 18",
+            "parentItemId": 4671926,
+            "hotspots": [
+                {
+                    "name": "Audio for #59675f1a-391b-461e-ab04-4eb73549d6ac",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "7e7a1f37-400b-4698-8395-bfe59e64d6d3"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #483db5e5-dcc0-4214-a509-8ea35bb5f324",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3899f81f-6de4-4686-bfcc-5b885c0daa67"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "3c01575a-10ce-47f2-aa1c-ef28fd710e2d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 19",
+            "parentItemId": 4671927,
+            "hotspots": [
+                {
+                    "name": "Audio for #8860570a-24fc-40bf-8dc4-c6d32e7d9e17",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "504dfe7a-f82b-45a3-8fe9-cd8e9c94f874"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #e184b3f8-9d11-4b9d-a1c9-b9e81e65634a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8cd8e26c-f284-4fb4-995c-d28870cde09c"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "5b1f0174-7bb4-4cb1-b08d-d552a3e8cc08",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 20",
+            "parentItemId": 4671928,
+            "hotspots": [
+                {
+                    "name": "Audio for #92436152-bb7c-4efd-813a-e85b7fc3066a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c7a7204a-ebb2-4bf9-90fc-90cf87535aaf"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #20f6f797-8027-4d67-bb9c-ae45ebfc97c9",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "451c8b32-e358-4d02-9bd1-55fbce47fc82"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "c0a00c01-24e3-42ff-813a-48d34c71345f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 21",
+            "parentItemId": 4671929,
+            "hotspots": [
+                {
+                    "name": "Audio for #87955c81-45de-440b-958d-94fdf4bdba73",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "eae75c2d-c71f-4a1f-bb25-0ced8b49570d"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #477a5abe-76ba-4b1f-8642-989b5e604b32",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "879ef65c-09c3-4c47-a3b8-a1116a0cf14e"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "e9fb5d4f-a2bb-44a1-9eac-f9aa2d37d0c2",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 22",
+            "parentItemId": 4671930,
+            "hotspots": [
+                {
+                    "name": "Audio for #6ae4d443-a0aa-4906-9534-bab40cc6ab59",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d17acb09-43a4-499d-9e47-77badc0b42d1"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #2bacd3c3-a9f0-4916-9867-08ec6cb54396",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "4330d44d-9542-4615-835f-e6fce8763242"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "e5eebbb3-7d32-4d65-ba55-977d5259b433",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 23",
+            "parentItemId": 4671931,
+            "hotspots": [
+                {
+                    "name": "Audio for #374cb2f8-a0e8-41ff-a83a-623b36d432c8",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d822cfe3-2f80-46b9-a51f-34f1a395a656"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #30535fc6-45fa-4adf-a91c-935e584dfc17",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "24addc45-8bab-4494-96f4-c25d4c58267a"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "txt 3",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.4637537239324727,
+                        "height": 0.1763668430335097,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "visual"
+                            },
+                            {
+                                "score": 1,
+                                "keyword": "auditory"
+                            },
+                            {
+                                "score": 1,
+                                "keyword": "read/write"
+                            },
+                            {
+                                "score": 1,
+                                "keyword": "kinesthetic"
+                            }
+                        ],
+                        "positionX": 0.2671300893743793,
+                        "positionY": 0.7901234567901234,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Visual, Auditory, Read/Write, Kinesthetic",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #6c48670f-1d34-41cc-9407-42921252b685",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "7799a0b5-c988-47f8-a84e-0e9393dbe5cb"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "finish",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0923535253227408,
+                        "height": 0.10052910052910052,
+                        "positionX": 0.8987090367428004,
+                        "positionY": 0.8959435626102292,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 5
+                }
+            ]
+        },
+        {
+            "fileId": "ba4d19c0-ba2b-4d8c-9bcc-5470ed0d6df4",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 24",
+            "parentItemId": 4671932,
+            "hotspots": [
+                {
+                    "name": "Audio for #ff3fbd08-339e-46a5-b03e-bed7ff0ec52e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d9964733-4bf7-4022-88e6-e79ea7b719a6"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #cdd3fd5f-a367-4ea8-87a7-29427c487baf",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3b445f15-1a9a-4cf9-8c2c-c4262d29b3cc"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        }
+    ]
+}

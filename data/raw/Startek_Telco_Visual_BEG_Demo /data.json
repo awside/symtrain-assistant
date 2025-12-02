@@ -1,0 +1,1617 @@
+{
+    "name": "Startek_Telco_Visual_BEG_Demo ",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Jennifer",
+    "voiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "efb2f95b-1b39-4ce2-b024-1accacc1ad65",
+            "sequenceNumber": 1,
+            "fileTranscript": "Thank you for calling Xfinity Mobile, we appreciate your business. This is (YOUR NAME). May I have your name please?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "xfinity mobile,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "appreciate",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "recognize",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "273f6eaa-3857-45ca-8d22-cc6c6b9377ae",
+            "sequenceNumber": 2,
+            "fileTranscript": "My name is Danerra Lamburth.",
+            "fileId": "261a6c34-68b0-4ddb-beea-8be5e0387aa9",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "86d083e0-1fb7-4bb5-b97e-ffe0fa7cd7c5",
+            "sequenceNumber": 3,
+            "fileTranscript": "What a beautiful name! Is it okay if I call you by your first name?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "first name?",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "ac3ab207-e45b-4501-9cbb-9c13ef0e2075",
+            "sequenceNumber": 4,
+            "fileTranscript": "Sure, that's fine.",
+            "fileId": "728b1e0f-0c05-40c9-b789-da431943bb4c",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "cea1edcc-a0d9-46be-96e6-6cfb8d6f7f92",
+            "sequenceNumber": 5,
+            "fileTranscript": "Awesome! How are you doing today, Danerra?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "ccdbd505-e55e-4ec6-b5d0-25eaa8979fe0",
+            "sequenceNumber": 6,
+            "fileTranscript": "I'm doing fine, thank you. How about yourself?",
+            "fileId": "d9698610-c6a2-48d5-937c-7611cf3dc827",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "fc079ab5-e071-4068-8e4c-d93bf0f7c397",
+            "sequenceNumber": 7,
+            "fileTranscript": "I'm glad to hear that. I'm doing great as well. Thank you for asking. Tell me, how may I help you today?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "help",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "assist",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "4f441fb0-c027-4558-aced-f04adf45765f",
+            "sequenceNumber": 8,
+            "fileTranscript": "I received the SIM card the other day, and as of today, it is still not activated.",
+            "fileId": "9267f623-bb51-4f13-9890-30557c13410b",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "257a112f-8855-4b60-8b82-e0481cf41f66",
+            "sequenceNumber": 9,
+            "fileTranscript": "Thank you for clarifying that for me! I'd be happy to assist you with activating your new SIM card. To begin the process, I need to access your account first. I'll be asking you a few questions for security purposes; would that be fine?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "assist",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "help",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "account",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "questions",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "security",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "purposes;",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "39a2bf23-09c2-474c-bce4-6b43c74ef0b5",
+            "sequenceNumber": 10,
+            "fileTranscript": "Sure!",
+            "fileId": "8c07f42f-d73b-444e-a8e6-99495656ff7c",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c4e29b1f-5f14-4f18-9ac1-35cfd46c5693",
+            "sequenceNumber": 11,
+            "fileTranscript": "Great! Can you please provide me with your billing address on file?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "billing address",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "residential address",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "address",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "6d45a759-8546-48db-aee0-e438e0baa445",
+            "sequenceNumber": 12,
+            "fileTranscript": "6000 Hollister St, Apartment 1 8 1 6, Houston, Texas 7 7 0 4 0.",
+            "fileId": "6997a7e3-8147-451c-b26e-f6c00bdf76e8",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "57558265-ce81-401a-a338-9dc78d667999",
+            "sequenceNumber": 13,
+            "fileTranscript": "How about the last four digits of the credit or debit card on file?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "four digits",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "credit",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "debit",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "card",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "98bbb1b8-9aa4-481f-83c3-42cc75fbb957",
+            "sequenceNumber": 14,
+            "fileTranscript": "4 9 8 0",
+            "fileId": "da73c33a-8e59-4825-9fcf-83b2d1d32865",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b9ed7e7d-ea09-45c0-99da-deb75b56b7cb",
+            "sequenceNumber": 15,
+            "fileTranscript": "Thank you, Danerra, for providing all the necessary information to access your account. Your cooperation is appreciated. I was able to pull up your account, and I can see that you have two iPhone devices. May I know the mobile number of the device on which you would like to activate the new SIM card?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "information",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "account.",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "mobile number",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "cell number",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "cell phone number",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "number",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "activate",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "1908df0c-74a5-40c8-9e56-cb80f45d0267",
+            "sequenceNumber": 16,
+            "fileTranscript": "(560) 346-9876",
+            "fileId": "7bc4a83d-451d-4718-93f0-5b704f7bcac8",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "5ee4a4c1-0688-476c-be5e-9e1b2f70f03b",
+            "sequenceNumber": 17,
+            "fileTranscript": "To ensure that I got the correct number, which is (560) 346-9876, is that correct?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "number,",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "23d6eed9-b300-489a-b460-ac8bbc0c2432",
+            "sequenceNumber": 18,
+            "fileTranscript": "Yes, that's correct.",
+            "fileId": "2ba6e782-3221-47f1-a593-0b2805aed24b",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "0239844c-a6b4-4d3f-b413-f183853c69b0",
+            "sequenceNumber": 19,
+            "fileTranscript": "Nice! How about the ICCID number of the new SIM card?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "daf33ff0-28b6-4e8f-a931-71c3fa4da7c8",
+            "sequenceNumber": 20,
+            "fileTranscript": "Where can I find that?",
+            "fileId": "953b0cb3-f947-4280-9fb2-e9078c0d72c0",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "e81de8aa-f5c4-4017-8ff1-c8580f803fa4",
+            "sequenceNumber": 21,
+            "fileTranscript": "The ICCID for your Xfinity Mobile SIM card can typically be found printed on the SIM card itself or on the SIM card packaging. It is a unique 20-digit number that identifies your SIM card. If you're unable to locate the ICCID on the SIM card or packaging, you can find it in the settings of your phone once it's inserted. On your iPhone, go to Settings > General > About. The entry titled ICCID is your SIM card number.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "unique 20-digit number",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "settings",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "general",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "about.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "3146c9af-bff0-481b-bc89-d4a380d6d2fe",
+            "sequenceNumber": 22,
+            "fileTranscript": "I found it! The number is too small on the card. That is 8 9 1 4 8 0 0 0 0 0 9 8 7 6 5 4 3 2 1 0.",
+            "fileId": "e877dcd6-4ea6-4e1d-8a83-49c788fed89f",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "59e86117-9ffc-4172-967b-0b5c65d6c53b",
+            "sequenceNumber": 23,
+            "fileTranscript": "To confirm, it is 89148000009876543210, am I right?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "732a43da-8699-4f3f-9e0e-77253aa5fe6e",
+            "sequenceNumber": 24,
+            "fileTranscript": "Yes.",
+            "fileId": "4307eadc-9d29-4394-9050-038e958edb7c",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "4fadc3c5-eafc-4291-8bef-63105a47614b",
+            "sequenceNumber": 25,
+            "fileTranscript": "Thank you for confirming it. Let me go ahead and update the new SIM card on your phone. This may take a few minutes to complete the process, and I'll be asking you to reset the network settings of your phone afterwards.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "update",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "process,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "network",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "settings",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "6bc90054-c352-42a7-88ee-9b99fc96c074",
+            "sequenceNumber": 26,
+            "fileTranscript": "Sure. Take your time.",
+            "fileId": "83261f2e-a6a7-450d-bf49-5749cc237a06",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "adda2e43-e0fc-4ec7-b587-45e2f8d6c177",
+            "sequenceNumber": 27,
+            "fileTranscript": "Okay, here's what I found out, Danerra. Your SIM card is not activated because of the pending order on the account. And this needs to be completed before your SIM card can be activated.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "activated.",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "pending",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "order",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "e2b5329f-ad9a-48b6-83f4-ae495ecf1ccc",
+            "sequenceNumber": 28,
+            "fileTranscript": "It's been three days; I am confused as to why my phone is still not working, and is this the only reason why?",
+            "fileId": "639d44fb-9b58-4a2f-aa8a-0681c444a53f",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "48b7f136-7648-4895-bb04-def623e69536",
+            "sequenceNumber": 29,
+            "fileTranscript": "So please give me a moment while I am working on it. I will let you know once the pending order is completed and to activate the SIM card.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "completed",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "80b5aa1a-11ee-41d8-8383-1e8f139068a7",
+            "sequenceNumber": 30,
+            "fileTranscript": "Sure, take your time.",
+            "fileId": "332ec831-fed0-4f4c-be59-33d9e3416c37",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "6744e56e-b4f3-4064-892c-366d5841ecfc",
+            "sequenceNumber": 31,
+            "fileTranscript": "All right, Danerra. I was able to activate and update your new SIM card. Kindly insert the new SIM card and reset the network settings on your phone. Before that, I would like to set your expectation that any saved Wi-Fi networks and passwords will be removed and all paired devices will be unpaired. So, after you reset the network settings, please set up your phone so everything will be connected again. Just go to Settings > General > Reset. Then select \"Reset Network Settings\" and confirm your choice when prompted. After the reset, your phone will restart. Please test the call functionality afterwards.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "activate",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "settings",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "network",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "settings,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "general",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "reset.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "e95d30fb-09e1-4bf0-9c09-f0f8b5768ab5",
+            "sequenceNumber": 32,
+            "fileTranscript": "I already inserted the SIM card and reset the network settings. My phone is restarting now.",
+            "fileId": "c4333073-0197-4037-a73a-99bff88fbf16",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "237d4749-57d1-4a68-8266-f6d87d3e343c",
+            "sequenceNumber": 33,
+            "fileTranscript": "Once your phone is back on, please check the network connectivity and let me know if everything is working as expected.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "network",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "connectivity",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "5ee5a571-cfcf-45dd-a038-9813711c23b7",
+            "sequenceNumber": 34,
+            "fileTranscript": "Sure, I will.",
+            "fileId": "93a131d4-fe27-4aaa-b487-6cccfd0c8679",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "8cc65f74-bece-4e52-b3c3-b1a31e73b800",
+            "sequenceNumber": 35,
+            "fileTranscript": "While your phone is restarting, I'd like to express my gratitude for being a valued [Silver, Gold, Platinum, or Premium] customer with Xfinity Rewards. As a loyal customer, you have access to exciting rewards and exclusive benefits. The longer you stay with us, the more rewards you can enjoy. You can conveniently access your rewards anytime through the Xfinity app or by visiting www.xfinity.com/rewards.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "xfinity rewards.",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "rewards",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "benefits.",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "xfinity",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "dfdd86bc-22fc-454a-8543-2e6c3d448cb8",
+            "sequenceNumber": 36,
+            "fileTranscript": "Thank you.",
+            "fileId": "fa96e7ca-7c32-4e7e-a04c-50506e4eefaa",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a5bd1585-94dd-4faa-87b5-6af150101fda",
+            "sequenceNumber": 37,
+            "fileTranscript": "Thank you, Danerra! Your loyalty means a lot to us. Don't forget to make the most of the rewards we offer. We have a range of exclusive benefits and perks specifically tailored for customers like you. If you ever have any questions or need assistance in maximizing your rewards, feel free to ask. We're here to help!",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "rewards",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "exclusive",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "benefits",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "rewards,",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "a76b1603-7b8a-49ce-a50f-294dfe6d1b1e",
+            "sequenceNumber": 38,
+            "fileTranscript": "I appreciate you sharing that. And I just tested the network, and it's working perfectly now! Thank you for your assistance.",
+            "fileId": "64c37987-cc58-43c7-a773-89750cbd40b3",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c74ebd19-7113-4858-8bc9-31d59f3381c8",
+            "sequenceNumber": 39,
+            "fileTranscript": "You're most welcome, Danerra. Is there anything else I can assist you with?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "assist",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "help",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "cb796745-6394-40d5-b2d2-93c48edf9ce5",
+            "sequenceNumber": 40,
+            "fileTranscript": "No, that was all I needed. I really appreciate your prompt and efficient support.",
+            "fileId": "47f2bf33-e47a-45cb-b304-6f7d977744fc",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "1e0d9895-e550-48f0-ba4c-f791c4fed0fa",
+            "sequenceNumber": 41,
+            "fileTranscript": "It's a collaboration with you! Just for a quick recap, you contacted Xfinity today to activate your new SIM card, which is now working as a replacement for the number ending in 9876. Then I asked you to insert the SIM card and reset the network settings. You confirmed that everything is working after testing it.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "xfinity",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "replacement",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "network",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "d4cc698c-06e0-49b4-8eb9-c9a84c221fad",
+            "sequenceNumber": 42,
+            "fileTranscript": "Thank you so much!",
+            "fileId": "b866cfbc-5bc5-47db-83d0-2231edae3f0f",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "49617268-1dbd-4a6e-9f7a-524efbb25a0b",
+            "sequenceNumber": 43,
+            "fileTranscript": "It's been a pleasure taking care of your needs today, and I appreciate your collaboration and patience while we resolved your issue. Thank you, and have a great rest of your day!",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "patience",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "8c570e0b-b159-4825-90ce-7e5d824113e2",
+            "sequenceNumber": 44,
+            "fileTranscript": "Thanks, you too!",
+            "fileId": "5fac57cc-aa96-4e8b-bba8-8fca3f3aea95",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "58ac44e5-0777-4e14-abc3-872da27868ce",
+            "sequenceNumber": 45,
+            "fileTranscript": "This concludes your simulation.",
+            "fileId": "4e73a883-ae91-4fc9-8e1a-111ad034641e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "2e6c0fae-e182-4df8-b0f0-c1b40035d3d0",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Description",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "This simulation features a visual system interface that replicates the telecommunications customer service environment.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a16f8ec5-b721-11eb-ab80-12a3f1d4ce57",
+                                "voiceName": "Joanna"
+                            },
+                            "fileId": "65f7a35f-48a1-422e-90db-a6fc262568d7"
+                        },
+                        "width": 0.4093655589123867,
+                        "height": 0.2832214765100671,
+                        "fontSize": 16,
+                        "positionX": 0.5354984894259819,
+                        "positionY": 0.5758389261744966,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Description 1",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.3889728096676737,
+                        "height": 0.21610738255033557,
+                        "fontSize": 16,
+                        "positionX": 0.5513595166163142,
+                        "positionY": 0.6040268456375839,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": false,
+                        "isWhiteField": false,
+                        "expectedValue": "This simulation features a visual system interface that replicates the telecommunications customer service environment.",
+                        "highlightProp": {
+                            "highlightColor": "#FFFFFF",
+                            "isClickToAdvance": false
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 3000
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "387c8d77-7432-4d51-85c5-3b7e6b1a13d0",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 2",
+            "parentItemId": 4671899,
+            "hotspots": [
+                {
+                    "name": "Audio for #7ee75934-02b5-4c8f-aec3-43f9917c2df7",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "efb2f95b-1b39-4ce2-b024-1accacc1ad65"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #a518a4ec-cdb3-420b-a0a1-ad5a8a0fe2b6",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "273f6eaa-3857-45ca-8d22-cc6c6b9377ae"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #c1d4915a-4a48-4816-b90f-5b94045e830b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "86d083e0-1fb7-4bb5-b97e-ffe0fa7cd7c5"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #3d424f9e-6979-4b72-a771-f67b39248fab",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "ac3ab207-e45b-4501-9cbb-9c13ef0e2075"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #df8e10ea-a6a3-4a9c-979a-309942997add",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "cea1edcc-a0d9-46be-96e6-6cfb8d6f7f92"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Audio for #a75ec050-2192-496b-984f-8ba5cb89e4e7",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "ccdbd505-e55e-4ec6-b5d0-25eaa8979fe0"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Audio for #22dc9e1f-2ab5-44cc-9ac0-025f31155717",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "fc079ab5-e071-4068-8e4c-d93bf0f7c397"
+                        }
+                    ],
+                    "sequenceNumber": 7
+                },
+                {
+                    "name": "Audio for #97895142-8171-437e-82a0-feb85224f0a6",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "4f441fb0-c027-4558-aced-f04adf45765f"
+                        }
+                    ],
+                    "sequenceNumber": 8
+                }
+            ]
+        },
+        {
+            "fileId": "364dbce5-f6c0-464b-8d27-05f10ff6e9a5",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 3",
+            "parentItemId": 4671900,
+            "hotspots": [
+                {
+                    "name": "Contact Reason",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.18474842767295596,
+                        "height": 0.040502793296089384,
+                        "options": [
+                            {
+                                "value": "SIM issue",
+                                "isCorrect": true
+                            },
+                            {
+                                "value": "Display issue",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Network issue",
+                                "isCorrect": false
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.054245283018867926,
+                        "positionY": 0.7262569832402235,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Secondary reason",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.18238993710691823,
+                        "height": 0.04329608938547486,
+                        "options": [
+                            {
+                                "value": "SIM not activated",
+                                "isCorrect": true
+                            },
+                            {
+                                "value": "SIM not delivered",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "No service",
+                                "isCorrect": false
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.055031446540880505,
+                        "positionY": 0.8128491620111732,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Tip 1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Select 'SIM issue' from contact reason dropdown and 'SIM not activated' from secondary reason dropdown.",
+                        "width": 0.4614779874213836,
+                        "height": 0.18016759776536312,
+                        "fontSize": 24,
+                        "positionX": 0.25157232704402516,
+                        "positionY": 0.5796089385474861,
+                        "audioEnable": false,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "77181f40-72a6-4322-b11e-3c5f7d6f6545",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 4",
+            "parentItemId": 4671901,
+            "hotspots": [
+                {
+                    "name": "Audio for #f4fed4e0-7dc3-4b63-ae5d-9696927e3784",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "257a112f-8855-4b60-8b82-e0481cf41f66"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #bfed205d-a7a8-4359-8d97-c936f7f59085",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "39a2bf23-09c2-474c-bce4-6b43c74ef0b5"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #48ae0334-8756-4bd0-82ea-2bd9e5eba504",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c4e29b1f-5f14-4f18-9ac1-35cfd46c5693"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #8f2e8c2e-5916-4a01-accf-90b6b3ed94c6",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "6d45a759-8546-48db-aee0-e438e0baa445"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Mailing address tip",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click on the mailing address to verify the same.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "430effc7-296c-47e9-ab59-058b37c8d7bd"
+                        },
+                        "width": 0.46226415094339623,
+                        "height": 0.16061452513966482,
+                        "fontSize": 24,
+                        "positionX": 0.2507861635220126,
+                        "positionY": 0.6019553072625698,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Mailing Address",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.18474842767295596,
+                        "height": 0.13268156424581007,
+                        "positionX": 0.05345911949685535,
+                        "positionY": 0.4581005586592179,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 6
+                }
+            ]
+        },
+        {
+            "fileId": "1fe4c6d1-3f7d-47a2-8b1f-f52c9c76ed3e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 5",
+            "parentItemId": 4671902,
+            "hotspots": [
+                {
+                    "name": "Audio for #dda10be9-5a8c-443d-909f-b0b91793f9db",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "57558265-ce81-401a-a338-9dc78d667999"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #15a16422-2043-4c1c-a025-f8867e2999e3",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "98bbb1b8-9aa4-481f-83c3-42cc75fbb957"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "CC Number",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1462264150943395,
+                        "height": 0.055865921787709494,
+                        "positionX": 0.7185534591194969,
+                        "positionY": 0.3659217877094972,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "adc37a74-4f48-4efd-be24-31b2ae82695d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 6",
+            "parentItemId": 4671903,
+            "hotspots": [
+                {
+                    "name": "Audio for #cad3b127-4c2d-4b72-99d3-be492a05a59f",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b9ed7e7d-ea09-45c0-99da-deb75b56b7cb"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #7b0f6094-f613-46a3-af5d-af198ede0d07",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "1908df0c-74a5-40c8-9e56-cb80f45d0267"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #447ff382-f6e0-4808-a372-3798138dc254",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5ee4a4c1-0688-476c-be5e-9e1b2f70f03b"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #8c1ea40b-4058-454a-8f00-df7b8ddb57ae",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "23d6eed9-b300-489a-b460-ac8bbc0c2432"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "14 Pro",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1965408805031447,
+                        "height": 0.14245810055865915,
+                        "positionX": 0.2861635220125786,
+                        "positionY": 0.5041899441340782,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 5
+                }
+            ]
+        },
+        {
+            "fileId": "beb432ce-c15d-4ed8-86cd-5c80cb051ef3",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 7",
+            "parentItemId": 4671904,
+            "hotspots": [
+                {
+                    "name": "Audio for #3b7aee78-4cff-47b2-b361-dedc5170782f",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "0239844c-a6b4-4d3f-b413-f183853c69b0"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #8bf447e7-8e58-4651-8079-fee52364a312",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "daf33ff0-28b6-4e8f-a931-71c3fa4da7c8"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #7d6e79ab-de02-4860-97bd-a8de2541f107",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e81de8aa-f5c4-4017-8ff1-c8580f803fa4"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #699a2070-3da9-4545-921c-58833daf268a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3146c9af-bff0-481b-bc89-d4a380d6d2fe"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #5274e104-58c5-49be-b67b-fea4b7312111",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "59e86117-9ffc-4172-967b-0b5c65d6c53b"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Audio for #f29891c5-a158-4834-8e72-6c62fdf3dd70",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "732a43da-8699-4f3f-9e0e-77253aa5fe6e"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Audio for #c52d8ede-3590-480a-bdfe-4c73bfcee6f6",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "4fadc3c5-eafc-4291-8bef-63105a47614b"
+                        }
+                    ],
+                    "sequenceNumber": 7
+                },
+                {
+                    "name": "Audio for #763f33ec-4b08-48e2-acfc-ca8a313f8ba3",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "6bc90054-c352-42a7-88ee-9b99fc96c074"
+                        }
+                    ],
+                    "sequenceNumber": 8
+                },
+                {
+                    "name": "ICCID number",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.19418238993710693,
+                        "height": 0.13687150837988826,
+                        "positionX": 0.2861635220125786,
+                        "positionY": 0.5069832402234636,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 9
+                }
+            ]
+        },
+        {
+            "fileId": "74ace913-224a-47e7-9852-a93028ed7c21",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 8",
+            "parentItemId": 4671905,
+            "hotspots": [
+                {
+                    "name": "Audio for #46f3ece2-7364-4695-a478-91d02597d955",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "adda2e43-e0fc-4ec7-b587-45e2f8d6c177"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #ba3c9fd7-1bb8-448d-8905-33ab5b49e13e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e2b5329f-ad9a-48b6-83f4-ae495ecf1ccc"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Troubleshooting",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.13836477987421383,
+                        "height": 0.05446927374301676,
+                        "positionX": 0.5094339622641509,
+                        "positionY": 0.06284916201117319,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "e56e9a09-8b65-4cd8-9c52-284330b5ff42",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 9",
+            "parentItemId": 4671906,
+            "hotspots": [
+                {
+                    "name": "Audio for #043b7dcb-ebc1-4354-9d06-bbbc50a168f6",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "48b7f136-7648-4895-bb04-def623e69536"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #7403a793-a815-4d14-9baf-1c6f3545282c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "80b5aa1a-11ee-41d8-8383-1e8f139068a7"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Start troubleshoot",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.049528301886792456,
+                        "height": 0.07960893854748603,
+                        "positionX": 0.44261006289308175,
+                        "positionY": 0.6522346368715084,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "555083e8-d38d-4d02-8b4a-b743192cf219",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 10",
+            "parentItemId": 4671907,
+            "hotspots": [
+                {
+                    "name": "Troubleshoot complete",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.18632075471698112,
+                        "height": 0.138268156424581,
+                        "positionX": 0.3867924528301887,
+                        "positionY": 0.6005586592178771,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#f2b612",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #de61c1a3-5577-4252-a18a-e2f645576ae2",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "6744e56e-b4f3-4064-892c-366d5841ecfc"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #80f23a4d-1a07-49fa-830a-be122957d87d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e95d30fb-09e1-4bf0-9c09-f0f8b5768ab5"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #4e7d7ad5-6b8c-489b-8434-17a1b81c576e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "237d4749-57d1-4a68-8266-f6d87d3e343c"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #f4f40baf-76bc-42c1-aa31-1bab9b9c4856",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5ee5a571-cfcf-45dd-a038-9813711c23b7"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Sales & promotions",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.139937106918239,
+                        "height": 0.05446927374301676,
+                        "positionX": 0.6501572327044025,
+                        "positionY": 0.06284916201117319,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 6
+                }
+            ]
+        },
+        {
+            "fileId": "c2778b7d-ac6a-47c9-b57a-57e30469c7ab",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 11",
+            "parentItemId": 4671908,
+            "hotspots": [
+                {
+                    "name": "Audio for #7d1667f3-7606-4ae1-961c-e9d40cdfcdab",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8cc65f74-bece-4e52-b3c3-b1a31e73b800"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #36af634b-cf07-4d11-9b42-d2a38ab51c29",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "dfdd86bc-22fc-454a-8543-2e6c3d448cb8"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #5cdebe67-ca91-41ab-b60e-2c44b5c29d15",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a5bd1585-94dd-4faa-87b5-6af150101fda"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #294c9ce6-6442-42ec-b779-8d1cb33af0ce",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a76b1603-7b8a-49ce-a50f-294dfe6d1b1e"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #d20dc612-5d2e-4d7d-abf8-172667adee75",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c74ebd19-7113-4858-8bc9-31d59f3381c8"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Audio for #5b76cb63-7c84-4773-bc42-6f80be6c15c7",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "cb796745-6394-40d5-b2d2-93c48edf9ce5"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Audio for #2adb39f5-eb23-45e1-95fd-e18c38381e2a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "1e0d9895-e550-48f0-ba4c-f791c4fed0fa"
+                        }
+                    ],
+                    "sequenceNumber": 7
+                },
+                {
+                    "name": "Audio for #816f5725-3d7d-4157-bae1-f37c34b98e1c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d4cc698c-06e0-49b4-8eb9-c9a84c221fad"
+                        }
+                    ],
+                    "sequenceNumber": 8
+                },
+                {
+                    "name": "Audio for #7d4c82e7-db4a-40a6-819b-94704d68fae0",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "49617268-1dbd-4a6e-9f7a-524efbb25a0b"
+                        }
+                    ],
+                    "sequenceNumber": 9
+                },
+                {
+                    "name": "Audio for #5c6eb9eb-5a89-4e96-8268-a8eb4d2accd4",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8c570e0b-b159-4825-90ce-7e5d824113e2"
+                        }
+                    ],
+                    "sequenceNumber": 10
+                },
+                {
+                    "name": "solved",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1430817610062893,
+                        "height": 0.05027932960893855,
+                        "positionX": 0.8537735849056604,
+                        "positionY": 0.952513966480447,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 11
+                }
+            ]
+        },
+        {
+            "fileId": "aea6eacf-fcbf-46ba-aa4f-7f76916bc15f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 12",
+            "parentItemId": 4671909,
+            "hotspots": [
+                {
+                    "name": "Audio for #6e418e55-7a59-41b9-b1dd-53d908eb8859",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "58ac44e5-0777-4e14-abc3-872da27868ce"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        }
+    ]
+}

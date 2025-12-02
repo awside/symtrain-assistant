@@ -1,0 +1,493 @@
+{
+    "name": "Startek_Compassion- Gift Donation. BEG",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "AUDIO",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": true,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Jennifer",
+    "voiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "d37fe919-5f5e-46b6-9a1f-355361abf412",
+            "sequenceNumber": 1,
+            "fileTranscript": "In this simulation, you will assist the customer with setting up of automated gift for the child.",
+            "fileId": "eb6adf56-9dc9-4ad5-ad03-031e6df399a4",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "eb97eebb-e5a7-4e0d-b09c-8ab13902f4a8",
+            "sequenceNumber": 2,
+            "fileTranscript": "Hello, good afternoon. Thank you for calling Compassion. My name is [YOUR NAME]. How can I assist you today?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "compassion.",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "assist",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "help",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "22389ac2-a9e4-45cd-97c9-44d80ca62e8e",
+            "sequenceNumber": 3,
+            "fileTranscript": "Hi! I got a letter saying that my child is turning 16 today, and I thought I had to set up as an automated birthday gift. Every year he gets a birthday gift.",
+            "fileId": "dedd379f-e2cf-4304-beb2-9b3906309111",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c7e1fdc7-6c90-43a7-917c-0937933ce45a",
+            "sequenceNumber": 4,
+            "fileTranscript": "Thank you for being a sponsor and wanting to send a gift to your sponsored child. It's a wonderful way to show your care and support.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "sponsor",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "gift",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "sponsored",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "child.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "59085c13-bf22-4223-836c-4cda56e27b48",
+            "sequenceNumber": 5,
+            "fileTranscript": "Thank you. Do you want my account number or anything?",
+            "fileId": "6812f7f4-da4d-451e-9f65-0cb77ccced88",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "1848df49-18d6-4a08-b880-9946aa01ac71",
+            "sequenceNumber": 6,
+            "fileTranscript": "Yeah. May I know your sponsor number if you have it on hand?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "sponsor",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "number",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "66fb2735-4548-42bc-9726-2fa17bfb85ef",
+            "sequenceNumber": 7,
+            "fileTranscript": "Yes, the number is X 1 Y 2 Z 3.",
+            "fileId": "d2e0f08d-e82e-4dbc-8685-df2da9c1a959",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "ff714bde-1f87-4d91-958b-2479bd966595",
+            "sequenceNumber": 8,
+            "fileTranscript": "Thank you. Can you verify the first and last name on the account.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "first and last name",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "1ef82726-a786-49e9-92f6-e500baa27bba",
+            "sequenceNumber": 9,
+            "fileTranscript": "Kim Reeves.",
+            "fileId": "7fda2608-5f52-46cd-8a7a-721629e1bb19",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "d7f86529-e136-4805-89ef-6d4f3894360b",
+            "sequenceNumber": 10,
+            "fileTranscript": "Alright, I have pulled up your account. And first, I would like to thank you for being part of Compassion since 2016 and for being a blessing to your two children. You do have Jim from Peru and Michael, that is from Rwanda. And with regards to the birthday gift, it looks like you haven’t setup a birthday gift here on the account. The only thing that you have set up is the automatic withdrawal for your monthly sponsorship for the birthday gift.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "automatic",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "withdrawal",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "monthly",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "sponsorship",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "eecf4672-49f8-4ca9-943a-33164d792ecc",
+            "sequenceNumber": 11,
+            "fileTranscript": "Okay.",
+            "fileId": "fade4764-b08a-4e60-84cf-d019d6a157b8",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "0034bed4-8fda-40fd-89c8-45a01877ed06",
+            "sequenceNumber": 12,
+            "fileTranscript": "Regrettably, we don't have it here on the account. That means you didn't send a birthday gift to your child because you don't have any automatic set up of birthday gifts.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "don't",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "automatic",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "birthday",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "gifts.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "27458c2f-5ae0-45ba-be9c-6bb04e0a0cc1",
+            "sequenceNumber": 13,
+            "fileTranscript": "Well, I thought it was already set up. So, if you could set it up today as an automatic gift and I can make a payment today on it. You need a card?",
+            "fileId": "aff6653e-3049-4e1f-a342-d44dc89b92ae",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "25a958e0-39bc-489e-ac13-39695c789e34",
+            "sequenceNumber": 14,
+            "fileTranscript": "Let me check it here on the account. You do have here a visa card ending in 5252. Is it the one that you are using?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "visa card",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "87661c20-b44d-4e61-ba90-a16898d1540b",
+            "sequenceNumber": 15,
+            "fileTranscript": "Yeah, that one's good to use. Can you put it for $40? Automated birthday gift?",
+            "fileId": "b1ae3bcb-01c3-424c-af86-adc8aa359753",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "5f6e389f-dd5a-4937-ab8e-6c26509229b3",
+            "sequenceNumber": 16,
+            "fileTranscript": "Yeah. Thank you so much for that. That would be $40 annually. And since we didn't receive one for today, we will be making one time birthday gift today. And then the next one would be on November 17, 2024, right?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "$40",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "annually.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "11bf6865-0614-4a9d-85da-ea09140e93e6",
+            "sequenceNumber": 17,
+            "fileTranscript": "To do one today and the one in November?",
+            "fileId": "21d52566-2d95-4023-a92d-e0b3c4f36bf8",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "650003fc-53a2-4e42-b2b9-2becadb17209",
+            "sequenceNumber": 18,
+            "fileTranscript": "Yes. Because it takes two to three months before it will be reflected on the account or it will be given to the child. Is it only for your child in Peru or are we going to set up for the one that is from Rwanda, for a month?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "two to three",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "months",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "53f14cd5-2c10-4120-bbb9-051a0d982e29",
+            "sequenceNumber": 19,
+            "fileTranscript": "I thought you said that one was already on automated.",
+            "fileId": "2d774270-02c7-4ff8-ac4e-20600fbb3ea4",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "024124a7-3313-4f43-8dbe-b788c4e7e408",
+            "sequenceNumber": 20,
+            "fileTranscript": "It was on the automated, but you already sent one on last May 2023. You also sent one-time payment of a one-time birthday gift, but it wasn't setup on the automated payment.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "automated",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "payment.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "60021d36-adad-47dd-910a-5f3dcdb11b38",
+            "sequenceNumber": 21,
+            "fileTranscript": "Let me just wait on that right now. When is his birthday again?",
+            "fileId": "ce481d39-6424-4948-bb75-0180ed602761",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "fd70acf7-eec9-483c-8761-717a7d827d46",
+            "sequenceNumber": 22,
+            "fileTranscript": "Yeah, it looks like your child's birthday, Michael is in July. Do you want to set it up today?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3d83e758-39c6-420a-aa45-f4d7b9c34573",
+            "sequenceNumber": 23,
+            "fileTranscript": "Yeah, I'll do that a little bit later. I just wanted to get this one done today because I got an email that today was his birthday. I missed it. How long is it going to take for the area there to get this for him?",
+            "fileId": "37e70abb-01f8-481f-8786-a732de1d2819",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c807bad0-9665-43ca-938e-b96c7f2e2af0",
+            "sequenceNumber": 24,
+            "fileTranscript": "Yeah, it takes two to three months before they will be receiving the gift that you have sent to them.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "two to three",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "months",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "e8d36e3c-d762-4385-b0c5-aa86ef713e7a",
+            "sequenceNumber": 25,
+            "fileTranscript": "All right.",
+            "fileId": "b1d0bf20-f5a2-469c-90a6-45134d3b8268",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "526fd078-38fa-4e70-a491-3e681b141cd8",
+            "sequenceNumber": 26,
+            "fileTranscript": "I'll just submit it here. So that would be the $40 pretty gift or annual pretty gift into the account.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "$40",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "pretty gift",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "annual",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "3dde1ca5-9207-4fcb-9b79-69b305ff0bac",
+            "sequenceNumber": 27,
+            "fileTranscript": "All right. And you have it set up as automated now, right?",
+            "fileId": "e486065c-7382-4e27-bb7a-91ba14ab5750",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "344353ca-1774-460c-a7fb-98488e8cbf27",
+            "sequenceNumber": 28,
+            "fileTranscript": "Yes, that is correct.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "81d7d87e-1527-4a39-991b-be2b5c9b5849",
+            "sequenceNumber": 29,
+            "fileTranscript": "All right, thank you.",
+            "fileId": "8ef25a87-673f-4caf-9f5b-205826b95f99",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "840e589e-328f-4f58-825f-f2bcf1bcebc5",
+            "sequenceNumber": 30,
+            "fileTranscript": "Everything is set now. Is there anything else I could help you with?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "45770178-2e43-43e7-98cd-3d1743c22a1a",
+            "sequenceNumber": 31,
+            "fileTranscript": "No, that's it. I appreciate it.",
+            "fileId": "0fa09a97-d6d1-4daf-b0be-73bc9a68cdde",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "906d3b3d-efa9-42bb-92bd-0987d491459b",
+            "sequenceNumber": 32,
+            "fileTranscript": "Thank you for your time. Have a nice day.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "554d637f-f338-44db-bd67-819ec26c8bdb",
+            "sequenceNumber": 33,
+            "fileTranscript": "You too. Bye!",
+            "fileId": "55fae67c-691d-4797-a16a-92b81c5c617a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "27aec27d-1175-4cd2-b1be-28d3e4f70c6e",
+            "sequenceNumber": 34,
+            "fileTranscript": "This concludes your simulation.",
+            "fileId": "1c248670-6e9a-4eef-9134-68daab12d9e3",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": []
+}
