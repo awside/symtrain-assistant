@@ -107,4 +107,3 @@ data/processed/*
 
 # Allow only the placeholder files
 !data/raw/.gitkeep
-!data/processed/.gitkeep
