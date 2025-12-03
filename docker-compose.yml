@@ -1,0 +1,17 @@
+services:
+  streamlit:
+    build: .
+    container_name: symtrain-assistant
+    ports:
+      - "8501:8501"
+    environment:
+      - OLLAMA_API_KEY=${OLLAMA_API_KEY}
+      - OLLAMA_BASE_URL=${OLLAMA_BASE_URL:-https://ollama.com/api/chat}
+      - OLLAMA_MODEL=${OLLAMA_MODEL:-gpt-oss:120b-cloud}
+    volumes:
+      # Persist HuggingFace model downloads across container restarts
+      - huggingface_cache:/root/.cache/huggingface
+    restart: unless-stopped
+
+volumes:
+  huggingface_cache:
