@@ -645,7 +645,7 @@ SYM: This concludes your simulation.","[-2.26417452e-01 -1.68006867e-02  3.02317
   2.53689468e-01 -2.74758860e-02 -5.14756925e-02 -3.88746798e-01
  -2.53119737e-01 -2.06556782e-01 -7.27300495e-02 -1.56828851e-01
   2.38574117e-01 -3.57222915e-01 -1.06096044e-01 -1.37914866e-01
- -1.46462888e-01  6.53326809e-02  1.17043339e-01  1.09073579e-01]",1,Gift Setup
+ -1.46462888e-01  6.53326809e-02  1.17043339e-01  1.09073579e-01]",1,Account Issues
 Sales U - Closing Conclusion,"SYM: It’s closing time for this module.
 SYM: So, let’s recap all your learnings, move it to the phones.
 SYM: I hope you have learned something new.
@@ -1409,7 +1409,7 @@ SYM: It’s my name on the card.​ Alice Test.","[-2.19553068e-01 -1.05002925e-
   2.41397992e-01 -4.85186875e-02 -4.35071699e-02 -4.23483133e-01
  -2.12322056e-01 -3.32189918e-01 -5.91376014e-02 -1.23661734e-01
   1.84423238e-01 -5.06108761e-01 -1.29481167e-01 -2.16043934e-01
- -2.30847389e-01 -1.11407042e-02  1.32409379e-01  1.05662309e-02]",1,Booking Inquiry
+ -2.30847389e-01 -1.11407042e-02  1.32409379e-01  1.05662309e-02]",1,Booking
 H21 Health insurance coverage question – Step 1 (Opening),"SYM: In this simulation, you will learn how to open a call, when the customer has called in to identify whether a procedure is covered by their health insurance.
 SYM: [Phone rings]
 TRAINEE: Thank you for calling ABC Health Insurance. My name is [YOUR NAME]. How may I assist you today?
@@ -1822,7 +1822,7 @@ SYM: The Sym Score will equal a combined score of the different scoring options.
   2.20205918e-01 -5.34534790e-02 -1.04823761e-01 -3.13008368e-01
  -5.49820103e-02 -1.23926595e-01 -9.84649956e-02 -5.64114675e-02
   1.34879544e-01 -1.92220598e-01 -1.18226111e-01  5.10601513e-02
- -3.49813662e-02 -5.26153073e-02  6.51165396e-02  2.01117098e-02]",0,Training
+ -3.49813662e-02 -5.26153073e-02  6.51165396e-02  2.01117098e-02]",0,Training & Onboarding
 H21 Health insurance coverage question – Step 2 (Gather Information),"SYM: You have already opened the call and verified customer details. In this simulation, you will gather information and resolve the customer's concern.
 SYM: I'm considering getting a knee surgery called arthroscopic meniscectomy. I wanted to know if it's covered under my policy.
 TRAINEE: I understand. Let me check the specifics of your coverage. Just give me a moment, please.
@@ -2260,7 +2260,7 @@ TRAINEE: Do I have your consent to provide you with the necessary documents elec
   2.45094597e-01  7.17617944e-03 -7.54304677e-02 -2.64614671e-01
  -1.07950844e-01 -2.37248555e-01 -1.22709461e-01 -2.12991521e-01
   1.19400114e-01 -2.81333089e-01 -1.44157425e-01 -6.25152439e-02
- -1.22884363e-02  1.64196156e-02 -4.90576476e-02  1.52357221e-01]",0,Account Issues
+ -1.22884363e-02  1.64196156e-02 -4.90576476e-02  1.52357221e-01]",0,Insurance Application
 Demo sym - Prescription Request__BEG - Screen Navigation,"SYM: Now, you'll write the customer's full name by clicking on the First Name and Last Name fields on the page.
 SYM: You will first enter the customer’s contact reason in the highlighted fields.
 SYM: You will now search for the name of the medication the customer is looking to get a prescription for. Use the sample data as advised.
@@ -2465,7 +2465,7 @@ SYM: This concludes your simulation.","[-2.29992479e-01 -1.76245589e-02  2.39181
   2.74260998e-01 -1.49914667e-01 -1.46576315e-01 -4.09132421e-01
  -2.33493313e-01 -2.75753856e-01 -1.30950302e-01 -5.82152642e-02
   4.93579581e-02 -3.14457685e-01 -3.03011954e-01 -5.65002337e-02
- -1.43257663e-01 -6.14239722e-02 -2.89163413e-03  5.35319597e-02]",0,Prescription Request
+ -1.43257663e-01 -6.14239722e-02 -2.89163413e-03  5.35319597e-02]",0,Order Status
 OSA - Parity 2.0,"TRAINEE: Thank you for calling Northwestern Mutual, Underwriting Case Management, this is ________. How may I help you?
 SYM: Hi! This is Norm Weston calling from John Barrett's office. This case for Marty Juana has taken forever, what is the underwriter waiting on?
 TRAINEE: Hi Norm, may I start with a policy number to get started?
@@ -2885,7 +2885,7 @@ SYM: I realize practicing new techniques can be a challenge, but it takes practi
   2.67489076e-01  2.94736568e-02 -8.25317651e-02 -3.85818481e-01
  -1.46838248e-01 -1.49100035e-01 -1.55359149e-01 -2.26076439e-01
   1.25354409e-01 -2.85654783e-01 -2.15039760e-01 -6.25600517e-02
- -7.96014220e-02 -2.88227573e-04  1.25748022e-02 -2.28580479e-02]",0,Training
+ -7.96014220e-02 -2.88227573e-04  1.25748022e-02 -2.28580479e-02]",0,Account Issues
 Health Insurance (advanced) Adjust existing payment plan | Part 1 of 2 Discover need and propose solution,"TRAINEE: [Greet member and offer assistance] 
 TRAINEE: [Assure them you are happy to assist, reflect what you heard their needs are, and request permission to ask a few questions.]
 SYM: Hi, I’m getting an overdue notice on my account. I have a payment plan set up, and I’ve been making my payments regularly and on time. Can you please help me figure out what's going on?
@@ -3308,7 +3308,7 @@ SYM: You don’t want to miss out on an opportunity to close a sale, so go use t
   2.73833752e-01  1.51840160e-02 -5.35179451e-02 -3.44784170e-01
  -1.71988785e-01 -1.01203762e-01 -1.94018900e-01 -2.31372073e-01
   1.46605521e-01 -2.74147421e-01 -2.08820552e-01 -2.55411118e-02
- -1.28649831e-01 -2.39551235e-02  3.70055474e-02  1.67524964e-02]",0,Sales Training
+ -1.28649831e-01 -2.39551235e-02  3.70055474e-02  1.67524964e-02]",0,Sales
 FINANCIAL | B1 Zelle Payment issue - extreme SHORTENED,"SYM: [Mario wants to know why a Zelle payment is not showing up in his account]
 SYM: [snarky] Why, so you can steal even more? I had to enter it just to get connected to you. Why do I have to give it again? 
 SYM: Yeah, what's going on here? My buddy just sent me some money through Zelle but it never made it into my account. I saw him do it. But the money's not in my account. You guys either lost it or stole it. I need you to find it and put it in my account NOW. 
@@ -3996,7 +3996,7 @@ TRAINEE: Joan, I do have availability, at Disney’s Contemporary Resort, with a
   1.89181536e-01 -6.25924990e-02 -2.91958638e-02 -2.37661123e-01
  -3.04762483e-01 -3.23191583e-01 -1.09893441e-01 -9.54619274e-02
   2.27234542e-01 -4.10719156e-01 -1.44985527e-01 -1.79694146e-01
- -2.22463340e-01 -4.94910181e-02  1.16548948e-01  1.96884573e-02]",1,Reservations
+ -2.22463340e-01 -4.94910181e-02  1.16548948e-01  1.96884573e-02]",1,Reservation
 C2 Car insurance claim - FNOL – ADVANCED,"TRAINEE: Thank you for calling ABC Insurance. My name is [YOUR NAME]. How may I assist you today?
 SYM: Hi. I need to file a car insurance claim for an accident I was just involved in.
 TRAINEE: I'm sorry to hear about the accident. Let's start by making sure we have all the necessary information. May I have your first and last name?
@@ -4880,7 +4880,7 @@ SYM: This completes the simulation","[-1.95246011e-01  7.72828935e-03  2.4233982
   3.23004067e-01 -9.09226239e-02 -3.90485004e-02 -4.86447871e-01
  -1.38817161e-01 -2.23731145e-01 -8.59685615e-02 -1.27118379e-01
   1.21430561e-01 -3.86058390e-01 -1.96547553e-01 -1.87627658e-01
- -2.84501642e-01 -8.00134148e-03  1.55204922e-01  7.90816918e-02]",1,Reservation Changes
+ -2.84501642e-01 -8.00134148e-03  1.55204922e-01  7.90816918e-02]",1,Flight Changes
 SymTrain - Sym Playback,"SYM: Welcome back! Congratulations on completing your first sym a moment ago. Now let’s see how you did.
 SYM: Before we get started, I want to draw your attention to the sym time length on the opening screen of each sym.
 SYM: This lets you know on average how long it should take to complete the sym.
@@ -5123,7 +5123,7 @@ SYM: Words highlighted green indicate you got the keyword correct, while red ind
   1.56051770e-01 -2.35312991e-02 -1.22979254e-01 -2.60798931e-01
  -1.30342647e-01 -1.74940258e-01 -1.58897758e-01 -2.14208923e-02
   1.03686750e-01 -2.64926612e-01 -4.81344685e-02 -2.71699578e-02
- -9.06801075e-02  7.92212561e-02 -6.19501248e-03  6.62613809e-02]",0,Account Issues
+ -9.06801075e-02  7.92212561e-02 -6.19501248e-03  6.62613809e-02]",0,Technical Support
 Startek_Walmart - Demo - 2025,"TRAINEE: Thank you for calling Walmart Customer Relations, my name is [Your Name]. With whom I have the pleasure to speak with?
 SYM: Hi, my name is John Johnson.
 TRAINEE: Nice to meet you John, how are you today?
@@ -5567,7 +5567,7 @@ SYM: This completes the simulation  ","[-2.51857638e-01 -3.32782790e-03  2.39897
   2.28938922e-01 -2.34133415e-02 -7.37605318e-02 -3.27450275e-01
  -1.08012736e-01 -1.39312536e-01 -1.78148657e-01 -1.30614460e-01
   6.79313317e-02 -2.65458941e-01 -1.65977597e-01 -8.69396627e-02
- -2.11283505e-01  1.22270472e-02  6.64107054e-02 -1.08957570e-02]",0,Order Issues
+ -2.11283505e-01  1.22270472e-02  6.64107054e-02 -1.08957570e-02]",0,Order Status
 AT&T - Transition to Sales- Assessment for Work from Home Agent,"SYM: Being an AT&T work from home agent is not only rewarding, but also fun helping customers achieve more and realize more value from AT&T. In this simulation you have resolved a customers concern regarding their device, but then have an opportunity to transition to sales. There are 2 different transitions where we want to know what you would do. What would you say in response?
 TRAINEE: Thank you for calling AT&T. I hope we resolved your issue today. Is there anything else I can assist you with?
 SYM: No, I just really needed to reset my data hotspot because it's my backup when the cable goes out.
@@ -6410,7 +6410,7 @@ SYM: Now that you’ve learned the Salesforce Quote Tool, go hit the phones and 
   3.44448358e-01  5.77671528e-02 -1.55123204e-01 -3.48641843e-01
  -1.81390926e-01 -1.14820167e-01 -2.70563215e-01  3.87218199e-03
   1.38978017e-02 -3.63482773e-01 -4.59804535e-02 -9.47818905e-02
- -1.66775689e-01 -6.04908466e-02  1.17570730e-02 -4.41753417e-02]",0,Pricing/Quoting
+ -1.66775689e-01 -6.04908466e-02  1.17570730e-02 -4.41753417e-02]",0,Quoting
 Startek_Compassion- Credit Card Payment. ADV,"SYM: In this simulation, you will assist the customer to update their new card on the account for automatic payment plan.
 TRAINEE: Hello, thank you for calling Compassion. My name is [YOUR NAME]. And how can I help you?
 TRAINEE: Definitely, I can also help you with that. So, we can change the address first. Then afterwards we can update your payment information, too.
@@ -6840,7 +6840,7 @@ SYM: I am so proud of you! Give yourself a pat on the back and eat some cake or 
   1.24961607e-01 -1.11536130e-01 -1.57750085e-01 -2.93339550e-01
  -2.53456980e-01 -2.59750068e-01 -1.04420669e-01  9.59473774e-02
   1.66539177e-01 -3.92058611e-01 -7.70717952e-03  2.50904486e-02
- -1.79031163e-01  8.82924050e-02  1.72457006e-02  1.34750843e-01]",2,Insurance Application
+ -1.79031163e-01  8.82924050e-02  1.72457006e-02  1.34750843e-01]",2,Training Completion
 Learning Style Assessment Simulation_NAV,"SYM: In this simulation we will determine the learning style of each person.
 SYM: This is a screen navigational simulation. Follow the instructions provided throughout the simulation and complete the sym.
 SYM: This is the Hotspot. You would need to click on it to type in the answer or you would need to click on it to move to the next step. After typing in the details, you would need to click the 'enter' key to move forward.
@@ -7069,7 +7069,7 @@ SYM: Concentrate on each slide detail to WIN the quiz at the end.","[-2.39262581
   1.56921834e-01  9.27932411e-02 -1.39599042e-02 -1.89495027e-01
  -1.01029105e-01 -2.43531421e-01 -1.04796156e-01 -9.46124643e-02
  -2.88795680e-03 -2.17579663e-01 -1.38510227e-01 -1.23290889e-01
- -1.04634777e-01 -7.41654932e-02  2.27155220e-02  8.74280483e-02]",0,Technical Support
+ -1.04634777e-01 -7.41654932e-02  2.27155220e-02  8.74280483e-02]",0,Product Information
 Zinus Knowledge Check 6 Version 2,"SYM: Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.
 SYM: Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.
 SYM: Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.
@@ -7948,7 +7948,7 @@ SYM: Fantastic job completing your first sym! Let’s stay on track and head ove
   1.88993782e-01  6.31806105e-02 -1.76089793e-01 -2.63140798e-01
  -1.83407724e-01 -2.82786667e-01 -1.34592593e-01 -3.58689241e-02
   7.11236820e-02 -3.07804435e-01 -5.94424903e-02  3.98328248e-03
- -1.25875145e-01  2.09636074e-02 -3.75961363e-02  1.01419300e-01]",0,Product Guidance
+ -1.25875145e-01  2.09636074e-02 -3.75961363e-02  1.01419300e-01]",0,User Onboarding
 BN_CANCEL_RELEASED_ORDER_ADV,"TRAINEE: Thank you for calling Barnes and Noble. My name is (Your Name). How can I help you?
 SYM: Hello. My name is Anita Napp. I just called and the nice man told me that he would send me a new copy of my book because it wasn't delivered. As soon as we hung up, my mail was delivered. The book was in today's mail! Can you cancel the new order that was just placed?
 TRAINEE: No problem, Anita. I would be happy to see if we can cancel the new order for you. Can I have your Order Number, please?
