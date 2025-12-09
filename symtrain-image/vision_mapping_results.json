@@ -1,0 +1,51 @@
+{
+  "total_steps": 5,
+  "mapped_steps": 5,
+  "mappings": [
+    {
+      "step_index": 0,
+      "step": "Click on Account Settings in the top right corner",
+      "file_id": "account_settings.png",
+      "relevance_score": 1.0,
+      "hotspot_text": "Account Settings",
+      "hotspot_type": "button",
+      "image_found": true
+    },
+    {
+      "step_index": 1,
+      "step": "Navigate to Payment Methods from the sidebar",
+      "file_id": "payment_page.png",
+      "relevance_score": 1.0,
+      "hotspot_text": "Payment Methods",
+      "hotspot_type": "menu_item",
+      "image_found": true
+    },
+    {
+      "step_index": 2,
+      "step": "Click the Edit button next to your current payment method",
+      "file_id": "edit_payment.png",
+      "relevance_score": 0.9,
+      "hotspot_text": "Edit",
+      "hotspot_type": "button",
+      "image_found": true
+    },
+    {
+      "step_index": 3,
+      "step": "Enter your new credit card number in the Card Number field",
+      "file_id": "edit_payment.png",
+      "relevance_score": 1.0,
+      "hotspot_text": "Card Number",
+      "hotspot_type": "input_field",
+      "image_found": true
+    },
+    {
+      "step_index": 4,
+      "step": "Click Save Changes to update your payment method",
+      "file_id": "edit_payment.png",
+      "relevance_score": 1.0,
+      "hotspot_text": "Save Changes",
+      "hotspot_type": "button",
+      "image_found": true
+    }
+  ]
+}

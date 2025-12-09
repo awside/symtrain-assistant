@@ -1,0 +1,1219 @@
+{
+    "name": "H21 Health insurance coverage question – (Real human voice)",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Jennifer",
+    "voiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "f45bb1b6-fdc9-43f7-977b-9826ce443a16",
+            "sequenceNumber": 4,
+            "fileTranscript": "Thank you for calling ABC Health Insurance. My name is [YOUR NAME]. How may I assist you today?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "assist",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "abc health insurance.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "19909c76-48fc-4f1c-8747-112e30f70581",
+            "sequenceNumber": 6,
+            "fileTranscript": "Of course, Ash. I'm here to help. May I have your first and last name?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "first",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "last",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "help.",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "assist",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "892f8156-191f-48b4-a755-142fcb3ce0ec",
+            "sequenceNumber": 5,
+            "fileTranscript": "Hi, my name is Ash. I wanted to inquire if a specific medical procedure is covered by my health insurance.",
+            "fileId": "02a5b0ef-605e-4b47-9661-b6b38f13f664",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "80312676-9391-4f1d-87e8-6446dcfb5a68",
+            "sequenceNumber": 1,
+            "fileTranscript": "In this simulation, you will help a customer identify whether a procedure is covered by their health insurance.",
+            "fileId": "f3bef844-68c7-402f-b1aa-39e59eed0396",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "9c3bf240-4dc3-4378-8b01-37525efefcc3",
+            "sequenceNumber": 3,
+            "fileTranscript": "[Phone rings]",
+            "fileId": "a3cbe499-3ae7-4de6-af87-1c9a7f3910e3",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "79574d80-3110-42d2-a030-bcc22f1dff3d",
+            "sequenceNumber": 9,
+            "fileTranscript": "Sure, my policy number is A B C 1 2 3 4 5 6.",
+            "fileId": "715b6387-a3da-45a3-b032-14056da0d778",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "4ea54224-2620-48ca-a2cd-ea516f7c25b2",
+            "sequenceNumber": 12,
+            "fileTranscript": "I'm considering getting a knee surgery called arthroscopic meniscectomy. I wanted to know if it's covered under my policy.",
+            "fileId": "50b36e04-c212-45fe-8fc9-626283f6a651",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "4d535d16-6926-4976-a79d-31cbf7585147",
+            "sequenceNumber": 13,
+            "fileTranscript": "I understand. Let me check the specifics of your coverage. Just give me a moment, please.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "check the specifics",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "coverage.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "98f3717a-e666-47ef-9314-3ffec1bbc775",
+            "sequenceNumber": 14,
+            "fileTranscript": "Thank you for waiting, Ash. I have reviewed your policy, and I can confirm that arthroscopic meniscectomy is covered under your health insurance plan. However, it's important to note that coverage can vary based on factors such as medical necessity, network providers, and any applicable deductibles or co-payments.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "reviewed",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "policy,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "confirm",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "arthroscopic meniscectomy is covered",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "health insurance plan.",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "coverage can vary",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "factors",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "medical necessity,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "network providers,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "deductibles",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "co-payments.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "37b32e74-4ebf-4abb-a7d0-dab06356eb3d",
+            "sequenceNumber": 11,
+            "fileTranscript": "Thank you, Ash. Let me pull up your policy information. While I do that, could you please provide me with the details of the medical procedure you're inquiring about?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "policy information.",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "please provide",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "details",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "medical procedure",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "5a4cc911-a7e9-4137-a5d0-9837ed623804",
+            "sequenceNumber": 15,
+            "fileTranscript": "That's great to hear! Could you please provide me with some additional information? For instance, do I need a referral from my primary care physician before scheduling the surgery?",
+            "fileId": "33105af1-ecc8-4cdc-8bb6-afbee384bef1",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "47bec74a-4d86-4646-8805-97a32395fe51",
+            "sequenceNumber": 16,
+            "fileTranscript": "That's an excellent question, Ash. According to your policy, you do not require a referral from your primary care physician for this specific procedure. However, it's always a good idea to consult with your doctor or surgeon to ensure that the surgery is appropriate for your specific medical condition.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "do not require a referral",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "primary care physician",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "specific procedure.",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "always a good idea to consult with your doctor or surgeon",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "surgery is appropriate",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "specific medical condition.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "67ba3df9-69c2-45af-afd6-bf415f74ef72",
+            "sequenceNumber": 19,
+            "fileTranscript": "I'll make sure to review my policy documents. Lastly, could you provide me with a list of in-network surgeons or facilities that perform this procedure?",
+            "fileId": "842521eb-8888-407d-bc1f-0545ceb473a4",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "ace9fd46-f141-49bb-b888-c870e75f4cd4",
+            "sequenceNumber": 17,
+            "fileTranscript": "I see. Thank you for clarifying that. Now, I'm also curious about the coverage limits and any out-of-pocket expenses I may incur.",
+            "fileId": "9bc37fc3-0e18-4908-87d5-f1b775489aef",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "48e42a05-62dd-4833-8625-f8e656d57481",
+            "sequenceNumber": 18,
+            "fileTranscript": "Certainly, Ash. Let me go over that with you. Your policy has a coverage limit for surgical procedures, and I can see that it includes coverage for this specific surgery. As for out-of-pocket expenses, it's important to review your policy documents or contact our claims department to determine any deductibles, co-payments, or coinsurance that may apply.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "coverage limit for surgical procedures,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "out-of-pocket expenses, it's important to review your policy documents",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "contact our claims department",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "deductibles, co-payments, or coinsurance",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "includes coverage",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "this specific surgery.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "29a2d7ea-32cb-490f-bcc9-5f942db214be",
+            "sequenceNumber": 22,
+            "fileTranscript": "Thank you for your patience, Ash. I have compiled a list of in-network surgeons and facilities that perform arthroscopic meniscectomy in your area. I will email you the list to the email address we have on file. Additionally, you can also visit our website or contact our customer service line to obtain this information.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "compiled a list of in-network surgeons and facilities",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "visit our website or contact our customer service line",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "c79ee050-e7f7-489b-b84f-26983d1e0b2f",
+            "sequenceNumber": 20,
+            "fileTranscript": "Absolutely, Ash. I can assist you with that. Please bear with me while I access the network provider information.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "network provider information.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "8d8557a9-5eb5-4e29-8fe6-8927da671167",
+            "sequenceNumber": 23,
+            "fileTranscript": "That's perfect. Thank you so much for your help. You've been very informative.",
+            "fileId": "a930c9f2-cd03-484e-a0d0-ed098c0c257b",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "9f54537e-fc5f-4b4b-ba0c-5d1f360cdfc2",
+            "sequenceNumber": 25,
+            "fileTranscript": "You're welcome. Can you confirm your email address for me?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "confirm your email address",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "51379d32-754e-4600-9133-a0f15ab99ff5",
+            "sequenceNumber": 26,
+            "fileTranscript": "That would be Ash@email.com",
+            "fileId": "f7a49653-d70b-41c7-ab17-214944ba3de4",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3d1c55c7-6dfe-4dc1-a2ef-6c02eafd6a5d",
+            "sequenceNumber": 27,
+            "fileTranscript": "Thank you, Ash. I'm glad I could assist you. If you have any further questions or need any additional information, please don't hesitate to reach out to us. We're here to help you make the most of your health insurance coverage.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "further questions",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "make the most of your health insurance coverage.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "f7379ce4-2379-428e-a512-6239c3530528",
+            "sequenceNumber": 28,
+            "fileTranscript": "I appreciate that. Thanks again for your assistance.",
+            "fileId": "04fd7e4b-a855-48f0-971a-f18314e5a1de",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "60ab606d-5f24-4c38-a3d4-6e2874ede895",
+            "sequenceNumber": 29,
+            "fileTranscript": "It's my pleasure, Ash. Take care, and have a great day!",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "7a12da03-e618-44ef-8e88-9cd61309a2e6",
+            "sequenceNumber": 30,
+            "fileTranscript": "This concludes your simulation.",
+            "fileId": "961fa588-3545-45c4-93fe-bc5908f463a3",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "93f42fde-8dbd-4c4b-96ff-a16287b4233b",
+            "sequenceNumber": 21,
+            "fileTranscript": "No worries.",
+            "fileId": "739b62ac-2dd3-43b7-84e5-ffa64737a571",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "0024e24e-ba23-4654-a62f-e14767916c4b",
+            "sequenceNumber": 2,
+            "fileTranscript": "STEP 1 - Opening.",
+            "fileId": "2ef41389-6d66-46e2-bbc3-ca7bd1d7c527",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "380caa86-ec5f-4d3f-8522-8c7f8995fa4a",
+            "sequenceNumber": 10,
+            "fileTranscript": "STEP 2 - Gather Information.",
+            "fileId": "a58634f3-3a27-4e15-9592-ac80e8494d55",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "dedc81b6-922d-4e4c-aa7b-772c1acf3128",
+            "sequenceNumber": 24,
+            "fileTranscript": "STEP 3 - Closing.",
+            "fileId": "920b6a92-518c-40aa-a6f6-b9aa4833216e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b38f5dd9-cde5-4c50-93ff-2f0851c70f9d",
+            "sequenceNumber": 8,
+            "fileTranscript": "I appreciate it. Can you please provide me with your policy number so that I can access your account?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "policy number",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "access",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "account?",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "5efea786-2b81-4cec-b127-41414011c46c",
+            "sequenceNumber": 7,
+            "fileTranscript": "Ash Harris.",
+            "fileId": "eaa3acae-7bf2-42b6-af02-461a0727aca5",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "fd0bdf1a-fe5f-4262-a805-21cebebec0e6",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 1 - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Audio for #c9cfb352-a9b6-4ac1-879c-db1c93e966cf",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "80312676-9391-4f1d-87e8-6446dcfb5a68"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #45654e2c-c2e7-4290-b425-f9a980a4d61a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "0024e24e-ba23-4654-a62f-e14767916c4b"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #94e236a2-c5b7-4915-87a6-cdfaef498adc",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "9c3bf240-4dc3-4378-8b01-37525efefcc3"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #c7882a6f-8b51-49f2-a459-d45d70bf3465",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f45bb1b6-fdc9-43f7-977b-9826ce443a16"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #61d72783-7fd4-4e18-8370-91bd16eabbcd",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "892f8156-191f-48b4-a755-142fcb3ce0ec"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Contact Reason",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.1684011352885525,
+                        "height": 0.04713804713804714,
+                        "options": [
+                            {
+                                "value": "Claim",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Inquiry",
+                                "isCorrect": true
+                            },
+                            {
+                                "value": "Billing",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Sales",
+                                "isCorrect": false
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.5846736045411542,
+                        "positionY": 0.3703703703703703,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Sub-Contact Reason",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.1684011352885525,
+                        "height": 0.04377104377104377,
+                        "options": [
+                            {
+                                "value": "Procedural",
+                                "isCorrect": true
+                            },
+                            {
+                                "value": "General",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Policy Related",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Network Hospital",
+                                "isCorrect": false
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.7568590350047304,
+                        "positionY": 0.37542087542087543,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 7
+                }
+            ]
+        },
+        {
+            "fileId": "4a0c186d-8c3d-4880-856e-a4f8ac8b3808",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 2 - 1",
+            "parentItemId": 897607,
+            "hotspots": [
+                {
+                    "name": "Audio for #b6d13f8d-3a15-4610-890a-4d74ac6d1ddf",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "19909c76-48fc-4f1c-8747-112e30f70581"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #3898acf5-e422-4262-91b8-aa4aef777012",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5efea786-2b81-4cec-b127-41414011c46c"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "First and Last name",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Enter first name as 'Ash' and last name as 'Harris.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "237ac5b0-b124-40e5-8e66-3c8c3b87ff73"
+                        },
+                        "width": 0.3197729422894986,
+                        "height": 0.2171717171717172,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.5884578997161779,
+                        "positionY": 0.4663299663299663,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "First name",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.11447492904446546,
+                        "height": 0.04713804713804714,
+                        "fontSize": 16,
+                        "positionX": 0.34720908230842007,
+                        "positionY": 0.1750841750841751,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Ash",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Last name",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.11825922421948903,
+                        "height": 0.04882154882154882,
+                        "fontSize": 16,
+                        "positionX": 0.4635761589403974,
+                        "positionY": 0.1734006734006734,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Harris",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Click on search.",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.06433301797540208,
+                        "height": 0.04882154882154882,
+                        "positionX": 0.859035004730369,
+                        "positionY": 0.10437710437710436,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 6
+                }
+            ]
+        },
+        {
+            "fileId": "830e6609-f0d6-4d60-9e04-8fa2f38f2462",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 3 - 1",
+            "parentItemId": 897608,
+            "hotspots": [
+                {
+                    "name": "Audio for #694813b1-b134-44e5-ae60-fae47ca1a372",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b38f5dd9-cde5-4c50-93ff-2f0851c70f9d"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #7791ec39-43dc-4f65-9ac9-0bfcd98bf7e9",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "79574d80-3110-42d2-a030-bcc22f1dff3d"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Policy Number",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Enter the policy number using the blue box.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "08107afd-2da1-4126-9326-3123fc54a84b"
+                        },
+                        "width": 0.3207190160832545,
+                        "height": 0.19865319865319864,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.5894039735099338,
+                        "positionY": 0.4663299663299663,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Enter Policy Number",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.1598864711447493,
+                        "height": 0.045454545454545456,
+                        "fontSize": 16,
+                        "positionX": 0.7634815515610217,
+                        "positionY": 0.17676767676767677,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "ABC123456",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "3866458f-afc9-4c72-8160-5c08fa66d786",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 4 - 1",
+            "parentItemId": 897609,
+            "hotspots": [
+                {
+                    "name": "Audio for #cea91d0e-6560-4c79-8e1b-b0ea18c832ed",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "380caa86-ec5f-4d3f-8522-8c7f8995fa4a"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #37ae3160-6449-46f2-ad70-376a605d5c82",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "37b32e74-4ebf-4abb-a7d0-dab06356eb3d"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #424770ff-5389-4ab5-b3b7-7f5884e70788",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "4ea54224-2620-48ca-a2cd-ea516f7c25b2"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #68058b46-34f4-4c8b-803d-b413ecb2e40c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "4d535d16-6926-4976-a79d-31cbf7585147"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Click on SOB",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.17407757805108798,
+                        "height": 0.043771043771043745,
+                        "positionX": 0.07190160832544938,
+                        "positionY": 0.21043771043771045,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 5
+                }
+            ]
+        },
+        {
+            "fileId": "77bfc8d4-207c-416e-9dfd-af6078d8702e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 5 - 1",
+            "parentItemId": 897610,
+            "hotspots": [
+                {
+                    "name": "Audio for #130e1dee-87ec-4ee1-ae94-150d73a38300",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "98f3717a-e666-47ef-9314-3ffec1bbc775"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #5b62ac9e-60ec-462f-bc44-af899c501bdd",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5a4cc911-a7e9-4137-a5d0-9837ed623804"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #cc05afae-ad5e-4e5f-b59b-76ea2108f36b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "47bec74a-4d86-4646-8805-97a32395fe51"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #6bfdaaef-6d62-4141-9f96-f386790e49bc",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "ace9fd46-f141-49bb-b888-c870e75f4cd4"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #43ce27e4-ec41-4b6e-ad72-fbd285a5a734",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "48e42a05-62dd-4833-8625-f8e656d57481"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "EOB Tip",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "For more details, please refer to Evidence of Benefit (EOB).",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "596e5123-681f-4f18-8616-eb608383620c"
+                        },
+                        "width": 0.17407757805108798,
+                        "height": 0.4090909090909091,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.07190160832544938,
+                        "positionY": 0.29797979797979796,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Audio for #ed4f4f8e-128b-44bc-9892-d20e6e3e89c4",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "67ba3df9-69c2-45af-afd6-bf415f74ef72"
+                        }
+                    ],
+                    "sequenceNumber": 7
+                },
+                {
+                    "name": "Click on client information.",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.12488174077578051,
+                        "height": 0.03872053872053872,
+                        "positionX": 0.07568590350047304,
+                        "positionY": 0.06902356902356903,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 8
+                }
+            ]
+        },
+        {
+            "fileId": "4b2e3e96-cd54-4138-a121-057c8e3d8155",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 6 - 1",
+            "parentItemId": 897611,
+            "hotspots": [
+                {
+                    "name": "Audio for #3df3f295-846b-49ee-80c7-bd5ecbdecdbf",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c79ee050-e7f7-489b-b84f-26983d1e0b2f"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #d11c5a06-1990-4fb9-9f99-2c9aa419c32e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "93f42fde-8dbd-4c4b-96ff-a16287b4233b"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #bb79ae57-eb59-41af-bf82-f7383fdd8b9d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "29a2d7ea-32cb-490f-bcc9-5f942db214be"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #35608d0e-00c7-4368-b2eb-bb4218a97f5f",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8d8557a9-5eb5-4e29-8fe6-8927da671167"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "237b0caa-8f07-4be6-8a0f-289d288b2380",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 7 - 1",
+            "parentItemId": 897612,
+            "hotspots": [
+                {
+                    "name": "Audio for #4b31e5ca-a33d-4374-9b6c-23ab3b4c084c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "dedc81b6-922d-4e4c-aa7b-772c1acf3128"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #a432a629-5c96-491c-b027-3fab4b3540d3",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "9f54537e-fc5f-4b4b-ba0c-5d1f360cdfc2"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #e8e766ac-28c2-46de-8b4b-d3d89c892454",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "51379d32-754e-4600-9133-a0f15ab99ff5"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Email address.",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Type - ash@email.com",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "580a6c6a-3858-4d57-b31b-34afdb109f28"
+                        },
+                        "width": 0.3207190160832545,
+                        "height": 0.22895622895622897,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.5875118259224219,
+                        "positionY": 0.4730639730639731,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Type email address.",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.17313150425733206,
+                        "height": 0.04713804713804716,
+                        "fontSize": 16,
+                        "positionX": 0.5846736045411542,
+                        "positionY": 0.1734006734006734,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "ash@email.com",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 5
+                }
+            ]
+        },
+        {
+            "fileId": "47f2ea11-3627-4384-881e-7ccade934f12",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 8 - 1",
+            "parentItemId": 897613,
+            "hotspots": [
+                {
+                    "name": "Audio for #5e48f571-ccca-4e2c-afb0-2b62e5533884",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3d1c55c7-6dfe-4dc1-a2ef-6c02eafd6a5d"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #dedb8fee-a428-49ef-a65c-76a411409b98",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f7379ce4-2379-428e-a512-6239c3530528"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #748f0c3e-6303-43a5-b18b-d9256018bdbc",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "60ab606d-5f24-4c38-a3d4-6e2874ede895"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "404d17c4-3362-42c4-b86a-6f8e2f7f1d8a",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 9 - 1",
+            "parentItemId": 897614,
+            "hotspots": [
+                {
+                    "name": "Audio for #684cde13-015f-4f14-81d6-7eff83990663",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "7a12da03-e618-44ef-8e88-9cd61309a2e6"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        }
+    ]
+}

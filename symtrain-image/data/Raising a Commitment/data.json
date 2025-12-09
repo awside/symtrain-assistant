@@ -1,0 +1,1506 @@
+{
+    "name": "Raising a Commitment",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Lily",
+    "voiceId": "2a9b1686-3c78-11f0-9d9f-12c6e0eaf20b",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "49c50432-6a4f-4078-8607-540eabe9497f",
+            "sequenceNumber": 1,
+            "fileTranscript": "Click on the arrow at the side of Interaction Record and click on Internal Commitment",
+            "fileId": "d412ecc8-d606-4fd6-983b-e4b7cc67e63e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "31129a14-fd04-493b-9c8b-9a5d5a00bd41",
+            "sequenceNumber": 2,
+            "fileTranscript": "This will open a new style screen. First match the description to the one that shows on the commitment’s matrix. This can be copied and pasted. In this case we will put Priority Services Register.",
+            "fileId": "1a3551a9-1a3c-4d06-8672-9fbc298f641b",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "02754531-ceb8-4110-9101-ff9d7a33d094",
+            "sequenceNumber": 3,
+            "fileTranscript": "Select Internal Contact from the Channel/Direction drop down",
+            "fileId": "53351459-7ab4-48ae-86bf-1e9f0a8e46ac",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "f49ecd2d-3e33-4ec0-b5e8-4afe8964e727",
+            "sequenceNumber": 4,
+            "fileTranscript": "Select Billing Enquiry from the Type of Contact drop down. The status should remain Open.",
+            "fileId": "dfa62446-5012-4c2e-981c-c5e1eecce28c",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "67f99507-eac1-4458-b85c-84298b347feb",
+            "sequenceNumber": 5,
+            "fileTranscript": "The Categorisation needs to be the same as what is advised on Agent Assist for the commitment type you are raising. In this example we are choosing Move In.",
+            "fileId": "55696c28-6be1-4ed0-9532-b6fbdf5945bb",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "8d6407d6-d306-4a86-b570-a9ddc5f7e1e7",
+            "sequenceNumber": 6,
+            "fileTranscript": "Choose Process Move In",
+            "fileId": "c8c2b53e-ef4a-425d-8f30-e7cbb0969607",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "0806bd55-3da0-42dc-9670-117f5abfb6eb",
+            "sequenceNumber": 7,
+            "fileTranscript": "Choose Move in completed DD set up",
+            "fileId": "1a8d3c63-3d34-40ed-9134-4bc9a32c147d",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "70667703-b53a-46a7-9270-d5b5c7dcd20b",
+            "sequenceNumber": 8,
+            "fileTranscript": "Click on the calendar icon next to received date",
+            "fileId": "9701eb65-0d3f-40bd-9e65-f4c8394a279e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "1b5a0841-66c2-43db-8472-1e49e74b1480",
+            "sequenceNumber": 9,
+            "fileTranscript": "This need to be the date you are raising the commitment. In this case the 9th July.",
+            "fileId": "802c4baa-7ff8-43de-8faa-4360a81cc1c4",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "82c7c64c-1a55-480e-a53f-f4f92a617e05",
+            "sequenceNumber": 10,
+            "fileTranscript": "If the Responsible group field has not auto populated click on the two boxes.",
+            "fileId": "fcb99d74-5348-4a1b-b304-c0be8795ac1a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "f92c4eab-7846-4120-b6a9-13b52c7c9c43",
+            "sequenceNumber": 11,
+            "fileTranscript": "Type in the code csc_tsp in the Search term field.",
+            "fileId": "419c147e-b93b-44be-aeaa-7cfeaaa9a7ae",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "2c63df4f-1481-4577-a0c1-62a54310707f",
+            "sequenceNumber": 12,
+            "fileTranscript": "Click Search",
+            "fileId": "ce4d6412-40e2-488c-9d11-d8fc03b3661e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "af93e730-9cd7-42c8-9cf8-2478a772a69f",
+            "sequenceNumber": 13,
+            "fileTranscript": "Double click on the relevant line.",
+            "fileId": "c095220a-c2da-4384-a92f-166243c3036d",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "d2092602-c5e4-4e03-8374-17e49dbe9ec9",
+            "sequenceNumber": 14,
+            "fileTranscript": "Click into two squares on Interaction Centre Agent field",
+            "fileId": "a4c6dd12-c8ff-40dc-9f7e-01cd5a7d4bf2",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "5341e0af-a825-4957-99c5-5a350d382189",
+            "sequenceNumber": 15,
+            "fileTranscript": "Add your last name (agent) into the Last name field - in this case 'Hall'",
+            "fileId": "b8accd7d-8061-4d96-aceb-0d355bee7723",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "dad1c195-dc3a-44b5-a758-fbc8f98df996",
+            "sequenceNumber": 16,
+            "fileTranscript": "Add your first name (agent) into the First name field - in this case 'Dawn'",
+            "fileId": "ffa8a21d-7e39-40ff-95f2-5289d3b21348",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "5b2de773-2f4b-4cfc-80a4-0100628c1789",
+            "sequenceNumber": 17,
+            "fileTranscript": "Click Search and double click on your own CPT - in this case CPT-HAD",
+            "fileId": "3c82d03f-d6ff-40e3-9d46-9b689d0c850f",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "064d3fc5-2490-4ce9-a85b-9742838aa693",
+            "sequenceNumber": 18,
+            "fileTranscript": "Under Notes in the box that say’s ‘write note…’ please add a brief note of the conversation and what you have advised the customer.",
+            "fileId": "88fe2fa8-58a5-452b-9d36-9095b52f58ac",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "07d00c3a-aa4b-47a3-85d0-60e56d920c77",
+            "sequenceNumber": 19,
+            "fileTranscript": "Once notes are added click Create Internal Commitment.",
+            "fileId": "a34feaa4-01c2-4b99-80d7-04676260654a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c5387951-bef3-4e50-8e09-9ee16ef460c7",
+            "sequenceNumber": 20,
+            "fileTranscript": "You are now on the Internal Commitment page. This page is where you select the team the commitment goes too and the instructions that are needed.",
+            "fileId": "73f1aae5-25a8-4dda-962f-e5dad68b37d4",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "69677833-2659-4926-8008-ec0cd8f62135",
+            "sequenceNumber": 21,
+            "fileTranscript": "Leave the Employee Responsible field blank and click on the 2 boxes at the side of Responsible group",
+            "fileId": "4863b64c-8c62-4f6a-b127-225795c4ae34",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "bef91aab-4300-4822-9049-20c8ae79a0b5",
+            "sequenceNumber": 22,
+            "fileTranscript": "In the Search term box type in the relevant code from the Commitments matrix in this case cbs_dasp",
+            "fileId": "e303c062-b072-442d-96ae-f35dc5599d33",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "294585c6-586b-4b18-967c-83bf4a888fcc",
+            "sequenceNumber": 23,
+            "fileTranscript": "Click Search",
+            "fileId": "ed12e0ea-5588-4fee-9186-0f6f52ec0629",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "591e263f-67ea-47e9-a77d-59a0a8a0b89a",
+            "sequenceNumber": 24,
+            "fileTranscript": "Double click on the relevant team you are sending the commitment to.",
+            "fileId": "7ae84c0e-35f9-4521-919d-bf326b4deebc",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a2dbc4f8-dd74-4fbe-b726-224a6205374e",
+            "sequenceNumber": 25,
+            "fileTranscript": "You can now see the Responsible group field is populated. Now scroll down the page.",
+            "fileId": "2c8696d4-8a2a-4f86-9570-4df9db0b523b",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "663f5d16-b955-4648-b736-b5aeaa6c6c35",
+            "sequenceNumber": 26,
+            "fileTranscript": "In the General Data section, ensure the description and categories are the same as on the commitments matrix.",
+            "fileId": "44c65b6a-1629-4d27-8b88-59ad0924173f",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3dcfa2ee-2f2f-45fb-912a-2a25d22d5e09",
+            "sequenceNumber": 27,
+            "fileTranscript": "For this example, choose Category 1 as Social Plan.",
+            "fileId": "385ef457-9767-48bc-b753-7e85282b6ac9",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3f9af404-ba10-4595-82d2-43556f9f7203",
+            "sequenceNumber": 28,
+            "fileTranscript": "For this example, choose DWP instruction.",
+            "fileId": "99a7ad46-7b24-4764-bac5-bf6f2c994eb2",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "fde8ffef-dc68-4b5a-9cc1-e0a4b96f4a7a",
+            "sequenceNumber": 29,
+            "fileTranscript": "Click the clock / calendar icon at the side of Commitment Date",
+            "fileId": "a6899d7a-7268-4c31-ac63-1ed91279a249",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "061a377b-2216-4906-a514-a008972f486d",
+            "sequenceNumber": 30,
+            "fileTranscript": "Select the correct amount of days / hours the commitment needs to be worked by – in this case 2 working days.",
+            "fileId": "ded9cc89-9704-4f01-a074-610eff8d9f3a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "04423734-55d2-491d-8472-19f48395131d",
+            "sequenceNumber": 31,
+            "fileTranscript": "In the 'Write note...' section add the instructions you want carrying out in the commitment. When putting notes on the internal commitment. Please use the commitment matrix for the notes. This helps to give clear request on what action needs to be updated.",
+            "fileId": "4dd9c790-668e-4d87-885e-559f2b88f25b",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "58f27214-be5f-4050-a7f1-6e0b8f0f39c5",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "1. Commitment - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Audio for #0b27ea7d-7fea-440a-8528-9ca94797c16d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "49c50432-6a4f-4078-8607-540eabe9497f"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 1-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.14337568058076225,
+                        "height": 0.04398148148148148,
+                        "positionX": 0.1088929219600726,
+                        "positionY": 0.4097222222222222,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "f0d90e24-ac9b-4d17-bc01-1a8c94c49d37",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "2. Commitment - 2",
+            "parentItemId": 4111696,
+            "hotspots": [
+                {
+                    "name": "Audio for #65ad314e-0d8c-4f09-8e78-953225efce7f",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "31129a14-fd04-493b-9c8b-9a5d5a00bd41"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 2-1",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.3493723849372385,
+                        "height": 0.05585203430031021,
+                        "fontSize": 16,
+                        "positionX": 0.3127615062761506,
+                        "positionY": 0.49507389162561577,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Priority Services Register",
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "5065994c-246d-4e70-980a-05e92ae3cfef",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "3. Commitment - 3",
+            "parentItemId": 4111697,
+            "hotspots": [
+                {
+                    "name": "Audio for #527a6282-fca7-474b-894d-643bb4f44f64",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "02754531-ceb8-4110-9101-ff9d7a33d094"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 3-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.3063157894736842,
+                        "height": 0.06712962962962964,
+                        "positionX": 0.3094736842105263,
+                        "positionY": 0.5300925925925926,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "6e217774-b7fd-41e4-a9b0-e2cf71b709a8",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "5. Commitment - 4",
+            "parentItemId": 4112224,
+            "hotspots": [
+                {
+                    "name": "Audio for #171a56f4-a18b-4897-839f-f1ae37f09aab",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f49ecd2d-3e33-4ec0-b5e8-4afe8964e727"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 4-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.3007518796992481,
+                        "height": 0.08333333333333333,
+                        "positionX": 0.31364124597207305,
+                        "positionY": 0.11342592592592592,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "41a8edcb-dc4f-4490-ac77-71f1c8a0dd6f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "6. Commitment - 6",
+            "parentItemId": 4111699,
+            "hotspots": [
+                {
+                    "name": "Audio for #7a4b2ee3-7044-46dd-99ba-2202821ce675",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "67f99507-eac1-4458-b85c-84298b347feb"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 5-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.33683105981112277,
+                        "height": 0.07407407407407407,
+                        "positionX": 0.12696747114375656,
+                        "positionY": 0.8842592592592593,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "e0956e25-2294-4d00-b908-399669d9a8d3",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "7. Commitment - 7",
+            "parentItemId": 4111700,
+            "hotspots": [
+                {
+                    "name": "Audio for #3bf3fff3-dcfd-4e7f-bd49-74aac925a4da",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8d6407d6-d306-4a86-b570-a9ddc5f7e1e7"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 6-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.33852544132917967,
+                        "height": 0.06018518518518518,
+                        "positionX": 0.12876427829698858,
+                        "positionY": 0.7824074074074074,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "5ea51469-0eb8-4624-abd6-4a0999a914ac",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "8. Commitment - 8",
+            "parentItemId": 4111701,
+            "hotspots": [
+                {
+                    "name": "Audio for #e5a2479e-c8d9-4ff3-826f-e99387f81153",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "0806bd55-3da0-42dc-9670-117f5abfb6eb"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 7-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.3409090909090909,
+                        "height": 0.0763888888888889,
+                        "positionX": 0.125,
+                        "positionY": 0.38657407407407407,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "0a7afda0-a161-476d-a937-d089bf63fb17",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "9. Commitment - 9",
+            "parentItemId": 4111702,
+            "hotspots": [
+                {
+                    "name": "Audio for #8d9f7e97-c891-486a-bcdf-a4eb89409b76",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "70667703-b53a-46a7-9270-d5b5c7dcd20b"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 8-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.042105263157894736,
+                        "height": 0.08564814814814815,
+                        "positionX": 0.6947368421052632,
+                        "positionY": 0.5763888888888888,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "58a39adf-fad6-4994-8a7f-9954f8113784",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "10. Commitment - 10",
+            "parentItemId": 4111703,
+            "hotspots": [
+                {
+                    "name": "Audio for #cd7ffb53-3909-4dcb-9880-89bed334327e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "1b5a0841-66c2-43db-8472-1e49e74b1480"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 9-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0297741273100616,
+                        "height": 0.08796296296296297,
+                        "positionX": 0.6765913757700205,
+                        "positionY": 0.2777777777777778,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "d0e94b24-2325-4251-a8f1-e4537be7be31",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "11. Commitment - 11",
+            "parentItemId": 4111704,
+            "hotspots": [
+                {
+                    "name": "Audio for #260675c0-7615-4065-b35b-b15916779cb4",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "82c7c64c-1a55-480e-a53f-f4f92a617e05"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 10-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.038385826771653545,
+                        "height": 0.08101851851851852,
+                        "positionX": 0.2755905511811024,
+                        "positionY": 0.6550925925925926,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "1b276f4d-cadf-4f27-b3e9-c27c904004c2",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "12. Commitment - 12",
+            "parentItemId": 4111705,
+            "hotspots": [
+                {
+                    "name": "Audio for #66ff84da-3bc5-4c0a-be1b-9f08fda2bcdb",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f92c4eab-7846-4120-b6a9-13b52c7c9c43"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 11-1",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.26361867704280156,
+                        "height": 0.06650246305418718,
+                        "fontSize": 16,
+                        "positionX": 0.3443579766536965,
+                        "positionY": 0.29064039408866993,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "csc_tsp ",
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "b7a19d7d-a3d0-4e48-9173-ceb235292edd",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "13. Commitment - 13",
+            "parentItemId": 4111706,
+            "hotspots": [
+                {
+                    "name": "Audio for #fe44be59-8257-4656-a0e7-33a2f5107764",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "2c63df4f-1481-4577-a0c1-62a54310707f"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 12-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0634765625,
+                        "height": 0.0949074074074074,
+                        "positionX": 0.451171875,
+                        "positionY": 0.4421296296296297,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "cc3fb7a5-9347-4d2e-bbdb-d9f6531a54f1",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "14. Commitment - 14",
+            "parentItemId": 4111707,
+            "hotspots": [
+                {
+                    "name": "Audio for #af6b48b8-38be-4073-9b62-a2be18172f50",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "af93e730-9cd7-42c8-9cf8-2478a772a69f"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 13-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.71751968503937,
+                        "height": 0.1527777777777778,
+                        "positionX": 0.14763779527559054,
+                        "positionY": 0.6435185185185185,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "03d7a4d6-6966-4cfe-b885-de340d092020",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "15. Commitment - 15",
+            "parentItemId": 4111708,
+            "hotspots": [
+                {
+                    "name": "Audio for #e3a3cdb0-9fb3-4f49-a9e3-42a1f364e935",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d2092602-c5e4-4e03-8374-17e49dbe9ec9"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 14-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.035845588235294115,
+                        "height": 0.08333333333333333,
+                        "positionX": 0.2775735294117647,
+                        "positionY": 0.3287037037037037,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "cc7d5649-a625-4b31-a168-5b88b09c69ae",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "16. Commitment - 16",
+            "parentItemId": 4111709,
+            "hotspots": [
+                {
+                    "name": "Audio for #138735e6-533b-4fd9-b1c7-84f7af01e48c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5341e0af-a825-4957-99c5-5a350d382189"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 15-1",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.11665098777046096,
+                        "height": 0.07458721036307242,
+                        "fontSize": 16,
+                        "positionX": 0.3819379115710254,
+                        "positionY": 0.14532019704433496,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Hall",
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "9652e134-f874-4c70-93d5-d447fd0093a3",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "17. Commitment - 17",
+            "parentItemId": 4111710,
+            "hotspots": [
+                {
+                    "name": "Audio for #b18387eb-fab4-4390-8773-3e302caa60d5",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "dad1c195-dc3a-44b5-a758-fbc8f98df996"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 16-1",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.11531365313653136,
+                        "height": 0.07494499449944993,
+                        "fontSize": 16,
+                        "positionX": 0.6448339483394834,
+                        "positionY": 0.14727722772277227,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Dawn",
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "20b2e8ac-bb17-4dd7-bdb7-1a86608cdb2a",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "18. Commitment - 18",
+            "parentItemId": 4111711,
+            "hotspots": [
+                {
+                    "name": "Audio for #905e674a-77b9-4671-96a8-92ac2a46e31d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5b2de773-2f4b-4cfc-80a4-0100628c1789"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 17-0",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.06493506493506493,
+                        "height": 0.1087962962962963,
+                        "positionX": 0.4517625231910946,
+                        "positionY": 0.41203703703703703,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Screen 17-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.564935064935065,
+                        "height": 0.13194444444444445,
+                        "positionX": 0.22356215213358072,
+                        "positionY": 0.5879629629629629,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "96c3477e-8b96-4e91-b229-310dbe5c7f87",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "19. Commitment - 19",
+            "parentItemId": 4111712,
+            "hotspots": [
+                {
+                    "name": "Audio for #6c8a86f4-3f38-4299-beaa-84b993801c17",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "064d3fc5-2490-4ce9-a85b-9742838aa693"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 18-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.736228813559322,
+                        "height": 0.11805555555555557,
+                        "positionX": 0.13135593220338984,
+                        "positionY": 0.7546296296296297,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "5f44284d-e054-47c8-9039-72be849f875b",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "20. Commitment - 20",
+            "parentItemId": 4111713,
+            "hotspots": [
+                {
+                    "name": "Audio for #954a9aad-994e-40a8-b697-775915ea7f99",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "07d00c3a-aa4b-47a3-85d0-60e56d920c77"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 19-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1575875486381323,
+                        "height": 0.08796296296296297,
+                        "positionX": 0.8385214007782101,
+                        "positionY": 0.9004629629629629,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "50be80fe-83a7-41fb-b456-254d0c40bd1e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "21. Commitment - 21",
+            "parentItemId": 4111714,
+            "hotspots": [
+                {
+                    "name": "Audio for #800d494c-c49b-446b-b539-ff79a0e48e6a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c5387951-bef3-4e50-8e09-9ee16ef460c7"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #1cc5473b-f5ed-43a7-96b6-71ffc057f472",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "69677833-2659-4926-8008-ec0cd8f62135"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Screen 20-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.038262668045501554,
+                        "height": 0.0787037037037037,
+                        "positionX": 0.4643226473629783,
+                        "positionY": 0.8032407407407407,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "788a3bc5-641f-47a4-a55d-625408f4f920",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "22. Commitment - 22",
+            "parentItemId": 4111715,
+            "hotspots": [
+                {
+                    "name": "Audio for #d8ff9c84-1627-4792-9b65-6edea41766e0",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "bef91aab-4300-4822-9049-20c8ae79a0b5"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 21-1",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.20905172413793105,
+                        "height": 0.0480295566502463,
+                        "fontSize": 16,
+                        "positionX": 0.37823275862068967,
+                        "positionY": 0.21921182266009853,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "cbs_dasp",
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "5939a03f-e072-457f-af31-1ef92a21e99a",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "23. Commitment - 23",
+            "parentItemId": 4111716,
+            "hotspots": [
+                {
+                    "name": "Audio for #d411b89b-7877-4325-a22f-cc5deaa264c6",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "294585c6-586b-4b18-967c-83bf4a888fcc"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 22-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.06863780359028511,
+                        "height": 0.10185185185185185,
+                        "positionX": 0.4561774023231257,
+                        "positionY": 0.33564814814814814,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "dbceb849-1ed8-49e1-a533-f63878b8b91e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "24. Commitment - 24",
+            "parentItemId": 4111717,
+            "hotspots": [
+                {
+                    "name": "Audio for #341e4ecb-58e7-45a6-9f3e-47b309d97a64",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "591e263f-67ea-47e9-a77d-59a0a8a0b89a"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 23-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.5666316894018888,
+                        "height": 0.09722222222222222,
+                        "positionX": 0.22455403987408185,
+                        "positionY": 0.4930555555555556,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "047a44e8-a8cd-49e6-9e3b-d8e0a75045c6",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "25. Commitment - 25",
+            "parentItemId": 4111718,
+            "hotspots": [
+                {
+                    "name": "Audio for #d046f096-e2bc-47f4-bd3e-31978264e060",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a2dbc4f8-dd74-4fbe-b726-224a6205374e"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 24-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.020471502590673575,
+                        "height": 0.914351851851852,
+                        "positionX": 0.8860103626943006,
+                        "positionY": 0.06712962962962964,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "94691937-aad6-4deb-914e-44fd48775715",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "26. Commitment - 26",
+            "parentItemId": 4111719,
+            "hotspots": [
+                {
+                    "name": "Audio for #968c7a76-2c63-4752-a22d-bd6b61dca09a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "663f5d16-b955-4648-b736-b5aeaa6c6c35"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 25-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.03866809881847476,
+                        "height": 0.0763888888888889,
+                        "positionX": 0.4296455424274973,
+                        "positionY": 0.34953703703703703,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "b0bf9c41-1ef1-431c-806d-b9f8d2b8d33e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "27. Commitment - 27",
+            "parentItemId": 4111720,
+            "hotspots": [
+                {
+                    "name": "Audio for #85659d2f-0658-4c01-aac1-3b42faba1623",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3dcfa2ee-2f2f-45fb-912a-2a25d22d5e09"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 26-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.2497376705141658,
+                        "height": 0.05787037037037037,
+                        "positionX": 0.2161594963273872,
+                        "positionY": 0.6041666666666666,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "5dc4f3f0-04ba-48ed-aaee-5b2de417e9a8",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "28. Commitment - 28",
+            "parentItemId": 4111721,
+            "hotspots": [
+                {
+                    "name": "Audio for #8732a142-7aa0-46ed-9bbc-0948af94c2f8",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3f9af404-ba10-4595-82d2-43556f9f7203"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 27-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.25182863113897597,
+                        "height": 0.0787037037037037,
+                        "positionX": 0.21212121212121213,
+                        "positionY": 0.5370370370370371,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "36c7921e-1a31-4f79-805a-340baeb54f75",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "29. Commitment - 29",
+            "parentItemId": 4111722,
+            "hotspots": [
+                {
+                    "name": "Audio for #2d8a159c-f852-4ec0-9d3c-d87a9454e645",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "fde8ffef-dc68-4b5a-9cc1-e0a4b96f4a7a"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 28-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.043478260869565216,
+                        "height": 0.08564814814814815,
+                        "positionX": 0.7391304347826086,
+                        "positionY": 0.4074074074074074,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "7eee0614-19c8-4b2a-9d1d-9f333005fadc",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "30. Commitment - 30",
+            "parentItemId": 4111723,
+            "hotspots": [
+                {
+                    "name": "Audio for #315b93c1-3d25-4fff-9533-51af24ab0c9d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "061a377b-2216-4906-a514-a008972f486d"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 29-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.029350104821802937,
+                        "height": 0.08101851851851852,
+                        "positionX": 0.709643605870021,
+                        "positionY": 0.6111111111111112,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Screen 29-2",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05660377358490566,
+                        "height": 0.08564814814814815,
+                        "positionX": 0.8406708595387841,
+                        "positionY": 0.6759259259259259,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "60026708-5020-48bf-9d19-3d6a8874a086",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "31. Commitment - 31",
+            "parentItemId": 4111724,
+            "hotspots": [
+                {
+                    "name": "Audio for #2894ac50-5ed1-44d8-9d15-4c77e97deb91",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "04423734-55d2-491d-8472-19f48395131d"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Screen 30-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.3533678756476684,
+                        "height": 0.11342592592592592,
+                        "positionX": 0.12746113989637306,
+                        "positionY": 0.7291666666666666,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "b35e364c-34f1-41dd-93ac-510fd38b3621",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "32. Commitment - 32",
+            "parentItemId": 4111725,
+            "hotspots": [
+                {
+                    "name": "Screen 31-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.09978768577494691,
+                        "height": 0.08333333333333333,
+                        "positionX": 0.8036093418259024,
+                        "positionY": 0.914351851851852,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "e6e7e818-87ec-420e-933b-9002184a726a",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "4. Commitment - new slide",
+            "parentItemId": 4111698,
+            "hotspots": [
+                {
+                    "name": "Screen replacement-1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.23558758314855877,
+                        "height": 0.0603448275862069,
+                        "positionX": 0.6169623059866962,
+                        "positionY": 0.5270935960591133,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        }
+    ]
+}

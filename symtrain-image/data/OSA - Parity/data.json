@@ -1,0 +1,722 @@
+{
+    "name": "OSA - Parity",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Matthew",
+    "voiceId": "a16f9cb0-b721-11eb-ab80-12a3f1d4ce57",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "eed7a967-0c9f-453a-82a6-6d79cdd713b5",
+            "sequenceNumber": 1,
+            "fileTranscript": "Thank you for calling Northwestern Mutual, Underwriting Case Management, this is ________. How may I help you?",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "northwestern mutual,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "how may i help you?",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "a2c18bc5-3821-4615-8328-4b4820079f19",
+            "sequenceNumber": 2,
+            "fileTranscript": "Hi! This is Norm Weston calling from John Barrett's office. This case for Marty Juana has taken forever, what is the underwriter waiting on?",
+            "fileId": "65e8b8b1-f025-4a8e-ba22-fadb8f7a1e1e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c9827415-e465-4d34-af5c-8726a010286c",
+            "sequenceNumber": 3,
+            "fileTranscript": "Hi Norm, may I start with a policy number to get started?",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "policy number",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "e57ce97a-a291-4956-b3a4-455ac7b710c2",
+            "sequenceNumber": 4,
+            "fileTranscript": "This case for Marty Juana has taken forever, what is the underwriter waiting on? The policy number is T195129.",
+            "fileId": "bd5322fb-13e2-4d36-83cd-736657889d46",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "2c32c820-b7bd-4a47-a987-216fe2ce4485",
+            "sequenceNumber": 5,
+            "fileTranscript": "Thank you, Norm, I do have Marty's case pulled up here. You would like to talk about what will move this case to approval, is that correct?",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank you,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "is that correct?",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "acc826ad-2615-4008-8b3a-275a5e068354",
+            "sequenceNumber": 6,
+            "fileTranscript": "Yes, that is what I'm looking for.",
+            "fileId": "6d0ea990-7959-4f47-94db-08caab1dfbf0",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "0eb73593-503f-4622-99a6-05ea5c689b6d",
+            "sequenceNumber": 7,
+            "fileTranscript": "Please give me a moment so I can review the details of the case and see what we can do to get this moving.",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "please give me a moment",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "a8256577-ee47-4d30-a634-0b65a0ecfb52",
+            "sequenceNumber": 8,
+            "fileTranscript": "Sounds good!",
+            "fileId": "ebe339e0-eb94-4ad5-b8f0-708af33ea67e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "36bebb5b-e874-4b30-8fae-4207fafe2475",
+            "sequenceNumber": 9,
+            "fileTranscript": "Thank you so much, I am all up to speed on this case. It looks like we are awaiting records from Dr. Smith's office and that a special authorization was sent to your office by the APS vendor to be reviewed. Do you have a copy of that completed form?",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "5bb2b73e-2b38-494a-b085-6fcc4e607baa",
+            "sequenceNumber": 10,
+            "fileTranscript": "No, I thought you sent it to the client and not just to me.",
+            "fileId": "ca1e60e3-f10c-4d86-9967-80d911c32dc4",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "93066be3-2b54-42af-8a83-507b6f4d0306",
+            "sequenceNumber": 11,
+            "fileTranscript": "Thank you, Norm. Let me take a moment to review the notes from our APS vendor to determine where the document was sent.",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "aps vendor",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "9e854dc7-e403-4b3c-aeb3-001d65a61e8b",
+            "sequenceNumber": 12,
+            "fileTranscript": "Please do, I hope you sent it to the client.",
+            "fileId": "f60ace52-4b3a-4671-ac54-f54d11da586c",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "09bd2650-63a5-4737-a0bd-f580d33efd3f",
+            "sequenceNumber": 13,
+            "fileTranscript": "It doesn't appear that this was sent directly to the client, instead it was sent to your office to facilitate that request. I can have that resent to you right away.",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "sent to your office",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "84c86523-cd6c-4c43-8044-48f8d7dcf5e2",
+            "sequenceNumber": 14,
+            "fileTranscript": "Ok, that is fine. Do you really need these records though? It's been a long time.",
+            "fileId": "9dfb4eea-f91a-488b-bebf-25b84e9ae85c",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "5ca7ebb2-af48-4bfe-b40b-444c61eaa1ff",
+            "sequenceNumber": 15,
+            "fileTranscript": "It does look from the notes that the underwriter does require these notes in order to reach the final decision, however, I will put in a note requesting for a risk review and the underwriter will reach out with that information. In the meantime, I'll get the form over to you to reduce any further delay.",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "i will put in a note",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "3e4d365a-4166-44aa-b613-61fda1e50586",
+            "sequenceNumber": 16,
+            "fileTranscript": "That sounds fair. Thank you.",
+            "fileId": "33d1c33e-23f1-4c2a-9237-007b28d150fb",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "8b2e17c8-f7de-4e8b-99b3-389d97448834",
+            "sequenceNumber": 17,
+            "fileTranscript": "Of course. Is there anything else I can assist you with?",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "is there anything else i can assist you with?",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "2004e02f-c1dc-4fca-9a3e-dfdffc322fff",
+            "sequenceNumber": 18,
+            "fileTranscript": "No, that was all.",
+            "fileId": "a016d28d-3e05-4809-a0f5-4fc2c42138ce",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "6afb18ce-163c-4c15-b353-6e67918d35ed",
+            "sequenceNumber": 19,
+            "fileTranscript": "Awesome, well thank you so much for putting your trust in Northwestern Mutual. Have a great rest of your day.",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank you",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "e86e53f8-f343-4627-a6e1-e710c1781195",
+            "sequenceNumber": 20,
+            "fileTranscript": "Thank you, you as well!",
+            "fileId": "b48ca6e8-3a06-4624-b9e5-4c1f9d210af4",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "4bb30b9f-580d-44bf-a5e0-328f0b3967e7",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Audio for #eed7a967-0c9f-453a-82a6-6d79cdd713b5",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "eed7a967-0c9f-453a-82a6-6d79cdd713b5"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #a2c18bc5-3821-4615-8328-4b4820079f19",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a2c18bc5-3821-4615-8328-4b4820079f19"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #c9827415-e465-4d34-af5c-8726a010286c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c9827415-e465-4d34-af5c-8726a010286c"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #e57ce97a-a291-4956-b3a4-455ac7b710c2",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e57ce97a-a291-4956-b3a4-455ac7b710c2"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Coaching Tip",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Type in the case number - T195129",
+                        "width": 0.44021024967148487,
+                        "height": 0.07009345794392523,
+                        "fontSize": 16,
+                        "positionX": 0.25492772667542707,
+                        "positionY": 0.5210280373831776,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Case Number",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.4362680683311432,
+                        "height": 0.15771028037383178,
+                        "fontSize": 16,
+                        "positionX": 0.2608409986859396,
+                        "positionY": 0.5362149532710281,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "T195129",
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 6
+                }
+            ]
+        },
+        {
+            "fileId": "e7697b29-c180-4752-9441-e297ee8d1cf4",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 2",
+            "parentItemId": 1788632,
+            "hotspots": [
+                {
+                    "name": "Audio for #2c32c820-b7bd-4a47-a987-216fe2ce4485",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "2c32c820-b7bd-4a47-a987-216fe2ce4485"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #acc826ad-2615-4008-8b3a-275a5e068354",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "acc826ad-2615-4008-8b3a-275a5e068354"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #0eb73593-503f-4622-99a6-05ea5c689b6d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "0eb73593-503f-4622-99a6-05ea5c689b6d"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Press the Details Button",
+                        "width": 0.1038107752956636,
+                        "height": 0.05957943925233645,
+                        "fontSize": 16,
+                        "positionX": 0.07687253613666228,
+                        "positionY": 0.530373831775701,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Case Details",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0873850197109067,
+                        "height": 0.0689252336448598,
+                        "positionX": 0.07752956636005257,
+                        "positionY": 0.5268691588785047,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Audio for #a8256577-ee47-4d30-a634-0b65a0ecfb52",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a8256577-ee47-4d30-a634-0b65a0ecfb52"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                }
+            ]
+        },
+        {
+            "fileId": "875bbc2f-e20e-4407-bc7d-e89337bcb98d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 3",
+            "parentItemId": 1788634,
+            "hotspots": [
+                {
+                    "name": "Coaching",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Now press the To Do List button for more information.",
+                        "width": 0.10183968462549275,
+                        "height": 0.08411214953271028,
+                        "fontSize": 16,
+                        "positionX": 0.06701708278580815,
+                        "positionY": 0.4696261682242991,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Tasks",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.12812089356110382,
+                        "height": 0.06775700934579439,
+                        "positionX": 0.05847568988173456,
+                        "positionY": 0.4871495327102804,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #36bebb5b-e874-4b30-8fae-4207fafe2475",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "36bebb5b-e874-4b30-8fae-4207fafe2475"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #5bb2b73e-2b38-494a-b085-6fcc4e607baa",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5bb2b73e-2b38-494a-b085-6fcc4e607baa"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "e73184fb-08a3-4d04-9eaf-bcba45f46773",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 4",
+            "parentItemId": 1788637,
+            "hotspots": [
+                {
+                    "name": "Audio for #93066be3-2b54-42af-8a83-507b6f4d0306",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "93066be3-2b54-42af-8a83-507b6f4d0306"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #9e854dc7-e403-4b3c-aeb3-001d65a61e8b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "9e854dc7-e403-4b3c-aeb3-001d65a61e8b"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Coachign",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Press More to open the vendor site",
+                        "width": 0.09198423127463864,
+                        "height": 0.08761682242990654,
+                        "fontSize": 16,
+                        "positionX": 0.8442838370565046,
+                        "positionY": 0.02920560747663551,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "ROSS",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.10775295663600526,
+                        "height": 0.10397196261682244,
+                        "positionX": 0.8344283837056504,
+                        "positionY": 0.02570093457943925,
+                        "isHighlight": false,
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "eb0d52d2-a843-4aeb-989b-6f28060074a2",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 5",
+            "parentItemId": 1788641,
+            "hotspots": [
+                {
+                    "name": "Coaching tip",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Coaching tip here about what to look for in ROSS",
+                        "width": 0.1603153745072274,
+                        "height": 0.4299065420560747,
+                        "fontSize": 16,
+                        "positionX": 0.6734559789750328,
+                        "positionY": 0.29906542056074764,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 5000
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "1116dfa4-38b7-4d01-90c0-f190d84d1de0",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 6",
+            "parentItemId": 1788646,
+            "hotspots": [
+                {
+                    "name": "Audio for #09bd2650-63a5-4737-a0bd-f580d33efd3f",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "09bd2650-63a5-4737-a0bd-f580d33efd3f"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #84c86523-cd6c-4c43-8044-48f8d7dcf5e2",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "84c86523-cd6c-4c43-8044-48f8d7dcf5e2"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Coachin",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Press the paperclip to view data.",
+                        "width": 0.18462549277266752,
+                        "height": 0.053738317757009345,
+                        "fontSize": 16,
+                        "positionX": 0.7982917214191853,
+                        "positionY": 0.3574766355140187,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Paperclip",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.20039421813403416,
+                        "height": 0.08177570093457943,
+                        "positionX": 0.7950065703022339,
+                        "positionY": 0.3399532710280374,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#DE0DE8",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "31ba53a2-f0fd-455e-9838-525e22bed536",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 7",
+            "parentItemId": 1788652,
+            "hotspots": [
+                {
+                    "name": "Audio for #5ca7ebb2-af48-4bfe-b40b-444c61eaa1ff",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5ca7ebb2-af48-4bfe-b40b-444c61eaa1ff"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #3e4d365a-4166-44aa-b613-61fda1e50586",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3e4d365a-4166-44aa-b613-61fda1e50586"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #8b2e17c8-f7de-4e8b-99b3-389d97448834",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8b2e17c8-f7de-4e8b-99b3-389d97448834"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #2004e02f-c1dc-4fca-9a3e-dfdffc322fff",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "2004e02f-c1dc-4fca-9a3e-dfdffc322fff"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #6afb18ce-163c-4c15-b353-6e67918d35ed",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "6afb18ce-163c-4c15-b353-6e67918d35ed"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Audio for #e86e53f8-f343-4627-a6e1-e710c1781195",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e86e53f8-f343-4627-a6e1-e710c1781195"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                }
+            ]
+        }
+    ]
+}

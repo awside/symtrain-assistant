@@ -1,0 +1,642 @@
+{
+    "name": "Startek_Compassion- Credit Card Payment. ADV",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "AUDIO",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": true,
+    "scriptInRatingModeEnabled": false,
+    "ttsRequired": true,
+    "voiceName": "Jennifer",
+    "voiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "b0539ccd-fb69-41f8-b7b9-b9a6c2c61726",
+            "sequenceNumber": 1,
+            "fileTranscript": "In this simulation, you will assist the customer to update their new card on the account for automatic payment plan.",
+            "fileId": "34aaf90d-d005-4207-9c53-676b4f1093fe",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "60dfd9f3-bf91-4b29-b741-dc774e2f484d",
+            "sequenceNumber": 2,
+            "fileTranscript": "Hello, thank you for calling Compassion. My name is [YOUR NAME]. And how can I help you?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "compassion.",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "help",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "assist",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "d0b22d34-a783-44f9-8a8f-7c63d40db9b5",
+            "sequenceNumber": 6,
+            "fileTranscript": "Definitely, I can also help you with that. So, we can change the address first. Then afterwards we can update your payment information, too.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "change",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "update",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "payment",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "information,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "address",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "b3c975f7-bf34-4752-bcbe-aa37639ece6e",
+            "sequenceNumber": 3,
+            "fileTranscript": "Yes, I just got a notice from Compassion that my credit card is expiring. I just wanted to put a new credit card on file.",
+            "fileId": "8f511d78-b144-4f6f-98cb-eb66eb163c06",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "d06e25fe-4714-48e0-a617-0873c39904a0",
+            "sequenceNumber": 4,
+            "fileTranscript": "Sure! Well, thank you so much for giving us a call today. Let me help you to set up your new card information onto your account. Let me pull up your account first. May I know your name on the account, please?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "set up",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "new",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "card information",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "name",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "5c343a59-0252-4b76-8d31-b3051cd19d91",
+            "sequenceNumber": 5,
+            "fileTranscript": "It's Lisa Turner, and I may need to change my address on my account as well.",
+            "fileId": "20a8460f-5606-4c4f-8da1-de9a21a02d6e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b35ed0ac-860f-47d0-aeda-1c3163c9e862",
+            "sequenceNumber": 7,
+            "fileTranscript": "Sure.",
+            "fileId": "02e212f7-d51c-4f82-a7ce-8aecc07e46ad",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "dfbc3af7-21fc-4213-8769-70796dc17b28",
+            "sequenceNumber": 8,
+            "fileTranscript": "So, I do have now your account as 124578. I also wanted to thank you for being a blessing to a child.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "account",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "bb95e8be-215c-4cb6-838f-7cc8226fcc4e",
+            "sequenceNumber": 9,
+            "fileTranscript": "Thanks.",
+            "fileId": "97d06ba9-06f8-420d-807c-2c25ee17fc15",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a485e6ee-60b9-4052-a028-4392206c7f61",
+            "sequenceNumber": 10,
+            "fileTranscript": "So, before we update your payment information, let me help you to change your address. So, what we have here on file is 110 Riverside Coral FL 33071.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "change",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "address.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "053e59ee-2896-4d84-8d14-8b02a0c50693",
+            "sequenceNumber": 11,
+            "fileTranscript": "That is correct, yes.",
+            "fileId": "d158c52b-4bcc-4c32-a0b4-838dd44ff3ff",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "2d418e8f-7344-4113-93f1-5f273fd4e170",
+            "sequenceNumber": 12,
+            "fileTranscript": "So, may I have then your updated address, please?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "updated",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "address,",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "86c9b16c-c901-4fe1-82b1-88039781f8a2",
+            "sequenceNumber": 13,
+            "fileTranscript": "No, I don't need to. It sounds like it has been updated.",
+            "fileId": "aa71cb4c-b9ec-4635-b6ed-e10379065605",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "cc53039a-f191-4e26-88b2-1618cc36d264",
+            "sequenceNumber": 14,
+            "fileTranscript": "Great! So, let's proceed with updating of your payment information. Just give me a few moments here.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "updating",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "payment",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "30905ccf-8749-4caf-9e36-0b5358d644c9",
+            "sequenceNumber": 15,
+            "fileTranscript": "Okay.",
+            "fileId": "3fc0935a-ed28-40c7-bf46-e814ebbe24a1",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "04d839d1-5a3b-469d-9aa6-a4e84721ff1b",
+            "sequenceNumber": 16,
+            "fileTranscript": "I see that for your monthly payment plan, you were set up using your American Express card ending in 5500 and I see that it's about to expire. So, expiration date is December of 2023.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "expire.",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "expiration",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "date",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "ad4f5bfb-81c1-42af-9720-e53a0976dfd6",
+            "sequenceNumber": 17,
+            "fileTranscript": "Correct.",
+            "fileId": "b9e730e4-73bd-4753-a475-80c2c95ee7c8",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "bf2408d5-7252-4368-8778-3f0fd18f16a7",
+            "sequenceNumber": 18,
+            "fileTranscript": "So, you'll be setting up for a new card or a totally different card?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "new card",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "3341f138-2134-423b-b2df-e4416942ea5c",
+            "sequenceNumber": 19,
+            "fileTranscript": "Yes. It's a new American Express card with a different card number.",
+            "fileId": "6a1e16eb-1023-485c-a338-4b981851fca1",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "306318dd-dbb4-493e-b7e7-5dc63368ddd8",
+            "sequenceNumber": 20,
+            "fileTranscript": "Okay, so let's start to set up your new card information.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "set up",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "new",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "card",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "daf7bba8-fa25-4d63-b91f-f06d38a06017",
+            "sequenceNumber": 21,
+            "fileTranscript": "Okay.",
+            "fileId": "b81a862f-4ce2-49e3-8e27-bb133230395f",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b187519e-82f4-4ff0-8336-fcfd9893d919",
+            "sequenceNumber": 22,
+            "fileTranscript": "To setup your new card and also for the safety of it, I'll be transferring you to our secure line where all you have to do is just simply enter the card number over the phone, and again this call will be routed back to me. Would that be, okay?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "transferring",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "secure line",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "card number",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "ef220127-1b73-4fcf-9126-a1980e159def",
+            "sequenceNumber": 23,
+            "fileTranscript": "Sure. Thanks.",
+            "fileId": "0c414a9f-ab34-4aed-b6b9-c40196262d16",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c19015a8-a1b3-4de0-bd32-928a98091934",
+            "sequenceNumber": 24,
+            "fileTranscript": "So, I'll be transferring you now.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "transferring",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "430941b0-4f90-4aa4-b3b9-f3296b2ac7d4",
+            "sequenceNumber": 25,
+            "fileTranscript": "Sure!",
+            "fileId": "9e54a816-ccb3-4ad3-8556-52e9274b54b6",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "189bd46e-93cd-4335-a8ef-0258a10f6455",
+            "sequenceNumber": 26,
+            "fileTranscript": "[Customer enters the new card number over the phone.]",
+            "fileId": "0398833e-c2e5-4ff4-8b36-b7a04b345dab",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3c8d3ece-bbd7-4d9e-a94e-5190af22e73d",
+            "sequenceNumber": 27,
+            "fileTranscript": "Yes, thank you so much. I do have now your American Express card ending in 2005. And can you please confirm the card's expiration date?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "expiration",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "date?",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "70ca06b7-34c9-47f3-9641-0656fa3693b1",
+            "sequenceNumber": 28,
+            "fileTranscript": "It is eight of 28.",
+            "fileId": "e3383861-1d53-497d-9309-2ede7a2a34ac",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "03db8dc1-9a34-41c6-a195-64f6138d4fbb",
+            "sequenceNumber": 29,
+            "fileTranscript": "And how does your name appear on this card?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "name",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "card?",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "e4cd506c-4b74-464f-88ae-48862281b58f",
+            "sequenceNumber": 30,
+            "fileTranscript": "Lisa J Turner.",
+            "fileId": "4795ba4d-232b-458f-bdcb-490c73559455",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "d9d1f523-b01a-4846-b3e3-7cdb10c0d606",
+            "sequenceNumber": 31,
+            "fileTranscript": "Thank you. So, let me set up your new card information for your automatic monthly payment plan. Give me a few moments here.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "automatic",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "monthly",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "payment",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "plan.",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "f82018a0-43a4-421d-b0da-dab0bc3101dc",
+            "sequenceNumber": 32,
+            "fileTranscript": "Sure. I believe they have already drafted out for this month, correct?",
+            "fileId": "ae2d398a-0978-4464-9279-4d0279a3bb97",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a76f4bc5-da10-4a79-bb84-5a91967e2a70",
+            "sequenceNumber": 33,
+            "fileTranscript": "Yes, that is correct. It was drafted on December 19.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "drafted",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "e2b61147-a931-440e-a767-d4e9fc22dbe1",
+            "sequenceNumber": 34,
+            "fileTranscript": "Okay.",
+            "fileId": "cd6ccfb3-3166-46e2-82df-bbfb2009ea39",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "5d8e048e-160e-4b36-90c2-2b6655f68305",
+            "sequenceNumber": 35,
+            "fileTranscript": "Thank you so much for patiently waiting, Miss Turner. I have set up your new card information for your automatic monthly payment which would be starting from next month. The date is set for every 19th day of each month.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "set up",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "new card",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "automatic",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "monthly payment",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "date",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "19th",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "fad80e7f-0a2d-412a-8c31-1c32b6548382",
+            "sequenceNumber": 36,
+            "fileTranscript": "Perfect!",
+            "fileId": "b9b4d66f-bc51-47bd-bf98-3769bdc43aa6",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "7cde4625-66ae-4e80-8697-f74498ac2cc9",
+            "sequenceNumber": 37,
+            "fileTranscript": "Thank you for your time calling us. And was there anything else that I can help you for today?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "9ed05830-ec8c-4803-aef2-0d97486a2802",
+            "sequenceNumber": 38,
+            "fileTranscript": "No, that's it. I appreciate that and thank you.",
+            "fileId": "7a49b46f-cd5a-418f-a092-7140c2cf264e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "6ee7a4b7-8388-4ba0-836d-7ee088d77f9d",
+            "sequenceNumber": 39,
+            "fileTranscript": "You're welcome, Miss Turner. You have a great day!",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "9a991b40-9696-4af6-aab1-bc936ada7bca",
+            "sequenceNumber": 40,
+            "fileTranscript": "You as well. Bye!",
+            "fileId": "9662d7e0-e3b3-4dac-acba-7339854ebbdb",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b84a1d11-47ba-4164-a7b2-7f1c903a8b95",
+            "sequenceNumber": 41,
+            "fileTranscript": "This concludes your simulation.",
+            "fileId": "84300814-4cdc-46f0-bb7c-934b3c6a62c6",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": []
+}

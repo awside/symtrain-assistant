@@ -1,0 +1,2755 @@
+{
+    "name": "Return Request (Bed Frame/Toppers/Misc)",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": true,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Jennifer",
+    "voiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+    "branches": [],
+    "labels": [
+        {
+            "name": "Training"
+        },
+        {
+            "name": "USA"
+        }
+    ],
+    "audioContentItems": [
+        {
+            "externalId": "8125fcea-6707-4577-827d-68fb3f581b21",
+            "sequenceNumber": 2,
+            "fileTranscript": "Thank you for calling Zinus, this is (Agent's Name), may I have your name and email address, please?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "zinus,",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "name and email address,",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "55fe54f9-c4e0-4d2d-87f5-01cc2701816e",
+            "sequenceNumber": 1,
+            "fileTranscript": "[Phone rings]",
+            "fileId": "9123832c-0be1-43a8-99c2-7e5b12d850d6",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "4305909e-9468-4913-bbfe-3fc96e6f0348",
+            "sequenceNumber": 3,
+            "fileTranscript": "Hi. My name is Alexis and email is cloudchaser252@gmail.com.",
+            "fileId": "ec05c037-95b8-4e6f-a897-32554a1cb422",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "e31fec08-c5ac-4ce3-915c-a45a6f6a35e2",
+            "sequenceNumber": 4,
+            "fileTranscript": "Thank you, Alex! How can I help you today?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "34f33c05-82ad-46f8-a634-4d71ef1a74ad",
+            "sequenceNumber": 5,
+            "fileTranscript": "We just ordered a bed and a mattress. It was actually delivered last week. Mattress was fine, there's just something about the bed frame. We're kind of not - liking the color. I think we still have the return period so we would like to take advantage of it and we will buy something else.",
+            "fileId": "1b9060ae-fb3d-4e02-bd30-4203d0352f20",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "55b43626-f878-42ce-b1f9-bc845ccedc03",
+            "sequenceNumber": 6,
+            "fileTranscript": "We're sorry to hear the bed frame did not work out for you. We can take a look at your options and discuss the return process. May I have your order number, please?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "6669a3d0-68d5-4ce8-b023-699fd31d1509",
+            "sequenceNumber": 7,
+            "fileTranscript": "Yes it's 3-3-0-0-3-0.",
+            "fileId": "1d202fbf-4e41-4b88-9513-1914ee6a3af8",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "351f66ae-a8c4-4424-863b-ed248e46012f",
+            "sequenceNumber": 8,
+            "fileTranscript": "Thank you! Please bear with me while I validate your order.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c15a6087-3553-4886-851f-784f36c88174",
+            "sequenceNumber": 9,
+            "fileTranscript": "I see an order placed January 9, 2024 for a bed frame and a mattress. To confirm the item that needs to be returned, that would be Olivia Metal and Wood Platform Bed Frame in Full size, correct?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "9e321b67-5e58-4790-b76f-d8e6527f9522",
+            "sequenceNumber": 10,
+            "fileTranscript": "Yes. That is correct.",
+            "fileId": "b95956dc-3889-42ec-8f40-77dd047a3d7b",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a819b857-513a-4c01-84a9-40ad884cc9e2",
+            "sequenceNumber": 11,
+            "fileTranscript": "Looking at the tracking details, it shows it was delivered January 13, 2024. I can confirm that you are still within the 30 days of your return period, Alex.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "725c1cd1-1167-4fa1-863b-5210c4b6237e",
+            "sequenceNumber": 12,
+            "fileTranscript": "To initiate the return, the bed frame needs to be returned back to us. Ensure that the item will be returned in its original packaging - complete with all original parts including the instruction manual.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "4cfdc0ff-dc0f-4b81-92dd-5e1b96b0fb08",
+            "sequenceNumber": 13,
+            "fileTranscript": "We will then send you a prepaid return label and provide instructions for arranging a FedEx pickup.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "9b0237d7-2809-4a8f-b44a-990f37fbe878",
+            "sequenceNumber": 14,
+            "fileTranscript": "After we receive the returned item, a refund will be generated back to the original form of payment within 2-3 business days. We will email you all these details right after this call.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "443d5b50-31d4-4e8d-8fec-9e73fcabe451",
+            "sequenceNumber": 15,
+            "fileTranscript": "I hope I was able to explain the process of the return. Is there anything else I can help you with at the moment, Alex?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "f7f3d3e0-39c7-4602-8e38-746b0e813578",
+            "sequenceNumber": 16,
+            "fileTranscript": "Nope. Sounds good. I will wait for your email.",
+            "fileId": "8a6c0b70-a242-4d03-b66b-e25a8986b4b4",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "376a4e6d-3833-4bc2-a8f5-1e86ad8a856f",
+            "sequenceNumber": 17,
+            "fileTranscript": "Awesome! If you have any questions, feel free to respond to the email anytime. And thank you for calling Zinus, we hope you have a wonderful day!",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3ebbffb1-da22-4ec0-8faa-87b381114e63",
+            "sequenceNumber": 18,
+            "fileTranscript": "Thanks! You too!",
+            "fileId": "93d1c9b5-62ee-423d-9acc-78198c05d904",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "4eeb1503-9373-448f-b8f1-80608abd7533",
+            "sequenceNumber": 19,
+            "fileTranscript": "This concludes your simulation.",
+            "fileId": "df1c30e1-1f28-4944-907f-0a2032997ccc",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "ed080388-c059-42aa-80fa-7f43ffe8ab49",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 5 - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Audio for #78d8dc60-53d5-40c6-a93c-115c4cb6dc6b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "55fe54f9-c4e0-4d2d-87f5-01cc2701816e"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "f919a280-e026-4cd5-a398-db9759084be9",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 1 - 1",
+            "parentItemId": 917452,
+            "hotspots": [
+                {
+                    "name": "accept",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.050383351588170866,
+                        "height": 0.033073929961089495,
+                        "positionX": 0.8444687842278203,
+                        "positionY": 0.12062256809338522,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "7cdde662-6f60-44dc-9af8-f30cd45603ca",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 2 - 1",
+            "parentItemId": 917453,
+            "hotspots": [
+                {
+                    "name": "Audio for #37140c4e-b9fc-4238-8df0-99341a113bc3",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8125fcea-6707-4577-827d-68fb3f581b21"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "note",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.40963855421686746,
+                        "height": 0.03501945525291829,
+                        "positionX": 0.3647316538882804,
+                        "positionY": 0.9027237354085604,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "a8f17836-a389-49f8-b154-72c156eda1d3",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 3 - 1",
+            "parentItemId": 917454,
+            "hotspots": [
+                {
+                    "name": "call ticket",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.1456736035049288,
+                        "height": 0.032,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "call ticket"
+                            }
+                        ],
+                        "positionX": 0.8477546549835706,
+                        "positionY": 0.16342412451361865,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "call ticket",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "ct3.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Type \"call ticket\" on the Search Answers box.",
+                        "width": 0.25410733844468786,
+                        "height": 0.13618677042801555,
+                        "fontSize": 24,
+                        "positionX": 0.5421686746987951,
+                        "positionY": 0.15369649805447472,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "ec7795ed-b61a-4b15-ab7c-880f45841479",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 4 - 1",
+            "parentItemId": 917455,
+            "hotspots": [
+                {
+                    "name": "use",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.03285870755750274,
+                        "height": 0.03501945525291829,
+                        "positionX": 0.9616648411829136,
+                        "positionY": 0.42412451361867703,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "9fe4dd91-cf2d-469d-a2a1-990b85b5c3ea",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 6 - 1",
+            "parentItemId": 917456,
+            "hotspots": [
+                {
+                    "name": "Audio for #dceab273-bfe4-4873-aeb4-bf5345fdfb8b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "4305909e-9468-4913-bbfe-3fc96e6f0348"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "e3f406a0-2395-4864-9b25-c392ef871914",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 7 - 1",
+            "parentItemId": 917457,
+            "hotspots": [
+                {
+                    "name": "CT7.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Write customer's email address: cloudchaser252@gmail.com. Then, click on Customer Name and write \"Alexis\".",
+                        "width": 0.3373493975903614,
+                        "height": 0.22373540856031132,
+                        "fontSize": 24,
+                        "positionX": 0.2836801752464403,
+                        "positionY": 0.31712062256809337,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "email",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.20700985761226728,
+                        "height": 0.032,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "cloudchaser252@gmail.com"
+                            }
+                        ],
+                        "positionX": 0.5585980284775465,
+                        "positionY": 0.5953307392996109,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "cloudchaser252@gmail.com",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "name",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.10624315443592552,
+                        "height": 0.032,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "alexis"
+                            }
+                        ],
+                        "positionX": 0.4151150054764513,
+                        "positionY": 0.6284046692607004,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Alexis",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "74834fc8-76cd-4693-9131-df36283c6d86",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 8 - 1",
+            "parentItemId": 917458,
+            "hotspots": [
+                {
+                    "name": "reason",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.050383351588170866,
+                        "height": 0.032,
+                        "positionX": 0.45016429353778753,
+                        "positionY": 0.745136186770428,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "77500741-5959-4372-b9b4-061b4e87bdc6",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 9 - 1",
+            "parentItemId": 917459,
+            "hotspots": [
+                {
+                    "name": "Audio for #e868ece9-4636-400a-86ad-09ea9b095c1a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e31fec08-c5ac-4ce3-915c-a45a6f6a35e2"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #7c35f581-9d88-45f7-a2df-3f3fc66cb7b4",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "34f33c05-82ad-46f8-a634-4d71ef1a74ad"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #38c0988a-ae60-4484-9936-8b4cb4820e61",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "55b43626-f878-42ce-b1f9-bc845ccedc03"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #40440a98-e0d0-4fb7-8724-e2afbf839c80",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "6669a3d0-68d5-4ce8-b023-699fd31d1509"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "ct9.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Describe the reason for the call. ",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "d81711fd-86b8-405a-9c98-430e6d91bb45"
+                        },
+                        "width": 0.2792990142387733,
+                        "height": 0.14202334630350194,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.1533406352683461,
+                        "positionY": 0.3949416342412451,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "reason",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.3592552026286966,
+                        "height": 0.032,
+                        "fontSize": 16,
+                        "positionX": 0.45016429353778753,
+                        "positionY": 0.7392996108949417,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 6
+                }
+            ]
+        },
+        {
+            "fileId": "e0bb214a-d650-4b2e-b965-ee93d698a38d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 10 - 1",
+            "parentItemId": 917460,
+            "hotspots": [
+                {
+                    "name": "Audio for #243ce139-5ecb-433a-9f59-2c3dea55063c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "351f66ae-a8c4-4424-863b-ed248e46012f"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "dbe68b2b-aeaf-45aa-989b-8d4f8dbc1045",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 11 - 1",
+            "parentItemId": 917461,
+            "hotspots": [
+                {
+                    "name": "ct11.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Take note of the order number. All of our customer purchases in zinus.com can be accessed in Shopify.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "74249ee4-7ecc-4fd8-b793-5540d7812597"
+                        },
+                        "width": 0.34063526834611174,
+                        "height": 0.22957198443579763,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.1938663745892662,
+                        "positionY": 0.29961089494163423,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "shop",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.15224534501642936,
+                        "height": 0.04085603112840467,
+                        "positionX": 0.18072289156626503,
+                        "positionY": 0.003891050583657587,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "07921d28-1943-48f0-b9de-d5cbc13ae2ed",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 12 - 1",
+            "parentItemId": 917462,
+            "hotspots": [
+                {
+                    "name": "12.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Write the Order Number in the Search bar: 330030.",
+                        "width": 0.2617743702081051,
+                        "height": 0.1926070038910506,
+                        "fontSize": 24,
+                        "positionX": 0.11500547645125958,
+                        "positionY": 0.1926070038910506,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "ON",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.2190580503833516,
+                        "height": 0.032,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "330030"
+                            }
+                        ],
+                        "positionX": 0.3932092004381161,
+                        "positionY": 0.10894941634241244,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": true,
+                        "expectedValue": "330030",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "ee96f0aa-a9e5-4902-bd89-c9bfc980b478",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 13 - 1",
+            "parentItemId": 917463,
+            "hotspots": [
+                {
+                    "name": "SEARCH",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.3044906900328587,
+                        "height": 0.05058365758754864,
+                        "positionX": 0.3384446878422782,
+                        "positionY": 0.20038910505836577,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "419b9cb6-948c-4795-a799-8ceaa051566f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 14 - 1",
+            "parentItemId": 917464,
+            "hotspots": [
+                {
+                    "name": "CT14.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Clicking on the order will redirect you to the order page.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "20be33bb-eaf4-4fe4-a73d-d3f0e21148d8"
+                        },
+                        "width": 0.19605695509309967,
+                        "height": 0.24124513618677043,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.12267250821467689,
+                        "positionY": 0.2529182879377432,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "FRAME",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.307776560788609,
+                        "height": 0.0933852140077821,
+                        "positionX": 0.32420591456736036,
+                        "positionY": 0.4280155642023346,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #72bb0663-cb99-45f6-9558-75cebcc7336e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c15a6087-3553-4886-851f-784f36c88174"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #6f14a98a-dd2a-44b6-82d6-2e3a0b08eeca",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "9e321b67-5e58-4790-b76f-d8e6527f9522"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "TRACKING",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05257393209200438,
+                        "height": 0.032,
+                        "positionX": 0.3329682365826944,
+                        "positionY": 0.39299610894941633,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 5
+                }
+            ]
+        },
+        {
+            "fileId": "02ee7259-e676-4a7f-8a1d-13893d33af43",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 15 - 1",
+            "parentItemId": 917465,
+            "hotspots": [
+                {
+                    "name": "Audio for #050430e6-563e-4620-b836-c71f0faf7691",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a819b857-513a-4c01-84a9-40ad884cc9e2"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "CALL",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.15553121577217963,
+                        "height": 0.04669260700389105,
+                        "positionX": 0.024096385542168676,
+                        "positionY": 0,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "90f683f0-6809-4fc1-9952-fd9a581a31ce",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 16 - 1",
+            "parentItemId": 917466,
+            "hotspots": [
+                {
+                    "name": "CT16.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "In the Answers section, type in \"Return Request (Unopened Package)\".",
+                        "width": 0.32201533406352684,
+                        "height": 0.19455252918287935,
+                        "fontSize": 24,
+                        "positionX": 0.35268346111719606,
+                        "positionY": 0.32490272373540857,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "ANSWER",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "text": "",
+                        "width": 0.14238773274917854,
+                        "height": 0.032,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "return request (unopened package)"
+                            }
+                        ],
+                        "positionX": 0.8477546549835706,
+                        "positionY": 0.16536964980544747,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Return Request (Unopened Package)",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "39be2077-d34d-4eb2-a274-9b41c59d5bfb",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 17 - 1",
+            "parentItemId": 917467,
+            "hotspots": [
+                {
+                    "name": "CT17.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Use the Answer to discuss the return process with the customer.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "081b50fa-02ee-498b-b903-f674d194d95f"
+                        },
+                        "width": 0.2968236582694414,
+                        "height": 0.17704280155642024,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.3658269441401972,
+                        "positionY": 0.32490272373540857,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "ANSWER",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.1686746987951807,
+                        "height": 0.4357976653696498,
+                        "positionX": 0.8258488499452354,
+                        "positionY": 0.4163424124513619,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #d4adb041-a261-44bf-ba45-16bc38c19cbf",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "725c1cd1-1167-4fa1-863b-5210c4b6237e"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #23f891ab-09e4-4a0c-b8dd-cc6e772d4f0c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "4cfdc0ff-dc0f-4b81-92dd-5e1b96b0fb08"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #2629e900-6e00-4a64-a45c-3d7a85f2af46",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "9b0237d7-2809-4a8f-b44a-990f37fbe878"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Audio for #d006dbd5-e28d-475d-a097-f725cae5ffa9",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "443d5b50-31d4-4e8d-8fec-9e73fcabe451"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Audio for #992fb1d2-2253-485c-a75a-7d12f0248042",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f7f3d3e0-39c7-4602-8e38-746b0e813578"
+                        }
+                    ],
+                    "sequenceNumber": 7
+                },
+                {
+                    "name": "Audio for #ffbe4930-5081-4eb8-8aa0-ab92bd56c6bd",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "376a4e6d-3833-4bc2-a8f5-1e86ad8a856f"
+                        }
+                    ],
+                    "sequenceNumber": 8
+                },
+                {
+                    "name": "Audio for #25245681-0af7-410e-8be9-2c06fc9263c1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3ebbffb1-da22-4ec0-8faa-87b381114e63"
+                        }
+                    ],
+                    "sequenceNumber": 9
+                }
+            ]
+        },
+        {
+            "fileId": "6eac3286-b26b-44ff-bd5f-b0131a413b39",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 18 - 1",
+            "parentItemId": 917468,
+            "hotspots": [
+                {
+                    "name": "ct18.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click on \"Resolution\" and complete the documentation by providing a summary of the resolution given.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "0a6e3d7b-b2ee-4d80-a9c1-44ca7727e583"
+                        },
+                        "width": 0.35268346111719606,
+                        "height": 0.20038910505836577,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.15224534501642936,
+                        "positionY": 0.3832684824902724,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "resolution",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.03943044906900329,
+                        "height": 0.033073929961089495,
+                        "positionX": 0.3975903614457831,
+                        "positionY": 0.7957198443579766,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "b7a21f0d-59c2-45d6-8674-3b380b1f9918",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 19 - 1",
+            "parentItemId": 917469,
+            "hotspots": [
+                {
+                    "name": "resolution",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.4556407447973713,
+                        "height": 0.07003891050583658,
+                        "fontSize": 16,
+                        "positionX": 0.35706462212486306,
+                        "positionY": 0.8210116731517509,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "9afc1309-7c4d-454f-be15-5d1b39bd09d1",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 20 - 1",
+            "parentItemId": 917470,
+            "hotspots": [
+                {
+                    "name": "ct20.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Make sure that all necessary information on the documentation is complete (customer's name, email address, order number).",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "c1f54454-3ec6-49ea-9d1b-b04dbb023751"
+                        },
+                        "width": 0.4260679079956188,
+                        "height": 0.20817120622568097,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.34063526834611174,
+                        "positionY": 0.2918287937743191,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "notes",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.4687842278203724,
+                        "height": 0.3404669260700389,
+                        "positionX": 0.34720700985761227,
+                        "positionY": 0.5233463035019456,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "add note ",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.04928806133625411,
+                        "height": 0.03501945525291829,
+                        "positionX": 0.945235487404162,
+                        "positionY": 0.9007782101167316,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "84bcbfa7-f292-47e1-9a79-b8360ea86fd2",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 21 - 1",
+            "parentItemId": 917471,
+            "hotspots": [
+                {
+                    "name": "ct21.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Details section also needs to be filled whenever we handle a customer contact. When necessary, we would need to fill the Reseller where the item was purchased or being purchased, Order number, Date of purchase, and S K U.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "9598c0a1-69a0-4fe9-86b6-278e6cb001e3"
+                        },
+                        "width": 0.30996714129244246,
+                        "height": 0.4883268482490272,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.3636363636363637,
+                        "positionY": 0.3618677042801556,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "notes",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.15991237677984663,
+                        "height": 0.09727626459143968,
+                        "positionX": 0.17524644030668127,
+                        "positionY": 0.5136186770428015,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "tab",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.15443592552026286,
+                        "height": 0.04669260700389105,
+                        "positionX": 0.1796276013143483,
+                        "positionY": 0,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "390932c5-a2a6-476c-88a4-2508249690e9",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 22 - 1",
+            "parentItemId": 917472,
+            "hotspots": [
+                {
+                    "name": "ct22.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "For orders placed in Zinus.com, we would only need to supply the Order number and the product S K U in question.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "01a116dd-a1f2-4fd0-96a0-b121c05cd493"
+                        },
+                        "width": 0.1982475355969332,
+                        "height": 0.4066147859922179,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.1193866374589266,
+                        "positionY": 0.245136186770428,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "ON",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.05805038335158817,
+                        "height": 0.032,
+                        "positionX": 0.32968236582694416,
+                        "positionY": 0.16731517509727625,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 3000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "SKU",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.05914567360350493,
+                        "height": 0.032,
+                        "positionX": 0.3548740416210296,
+                        "positionY": 0.4688715953307393,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 3000
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "07856c71-ebf4-46af-87bf-21fa3667ad68",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 23 - 1",
+            "parentItemId": 917473,
+            "hotspots": [
+                {
+                    "name": "CT23.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "For Zinus.com purchase, we always need to put in \"ZC\" before the S K U. This ensures separation of current order numbers in Shopify similar to the old order numbers from way back 2016 - 2017.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "996fd205-914f-4fd2-9e1f-913afd2b0759"
+                        },
+                        "width": 0.25410733844468786,
+                        "height": 0.4357976653696498,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.3702081051478642,
+                        "positionY": 0.35992217898832685,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "ct23.2",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Now, click and type in the Order Number and the S K U of the customer in the Details box.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "4c579d9e-8dbe-4e25-a7c3-9260eb785798"
+                        },
+                        "width": 0.23110624315443593,
+                        "height": 0.2782101167315175,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.3723986856516977,
+                        "positionY": 0.35992217898832685,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "details",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.15991237677984663,
+                        "height": 0.05642023346303502,
+                        "positionX": 0.1741511500547645,
+                        "positionY": 0.5525291828793775,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "53ca3e6d-e567-4fb5-82fd-e968455b0e75",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 24 - 1",
+            "parentItemId": 917474,
+            "hotspots": [
+                {
+                    "name": "Order",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.15772179627601315,
+                        "height": 0.06420233463035019,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "order no. zc330030 hbpbb-14f"
+                            }
+                        ],
+                        "positionX": 0.17305585980284777,
+                        "positionY": 0.5505836575875487,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Order no. ZC330030 HBPBB-14F",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "CT24.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Write in Details box: Order no. ZC330030 HBPBB-14F",
+                        "width": 0.27163198247535597,
+                        "height": 0.14396887159533073,
+                        "fontSize": 24,
+                        "positionX": 0.3548740416210296,
+                        "positionY": 0.4396887159533074,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "9aae9434-30e7-43b5-bbe3-44fb770f8093",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 25 - 1",
+            "parentItemId": 917475,
+            "hotspots": [
+                {
+                    "name": "+",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.023362541073384445,
+                        "height": 0.04474708171206226,
+                        "positionX": 0.34063526834611174,
+                        "positionY": 0.8949416342412452,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "1ac87b6b-959c-4c49-99d8-c5013e2d5af8",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 26 - 1",
+            "parentItemId": 917476,
+            "hotspots": [
+                {
+                    "name": "email",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.10733844468784227,
+                        "height": 0.033073929961089495,
+                        "positionX": 0.3417305585980285,
+                        "positionY": 0.745136186770428,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "f1b0d7b0-5ef3-47b7-a80a-7185c4788903",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 27 - 1",
+            "parentItemId": 917477,
+            "hotspots": [
+                {
+                    "name": "use",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.03504928806133625,
+                        "height": 0.03696498054474708,
+                        "positionX": 0.9605695509309968,
+                        "positionY": 0.42217898832684825,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "628c236a-1263-45ca-87f2-4d26f3eb9479",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 28 - 1",
+            "parentItemId": 917478,
+            "hotspots": [
+                {
+                    "name": "ct28.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "A mattress purchase is the only item that has 100 days return period. Since the customer wants to return a bed frame in this simulation, we would need to type in 30 days on the highlighted selection.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "0a48f0b5-4c68-4afa-8a6e-cd3948da3beb"
+                        },
+                        "width": 0.37130339539978097,
+                        "height": 0.321011673151751,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.34720700985761227,
+                        "positionY": 0.15369649805447472,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "30",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.056955093099671415,
+                        "height": 0.032,
+                        "positionX": 0.6352683461117196,
+                        "positionY": 0.6167315175097277,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "e12efad0-9ff8-412b-a5de-9f0f1a3237c1",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 29 - 1",
+            "parentItemId": 917479,
+            "hotspots": [
+                {
+                    "name": "30",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.05585980284775466,
+                        "height": 0.033073929961089495,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "30"
+                            }
+                        ],
+                        "positionX": 0.6341730558598029,
+                        "positionY": 0.6147859922178989,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "30",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "8ce41f10-53b6-4dfe-b11c-239cf36d5097",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 30 - 1",
+            "parentItemId": 917480,
+            "hotspots": [
+                {
+                    "name": "send",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05585980284775466,
+                        "height": 0.03891050583657587,
+                        "fontSize": 16,
+                        "positionX": 0.9386637458926615,
+                        "positionY": 0.9007782101167316,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "7aab5003-369a-458c-8c68-e6f409fb1b8d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 31 - 1",
+            "parentItemId": 917481,
+            "hotspots": [
+                {
+                    "name": "add",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.04600219058050383,
+                        "height": 0.032,
+                        "positionX": 0.7765607886089814,
+                        "positionY": 0.914396887159533,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "dde87641-0081-4376-b6a6-b37d573a959d",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 32 - 1",
+            "parentItemId": 917482,
+            "hotspots": [
+                {
+                    "name": "ct32.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Write \"Return\" in the Topics search box.",
+                        "width": 0.25958378970427165,
+                        "height": 0.11089494163424124,
+                        "fontSize": 24,
+                        "positionX": 0.4786418400876232,
+                        "positionY": 0.7509727626459144,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 4000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "returns",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.12267250821467689,
+                        "height": 0.033073929961089495,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "return"
+                            }
+                        ],
+                        "positionX": 0.7820372398685652,
+                        "positionY": 0.9105058365758756,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Return",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": true
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "bdbc3332-e19f-4da7-aaa1-4c84cbd89d1e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 33 - 1",
+            "parentItemId": 917483,
+            "hotspots": [
+                {
+                    "name": "request",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.14895947426067907,
+                        "height": 0.03696498054474708,
+                        "positionX": 0.7743702081051479,
+                        "positionY": 0.7178988326848249,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "32a0892e-5744-4080-9475-a4aeeec089ec",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 34 - 1",
+            "parentItemId": 917484,
+            "hotspots": [
+                {
+                    "name": "ct34.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "The conversation has been updated successfully. This conversation will remain in \"Waiting Status\" indicating that we are waiting for a response from the customer.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "1ef052c2-acf2-474c-ae9b-759466213fd3"
+                        },
+                        "width": 0.34501642935377874,
+                        "height": 0.32684824902723736,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.17305585980284777,
+                        "positionY": 0.17509727626459143,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "a918e707-c295-464a-adef-b3e9c8b65452",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 35 - 1",
+            "parentItemId": 917485,
+            "hotspots": [
+                {
+                    "name": "ct35.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Normally for calls from customers who purchased a product directly on our website and wanting to return a non-mattress for a refund, we confirm the address where the item will be picked up during the call. This eliminates the wait time for our customers to re-confirm the address to be indicated on the prepaid return label.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "1af0dee2-a3b1-4a72-8b7d-d0663eec9705"
+                        },
+                        "width": 0.488499452354874,
+                        "height": 0.3988326848249027,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.380065717415115,
+                        "positionY": 0.31712062256809337,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "ct35.2",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "On emails, it is needed to re-confirm the current address of the customer where the product is to ensure we are addressing the return label to the right pickup location.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "b1054b29-5809-4132-8a16-4fde3bb5454a"
+                        },
+                        "width": 0.41073384446878425,
+                        "height": 0.2704280155642023,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.3822562979189485,
+                        "positionY": 0.321011673151751,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "ct35.3",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "In this simulation, we will wait for a response from the customer.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "21aeac85-1916-421a-bc77-3db141b9d940"
+                        },
+                        "width": 0.3614457831325301,
+                        "height": 0.14980544747081712,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.3822562979189485,
+                        "positionY": 0.32490272373540857,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "160bad71-84af-4289-9c9a-2d7376ab35dd",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 36 - 1",
+            "parentItemId": 917486,
+            "hotspots": [
+                {
+                    "name": "ct36.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Provided that the customer responds back within the day. We'll notice a green dot will appear on the customer line. Click on the customer to open the conversation.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "64dfb54c-4dd8-4233-94d4-39530f9d19ce"
+                        },
+                        "width": 0.43263964950711936,
+                        "height": 0.27626459143968873,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.3778751369112815,
+                        "positionY": 0.42412451361867703,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "email",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1566265060240964,
+                        "height": 0.06614785992217899,
+                        "positionX": 0.0065717415115005475,
+                        "positionY": 0.2782101167315175,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "3100d208-b537-4373-b046-68eee8b557b2",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 37 - 1",
+            "parentItemId": 917487,
+            "hotspots": [
+                {
+                    "name": "ct37.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Check the customer's address to see if it is complete. Then respond to the customer by informing them of the next steps.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "d8c27070-28cd-430d-a708-98d81281cbaf"
+                        },
+                        "width": 0.40525739320920046,
+                        "height": 0.23929961089494164,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.15005476451259583,
+                        "positionY": 0.5739299610894941,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "address",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.13143483023001096,
+                        "height": 0.11284046692607004,
+                        "positionX": 0.3636363636363637,
+                        "positionY": 0.4182879377431907,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 3000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "ct37.2",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "On the answers section, type in Tier 2.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "d83b5ccf-2871-494c-9e41-45d15c166b40"
+                        },
+                        "width": 0.2497261774370208,
+                        "height": 0.16731517509727625,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.4830230010952902,
+                        "positionY": 0.18093385214007784,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "search",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.14238773274917854,
+                        "height": 0.032,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "tier 2"
+                            }
+                        ],
+                        "positionX": 0.8499452354874042,
+                        "positionY": 0.17120622568093383,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "tier 2",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "a5f21a3f-7cb4-42dc-b9f4-2271af727bca",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 38 - 1",
+            "parentItemId": 917488,
+            "hotspots": [
+                {
+                    "name": "ct38.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "\"Acknowledgement (Endorsement to Tier 2)\" answer is being used to introduce the customer to the next steps in processing either a replacement, return label or both by our Tier 2. Click on the 'Use\" icon to use the template for email.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "1f5290aa-73c6-4017-9d7f-7952a5b0b1ce"
+                        },
+                        "width": 0.4709748083242059,
+                        "height": 0.32879377431906615,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.17086527929901427,
+                        "positionY": 0.2490272373540856,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "use",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.029572836801752465,
+                        "height": 0.033073929961089495,
+                        "positionX": 0.9627601314348302,
+                        "positionY": 0.42412451361867703,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "dc1fae34-1dfe-4834-a698-7623061271c2",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 39 - 1",
+            "parentItemId": 917489,
+            "hotspots": [
+                {
+                    "name": "send email",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05257393209200438,
+                        "height": 0.03501945525291829,
+                        "positionX": 0.940854326396495,
+                        "positionY": 0.9027237354085604,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "16fa8961-ed37-4e2d-ae44-2d094c36cf1d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 40 - 1",
+            "parentItemId": 917490,
+            "hotspots": [
+                {
+                    "name": "ct40.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "We're now ready to endorse the conversation to Tier 2. Next step is to create internal notes for Tier 2 to use as a reference for what they need to do on the conversation.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "576b43f6-a5f5-4e73-85f8-8537250a9b1d"
+                        },
+                        "width": 0.4644030668127054,
+                        "height": 0.26848249027237353,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.21467688937568455,
+                        "positionY": 0.4163424124513619,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "plus",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.023362541073384445,
+                        "height": 0.03696498054474708,
+                        "positionX": 0.34063526834611174,
+                        "positionY": 0.9007782101167316,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "3ab00f87-beb2-41f6-8915-ef06433f50e8",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 41 - 1",
+            "parentItemId": 917491,
+            "hotspots": [
+                {
+                    "name": "note",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.10843373493975904,
+                        "height": 0.033073929961089495,
+                        "positionX": 0.3417305585980285,
+                        "positionY": 0.8365758754863813,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "e12e8890-df5b-4e8b-ae17-91f050e5f2fe",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 42 - 1",
+            "parentItemId": 917492,
+            "hotspots": [
+                {
+                    "name": "ct42.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "On the Answers section, type in \"template\".",
+                        "width": 0.28258488499452356,
+                        "height": 0.15564202334630348,
+                        "fontSize": 24,
+                        "positionX": 0.5038335158817087,
+                        "positionY": 0.23346303501945528,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "search",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.1456736035049288,
+                        "height": 0.032,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "template"
+                            }
+                        ],
+                        "positionX": 0.8466593647316539,
+                        "positionY": 0.16536964980544747,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "template",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "64a77f1d-2b49-4265-82b4-f77b4b6fd0e3",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 43 - 1",
+            "parentItemId": 917493,
+            "hotspots": []
+        },
+        {
+            "fileId": "ee4859fd-1c29-4e58-a959-2b92c0afbf6e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 44 - 1",
+            "parentItemId": 917494,
+            "hotspots": [
+                {
+                    "name": "ct44.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "As a standard, we only have 3 Templates used for various Tier 2 and Tier 3 request. For this scenario, we will be using \"[Template] - Return Label Request\".",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "1268f0d5-daa1-4d39-b115-15e4a4bc3a43"
+                        },
+                        "width": 0.4008762322015334,
+                        "height": 0.2470817120622568,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.3088718510405257,
+                        "positionY": 0.4260700389105058,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "ct44.2",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "All information needed on the template can be found on the Order Page in Shopify. Click on the Shopify tab to proceed.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "02bc7c83-2f70-42bd-bccf-17a823a2aa4e"
+                        },
+                        "width": 0.39430449069003287,
+                        "height": 0.23346303501945528,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.3088718510405257,
+                        "positionY": 0.4280155642023346,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "shopify",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1588170865279299,
+                        "height": 0.04474708171206226,
+                        "positionX": 0.17524644030668127,
+                        "positionY": 0.003891050583657587,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "04854c17-5f8e-4574-b1ab-8bbec5cac66c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 45 - 1",
+            "parentItemId": 917495,
+            "hotspots": [
+                {
+                    "name": "customer info",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.14348302300109528,
+                        "height": 0.35019455252918286,
+                        "positionX": 0.6440306681270537,
+                        "positionY": 0.39299610894941633,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 3000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "items",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.3099671412924425,
+                        "height": 0.2198443579766537,
+                        "positionX": 0.3231106243154436,
+                        "positionY": 0.42023346303501946,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 3000
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "5ac55fe8-b5f7-41fe-b724-4d04ac9e2312",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 46 - 1",
+            "parentItemId": 917496,
+            "hotspots": [
+                {
+                    "name": "ct46.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Copy and paste all necessary information from Shopify to the template. It is important that all information is filled with accuracy. Tier 2, specifically, may re-assign the conversation back to the original agent should there be any discrepancies or corrections needed. It is also imperative to follow the following rules when filling the form.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "a10327bb-0d3a-4838-bb12-91a9cda398fe"
+                        },
+                        "width": 0.5542168674698795,
+                        "height": 0.3657587548638132,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.1588170865279299,
+                        "positionY": 0.12840466926070038,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "ct46.2",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Order number should have a ZC if it is an order found in Shopify. Orders without the ZC would indicate an order that was placed around 2016 and 2017 and needs to be checked by a Tier 2 in a separate data sheet.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "e33b3d4e-e9b3-4f5f-a10f-a224c4b07314"
+                        },
+                        "width": 0.5377875136911281,
+                        "height": 0.2821011673151751,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.16429353778751368,
+                        "positionY": 0.16926070038910507,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "ct46.3",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Customer's number should be in a format of 123-123-1234, with the dashes.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "071ed234-19a2-4bec-a6da-326b682cf68b"
+                        },
+                        "width": 0.4403066812705367,
+                        "height": 0.19455252918287935,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.16976998904709747,
+                        "positionY": 0.20233463035019456,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "ct46.4",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Customer's address should be ALL CAPS and complete.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "cd015951-deb2-4b3f-84b0-0473c7b3693a"
+                        },
+                        "width": 0.403066812705367,
+                        "height": 0.1556420233463035,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.16976998904709747,
+                        "positionY": 0.23735408560311283,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "ct46.5",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Customer's concern should not be vague. Indicate if they need a replacement with a return label, only a replacement or just a return label for a refund.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "8d057eb9-0135-4971-97ae-ae7220c153b9"
+                        },
+                        "width": 0.5005476451259584,
+                        "height": 0.23346303501945528,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.1664841182913472,
+                        "positionY": 0.19066147859922175,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 5
+                }
+            ]
+        },
+        {
+            "fileId": "e9ed2cba-85e0-4256-b9f6-40d83688b452",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 47 - 1",
+            "parentItemId": 917497,
+            "hotspots": [
+                {
+                    "name": "ct47.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "We've filled the information for you as a sample. Familiarize yourself with the details shown on this sample template. In a real process, once you're done, click on \"Add Note\".",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "854023c3-5244-4706-8de7-5122fce9fa1e"
+                        },
+                        "width": 0.4676889375684557,
+                        "height": 0.2821011673151751,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.2201533406352683,
+                        "positionY": 0.16536964980544747,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "add",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.04928806133625411,
+                        "height": 0.03501945525291829,
+                        "positionX": 0.945235487404162,
+                        "positionY": 0.9027237354085604,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "888b5cf2-cb45-4cd5-ad7d-77f05d17b5d2",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 48 - 1",
+            "parentItemId": 917498,
+            "hotspots": [
+                {
+                    "name": "ct48.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Next, assign the conversation to the Tier 2 bucket to be worked on by an available Tier 2. On the search bar in \"Assign To\" type in \"Tier 2\".",
+                        "width": 0.4173055859802848,
+                        "height": 0.2529182879377432,
+                        "fontSize": 24,
+                        "positionX": 0.18072289156626503,
+                        "positionY": 0.26264591439688717,
+                        "audioEnable": false,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 1000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "tier",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.1566265060240964,
+                        "height": 0.032,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "tier 2"
+                            }
+                        ],
+                        "positionX": 0.1949616648411829,
+                        "positionY": 0.5953307392996109,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Tier 2",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "219b8b2c-0612-43de-8c6b-2f7fa6cc67e3",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 49 - 1",
+            "parentItemId": 917499,
+            "hotspots": [
+                {
+                    "name": "tier 2",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.17853231106243153,
+                        "height": 0.04085603112840467,
+                        "positionX": 0.17305585980284777,
+                        "positionY": 0.6536964980544747,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "445b986d-fad4-47c5-b150-e9d271156b96",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 50 - 1",
+            "parentItemId": 917500,
+            "hotspots": [
+                {
+                    "name": "ct50.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": " You're all set! Conversation is now assigned to the Tier 2 bucket and will be worked on by the next available Tier 2 representative.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+                                "voiceName": "Jim"
+                            },
+                            "fileId": "6dee272d-af6b-4a49-9922-b89061a7303a"
+                        },
+                        "width": 0.3723986856516977,
+                        "height": 0.2607003891050584,
+                        "fontSize": 24,
+                        "audioMode": "TEXT_TO_SPEECH",
+                        "positionX": 0.104052573932092,
+                        "positionY": 0.4941634241245136,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#017900",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "2b40bb6f-37a2-4458-8432-486995f1624a",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 51 - 1",
+            "parentItemId": 917501,
+            "hotspots": [
+                {
+                    "name": "Audio for #4b47efbc-f4a5-4014-873d-c3f62e607d2c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "4eeb1503-9373-448f-b8f1-80608abd7533"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        }
+    ]
+}

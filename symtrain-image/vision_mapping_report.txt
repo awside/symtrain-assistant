@@ -1,0 +1,42 @@
+======================================================================
+VISION-BASED STEP-TO-IMAGE MAPPING REPORT
+======================================================================
+Total Steps: 5
+Successfully Mapped: 5
+Mapping Rate: 100.0%
+======================================================================
+
+Step 1: Click on Account Settings in the top right corner
+  Image: account_settings.png
+  Hotspot: Account Settings
+  Type: button
+  Relevance: 1.00
+  Image Found: True
+
+Step 2: Navigate to Payment Methods from the sidebar
+  Image: payment_page.png
+  Hotspot: Payment Methods
+  Type: menu_item
+  Relevance: 1.00
+  Image Found: True
+
+Step 3: Click the Edit button next to your current payment method
+  Image: edit_payment.png
+  Hotspot: Edit
+  Type: button
+  Relevance: 0.90
+  Image Found: True
+
+Step 4: Enter your new credit card number in the Card Number field
+  Image: edit_payment.png
+  Hotspot: Card Number
+  Type: input_field
+  Relevance: 1.00
+  Image Found: True
+
+Step 5: Click Save Changes to update your payment method
+  Image: edit_payment.png
+  Hotspot: Save Changes
+  Type: button
+  Relevance: 1.00
+  Image Found: True

@@ -1,0 +1,990 @@
+{
+    "name": "Health Insurance (advanced) Adjust existing payment plan | Part 1 of 2 Discover need and propose solution",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": false,
+    "voiceName": "Matthew",
+    "voiceId": "a16f9cb0-b721-11eb-ab80-12a3f1d4ce57",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "6629c307-9c6d-41f3-aea3-369509bd6d64",
+            "sequenceNumber": 1,
+            "fileTranscript": "[Greet member and offer assistance] ",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "hello",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "good",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "morning",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "afternoon",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "evening",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "name",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "help",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "assist",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "e2a05f8a-f789-46f8-bc31-b7d08d0ce53e",
+            "sequenceNumber": 3,
+            "fileTranscript": "[Assure them you are happy to assist, reflect what you heard their needs are, and request permission to ask a few questions.]",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "few",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "questions",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "happy",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "assist",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "help",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "d999ba19-b4ef-4e1f-8c22-65a924b4f892",
+            "sequenceNumber": 2,
+            "fileTranscript": "Hi, I’m getting an overdue notice on my account. I have a payment plan set up, and I’ve been making my payments regularly and on time. Can you please help me figure out what's going on?",
+            "fileId": "1d0568f8-646f-4411-919b-3980c22af58f",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "6aa75fc4-2b4f-4479-8eb9-639f11a0e915",
+            "sequenceNumber": 4,
+            "fileTranscript": "Sure. It’s just really upsetting when I’m very careful about paying my bills on time to get something indicating that I haven’t.",
+            "fileId": "83941c0e-c8d6-4100-ad27-7d4002090d24",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a7ddb0fa-f044-4c8a-a3a8-f4cbe52b663f",
+            "sequenceNumber": 7,
+            "fileTranscript": "[date of birth]",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "date",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "birth",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "29ba5255-c952-4b27-9877-d8d1b2b28377",
+            "sequenceNumber": 5,
+            "fileTranscript": " [first and last name]",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "first",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "last",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "name",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "please",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "291e1855-5abc-4463-9bc2-35c07d8d1edf",
+            "sequenceNumber": 6,
+            "fileTranscript": "Pat Harris.",
+            "fileId": "5eba30fd-ce75-4a2a-bbf3-e35869a18011",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a7075cc8-9f53-4acc-ac46-7f5efe6a898f",
+            "sequenceNumber": 8,
+            "fileTranscript": "5/31/1984",
+            "fileId": "3fea8b26-da35-4cc5-85be-dc26704684e0",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "f32ffd1a-54e9-4ff6-be7a-534ac2395203",
+            "sequenceNumber": 9,
+            "fileTranscript": "Thank you.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "f3e43ee3-eb4b-4a52-b1f9-bdd1bdb9f556",
+            "sequenceNumber": 14,
+            "fileTranscript": "[ Guarantor Account number]",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "guarantor",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "account",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "number",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "aad8bc77-b900-4d8c-82f1-6e453dc4508e",
+            "sequenceNumber": 15,
+            "fileTranscript": "8 4 2 1 2 6 3 0 1",
+            "fileId": "a8bce245-017e-4cc7-817c-4bb16a02b4be",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "4c2c40b9-cbda-449e-a220-41d0cf0b6b2b",
+            "sequenceNumber": 16,
+            "fileTranscript": "Thank you.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "8d9233b5-b9cf-4871-871f-bb766f25f355",
+            "sequenceNumber": 18,
+            "fileTranscript": "[Remaining balance on existing payment plan. When billed and when due. New charges and most recent notice.]",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "existing",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "payment",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "plan",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "balance",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "new",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "recent",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "charges",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "billed",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "due",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "db421909-234c-4dc8-8374-84f0a9e53efe",
+            "sequenceNumber": 19,
+            "fileTranscript": "Oh! So that explains why I got an overdue notice. I thought these new charges would automatically be rolled into my payment plan. I'm glad you explained it. I've been so stressed out.",
+            "fileId": "9a2efef6-2fb5-48a6-b5df-bee894fcc77b",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "f1b7dc98-09df-42c9-9781-9feb282c5053",
+            "sequenceNumber": 20,
+            "fileTranscript": "[they can add new charges into existing plan and re-establish payment plan, either with you or on the website.]",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "new",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "charges",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "existing",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "payment",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "plan",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "fd854084-65d8-446c-b481-2b4aa83e84eb",
+            "sequenceNumber": 21,
+            "fileTranscript": "It would be great if you could do that for me now.",
+            "fileId": "e184226b-3881-4b8c-82ba-f3059827f003",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "d0b0c9b9-f685-4866-bcfa-bb9422405604",
+            "sequenceNumber": 10,
+            "fileTranscript": "Click on 'Submit'.",
+            "fileId": "5f926343-58a1-4e7c-9aa5-0288886d39bc",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "6ccd0530-2a70-4262-8a3d-a1b2f7449fbe",
+            "sequenceNumber": 11,
+            "fileTranscript": "Click on ‘Add task' option.",
+            "fileId": "fbfdcde3-3b18-49d5-9d47-40e7a1ca31c2",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "49fdbef2-7fe3-4489-8116-3ac0ea93644b",
+            "sequenceNumber": 12,
+            "fileTranscript": "Select the 'service billing' option.",
+            "fileId": "a7b84ae0-2348-4adf-b4c2-e5ffe90437bc",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "41e9d4ee-99e2-488e-86ed-c8156a9c9b2a",
+            "sequenceNumber": 13,
+            "fileTranscript": "Click on 'Add Task' option in the lower right corner.",
+            "fileId": "08843b31-fa9d-49c8-b8a9-06a2e8c46eb7",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "dddc8cd1-4485-4bb5-95e1-11105d1bb6f6",
+            "sequenceNumber": 17,
+            "fileTranscript": "Select 'Ok' in the Next Best Action.",
+            "fileId": "d76d71f5-a83d-45a0-966f-825fb368dfd0",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "96177703-b49f-4883-8692-114eec742cf6",
+            "sequenceNumber": 22,
+            "fileTranscript": "This ends your simulation.",
+            "fileId": "952a5c6b-8e4c-4095-8fb6-2b3063957b09",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "e52b7ef2-38c8-4305-a7a6-be78b5f0663d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Audio for #7905f419-13a0-4146-b39a-1853058c47ed",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "6629c307-9c6d-41f3-aea3-369509bd6d64"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #3e05aef6-8d58-4565-9cae-fb8ab750df37",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d999ba19-b4ef-4e1f-8c22-65a924b4f892"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #d3d88260-c397-4d76-939e-c25ca4c51f3b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e2a05f8a-f789-46f8-bc31-b7d08d0ce53e"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "1.1 coaching tip 1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "You missed the opportunity to make the member feel heard. A better response would have included: \"I hear your concern and understand how frustrating it can be...\"",
+                        "width": 0.28077266610530954,
+                        "height": 0.3202962838578472,
+                        "fontSize": 24,
+                        "positionX": 0.2357935989549314,
+                        "positionY": 0.25667828106852497,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#ffff00",
+                        "interactionTimeout": 7000
+                    },
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #8644ed0d-93ad-4b44-8fbe-3e880b43d822",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "6aa75fc4-2b4f-4479-8eb9-639f11a0e915"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "1.2 coaching tip 2",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Because he didn't feel heard the first time,  his anxiety grows and he repeats himself.",
+                        "width": 0.1875,
+                        "height": 0.2074966532797858,
+                        "fontSize": 24,
+                        "positionX": 0.2989457831325301,
+                        "positionY": 0.39759036144578314,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#ffff00",
+                        "interactionTimeout": 5000
+                    },
+                    "sequenceNumber": 6
+                }
+            ]
+        },
+        {
+            "fileId": "0694173b-92af-4fba-9795-5088da2556e6",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 2 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": 897567,
+            "hotspots": [
+                {
+                    "name": "Audio for #64ff57fb-5df5-4409-af90-50a9bce3b7fd",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "29ba5255-c952-4b27-9877-d8d1b2b28377"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "2.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Hmm -- that was a second opportunity you missed to acknowledge his frustration. ",
+                        "width": 0.32831325301204817,
+                        "height": 0.3038821954484605,
+                        "fontSize": 24,
+                        "positionX": 0.3765060240963856,
+                        "positionY": 0.3989290495314592,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#ffff00",
+                        "interactionTimeout": 4000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #be1d7eca-818a-437f-b6df-d8b5b7a4bd85",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "291e1855-5abc-4463-9bc2-35c07d8d1edf"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Checkbox - First and Last Name",
+                    "type": "CHECKBOX",
+                    "settings": {
+                        "width": 0.024059701492537312,
+                        "height": 0.032,
+                        "positionX": 0.1263681592039801,
+                        "positionY": 0.21238938053097345,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "5c9f74c6-c2f9-4581-b852-978eb3f7209e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 3 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": 897568,
+            "hotspots": [
+                {
+                    "name": "Audio for #e5eced58-0c99-4b06-acfa-7a7b729669b0",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a7ddb0fa-f044-4c8a-a3a8-f4cbe52b663f"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #fc11e063-f46f-4a57-af87-b3df138c9370",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a7075cc8-9f53-4acc-ac46-7f5efe6a898f"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Checkbox - DOB",
+                    "type": "CHECKBOX",
+                    "settings": {
+                        "width": 0.024059701492537312,
+                        "height": 0.032,
+                        "positionX": 0.12338308457711444,
+                        "positionY": 0.2424778761061947,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "e0d79c0e-5314-41c5-8072-099af1580721",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 4 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": 897569,
+            "hotspots": [
+                {
+                    "name": "Audio for #add8c60d-eaf8-42be-b7a8-5c9b4119f875",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f32ffd1a-54e9-4ff6-be7a-534ac2395203"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Checkbox - Is caller the number?",
+                    "type": "CHECKBOX",
+                    "settings": {
+                        "width": 0.024059701492537312,
+                        "height": 0.032,
+                        "positionX": 0.12238805970149254,
+                        "positionY": 0.4495575221238938,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "57a7aa60-6aff-4cff-b316-a928d6889cbd",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 5 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": 897570,
+            "hotspots": [
+                {
+                    "name": "Audio for #68e340bb-6d67-4b59-bf06-c6eca73070aa",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d0b0c9b9-f685-4866-bcfa-bb9422405604"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Submit 1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.04975124378109453,
+                        "height": 0.033628318584070796,
+                        "positionX": 0.527363184079602,
+                        "positionY": 0.8053097345132744,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "0beb3bbf-2a0c-443b-a5dd-b08b2c5e3a02",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 6 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": 897571,
+            "hotspots": [
+                {
+                    "name": "Audio for #6dda9ce6-bd03-4127-8066-38935684e560",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "6ccd0530-2a70-4262-8a3d-a1b2f7449fbe"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Click Add Task 1",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.10149253731343284,
+                        "height": 0.04070796460176991,
+                        "positionX": 0.005970149253731343,
+                        "positionY": 0.25663716814159293,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "9aba35d1-f983-48d1-97ea-b87734a8eff0",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 7 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": 897572,
+            "hotspots": [
+                {
+                    "name": "Audio for #ada751c4-7907-46d2-a1f9-5bade7c7940f",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "49fdbef2-7fe3-4489-8116-3ac0ea93644b"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Select Service Billing",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05970149253731343,
+                        "height": 0.032,
+                        "positionX": 0.07960199004975124,
+                        "positionY": 0.4389380530973451,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "178f2ca7-db14-42b5-b714-74a2912768d1",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 8 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": 897573,
+            "hotspots": [
+                {
+                    "name": "Audio for #e5b09a36-af48-42b4-8716-7ddff25f27ea",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "41e9d4ee-99e2-488e-86ed-c8156a9c9b2a"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Click Add Task 2",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05970149253731343,
+                        "height": 0.03893805309734513,
+                        "positionX": 0.9303482587064676,
+                        "positionY": 0.6336283185840708,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "1319e00e-b90a-4db9-b547-828479bd1da3",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 9 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": 897574,
+            "hotspots": [
+                {
+                    "name": "Audio for #0c8a5c4a-7bd1-4130-9a00-e049c2f4a927",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f3e43ee3-eb4b-4a52-b1f9-bdd1bdb9f556"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #17b8ecb0-84fb-476d-b5f6-dfed42fba6c0",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "aad8bc77-b900-4d8c-82f1-6e453dc4508e"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Click Account Number",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.04378109452736319,
+                        "height": 0.032,
+                        "positionX": 0.1681592039800995,
+                        "positionY": 0.6035398230088496,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "2db3b72c-a76e-474e-b69f-03f6044713bd",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 10 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": 897575,
+            "hotspots": [
+                {
+                    "name": "Audio for #e98b4a2d-58ab-4b5c-a382-b3c755670426",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "4c2c40b9-cbda-449e-a220-41d0cf0b6b2b"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Click Account Tab",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.2417910447761194,
+                        "height": 0.032,
+                        "positionX": 0.22885572139303484,
+                        "positionY": 0.4389380530973451,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "8e8d6250-f96d-4551-8015-fa77411dc2ac",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 11 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": 897576,
+            "hotspots": [
+                {
+                    "name": "Audio for #3bd8fea0-1e37-40a4-8b68-cbfb6c432e86",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "dddc8cd1-4485-4bb5-95e1-11105d1bb6f6"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Click Ok",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.05572139303482587,
+                        "height": 0.035398230088495575,
+                        "positionX": 0.472636815920398,
+                        "positionY": 0.584070796460177,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "19024a9f-1af8-44be-8aa6-01b92ebeca67",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 12 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": 897577,
+            "hotspots": [
+                {
+                    "name": "Audio for #253048ef-0ea8-402e-b206-cb208981043a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8d9233b5-b9cf-4871-871f-bb766f25f355"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #4282b113-6e2c-4f70-b808-889976e18c3d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "db421909-234c-4dc8-8374-84f0a9e53efe"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #5700b723-77a7-4a8c-a916-71cfbdfcd361",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f1b7dc98-09df-42c9-9781-9feb282c5053"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "12.1",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Great job reflecting the member's feelings about being stressed. ",
+                        "width": 0.2522590361445783,
+                        "height": 0.2717536813922356,
+                        "fontSize": 24,
+                        "positionX": 0.5730421686746988,
+                        "positionY": 0.28112449799196787,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#ffff00",
+                        "interactionTimeout": 4000
+                    },
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Audio for #d761b119-e30c-48be-9d29-1907e3d90128",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "fd854084-65d8-446c-b481-2b4aa83e84eb"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                }
+            ]
+        },
+        {
+            "fileId": "ee3cbecf-fad0-4f2a-8ff7-225411842413",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 30 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": 897578,
+            "hotspots": [
+                {
+                    "name": "Audio for #cec52743-2879-4849-b408-28bafcdc37de",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "96177703-b49f-4883-8692-114eec742cf6"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        }
+    ]
+}

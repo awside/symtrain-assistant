@@ -1,0 +1,4049 @@
+{
+    "name": "Arise_Carnival CS - Mock Call Assessment (Tollgate)",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Matilda",
+    "voiceId": "2a9b0885-3c78-11f0-9d9f-12c6e0eaf20b",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "c1ae59c7-b3bc-4434-b5e6-d41aea55e015",
+            "sequenceNumber": 1,
+            "fileTranscript": "Thank you for calling Carnival, my name is [Agent Name]. May I have your name and booking number, please?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "thanks",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "carnival,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "carnival",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "name",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "booking",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "please?",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "please",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "40d8e00e-7aed-4e8f-a165-303f09182f14",
+            "sequenceNumber": 2,
+            "fileTranscript": "Hi. My name is Mary, and my booking number is G H 6 0 J 8.",
+            "fileId": "2afe62a7-a498-421f-8a4f-7c82801662de",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c170b6c1-b905-431e-8dfe-50e30a3a201f",
+            "sequenceNumber": 3,
+            "fileTranscript": "Great, Thank you. I will pull that up for you.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "thanks",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "34b2f22a-18c4-4848-8a36-70c4f0075da2",
+            "sequenceNumber": 5,
+            "fileTranscript": "4 5 6 5.",
+            "fileId": "7be55e59-365b-4082-82b4-cd47c8ba5c9f",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "4222c700-c196-4a68-bd93-641b75b44740",
+            "sequenceNumber": 6,
+            "fileTranscript": "Thank you for that.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "thanks",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "thank",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "101affae-9974-4a80-a6e9-daee45c6e495",
+            "sequenceNumber": 8,
+            "fileTranscript": "Yes.",
+            "fileId": "81aa2db2-bb4c-4ff1-a7d0-cd820eecd8ac",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "7348a772-3120-4a47-8ade-eed97885db16",
+            "sequenceNumber": 9,
+            "fileTranscript": "I see your email address is marytest@email.com, and your mobile number is 555 987-1234. You are currently not signed up for text alerts, would you like it to stay that way?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "email",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "mobile",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "text alerts,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "text alerts",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "text alert",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "alert texts",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "45ab0683-fd66-4d72-8bad-b674fc2255ae",
+            "sequenceNumber": 10,
+            "fileTranscript": "Yes, I do not want text alerts.",
+            "fileId": "1eb5b968-b08a-4fe6-984f-a8b76a418857",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a2f19b00-8aad-4b17-90b5-31b3e76b142e",
+            "sequenceNumber": 11,
+            "fileTranscript": "And Mary, did you want to purchase the Carnival Vacation Protection today?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "mary,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "mary",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "merry",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "carnival vacation protection",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "01dbc34b-7d7f-4dfc-af25-1624f4f7cda2",
+            "sequenceNumber": 12,
+            "fileTranscript": "No, thank you.",
+            "fileId": "f367f7f6-86c7-4644-b56c-10de078136dd",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "ace20daf-d272-4613-bb42-aa9a926af3af",
+            "sequenceNumber": 13,
+            "fileTranscript": "Ok, Mary. How can I help you today?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "mary.",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "mary",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "merry",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "3215b950-105d-4df2-8c35-e1fe05aeebf9",
+            "sequenceNumber": 14,
+            "fileTranscript": "I wanted to purchase the transfers.",
+            "fileId": "b17e45a4-df03-4b8b-9206-4f4f8273bec9",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "43fa6287-e8e8-4e3c-9c37-f6964b552564",
+            "sequenceNumber": 15,
+            "fileTranscript": "No problem, Mary let me check a few things for you.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "mary",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "mary",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "merry",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "f4509c5b-2830-465d-93ac-d674f63d0cec",
+            "sequenceNumber": 16,
+            "fileTranscript": "Ok.",
+            "fileId": "e9cc1d11-e8f8-4ad8-bbee-905fdb84a4d1",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c31f95d6-5984-4a16-b0b6-417c61bfd9df",
+            "sequenceNumber": 17,
+            "fileTranscript": "Thank you for your patience, Mary. Do you know what airport you’re flying into?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "airport",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "airport",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "thank",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "thanks",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "ce2b5f01-cd6e-449a-9aea-6e231bf5dac4",
+            "sequenceNumber": 18,
+            "fileTranscript": "Yes, the Miami International Airport.",
+            "fileId": "f7d6b158-7d0f-4762-9760-98484d3fd995",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "4c1228ad-65f4-4336-bead-ec3d7301980e",
+            "sequenceNumber": 19,
+            "fileTranscript": "Ok, great. If you fly into Miami it will be $22.99 one way, or $45.98 round trip, and I do have to tell you the recommended flight time for the pre cruise transfer is no later than 12PM, and the earliest flight for debarkation is no earlier than 12PM. Did you want to purchase for both guests?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "round trip,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "round trip",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "roundtrip",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "round-trip",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "earlier",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "earlier",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "later",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "later",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "one way,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "one way",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "1 way",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "1 way,",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "1 way",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "1",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "66b1215e-ca6d-42d2-a2a7-524d5f627411",
+            "sequenceNumber": 20,
+            "fileTranscript": "Yes .",
+            "fileId": "db468595-8095-4360-8220-9348b49bafc5",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "5c27d2bc-4b03-41c9-a5fd-6722767041bd",
+            "sequenceNumber": 21,
+            "fileTranscript": "Great, I will go ahead and add it for both guests.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "both",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "both",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "426ee78a-199d-4919-9bf9-d838fe13ad76",
+            "sequenceNumber": 23,
+            "fileTranscript": "Yes, please add them.",
+            "fileId": "b21462aa-59db-429c-8b94-8cd0e1398386",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "246217c8-c107-4a6c-963b-2430cd1b4f3d",
+            "sequenceNumber": 24,
+            "fileTranscript": "Thank you, I’ve added the transfers for both guests. Do you have any other questions today, Mary?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "thanks",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "thank",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "transfers",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "both",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "questions",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "84869b69-4e97-4e89-bcdc-ad35ee0e0e15",
+            "sequenceNumber": 25,
+            "fileTranscript": "Yes, I have one more question, can you tell me about the ‘Behind the Fun’ tour ?",
+            "fileId": "a8231699-0f81-4a78-8a32-4101ca898611",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "64c3ecf6-cfd4-4141-aea6-1e01afb9d0dc",
+            "sequenceNumber": 26,
+            "fileTranscript": "I’d be more than happy to tell you about that, Mary. One moment while I pull up the information.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "mary.",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "mary",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "merry",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "8032a083-f66f-4bb1-873c-ca80e3e2d85d",
+            "sequenceNumber": 28,
+            "fileTranscript": "Since you'll be sailing on the Carnival Horizon, the tour starts at $130. It runs about 3 to 3¾ hours and gives you an exclusive behind-the-scenes look at the ship. You’ll get to see the bridge, the engine control room, the main galley, staff dining areas, storerooms, the laundry, and more. It’s a rare chance to explore parts of the ship most guests never get to see.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "carnival horizon,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "carnival horizon",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "exclusive",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "exclusive",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "engine",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "2cf77a99-5c71-49d9-8a12-db37c4769d0b",
+            "sequenceNumber": 29,
+            "fileTranscript": "Awesome I will go on Carnival.com and book that.",
+            "fileId": "4525a450-50a7-42df-a764-5e9a521f3919",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "e8ca077b-3eec-4282-8a2e-84e86ff7009b",
+            "sequenceNumber": 30,
+            "fileTranscript": "That's great, each tour is limited to 16 people so booking in advance is recommended.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "limited",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "limited",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "d4b54661-ef31-4fd9-98de-6b906b4c3caf",
+            "sequenceNumber": 32,
+            "fileTranscript": "No, that is all I had for you today.",
+            "fileId": "1d0864e4-9fbb-4055-b8d8-3402984c1ac3",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "2e171d1e-a3cc-4d04-8b9b-6ad2b4338cea",
+            "sequenceNumber": 33,
+            "fileTranscript": "It’s been my pleasure to assist you, Mary. Would you mind if I sent you a survey about my service today?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "assist",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "assist",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "help",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "survey",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "aab6338b-4a1a-4973-9a3a-8e0c545a1272",
+            "sequenceNumber": 34,
+            "fileTranscript": "Yes, you can do that.",
+            "fileId": "d3dafc1e-4326-4e83-b59f-4cd33b4f6099",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "65e52983-bbc3-4b7b-ad5f-43e1d7b9520d",
+            "sequenceNumber": 35,
+            "fileTranscript": "Thank you for calling Carnival, Have a great day!",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "carnival,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "carnival",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "thanks",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "c865d078-3ba8-41c3-a170-ed8cdd8ce754",
+            "sequenceNumber": 4,
+            "fileTranscript": "May I have your pin number please?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "pin",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "pin",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "please?",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "please",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "3bdb2fb6-1b69-4e9a-82b6-4b54f8b40384",
+            "sequenceNumber": 22,
+            "fileTranscript": "Mary, may I confirm these changes?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "confirm",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "confirm",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "mary,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "mary",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "merry",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "09015108-7ab2-4575-b5cf-72a00ecb024d",
+            "sequenceNumber": 27,
+            "fileTranscript": "Ok, Mary, you now have the option to book the ‘Behind the Fun’ tour before your cruise. It includes a limited edition ‘Behind the Fun’ baseball cap that marks you as an honorary team member, complimentary commemorative photos, some Carnival-branded goodies, and light snacks and pastries.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "‘behind the fun’",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "behind the fun",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "behind-the-fun",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "baseball",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "base-ball",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "base ball",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "commemorative",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "snacks",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "fe455075-a6f7-4987-b160-b7c2dcc08a82",
+            "sequenceNumber": 7,
+            "fileTranscript": "I see that you and John are sailing on Carnival Horizon, December 6th, 2025, is that correct?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "carnival horizon,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "carnival horizon",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "c2e74ebb-ed42-4c54-83cf-1d410e5f2d8f",
+            "sequenceNumber": 31,
+            "fileTranscript": "Mary, do you have any other questions for me today?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "mary,",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "mary",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "merry",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "a0f8dda6-a117-4af2-83d8-80035176759c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Intro",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "This simulation will give you practice in handling a beginner call type. You can go through this as many times as desired until you feel confident in the navigation and call flow. Have your audio and microphone ready. You must complete the test version to receive credit for completion of this simulation. Let's get started.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "9e2b1c29-01ed-4b29-a912-98c51e91ad79"
+                        },
+                        "width": 0.019171875,
+                        "height": 0.03211851851851852,
+                        "fontSize": 16,
+                        "positionX": 0.9885416666666668,
+                        "positionY": 0.9907407407407408,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "6dffd9fc-76be-495c-9517-72ba56eb7897",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 2",
+            "parentItemId": 4671757,
+            "hotspots": [
+                {
+                    "name": "Audio for #146c8f41-70d2-4e19-8dff-f52cecb635bd",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c1ae59c7-b3bc-4434-b5e6-d41aea55e015"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #4358570b-33df-462a-b4e7-334e3042575f",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "40d8e00e-7aed-4e8f-a165-303f09182f14"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #f44825df-732e-427d-8b9d-734834051d2a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c170b6c1-b905-431e-8dfe-50e30a3a201f"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Carn_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click on the Carnival logo menu button.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "48ec4687-7b64-4d55-a826-b5ae218b5e5c"
+                        },
+                        "width": 0.3026041666666667,
+                        "height": 0.1287037037037037,
+                        "fontSize": 24,
+                        "positionX": 0.0265625,
+                        "positionY": 0.05092592592592592,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Carn_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.020833333333333332,
+                        "height": 0.03796296296296296,
+                        "positionX": 0.0005208333333333333,
+                        "positionY": 0.005555555555555556,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 5
+                }
+            ]
+        },
+        {
+            "fileId": "7d725799-dc2c-43cd-98d2-05334a204617",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 4",
+            "parentItemId": 4671758,
+            "hotspots": [
+                {
+                    "name": "MB_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Select 'Manage Bookings'.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "72789139-307e-442c-891e-4e10daa19a85"
+                        },
+                        "width": 0.3140625,
+                        "height": 0.14351851851851852,
+                        "fontSize": 24,
+                        "positionX": 0.11354166666666668,
+                        "positionY": 0.09166666666666666,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "MB_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.08072916666666667,
+                        "height": 0.03489629629629633,
+                        "positionX": 0.004166666666666667,
+                        "positionY": 0.08796296296296297,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "e1963c76-c85b-4842-aad2-1e96a047b904",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 5",
+            "parentItemId": 4671759,
+            "hotspots": [
+                {
+                    "name": "OB_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Enter the contact name.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "3ad48686-1975-4b8e-b1f7-27da484f1c50"
+                        },
+                        "width": 0.2875,
+                        "height": 0.12777777777777777,
+                        "fontSize": 24,
+                        "positionX": 0.25104166666666666,
+                        "positionY": 0.1425925925925926,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "b0f804aa-84f1-456f-8cea-ac08a03d6cfe",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 6",
+            "parentItemId": 4671760,
+            "hotspots": [
+                {
+                    "name": "Type_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Type in 'Mary' and then press your 'Enter' key.",
+                        "width": 0.34479166666666666,
+                        "height": 0.11851851851851852,
+                        "fontSize": 24,
+                        "positionX": 0.240625,
+                        "positionY": 0.15462962962962962,
+                        "audioEnable": false,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Mary_TE",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.1265625,
+                        "height": 0.03211851851851852,
+                        "fontSize": 16,
+                        "positionX": 0.2911458333333333,
+                        "positionY": 0.29907407407407405,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Mary",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "813d5b15-9286-41ba-ad38-fd6228d86538",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 7",
+            "parentItemId": 4671761,
+            "hotspots": [
+                {
+                    "name": "Booking_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Enter the Booking number.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "42486871-8d4e-4581-ba47-5e8684dd5f36"
+                        },
+                        "width": 0.2526041666666667,
+                        "height": 0.09444444444444444,
+                        "fontSize": 24,
+                        "positionX": 0.26458333333333334,
+                        "positionY": 0.18055555555555555,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "449fce92-112b-4a4d-8dd7-5802be668f62",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 8",
+            "parentItemId": 4671762,
+            "hotspots": [
+                {
+                    "name": "BN_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Type in 'GH60J8' and then press your 'Enter' key.",
+                        "width": 0.3651041666666667,
+                        "height": 0.09907407407407408,
+                        "fontSize": 24,
+                        "positionX": 0.25625,
+                        "positionY": 0.17685185185185184,
+                        "audioEnable": false,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "BN_TE",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.121875,
+                        "height": 0.06296296296296296,
+                        "fontSize": 16,
+                        "positionX": 0.29322916666666665,
+                        "positionY": 0.36666666666666664,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "GH60J8",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "7d7e6fc5-4c12-43a0-807c-bceb7e239f77",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 9",
+            "parentItemId": 4671763,
+            "hotspots": [
+                {
+                    "name": "Go_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click the 'Go' button.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "4e371b52-9807-43be-b83f-a9290d417688"
+                        },
+                        "width": 0.2375,
+                        "height": 0.14166666666666666,
+                        "fontSize": 24,
+                        "positionX": 0.20885416666666667,
+                        "positionY": 0.27037037037037037,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Go_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.044270833333333336,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.3697916666666667,
+                        "positionY": 0.4296296296296296,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "87e3cd44-4e9c-44b1-8fc9-ef20439be484",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 10",
+            "parentItemId": 4671764,
+            "hotspots": [
+                {
+                    "name": "Pin_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Verify the 'Pin'.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "cdb065cb-0ed0-4982-b0c0-8258adb4404d"
+                        },
+                        "width": 0.19739583333333333,
+                        "height": 0.1351851851851852,
+                        "fontSize": 24,
+                        "positionX": 0.1046875,
+                        "positionY": 0.5009259259259259,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "pin_HL",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.024479166666666663,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.17083333333333334,
+                        "positionY": 0.4537037037037037,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #e152d5d1-e262-40a5-bfa1-756be460776d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c865d078-3ba8-41c3-a170-ed8cdd8ce754"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #0512a7c4-c42b-491d-9da2-fc015319093c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "34b2f22a-18c4-4848-8a36-70c4f0075da2"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #12949890-57b2-4d30-ac70-4105cd56b798",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "4222c700-c196-4a68-bd93-641b75b44740"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "SL_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Verify the 'Sailing' information.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9b0885-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Matilda"
+                            },
+                            "fileId": "8ac5568b-eafb-46a1-be79-ae1db9761198"
+                        },
+                        "width": 0.23333333333333336,
+                        "height": 0.1425925925925926,
+                        "fontSize": 24,
+                        "positionX": 0.058333333333333334,
+                        "positionY": 0.2935185185185185,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Sail_HL",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.09947916666666666,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.0640625,
+                        "positionY": 0.25277777777777777,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 7
+                },
+                {
+                    "name": "Audio for #f7976cd7-0230-477f-8535-a9472fa6093e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "fe455075-a6f7-4987-b160-b7c2dcc08a82"
+                        }
+                    ],
+                    "sequenceNumber": 8
+                },
+                {
+                    "name": "Audio for #8bd96ce8-599b-48f3-90a0-e5ece68952f6",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "101affae-9974-4a80-a6e9-daee45c6e495"
+                        }
+                    ],
+                    "sequenceNumber": 9
+                },
+                {
+                    "name": "GI_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Open the 'Guest Info' tab.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "3605b71c-c323-4e37-9b9f-6bb878a41de6"
+                        },
+                        "width": 0.26458333333333334,
+                        "height": 0.1537037037037037,
+                        "fontSize": 24,
+                        "positionX": 0.0515625,
+                        "positionY": 0.2861111111111111,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 10
+                },
+                {
+                    "name": "GI_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.03854166666666667,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.09791666666666668,
+                        "positionY": 0.18611111111111112,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 11
+                }
+            ]
+        },
+        {
+            "fileId": "7fc82e0a-c1e8-4429-8bd1-929eb28a3310",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 11",
+            "parentItemId": 4671765,
+            "hotspots": [
+                {
+                    "name": "Ver_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Verify the 'Email', 'Mobile Number' and 'Text Alert Type'.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "bc31cd4b-c6df-482e-8845-ff44b28d22d0"
+                        },
+                        "width": 0.37916666666666665,
+                        "height": 0.12222222222222222,
+                        "fontSize": 24,
+                        "positionX": 0.21354166666666663,
+                        "positionY": 0.23425925925925925,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "EMN_HL",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.28854166666666664,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.24166666666666667,
+                        "positionY": 0.39814814814814825,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #f24b55ab-81d5-4850-adb6-e2b323e75727",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "7348a772-3120-4a47-8ade-eed97885db16"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #b464e9b6-24f8-413b-9b48-75775d0c204a",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "45ab0683-fd66-4d72-8bad-b674fc2255ae"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "VerCVP_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Verify the Carnival Vacation Protection status.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "5b8f42de-d745-403e-a385-c3c8adb0e9df"
+                        },
+                        "width": 0.34427083333333336,
+                        "height": 0.14814814814814814,
+                        "fontSize": 24,
+                        "positionX": 0.022916666666666665,
+                        "positionY": 0.537962962962963,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "cvp_HL",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.21197916666666664,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.008854166666666666,
+                        "positionY": 0.7212962962962963,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Audio for #31fa7e7b-1335-427c-bff7-3540256f32ee",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a2f19b00-8aad-4b17-90b5-31b3e76b142e"
+                        }
+                    ],
+                    "sequenceNumber": 7
+                },
+                {
+                    "name": "Audio for #c3ef6778-f979-46f9-900f-8795488e7c25",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "01dbc34b-7d7f-4dfc-af25-1624f4f7cda2"
+                        }
+                    ],
+                    "sequenceNumber": 8
+                },
+                {
+                    "name": "Audio for #dd0ef67a-5749-42e9-b22c-b0c55a07de7f",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "ace20daf-d272-4613-bb42-aa9a926af3af"
+                        }
+                    ],
+                    "sequenceNumber": 9
+                },
+                {
+                    "name": "Audio for #cbd2f90d-7766-4649-894a-f177d52e05d6",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3215b950-105d-4df2-8c35-e1fe05aeebf9"
+                        }
+                    ],
+                    "sequenceNumber": 10
+                },
+                {
+                    "name": "Audio for #5e3b4b3a-d81a-46f9-87f2-69022209980b",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "43fa6287-e8e8-4e3c-9c37-f6964b552564"
+                        }
+                    ],
+                    "sequenceNumber": 11
+                },
+                {
+                    "name": "Audio for #4e30db08-5e3c-4268-b299-576bce8dde4d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f4509c5b-2830-465d-93ac-d674f63d0cec"
+                        }
+                    ],
+                    "sequenceNumber": 12
+                },
+                {
+                    "name": "Main_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Open the 'Main' tab.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "c0e26dcf-6bcd-4154-b555-3aa0f7ebf076"
+                        },
+                        "width": 0.20833333333333337,
+                        "height": 0.10833333333333334,
+                        "fontSize": 24,
+                        "positionX": 0.0020833333333333333,
+                        "positionY": 0.22314814814814815,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 13
+                },
+                {
+                    "name": "GI_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0296875,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.043229166666666666,
+                        "positionY": 0.18703703703703703,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 14
+                }
+            ]
+        },
+        {
+            "fileId": "5ce915c1-3299-4fc7-a3c0-4015b6d3455a",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 12",
+            "parentItemId": 4671766,
+            "hotspots": [
+                {
+                    "name": "Ite_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click on the sailing location to view the itinerary.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "5d02e1c9-2861-49ef-9040-7f68f89b6594"
+                        },
+                        "width": 0.346875,
+                        "height": 0.11944444444444444,
+                        "fontSize": 24,
+                        "positionX": 0.12395833333333334,
+                        "positionY": 0.11851851851851852,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Ite_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.058333333333333334,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.18229166666666663,
+                        "positionY": 0.2518518518518518,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "87f03648-0ebc-42bb-b490-4a62198679b5",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 13",
+            "parentItemId": 4671767,
+            "hotspots": [
+                {
+                    "name": "Ite_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "The itinerary shows the location they are sailing out of.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "27bd6048-2586-4818-88b4-88073acfaef8"
+                        },
+                        "width": 0.3848958333333333,
+                        "height": 0.12314814814814816,
+                        "fontSize": 24,
+                        "positionX": 0.153125,
+                        "positionY": 0.22777777777777777,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Ite_HL",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.035416666666666666,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.21406249999999996,
+                        "positionY": 0.36944444444444446,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Close_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click the 'Close' button.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "42bf93f6-bee6-4777-8fe2-1aea0b30d171"
+                        },
+                        "width": 0.19427083333333336,
+                        "height": 0.1,
+                        "fontSize": 24,
+                        "positionX": 0.41041666666666665,
+                        "positionY": 0.45,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Close_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0421875,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.49375,
+                        "positionY": 0.562037037037037,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "9238652c-0e82-4a51-b8dc-9ab0932a3251",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 14",
+            "parentItemId": 4671768,
+            "hotspots": [
+                {
+                    "name": "chrome_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Switch windows to 'iKnow'. Click on the 'Chrome' icon.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "f1ea66b4-a75f-40b1-9688-5a2243d7bb2c"
+                        },
+                        "width": 0.3958333333333333,
+                        "height": 0.12129629629629628,
+                        "fontSize": 24,
+                        "positionX": 0.5645833333333333,
+                        "positionY": 0.8037037037037037,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Chrome_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.024479166666666663,
+                        "height": 0.04259259259259259,
+                        "positionX": 0.6958333333333333,
+                        "positionY": 0.9564814814814816,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "2e0bf5ab-4076-4f00-8c18-40e04bcd8150",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 15",
+            "parentItemId": 4671769,
+            "hotspots": [
+                {
+                    "name": "iknow_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click on 'Carnival Support Home Page'.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "57e36b80-fdde-46c5-8ffd-410d37d8b7b8"
+                        },
+                        "width": 0.2864583333333333,
+                        "height": 0.1398148148148148,
+                        "fontSize": 24,
+                        "positionX": 0.5838541666666667,
+                        "positionY": 0.65,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "iknow_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.11354166666666668,
+                        "height": 0.14074074074074075,
+                        "positionX": 0.65,
+                        "positionY": 0.8027777777777778,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "1dd96df8-09b2-4d0a-8d99-e3e0da6ad4ee",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 16",
+            "parentItemId": 4671770,
+            "hotspots": [
+                {
+                    "name": "search_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Now you can search iKnow.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "888752ad-4fee-4ff5-aed3-35826ea119eb"
+                        },
+                        "width": 0.30885416666666665,
+                        "height": 0.1259259259259259,
+                        "fontSize": 24,
+                        "positionX": 0.33541666666666664,
+                        "positionY": 0.21388888888888888,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "2540d893-97f1-4ef4-b327-6da607746efb",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 17",
+            "parentItemId": 4671771,
+            "hotspots": [
+                {
+                    "name": "type_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Type in 'Transfers from Miami', then press your 'Enter' key.",
+                        "width": 0.39895833333333336,
+                        "height": 0.13425925925925927,
+                        "fontSize": 24,
+                        "positionX": 0.29322916666666665,
+                        "positionY": 0.20370370370370375,
+                        "audioEnable": false,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Type_TE",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.26458333333333334,
+                        "height": 0.03211851851851852,
+                        "fontSize": 16,
+                        "positionX": 0.35052083333333334,
+                        "positionY": 0.3527777777777778,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Transfers from Miami",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "daa78159-0c18-417f-b675-19dcaaa8791b",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 18",
+            "parentItemId": 4671772,
+            "hotspots": [
+                {
+                    "name": "Search_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click the 'Search' button.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "fce3f7e8-a813-4358-8262-292f1db7b1c3"
+                        },
+                        "width": 0.18333333333333332,
+                        "height": 0.11574074074074074,
+                        "fontSize": 24,
+                        "positionX": 0.5546875,
+                        "positionY": 0.22592592592592592,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Search_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.04010416666666667,
+                        "height": 0.04259259259259259,
+                        "positionX": 0.6197916666666666,
+                        "positionY": 0.3490740740740741,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "887b94b5-265e-496d-b608-07448bf990b9",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 19",
+            "parentItemId": 4671773,
+            "hotspots": [
+                {
+                    "name": "Link_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click on the link for 'Cruises from Miami'.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "a7b579c6-3af6-4a23-a59e-c254aeb612b4"
+                        },
+                        "width": 0.30572916666666666,
+                        "height": 0.112962962962963,
+                        "fontSize": 24,
+                        "positionX": 0.3302083333333333,
+                        "positionY": 0.3657407407407408,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Link_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.17760416666666667,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.34322916666666664,
+                        "positionY": 0.49074074074074087,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "de408478-b1d2-46ad-9b2b-bfc472d8e7ae",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 20",
+            "parentItemId": 4671774,
+            "hotspots": [
+                {
+                    "name": "Scroll_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click on the Scroll Bar.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "3ec8f77b-07ad-4019-8963-2303bb580978"
+                        },
+                        "width": 0.1734375,
+                        "height": 0.12407407407407409,
+                        "fontSize": 24,
+                        "positionX": 0.7963541666666667,
+                        "positionY": 0.3925925925925926,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "sb_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.019171875,
+                        "height": 0.7916666666666666,
+                        "positionX": 0.9791666666666669,
+                        "positionY": 0.16574074074074074,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "8cf6235d-de86-41f8-b114-d5e6536a5c71",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 21",
+            "parentItemId": 4671775,
+            "hotspots": [
+                {
+                    "name": "Audio for #1c7e2fd2-699b-4979-81c4-513eb35bf041",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c31f95d6-5984-4a16-b0b6-417c61bfd9df"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #9d029016-d37b-4e3a-8fd7-88b4c4806feb",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "ce2b5f01-cd6e-449a-9aea-6e231bf5dac4"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Transfer_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Here you can see the price for transfers.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "9c60ddb1-6f42-4c50-872c-c204bdecbd96"
+                        },
+                        "width": 0.3,
+                        "height": 0.14074074074074075,
+                        "fontSize": 24,
+                        "positionX": 0.3375,
+                        "positionY": 0.24166666666666667,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Miami_HL",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.2125,
+                        "height": 0.08703703703703704,
+                        "positionX": 0.3338541666666667,
+                        "positionY": 0.4509259259259259,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F9B608",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #d8ae8fa5-c27d-4bcd-9f6d-462a15f225e0",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "4c1228ad-65f4-4336-bead-ec3d7301980e"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Audio for #050b835b-b10f-4998-bd96-c68ae99e0e74",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "66b1215e-ca6d-42d2-a2a7-524d5f627411"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Audio for #33dca6f3-3dec-4220-b016-88bf9b5da045",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5c27d2bc-4b03-41c9-a5fd-6722767041bd"
+                        }
+                    ],
+                    "sequenceNumber": 7
+                },
+                {
+                    "name": "carn_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Go back to the booking. Click on the 'Carnival' icon.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "8597576d-64ee-4ecf-8e57-503d0ffa817f"
+                        },
+                        "width": 0.38229166666666664,
+                        "height": 0.1500000000000001,
+                        "fontSize": 24,
+                        "positionX": 0.48072916666666665,
+                        "positionY": 0.787962962962963,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 8
+                },
+                {
+                    "name": "Carn_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0265625,
+                        "height": 0.03981481481481482,
+                        "positionX": 0.7192708333333333,
+                        "positionY": 0.9583333333333331,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 9
+                }
+            ]
+        },
+        {
+            "fileId": "6f2928ea-8320-49cd-8a77-adbf8e5a0337",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 22",
+            "parentItemId": 4671776,
+            "hotspots": [
+                {
+                    "name": "Nav_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click on 'Carnival Navigator'.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "e0259e78-9e4e-4237-8393-cb7c14a6f628"
+                        },
+                        "width": 0.259375,
+                        "height": 0.1351851851851852,
+                        "fontSize": 24,
+                        "positionX": 0.6109375,
+                        "positionY": 0.6361111111111111,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Nav_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1125,
+                        "height": 0.1425925925925926,
+                        "positionX": 0.6770833333333334,
+                        "positionY": 0.8037037037037037,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "85b43c7a-092a-4179-8dc7-038c4731d433",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 23",
+            "parentItemId": 4671777,
+            "hotspots": [
+                {
+                    "name": "PT_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Open the 'Packages/Transfers' tab.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "6eb208ff-2b5a-4111-bbfb-c0d657cf4190"
+                        },
+                        "width": 0.25104166666666666,
+                        "height": 0.14351851851851852,
+                        "fontSize": 24,
+                        "positionX": 0.08125,
+                        "positionY": 0.031481481481481506,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "PT_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0640625,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.16979166666666667,
+                        "positionY": 0.18796296296296297,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "e0bee00d-31ae-4d72-a69c-c8768f1dc1fb",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 24",
+            "parentItemId": 4671778,
+            "hotspots": [
+                {
+                    "name": "dd_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click on the 'Inbound Airport' drop down arrow for the first passenger.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "27cf648a-685d-4380-9918-d9f995baeb3c"
+                        },
+                        "width": 0.4875,
+                        "height": 0.11203703703703702,
+                        "fontSize": 24,
+                        "positionX": 0.09010416666666668,
+                        "positionY": 0.24444444444444444,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "dd_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.019171875,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.21927083333333333,
+                        "positionY": 0.4074074074074074,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "16fedae2-18ec-44b2-bc90-8ca1664e4a7b",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 25",
+            "parentItemId": 4671779,
+            "hotspots": [
+                {
+                    "name": "dd_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Select 'MIA'.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "1315c4b3-92b4-40cc-867b-d89d2bc9eb8b"
+                        },
+                        "width": 0.17864583333333334,
+                        "height": 0.09537037037037036,
+                        "fontSize": 24,
+                        "positionX": 0.16770833333333332,
+                        "positionY": 0.3138888888888889,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "dd_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.040625,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.19479166666666667,
+                        "positionY": 0.43888888888888894,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "c0057bfd-1ce5-46d0-a178-d2a6947290ce",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 26",
+            "parentItemId": 4671780,
+            "hotspots": [
+                {
+                    "name": "dd_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click on the 'Inbound Airport' drop down arrow for the second passenger.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "022cd66d-11ec-450c-b1e8-d4ce95b0d127"
+                        },
+                        "width": 0.48854166666666665,
+                        "height": 0.1148148148148148,
+                        "fontSize": 24,
+                        "positionX": 0.0890625,
+                        "positionY": 0.24444444444444444,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "dd_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.019171875,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.21927083333333333,
+                        "positionY": 0.4305555555555556,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "b84fd1bf-ede2-4d4b-90bc-5cb2f796892c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 27",
+            "parentItemId": 4671781,
+            "hotspots": [
+                {
+                    "name": "mia_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Select 'MIA'.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "cb82ff2a-c62f-4ca2-9e7f-3c2244d89ecc"
+                        },
+                        "width": 0.15364583333333334,
+                        "height": 0.12777777777777777,
+                        "fontSize": 24,
+                        "positionX": 0.18072916666666664,
+                        "positionY": 0.28703703703703703,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "mia_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.04010416666666667,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.1953125,
+                        "positionY": 0.46111111111111114,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "613d1fcb-1185-4e18-a718-490cdd412d31",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 28",
+            "parentItemId": 4671782,
+            "hotspots": [
+                {
+                    "name": "dd_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click on the 'Outbound Airport' drop down arrow for the first passenger.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "13f39aca-1f0e-451e-9aeb-d418a1883811"
+                        },
+                        "width": 0.4901041666666667,
+                        "height": 0.1148148148148148,
+                        "fontSize": 24,
+                        "positionX": 0.08802083333333334,
+                        "positionY": 0.24351851851851852,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "dd_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.019171875,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.45625,
+                        "positionY": 0.4083333333333333,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "d1acee7f-5a24-4e08-8699-6ccccc3cddd8",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 29",
+            "parentItemId": 4671783,
+            "hotspots": [
+                {
+                    "name": "mia_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Select 'MIA'.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "be2f51bc-db44-42de-b583-808dd4321399"
+                        },
+                        "width": 0.15208333333333332,
+                        "height": 0.09537037037037036,
+                        "fontSize": 24,
+                        "positionX": 0.3953125,
+                        "positionY": 0.3148148148148148,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "mia_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.04479166666666667,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.4276041666666667,
+                        "positionY": 0.43796296296296294,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "64ae3f44-38f9-4f57-9bda-6b932f75fe3d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 30",
+            "parentItemId": 4671784,
+            "hotspots": [
+                {
+                    "name": "dd_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click on the 'Outbound Airport' drop down arrow for the second passenger.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "3f537239-d626-40aa-bc99-0e981f2066c0"
+                        },
+                        "width": 0.5109375,
+                        "height": 0.1157407407407408,
+                        "fontSize": 24,
+                        "positionX": 0.06770833333333333,
+                        "positionY": 0.24351851851851852,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "dd_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.019171875,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.45625,
+                        "positionY": 0.4324074074074074,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "9ede73d8-1ac4-46c1-ba19-418332db855e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 31",
+            "parentItemId": 4671785,
+            "hotspots": [
+                {
+                    "name": "dd_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Select 'MIA'.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "a1152917-837d-4628-ae48-238f2f6aa06f"
+                        },
+                        "width": 0.14895833333333333,
+                        "height": 0.12129629629629628,
+                        "fontSize": 24,
+                        "positionX": 0.3963541666666667,
+                        "positionY": 0.3055555555555556,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "mia_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.04583333333333333,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.4270833333333333,
+                        "positionY": 0.462037037037037,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "4395a76e-a21c-4a92-b780-b77a8d6bc23e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 32",
+            "parentItemId": 4671786,
+            "hotspots": [
+                {
+                    "name": "Rec_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click the 'Recalculate' button.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "1dd43b5a-7f84-4e7a-a4ac-d61382a262e2"
+                        },
+                        "width": 0.23645833333333333,
+                        "height": 0.13333333333333333,
+                        "fontSize": 24,
+                        "positionX": 0.48802083333333335,
+                        "positionY": 0.15092592592592594,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Rec_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.042708333333333334,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.5494791666666666,
+                        "positionY": 0.3212962962962963,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "766905c9-852a-49f2-828d-2696e3b6a275",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 33",
+            "parentItemId": 4671787,
+            "hotspots": [
+                {
+                    "name": "Audio for #d72b969e-c70c-41f2-a180-f498a66397dc",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3bdb2fb6-1b69-4e9a-82b6-4b54f8b40384"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #c57047c4-be55-4992-9d95-de2b07fdb4ab",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "426ee78a-199d-4919-9bf9-d838fe13ad76"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "SC_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click the 'Save Changes' button.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "642658bc-9372-4e58-a8f3-8588e0317f02"
+                        },
+                        "width": 0.2552083333333333,
+                        "height": 0.12222222222222222,
+                        "fontSize": 24,
+                        "positionX": 0.45364583333333336,
+                        "positionY": 0.12222222222222222,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "SC_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0453125,
+                        "height": 0.03425925925925926,
+                        "positionX": 0.5291666666666667,
+                        "positionY": 0.25277777777777777,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "5f74c180-1a0e-4e96-a8e4-0693e9410d65",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 34",
+            "parentItemId": 4671788,
+            "hotspots": [
+                {
+                    "name": "Main_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Open the 'Main' tab.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "84693870-8eb4-4b6f-915a-97da33afd95d"
+                        },
+                        "width": 0.21822916666666667,
+                        "height": 0.11851851851851852,
+                        "fontSize": 24,
+                        "positionX": 0.034895833333333334,
+                        "positionY": 0.06203703703703704,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Main_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.028125,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.044270833333333336,
+                        "positionY": 0.18796296296296297,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "949f48b1-fd31-458d-8d19-64831cab7179",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 35",
+            "parentItemId": 4671789,
+            "hotspots": [
+                {
+                    "name": "Audio for #df472576-b658-4171-9d41-1a52c1662845",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "246217c8-c107-4a6c-963b-2430cd1b4f3d"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #1b72387f-05ef-4e5a-93bf-e4099ea218f1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "84869b69-4e97-4e89-bcdc-ad35ee0e0e15"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #af7aaad3-b4dc-4cf2-9916-41df6e0a8831",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "64c3ecf6-cfd4-4141-aea6-1e01afb9d0dc"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "iknow_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Switch windows to 'iKnow'. Click on the 'Chrome' icon.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "539cb4ca-62ca-4956-a7b5-5b2560bcb093"
+                        },
+                        "width": 0.3984375,
+                        "height": 0.125,
+                        "fontSize": 24,
+                        "positionX": 0.55,
+                        "positionY": 0.8064814814814815,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "iknow_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.0234375,
+                        "height": 0.037037037037037035,
+                        "positionX": 0.696875,
+                        "positionY": 0.9601851851851853,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 5
+                }
+            ]
+        },
+        {
+            "fileId": "2d5426bd-569b-4fc8-8205-b261a80060da",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 36",
+            "parentItemId": 4671790,
+            "hotspots": [
+                {
+                    "name": "Click_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click on the 'Chrome' browser window.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "67404e44-3c59-44d5-a6f6-aef5e0ec9a49"
+                        },
+                        "width": 0.28958333333333336,
+                        "height": 0.12129629629629626,
+                        "fontSize": 24,
+                        "positionX": 0.5875,
+                        "positionY": 0.6666666666666666,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Carn_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.11250000000000002,
+                        "height": 0.14722222222222223,
+                        "positionX": 0.6515625,
+                        "positionY": 0.799074074074074,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "301e784a-7a6f-4a20-bad5-6e70a7404334",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 37",
+            "parentItemId": 4671791,
+            "hotspots": [
+                {
+                    "name": "Search_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Make another search in iKnow.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "07c7dd35-bc25-466d-abe9-17ccd3bb6181"
+                        },
+                        "width": 0.259375,
+                        "height": 0.1259259259259259,
+                        "fontSize": 24,
+                        "positionX": 0.3416666666666667,
+                        "positionY": 0.2175925925925926,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "e33b9528-fb52-4e95-beb4-f5131c4b44cf",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 38",
+            "parentItemId": 4671792,
+            "hotspots": [
+                {
+                    "name": "Type_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Type in 'Behind the fun tour', then press your 'Enter' key.",
+                        "width": 0.4171875,
+                        "height": 0.12222222222222222,
+                        "fontSize": 24,
+                        "positionX": 0.30104166666666665,
+                        "positionY": 0.2037037037037037,
+                        "audioEnable": false,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Type_TE",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.2640625,
+                        "height": 0.03211851851851852,
+                        "fontSize": 16,
+                        "positionX": 0.35104166666666664,
+                        "positionY": 0.3527777777777778,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Behind the fun tour",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "5de3c37a-b603-43b5-9089-05c20a63c825",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 39",
+            "parentItemId": 4671793,
+            "hotspots": [
+                {
+                    "name": "Search_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click the 'Search' button.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "edd9de95-4deb-4acc-b5e4-68f6b6b64bd8"
+                        },
+                        "width": 0.24270833333333333,
+                        "height": 0.10555555555555556,
+                        "fontSize": 24,
+                        "positionX": 0.4947916666666667,
+                        "positionY": 0.22685185185185183,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Search_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.042708333333333334,
+                        "height": 0.04259259259259259,
+                        "positionX": 0.6182291666666667,
+                        "positionY": 0.3490740740740741,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "7e7364b3-bc65-4eb3-a532-85828538f7b9",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 40",
+            "parentItemId": 4671794,
+            "hotspots": [
+                {
+                    "name": "BTF_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Select 'Carnival's 'Behind the Fun' Tour'.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "962cdd01-7ee3-46eb-a6dc-5b27514481ca"
+                        },
+                        "width": 0.296875,
+                        "height": 0.11944444444444444,
+                        "fontSize": 24,
+                        "positionX": 0.31875,
+                        "positionY": 0.4740740740740741,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "BTF_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1328125,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.34375,
+                        "positionY": 0.6018518518518519,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "47ea079d-4cc3-442e-8f17-f1a77f64bd54",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 41",
+            "parentItemId": 4671795,
+            "hotspots": [
+                {
+                    "name": "SB_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click the Scroll Bar.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "32d31dde-7be5-4064-83c3-ce2437ae0892"
+                        },
+                        "width": 0.16510416666666666,
+                        "height": 0.13703703703703704,
+                        "fontSize": 24,
+                        "positionX": 0.8088541666666667,
+                        "positionY": 0.33240740740740743,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "sb",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.019171875,
+                        "height": 0.7944444444444444,
+                        "positionX": 0.9791666666666669,
+                        "positionY": 0.1638888888888889,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "51e5b64d-567f-495a-b95e-241e2b582427",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 42",
+            "parentItemId": 4671796,
+            "hotspots": [
+                {
+                    "name": "Audio for #db4596fb-7a33-41f2-85e7-bd0d63c84ed8",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "09015108-7ab2-4575-b5cf-72a00ecb024d"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #9ca0f6cb-9caf-4a59-9590-f1bf00b68d60",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8032a083-f66f-4bb1-873c-ca80e3e2d85d"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #03322fd3-0557-4f92-b205-e94c9e4649af",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "2cf77a99-5c71-49d9-8a12-db37c4769d0b"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #e2f86c3f-0017-417d-a416-cce9230cc4f9",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e8ca077b-3eec-4282-8a2e-84e86ff7009b"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "CN_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Return to Carnival Navigator. Click the Carnival icon.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "c4d39d31-20a8-4e33-be2d-5c35e1400dbb"
+                        },
+                        "width": 0.3692708333333333,
+                        "height": 0.11759259259259258,
+                        "fontSize": 24,
+                        "positionX": 0.6020833333333333,
+                        "positionY": 0.825,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "cn_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.028125,
+                        "height": 0.03981481481481482,
+                        "positionX": 0.7182291666666667,
+                        "positionY": 0.9574074074074072,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 6
+                }
+            ]
+        },
+        {
+            "fileId": "6793423c-d47c-42a5-90fc-a8d58e41560f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 43",
+            "parentItemId": 4671797,
+            "hotspots": [
+                {
+                    "name": "CN_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click on 'Carnival Navigator'.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "b8ce5fee-d861-42b0-bfc4-2db7efa12970"
+                        },
+                        "width": 0.2786458333333333,
+                        "height": 0.1425925925925926,
+                        "fontSize": 24,
+                        "positionX": 0.5765625,
+                        "positionY": 0.6324074074074074,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "cn_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1125,
+                        "height": 0.14537037037037037,
+                        "positionX": 0.6520833333333333,
+                        "positionY": 0.8009259259259259,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "36a8d2d6-004d-47e4-81c9-c7739f73c069",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 44",
+            "parentItemId": 4671798,
+            "hotspots": [
+                {
+                    "name": "h_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Expand the 'History' section.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "aa267ff8-3895-42fc-80f9-fd6733aca741"
+                        },
+                        "width": 0.28177083333333336,
+                        "height": 0.09722222222222222,
+                        "fontSize": 24,
+                        "positionX": 0.005208333333333333,
+                        "positionY": 0.7212962962962963,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "h_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.590625,
+                        "height": 0.037037037037037035,
+                        "positionX": 0.0067708333333333336,
+                        "positionY": 0.85,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "f002722d-3fe6-4ef5-9b58-cff443b55c51",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 45",
+            "parentItemId": 4671799,
+            "hotspots": [
+                {
+                    "name": "sb_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click the Scroll Bar.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "401b3941-a5b6-4ee3-a104-c6478b408df9"
+                        },
+                        "width": 0.16979166666666667,
+                        "height": 0.1398148148148148,
+                        "fontSize": 24,
+                        "positionX": 0.41510416666666666,
+                        "positionY": 0.5351851851851852,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "sb_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.019171875,
+                        "height": 0.6814814814814815,
+                        "positionX": 0.5947916666666667,
+                        "positionY": 0.21944444444444444,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "4f7d52ad-0e76-4748-b83d-e57bb71fed4a",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 46",
+            "parentItemId": 4671800,
+            "hotspots": [
+                {
+                    "name": "ac_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click on the arrow for 'Add Comments'.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "fde67de6-95a1-4de4-85d9-8700bdc3638c"
+                        },
+                        "width": 0.28854166666666664,
+                        "height": 0.12407407407407409,
+                        "fontSize": 24,
+                        "positionX": 0.3182291666666667,
+                        "positionY": 0.2657407407407407,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "ac_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.019171875,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.390625,
+                        "positionY": 0.39814814814814814,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "fa9596ea-85f6-4ef6-a4ad-cc7fa53e4280",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 47",
+            "parentItemId": 4671801,
+            "hotspots": [
+                {
+                    "name": "D_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click on the 'Disposition' drop down.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "eae342a6-c777-49aa-975b-fbaddf311173"
+                        },
+                        "width": 0.29583333333333334,
+                        "height": 0.12685185185185183,
+                        "fontSize": 24,
+                        "positionX": 0.37447916666666664,
+                        "positionY": 0.3074074074074074,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "d_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.125,
+                        "height": 0.04137777777777778,
+                        "positionX": 0.46510416666666665,
+                        "positionY": 0.44166666666666665,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "72773881-79c5-4409-b4b4-26748887a37c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 48",
+            "parentItemId": 4671802,
+            "hotspots": [
+                {
+                    "name": "gsc_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Select 'GENERAL SERVICE CALL'.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "d43822d1-0c9b-4a94-aadd-4aa08104c5a7"
+                        },
+                        "width": 0.24635416666666668,
+                        "height": 0.1037037037037037,
+                        "fontSize": 24,
+                        "positionX": 0.4473958333333333,
+                        "positionY": 0.3731481481481482,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "gsc_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.121875,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.4661458333333333,
+                        "positionY": 0.49074074074074064,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "7299fabe-7ad3-4733-b854-8125a31fab55",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 49",
+            "parentItemId": 4671803,
+            "hotspots": [
+                {
+                    "name": "c_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Now you can add your comment.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "01449bd8-494e-4c30-99f1-f3034525153d"
+                        },
+                        "width": 0.25052083333333336,
+                        "height": 0.14166666666666672,
+                        "fontSize": 24,
+                        "positionX": 0.35260416666666666,
+                        "positionY": 0.3592592592592593,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "9a058568-6b82-42a5-a8c4-37d1b5c1b00e",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 50",
+            "parentItemId": 4671804,
+            "hotspots": [
+                {
+                    "name": "Type_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Type in 'Added transfers and advised of Behind the Fun tour', then press your 'Enter' key.",
+                        "width": 0.4234375,
+                        "height": 0.16944444444444445,
+                        "fontSize": 24,
+                        "positionX": 0.2578125,
+                        "positionY": 0.31574074074074077,
+                        "audioEnable": false,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Type_TE",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.19583333333333333,
+                        "height": 0.18333333333333332,
+                        "fontSize": 16,
+                        "positionX": 0.3963541666666667,
+                        "positionY": 0.5074074074074074,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "Added transfers and advised of Behind the Fun tour",
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "#ffffff",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "16663dcc-329f-4150-944b-1d15f8f04819",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 51",
+            "parentItemId": 4671805,
+            "hotspots": [
+                {
+                    "name": "Save_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click the 'Save' button.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "bd7ab194-4bbb-46a6-8472-bdefb9eef9fe"
+                        },
+                        "width": 0.1755208333333334,
+                        "height": 0.11851851851851852,
+                        "fontSize": 24,
+                        "positionX": 0.49895833333333334,
+                        "positionY": 0.5907407407407408,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "save_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.029166666666666667,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.5619791666666667,
+                        "positionY": 0.712037037037037,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "38170cd8-39e4-4735-980e-3410578a76a9",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 52",
+            "parentItemId": 4671806,
+            "hotspots": [
+                {
+                    "name": "Audio for #41943f9f-f04a-48f9-8c9e-4f4c1d61da21",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c2e74ebb-ed42-4c54-83cf-1d410e5f2d8f"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #126424aa-6b8b-4a7b-bf1d-633c942febbc",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d4b54661-ef31-4fd9-98de-6b906b4c3caf"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #cc3b13b4-e0dd-43b3-a08f-213bc179fe18",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "2e171d1e-a3cc-4d04-8b9b-6ad2b4338cea"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #c20c07c2-bb82-46c7-b961-b95e75bf9c14",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "aab6338b-4a1a-4973-9a3a-8e0c545a1272"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #078e16a7-dc58-4510-bf13-bf49df747756",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "65e52983-bbc3-4b7b-ad5f-43e1d7b9520d"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "s_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Click on the 'Survey Email' drop down.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "afce8218-8fd2-49e7-937a-f6a704e83c53"
+                        },
+                        "width": 0.29635416666666664,
+                        "height": 0.1259259259259259,
+                        "fontSize": 24,
+                        "positionX": 0.35625,
+                        "positionY": 0.07407407407407407,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "s_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.15729166666666666,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.44114583333333335,
+                        "positionY": 0.2203703703703704,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 7
+                }
+            ]
+        },
+        {
+            "fileId": "d51b63a5-9979-4df1-bfbc-42473ed5f33f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 3",
+            "parentItemId": 4671807,
+            "hotspots": [
+                {
+                    "name": "e_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Select the email address.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "3a8079a8-192b-4829-91da-7657e8476246"
+                        },
+                        "width": 0.2515226218097448,
+                        "height": 0.11851851851851852,
+                        "fontSize": 24,
+                        "positionX": 0.3969692575406033,
+                        "positionY": 0.09227758686521571,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "e_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.159375,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.4401041666666667,
+                        "positionY": 0.24444444444444444,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "aceaa564-7006-4dc3-9fec-55829bba0d5d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 53",
+            "parentItemId": 4671808,
+            "hotspots": [
+                {
+                    "name": "Close_CT",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Close the booking to save it. Click the 'X'.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "061cada1-0cff-47b1-993d-3c3e69398960"
+                        },
+                        "width": 0.3026041666666666,
+                        "height": 0.11111111111111112,
+                        "fontSize": 24,
+                        "positionX": 0.13489583333333333,
+                        "positionY": 0.016666666666666666,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "#04adae",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "x_BTN",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.019171875,
+                        "height": 0.03211851851851852,
+                        "positionX": 0.28072916666666664,
+                        "positionY": 0.13703703703703704,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#F90000",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "e21df0e9-27ed-4849-8172-0b70851dc0c0",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 54",
+            "parentItemId": 4671809,
+            "hotspots": [
+                {
+                    "name": "Conclusion",
+                    "type": "COACHING_TIP",
+                    "settings": {
+                        "text": "Congratulations! You have completed this simulation.",
+                        "audio": {
+                            "tts": {
+                                "simulationVoiceId": "2a9af9b5-3c78-11f0-9d9f-12c6e0eaf20b",
+                                "voiceName": "Antoni"
+                            },
+                            "fileId": "cee2e63a-0c61-466e-86ed-094c6a03ec1f"
+                        },
+                        "width": 0.019171875,
+                        "height": 0.03211851851851852,
+                        "fontSize": 16,
+                        "positionX": 0.9921875,
+                        "positionY": 0.9916666666666668,
+                        "audioEnable": true,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 1
+                }
+            ]
+        }
+    ]
+}

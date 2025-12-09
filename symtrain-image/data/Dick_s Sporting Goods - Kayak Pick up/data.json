@@ -1,0 +1,1145 @@
+{
+    "name": "Dick's Sporting Goods - Kayak Pick up",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": false,
+    "voiceName": "Joanna",
+    "voiceId": "a16f8ec5-b721-11eb-ab80-12a3f1d4ce57",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "89ab27ea-2a4d-48a4-9d9b-4f55a69c33d8",
+            "sequenceNumber": 1,
+            "fileTranscript": "You are about to begin a simulation  Please click *** ****** Sporting Goods logo to begin  ",
+            "fileId": "9c1668dd-f6cf-11eb-b92e-e42803bf6920",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "fc98a8ad-8dc0-43ff-aa75-ec23d2a514bd",
+            "sequenceNumber": 2,
+            "fileTranscript": "****** Sporting Goods customer service  For order status press 1 to place an order press 2  ",
+            "fileId": "9dfd84ac-f6cf-11eb-a540-4ffbe1a82946",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "9bfa727c-8cbf-4470-978e-f56e145e87c9",
+            "sequenceNumber": 3,
+            "fileTranscript": " Thank you for calling Dick's Sporting Goods Customer Service, how can I help you today?",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "calling",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "help",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "Thank",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "you",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "cce278f9-0d20-4342-9b58-44926971648b",
+            "sequenceNumber": 4,
+            "fileTranscript": "Hi, I'm calling because I'm trying to buy this kayak online and I want to go pick it up, but your website won't let me  ",
+            "fileId": "9dd09d2e-f6cf-11eb-8e34-545018a525a1",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "7f9a4f3c-19bb-4361-9740-0e97beb83ccb",
+            "sequenceNumber": 5,
+            "fileTranscript": " I apologize for your difficulty, let me go on our website and walk through it with you, I'm sure we can take care of it.",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "difficulty",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "apologize",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "43338239-7ebd-4008-8f74-e7c5f7759716",
+            "sequenceNumber": 6,
+            "fileTranscript": "Thanks the weather looks good for tomorrow, so I want to grab this and go  ",
+            "fileId": "9db50efe-f6cf-11eb-ba45-7d8f476f0f4d",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a82deb68-cd77-46fa-94d5-dfd5be375c42",
+            "sequenceNumber": 7,
+            "fileTranscript": " Don't worry, we'll get you out on that water.  Let's start fresh, can you go to dickssportinggoods.com?",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "fresh",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "start",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "f3278b9e-2a55-4f1a-b46f-f26bc59b23e9",
+            "sequenceNumber": 8,
+            "fileTranscript": "I'm there  ",
+            "fileId": "9d9b0e2f-f6cf-11eb-aaea-502a405cb827",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "eef9466c-2fd4-48dc-97cd-bcf6c0578728",
+            "sequenceNumber": 9,
+            "fileTranscript": " Do you see the words \"Shop Departments\" on the top left?",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "Departments",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "Shop",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "db10dca6-3f1d-4600-8806-6e9a66e7fdc8",
+            "sequenceNumber": 10,
+            "fileTranscript": "Got it  ",
+            "fileId": "9d8cef8a-f6cf-11eb-aded-492cd2846a40",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "786efa83-6d02-4fda-aa40-5ec34dc3422b",
+            "sequenceNumber": 11,
+            "fileTranscript": " Now click outdoor and then select Kayaks.",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "Kayaks",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "outdoor",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "c211f1ea-d958-46e6-abad-f6c781df400f",
+            "sequenceNumber": 12,
+            "fileTranscript": "Got it  ",
+            "fileId": "9d80481f-f6cf-11eb-8b68-72a6052bcf24",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "c3147f17-0bcd-4e76-82e2-33d750ab255f",
+            "sequenceNumber": 13,
+            "fileTranscript": "OK, I see the one I want  ",
+            "fileId": "9d578459-f6cf-11eb-8f8d-268169234dfd",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "0977dbbe-3ced-469a-bb6e-c0966302e35e",
+            "sequenceNumber": 14,
+            "fileTranscript": " Good, which one is it?",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "which",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "one",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "84b0eab2-7605-4574-870f-2fdfaf8e6788",
+            "sequenceNumber": 15,
+            "fileTranscript": "The Pelican Mustang 100 X  ",
+            "fileId": "9d3bb440-f6cf-11eb-baa4-31d649b2addd",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b894f781-07ff-447e-85e2-04e84ba8ed22",
+            "sequenceNumber": 16,
+            "fileTranscript": " That is a great choice.  If you look right above the Add to Cart button you will see where you select pickup in store.",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "choice",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "select",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "great",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "pickup",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "ed07606d-f0f5-4dc7-8fd6-f09628064fe4",
+            "sequenceNumber": 17,
+            "fileTranscript": "This is where the problem was  When I try to add it, I get a red warning about product options, but I don't see any options to choose from  ",
+            "fileId": "9d0e89a6-f6cf-11eb-8311-1e7f7902c5f5",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "cfcd68e6-4a93-4da3-9110-d5ec62eb41c2",
+            "sequenceNumber": 18,
+            "fileTranscript": "Now I understand, in this case the options for the Mustang 100X are the colors, did you select a color?",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a6360a3b-f8a2-4c83-93fa-c51e3e9f02d5",
+            "sequenceNumber": 19,
+            "fileTranscript": "I can't believe I missed that  ",
+            "fileId": "9cdc54fd-f6cf-11eb-bc25-dc4f72d51345",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "2bd25cad-424a-4991-817c-9f5078f63b93",
+            "sequenceNumber": 20,
+            "fileTranscript": " Let's make sure the color you want is available where you want it.  Please go ahead and click on the Pick Up option, the site should prompt you for your zip code.",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "code",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "zip",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "Pick",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "Up",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "62e6f281-1c25-4676-8b54-53287bbbe74f",
+            "sequenceNumber": 21,
+            "fileTranscript": "One SEK, well, I type it in  ",
+            "fileId": "9cc3bce1-f6cf-11eb-ac96-aea99605749d",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "ebfe184a-d403-4cc4-8bd5-793e4c7f3dcd",
+            "sequenceNumber": 22,
+            "fileTranscript": " Now just select a store that's close to you and hit the \"X\" in the top right corner.",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "close",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "store",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "8c151df2-ca14-42b4-bb4a-b6feffbd2fee",
+            "sequenceNumber": 23,
+            "fileTranscript": "OK, I did  ",
+            "fileId": "9ca6fb41-f6cf-11eb-b9e7-b890203c0434",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "70dd41fc-3286-4266-9948-5fe10bb64436",
+            "sequenceNumber": 24,
+            "fileTranscript": " Now click Add to Cart.",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "Cart",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "Add",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "1c2e4e9b-7f82-42b5-b10f-796a7c68b958",
+            "sequenceNumber": 25,
+            "fileTranscript": "Now I see some accessories, but I have all that  ",
+            "fileId": "9c882d2b-f6cf-11eb-9c25-2e6c133c4deb",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "af26ab5a-81d6-4461-a9b9-f38522db9a27",
+            "sequenceNumber": 26,
+            "fileTranscript": " Then all you need to do is click \"View Cart\" and you should see your order with your store of choice listed for pickup.",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "View",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "Cart",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "29069feb-11aa-453e-91a2-eba2b4926100",
+            "sequenceNumber": 27,
+            "fileTranscript": "I do thanks, I'm all good now  ",
+            "fileId": "9c679c25-f6cf-11eb-9512-800b07cbfd4d",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "49dcef1e-101c-4a72-945f-87e038226a0f",
+            "sequenceNumber": 28,
+            "fileTranscript": " Is there anything else I can help you with?",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "else",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "anything",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "help",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "79876380-f0dd-447c-b910-8af29834b846",
+            "sequenceNumber": 29,
+            "fileTranscript": "No thanks, I'm all set  ",
+            "fileId": "9c5076a7-f6cf-11eb-809e-b371675b2f48",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "2688bdda-e805-4760-b123-a1f6be8e2b18",
+            "sequenceNumber": 30,
+            "fileTranscript": " Then I hope you have a great time on the water, and thanks for calling Dick's Sporting Goods.",
+            "fileId": null,
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "calling",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "thanks",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "95353713-bf68-49ac-a9c1-c693d24e9287",
+            "sequenceNumber": 31,
+            "fileTranscript": "This completes the simulation  ",
+            "fileId": "9e2498dc-f6cf-11eb-8251-744ed12f73da",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "9e6dca7f-f6cf-11eb-a0cf-f9b07dba93b0",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "228/imageFiles3288591264816282438.jpeg - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "1-1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "89ab27ea-2a4d-48a4-9d9b-4f55a69c33d8"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "1-2",
+                    "type": "BUTTON",
+                    "settings": {
+                        "text": "1.2",
+                        "width": 0.2912088,
+                        "height": 0.22100122,
+                        "positionX": 0.3562271,
+                        "positionY": 0.41636142,
+                        "isHighlight": false,
+                        "highlightProp": null,
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "9e854219-f6cf-11eb-bbdc-3cfe916107ba",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "228/imageFiles6045717532711534302.png - 1",
+            "parentItemId": 472803,
+            "hotspots": [
+                {
+                    "name": "2-1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "fc98a8ad-8dc0-43ff-aa75-ec23d2a514bd"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "2-2",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "9bfa727c-8cbf-4470-978e-f56e145e87c9"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "2-3",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "cce278f9-0d20-4342-9b58-44926971648b"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "2-4",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "7f9a4f3c-19bb-4361-9740-0e97beb83ccb"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "2-5",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "43338239-7ebd-4008-8f74-e7c5f7759716"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "2-6",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a82deb68-cd77-46fa-94d5-dfd5be375c42"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "2-7",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f3278b9e-2a55-4f1a-b46f-f26bc59b23e9"
+                        }
+                    ],
+                    "sequenceNumber": 7
+                },
+                {
+                    "name": "2-8",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "eef9466c-2fd4-48dc-97cd-bcf6c0578728"
+                        }
+                    ],
+                    "sequenceNumber": 8
+                },
+                {
+                    "name": "2-9",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "db10dca6-3f1d-4600-8806-6e9a66e7fdc8"
+                        }
+                    ],
+                    "sequenceNumber": 9
+                },
+                {
+                    "name": "2-10",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.095833346,
+                        "height": 0.06032046,
+                        "positionX": 0.16406249,
+                        "positionY": 0.06349522,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 10
+                }
+            ]
+        },
+        {
+            "fileId": "9eae5cd1-f6cf-11eb-abb4-8cc7c807fee1",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "228/imageFiles2283123417642009286.png - 1",
+            "parentItemId": 472804,
+            "hotspots": [
+                {
+                    "name": "3-1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "786efa83-6d02-4fda-aa40-5ec34dc3422b"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "3-2",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.085937485,
+                        "height": 0.04233015,
+                        "positionX": 0.17291667,
+                        "positionY": 0.36827227,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "9ecbd4cb-f6cf-11eb-8dda-f55a393c39b3",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "228/imageFiles2679271402436468750.png - 1",
+            "parentItemId": 472805,
+            "hotspots": [
+                {
+                    "name": "4-1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c211f1ea-d958-46e6-abad-f6c781df400f"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "4-2",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.03437501,
+                        "height": 0.038097132,
+                        "positionX": 0.39322913,
+                        "positionY": 0.19471867,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "9f10ea43-f6cf-11eb-949f-360e93b3e522",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "228/imageFiles6257688089517976208.png - 1",
+            "parentItemId": 472806,
+            "hotspots": [
+                {
+                    "name": "5-1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "c3147f17-0bcd-4e76-82e2-33d750ab255f"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "5-2",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "0977dbbe-3ced-469a-bb6e-c0966302e35e"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "5-3",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "84b0eab2-7605-4574-870f-2fdfaf8e6788"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "5-4",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.106770836,
+                        "height": 0.37144703,
+                        "positionX": 0.3395833,
+                        "positionY": 0.40848592,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "9f39831a-f6cf-11eb-8501-ee717a7e93a7",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "228/file6990579642231498917screenShot.jpg - 1",
+            "parentItemId": 472807,
+            "hotspots": [
+                {
+                    "name": "6-1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b894f781-07ff-447e-85e2-04e84ba8ed22"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "6-2",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.19531244,
+                        "height": 0.11429144,
+                        "positionX": 0.5729167,
+                        "positionY": 0.7418358,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "6-3",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "ed07606d-f0f5-4dc7-8fd6-f09628064fe4"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "6-4",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "cfcd68e6-4a93-4da3-9110-d5ec62eb41c2"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "6-5",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.1145833,
+                        "height": 0.110058375,
+                        "positionX": 0.50364584,
+                        "positionY": 0.45716557,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 5
+                }
+            ]
+        },
+        {
+            "fileId": "9f73c8c8-f6cf-11eb-8488-ad8f999b1a9f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "228/imageFiles8136328387497166543.png - 1",
+            "parentItemId": 472808,
+            "hotspots": [
+                {
+                    "name": "7-1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a6360a3b-f8a2-4c83-93fa-c51e3e9f02d5"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "7-2",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "2bd25cad-424a-4991-817c-9f5078f63b93"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "7-3",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.015104192,
+                        "height": 0.034922346,
+                        "positionX": 0.5802083,
+                        "positionY": 0.7704087,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#34a853",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "9fc8d066-f6cf-11eb-ab14-88e1d0918ae1",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "228/imageFiles6379738937838715006.png - 1",
+            "parentItemId": 472809,
+            "hotspots": [
+                {
+                    "name": "8-1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "62e6f281-1c25-4676-8b54-53287bbbe74f"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "8-2",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.18593754,
+                        "height": 0.05069002,
+                        "positionX": 0.3078125,
+                        "positionY": 0.59771985,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "isHighlight": false,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": null,
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "9ff56bc8-f6cf-11eb-a81b-08d47b4cb4b4",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "228/imageFiles3787212128993420965.png - 1",
+            "parentItemId": 472810,
+            "hotspots": [
+                {
+                    "name": "9-1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "ebfe184a-d403-4cc4-8bd5-793e4c7f3dcd"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "9-2",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.15104169,
+                        "height": 0.061250433,
+                        "positionX": 0.5651042,
+                        "positionY": 0.4055202,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#34a853",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "a0124e14-f6cf-11eb-b20d-d51243f297d5",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "228/imageFiles8781878329709822447.png - 1",
+            "parentItemId": 472811,
+            "hotspots": [
+                {
+                    "name": "10-1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8c151df2-ca14-42b4-bb4a-b6feffbd2fee"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "10-2",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.030208375,
+                        "height": 0.05597024,
+                        "positionX": 0.6963542,
+                        "positionY": 0.02956918,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#34a853",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "a0454f27-f6cf-11eb-a83c-e16b1df93980",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "228/file5346136527246826687screenShot.jpg - 1",
+            "parentItemId": 472812,
+            "hotspots": [
+                {
+                    "name": "11-1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "70dd41fc-3286-4266-9948-5fe10bb64436"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "11-2",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.19270831,
+                        "height": 0.0601944,
+                        "positionX": 0.5755209,
+                        "positionY": 0.852226,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "a0696517-f6cf-11eb-82eb-b20186951f42",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "228/imageFiles3135572384150975157.png - 1",
+            "parentItemId": 472813,
+            "hotspots": [
+                {
+                    "name": "12-1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "1c2e4e9b-7f82-42b5-b10f-796a7c68b958"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "12-2",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "af26ab5a-81d6-4461-a9b9-f38522db9a27"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "12-3",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.08489588,
+                        "height": 0.05491421,
+                        "positionX": 0.5828125,
+                        "positionY": 0.33793348,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "highlightLength": 0,
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "a084e44a-f6cf-11eb-9ff1-43f1aa442a25",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "228/imageFiles8232988314784675362.png - 1",
+            "parentItemId": 472814,
+            "hotspots": [
+                {
+                    "name": "13-1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "29069feb-11aa-453e-91a2-eba2b4926100"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "13-2",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "49dcef1e-101c-4a72-945f-87e038226a0f"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "13-3",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "79876380-f0dd-447c-b910-8af29834b846"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "13-4",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "2688bdda-e805-4760-b123-a1f6be8e2b18"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                }
+            ]
+        },
+        {
+            "fileId": "a0a3b310-f6cf-11eb-80d3-44e1fb24e0f8",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "228/imageFiles5766063421569627202.jpeg - 1",
+            "parentItemId": 472815,
+            "hotspots": [
+                {
+                    "name": "14-1",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "95353713-bf68-49ac-a9c1-c693d24e9287"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        }
+    ]
+}

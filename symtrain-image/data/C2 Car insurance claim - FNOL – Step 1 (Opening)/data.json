@@ -1,0 +1,249 @@
+{
+    "name": "C2 Car insurance claim - FNOL – Step 1 (Opening)",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Jennifer",
+    "voiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "33cb80d1-e97b-4a5f-8e2a-2f894aa2762d",
+            "sequenceNumber": 4,
+            "fileTranscript": "Thank you for calling ABC Insurance. My name is [YOUR NAME]. How may I assist you today?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "abc insurance",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "assist",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "2419832d-d749-44f0-b295-5df0f40ae50c",
+            "sequenceNumber": 5,
+            "fileTranscript": "Hi, My name is Pat Davis. I need to file a car insurance claim for an accident I was just involved in.",
+            "fileId": "93bb92bc-fdf6-43a9-a03b-4c1c687272ca",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "2a98136c-9170-4d6f-b595-dc53230a8ca0",
+            "sequenceNumber": 3,
+            "fileTranscript": "[Phone rings]",
+            "fileId": "1d5308bd-271c-4b0e-b313-b24579cc91c9",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "5732c8c3-c86d-4db7-a9ef-6293ab7ee6c3",
+            "sequenceNumber": 2,
+            "fileTranscript": "STEP 1 - Opening.",
+            "fileId": "b4dcd42a-c96f-4cef-88c6-a053b648562e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3f27c064-38dc-4d21-9f14-3bbea44b167e",
+            "sequenceNumber": 6,
+            "fileTranscript": "This concludes your simulation.",
+            "fileId": "10737cc7-e343-4e2e-92b8-c2c53320bd5e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b0175dd5-df40-48c1-9058-6e7ef3344011",
+            "sequenceNumber": 1,
+            "fileTranscript": "In this simulation, you will learn how to do an opening of a call, regarding a car insurance claim.",
+            "fileId": "4088f5fa-b454-498f-90c1-3997476ef4e4",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "27d0139b-ac29-41b6-957b-0115f3a1dd59",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 1 - 1 - 1",
+            "parentItemId": 897606,
+            "hotspots": [
+                {
+                    "name": "Audio for #5af3e0b1-0463-4a89-98d7-3b5a9cff2a28",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5732c8c3-c86d-4db7-a9ef-6293ab7ee6c3"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #21458fe6-9e7a-40f1-abde-5f9f2cda95ce",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "2a98136c-9170-4d6f-b595-dc53230a8ca0"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #c8ef0ad0-a39e-4262-8d81-80c2f245f9bd",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "33cb80d1-e97b-4a5f-8e2a-2f894aa2762d"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #98c74971-0d6d-4e81-9d19-ca6fe32d5505",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "2419832d-d749-44f0-b295-5df0f40ae50c"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Contact Reason",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.16934720908230844,
+                        "height": 0.04545454545454555,
+                        "options": [
+                            {
+                                "value": "Claims",
+                                "isCorrect": true
+                            },
+                            {
+                                "value": "Payment",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Product",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Cx Service",
+                                "isCorrect": false
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.5837275307473982,
+                        "positionY": 0.3703703703703703,
+                        "isAnyValue": false,
+                        "isPassword": false,
+                        "isHighlight": true,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Sub-Contact Reason",
+                    "type": "DROPDOWN",
+                    "settings": {
+                        "width": 0.1684011352885525,
+                        "height": 0.04713804713804709,
+                        "options": [
+                            {
+                                "value": "Technical Failure",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Electrical Failure",
+                                "isCorrect": false
+                            },
+                            {
+                                "value": "Accident",
+                                "isCorrect": true
+                            },
+                            {
+                                "value": "Flat tyre",
+                                "isCorrect": false
+                            }
+                        ],
+                        "fontSize": 16,
+                        "positionX": 0.7568590350047304,
+                        "positionY": 0.3720538720538721,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 7
+                }
+            ]
+        },
+        {
+            "fileId": "ec4cc4ff-405c-4351-a5c6-83c503e0e7a8",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 8 - 1 - 1",
+            "parentItemId": 897604,
+            "hotspots": [
+                {
+                    "name": "Audio for #39b38750-d86b-4b60-9aed-060288ea2a22",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3f27c064-38dc-4d21-9f14-3bbea44b167e"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "46113b44-61cb-4649-86ef-2906fe9aab8d",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Audio for #7afe646f-fb83-4195-8d44-ebc1f7d0e2c0",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b0175dd5-df40-48c1-9058-6e7ef3344011"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        }
+    ]
+}

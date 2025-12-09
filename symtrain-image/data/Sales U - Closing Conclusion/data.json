@@ -1,0 +1,423 @@
+{
+    "name": "Sales U - Closing Conclusion",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Olivia",
+    "voiceId": "a1daa1e5-800c-11ed-a9d0-02719d001499",
+    "branches": [],
+    "labels": [
+        {
+            "name": "Closing"
+        },
+        {
+            "name": "Sales University"
+        }
+    ],
+    "audioContentItems": [
+        {
+            "externalId": "6f33208f-0e2e-471a-a5d2-35e4aae60ee6",
+            "sequenceNumber": 1,
+            "fileTranscript": "It’s closing time for this module.",
+            "fileId": "dc65e0a6-232e-49d1-907d-6ce9af49da31",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "8fef3e53-7666-4e8b-b0a2-7481086b381c",
+            "sequenceNumber": 2,
+            "fileTranscript": "So, let’s recap all your learnings, move it to the phones.",
+            "fileId": "0135aab9-70ca-4400-a2d2-3e6581af3899",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "e4da5e97-593d-484a-bb60-6a25c634a363",
+            "sequenceNumber": 3,
+            "fileTranscript": "I hope you have learned something new.",
+            "fileId": "20f0f341-a2e0-4e29-bcbe-de7a19d940af",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b3f1db41-af18-4136-b560-bb7cb44afd28",
+            "sequenceNumber": 4,
+            "fileTranscript": "Throughout the call, you work hard to gain trust, establish credibility, discover needs, and utilize that information to find the right product for that caller’s needs.",
+            "fileId": "bf3a64d2-5bc5-495b-9d8b-9570288c6faf",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "1c282802-61de-4ebb-8624-47361def4472",
+            "sequenceNumber": 5,
+            "fileTranscript": "However, you can’t get the sale if you don’t ask! That’s the importance of closing.",
+            "fileId": "1d8dd386-f9ee-499a-a132-8747c72e652e",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a733ac95-a371-4c66-90ed-5f5b09eca965",
+            "sequenceNumber": 6,
+            "fileTranscript": "We should be asking for the sale immediately after providing the price.",
+            "fileId": "2da6d176-c291-4281-80d2-a199e640862d",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "9a876a53-f854-4b47-864d-ee56d7e77139",
+            "sequenceNumber": 7,
+            "fileTranscript": "This is why a best practice during the discover process is to ask the budget question last, because it is a natural transition to price.",
+            "fileId": "f7ee5446-0d8c-430a-b0a1-5f459c872c63",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "9165f5cd-0876-4c8b-9209-e66004e0c026",
+            "sequenceNumber": 8,
+            "fileTranscript": "By asking the budget question last, you are in a better position to successfully close because you have all your information you need to know to offer the right product based on the customers needs.",
+            "fileId": "6cf70c9d-a3c6-4060-b033-9d61f4f34fd4",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a71878f2-8615-41a6-bac5-0648515b537c",
+            "sequenceNumber": 9,
+            "fileTranscript": "There are multiple closing techniques you can use.",
+            "fileId": "4f85bb22-d018-4530-8da3-ae239e97efd6",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3d2b9f4f-7a23-4750-86ea-7b680c900712",
+            "sequenceNumber": 10,
+            "fileTranscript": "Find the one that works best for your personality and call style.",
+            "fileId": "f595b5a0-e047-4a06-b7bb-a8baa88bddbe",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "d2fdff1d-f786-447f-a3f5-1c1458a12543",
+            "sequenceNumber": 11,
+            "fileTranscript": "You don’t have to use the same one every time, don’t be afraid to step outside your comfort zone and try something new!",
+            "fileId": "01553354-685c-4efc-9bac-aa70406b6d0c",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a0a20130-28a9-49b6-ad7d-5c9a04f21576",
+            "sequenceNumber": 12,
+            "fileTranscript": "Hearing no can and will happen to everyone in a sales role.",
+            "fileId": "ca1422eb-8c23-40c3-aeec-3c87db8412df",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "a44564c3-dc92-40df-991a-1e42f7ec857c",
+            "sequenceNumber": 13,
+            "fileTranscript": "There is not a closing technique that guarantees everyone will say yes.",
+            "fileId": "c2bd31d5-8c01-4edc-b793-99fd2ae4a3b1",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "2e8a1c05-d597-47f9-a38a-9a0029c054a3",
+            "sequenceNumber": 14,
+            "fileTranscript": "Remember to catch it, catch it, change it when it comes to hearing no on calls.",
+            "fileId": "11e8132b-3d3e-4f0d-802c-b4378022e4f9",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "f4c4e30b-861f-4c00-8280-066f683b545e",
+            "sequenceNumber": 15,
+            "fileTranscript": "You will hear more no’s than yes’s and that’s okay.",
+            "fileId": "1f49eaee-67ec-42d1-bcea-9d9739120154",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "4a1555b1-68e4-41da-947d-7e491b8e4142",
+            "sequenceNumber": 16,
+            "fileTranscript": "So don’t be afraid to go for no - that means you at least asked for the sale!",
+            "fileId": "b9afbc63-e4ab-456a-ad80-623c4cec38c0",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "50a96bb9-b1c6-466d-9b2d-ce036d6ec835",
+            "sequenceNumber": 17,
+            "fileTranscript": "It’s officially closing time, open all the queues and let you out into those calls!",
+            "fileId": "e22b908a-5f27-4c64-b762-27a8360a7ec6",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "5d4e2458-3cfa-4e79-80c3-4398c315b30b",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Audio for #6f33208f-0e2e-471a-a5d2-35e4aae60ee6",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "6f33208f-0e2e-471a-a5d2-35e4aae60ee6"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #8fef3e53-7666-4e8b-b0a2-7481086b381c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8fef3e53-7666-4e8b-b0a2-7481086b381c"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #e4da5e97-593d-484a-bb60-6a25c634a363",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e4da5e97-593d-484a-bb60-6a25c634a363"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "10739984-d05b-48c2-a976-5e335d6842c4",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 2",
+            "parentItemId": 3531485,
+            "hotspots": [
+                {
+                    "name": "Audio for #b3f1db41-af18-4136-b560-bb7cb44afd28",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b3f1db41-af18-4136-b560-bb7cb44afd28"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "d637ca6b-85d9-49de-a120-bf0b01665f17",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 3",
+            "parentItemId": 3531487,
+            "hotspots": [
+                {
+                    "name": "Audio for #1c282802-61de-4ebb-8624-47361def4472",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "1c282802-61de-4ebb-8624-47361def4472"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "bead5ecf-b0c7-47c5-a234-811ab069c737",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 4",
+            "parentItemId": 3531490,
+            "hotspots": [
+                {
+                    "name": "Audio for #a733ac95-a371-4c66-90ed-5f5b09eca965",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a733ac95-a371-4c66-90ed-5f5b09eca965"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #9a876a53-f854-4b47-864d-ee56d7e77139",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "9a876a53-f854-4b47-864d-ee56d7e77139"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #9165f5cd-0876-4c8b-9209-e66004e0c026",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "9165f5cd-0876-4c8b-9209-e66004e0c026"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "f44087f7-34a1-4c32-a4f6-2ef3c31089d8",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 5",
+            "parentItemId": 3531494,
+            "hotspots": [
+                {
+                    "name": "Audio for #a71878f2-8615-41a6-bac5-0648515b537c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a71878f2-8615-41a6-bac5-0648515b537c"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #3d2b9f4f-7a23-4750-86ea-7b680c900712",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3d2b9f4f-7a23-4750-86ea-7b680c900712"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #d2fdff1d-f786-447f-a3f5-1c1458a12543",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d2fdff1d-f786-447f-a3f5-1c1458a12543"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #a0a20130-28a9-49b6-ad7d-5c9a04f21576",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a0a20130-28a9-49b6-ad7d-5c9a04f21576"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #a44564c3-dc92-40df-991a-1e42f7ec857c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "a44564c3-dc92-40df-991a-1e42f7ec857c"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                }
+            ]
+        },
+        {
+            "fileId": "873c3290-27c9-4cea-88c6-f9b66c60e7b3",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 6",
+            "parentItemId": 3531499,
+            "hotspots": [
+                {
+                    "name": "Audio for #2e8a1c05-d597-47f9-a38a-9a0029c054a3",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "2e8a1c05-d597-47f9-a38a-9a0029c054a3"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #f4c4e30b-861f-4c00-8280-066f683b545e",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f4c4e30b-861f-4c00-8280-066f683b545e"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "1eb9731d-57f5-4539-8e74-28323607e629",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 7",
+            "parentItemId": 3531505,
+            "hotspots": [
+                {
+                    "name": "Audio for #4a1555b1-68e4-41da-947d-7e491b8e4142",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "4a1555b1-68e4-41da-947d-7e491b8e4142"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "c9ca67c5-e2d1-4f9a-a978-a5a2fde5ef7b",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": true,
+            "name": "Screen - 8",
+            "parentItemId": 3531512,
+            "hotspots": [
+                {
+                    "name": "Audio for #50a96bb9-b1c6-466d-9b2d-ce036d6ec835",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "50a96bb9-b1c6-466d-9b2d-ce036d6ec835"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        }
+    ]
+}

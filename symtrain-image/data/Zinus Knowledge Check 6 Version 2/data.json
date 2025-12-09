@@ -1,0 +1,664 @@
+{
+    "name": "Zinus Knowledge Check 6 Version 2",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": false,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": false,
+    "ttsRequired": true,
+    "voiceName": "Jim",
+    "voiceId": "a1da97d6-800c-11ed-a9d0-02719d001499",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "2e007ac4-0cad-4570-970c-c0dfa23d11fa",
+            "sequenceNumber": 1,
+            "fileTranscript": "Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.",
+            "fileId": "fe07defd-5901-4cd3-abfb-1186a1a6ac63",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "f9d1a8c0-c84a-4487-b77d-5ba3b1311583",
+            "sequenceNumber": 2,
+            "fileTranscript": "Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.",
+            "fileId": "5a60234a-f7ba-4a4b-b046-1c7b668d196f",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "6e8d531a-c523-4bd3-91bf-b8a9754b004a",
+            "sequenceNumber": 4,
+            "fileTranscript": "Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.",
+            "fileId": "da7109e3-24fd-44ab-a737-c11aeb597e26",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "1b707ef2-05ca-4459-8d79-f7b93d4ce851",
+            "sequenceNumber": 3,
+            "fileTranscript": "Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.",
+            "fileId": "79fc50e1-06b3-48db-9d0c-8b7c5b80c357",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "82192a41-2adc-4d29-ba3c-d787390fb567",
+            "sequenceNumber": 6,
+            "fileTranscript": "Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.",
+            "fileId": "e7026144-d9c0-47ef-94df-ff47908ed612",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "3e090138-087d-49d3-a8b4-16ed40913596",
+            "sequenceNumber": 5,
+            "fileTranscript": "Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.",
+            "fileId": "6e01e9bb-525e-4d2f-8e7b-482281ccd977",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "d630b4cf-313d-48db-9b5d-c27b684065a0",
+            "sequenceNumber": 8,
+            "fileTranscript": "Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.",
+            "fileId": "63b0dc93-4ede-4f14-9126-66cf47aca163",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "15e32188-a986-4595-b76e-1c29768a3389",
+            "sequenceNumber": 9,
+            "fileTranscript": "Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.",
+            "fileId": "95492741-d5e7-4341-8e04-1e508291e8ab",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "766b7229-f0e3-4540-a70e-97d60e92befb",
+            "sequenceNumber": 10,
+            "fileTranscript": "Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to end the test..",
+            "fileId": "7a8b0997-66ef-4415-9f94-75a1d0d2c4fd",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "39e572d1-01d9-4577-a2cb-fbbbe8197bfb",
+            "sequenceNumber": 7,
+            "fileTranscript": "Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.",
+            "fileId": "e28131e8-1003-4a0e-b0dd-303c83dc4f67",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "26a04433-aa9f-4756-b2ea-469b0cdb3712",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 1 - 1 - 1 - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Audio for #b72929e8-79da-4089-bfc6-96b5aaf6b0d0",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "2e007ac4-0cad-4570-970c-c0dfa23d11fa"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Details",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.18140929535232383,
+                        "height": 0.032042666666666664,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "zinus"
+                            }
+                        ],
+                        "positionX": 0.06146926536731634,
+                        "positionY": 0.5786666666666667,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": false,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": null,
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "19ed1031-df28-4c4b-87b0-9b710dcb5b06",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 2 - 1 - 1 - 1",
+            "parentItemId": 933624,
+            "hotspots": [
+                {
+                    "name": "Audio for #a4124912-2fb1-450c-9192-cf8890eae5be",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f9d1a8c0-c84a-4487-b77d-5ba3b1311583"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Details",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.1905476369092273,
+                        "height": 0.032042666666666664,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "amazon"
+                            },
+                            {
+                                "score": 1,
+                                "keyword": "114-8464779-5481814"
+                            }
+                        ],
+                        "positionX": 0.15378844711177794,
+                        "positionY": 0.5386666666666666,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": false,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": null,
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "0406975b-50db-4edd-8f49-9ce2d24dd9bd",
+            "allAtOnceHotspots": true,
+            "isFitToScreen": false,
+            "name": "Screen - 3 - 1 - 1 - 1",
+            "parentItemId": 933625,
+            "hotspots": [
+                {
+                    "name": "Audio for #11c96d88-fb81-427f-90e9-64ba72386bf2",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "1b707ef2-05ca-4459-8d79-f7b93d4ce851"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Details",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.17166416791604197,
+                        "height": 0.032042666666666664,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "amazon "
+                            },
+                            {
+                                "score": 1,
+                                "keyword": "112-8825839-2012221"
+                            },
+                            {
+                                "score": 1,
+                                "keyword": "az-swft-150t"
+                            }
+                        ],
+                        "positionX": 0.1934032983508246,
+                        "positionY": 0.472,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": false,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": null,
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Topics",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.10119940029985008,
+                        "height": 0.032042666666666664,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "address change"
+                            }
+                        ],
+                        "positionX": 0.7428785607196402,
+                        "positionY": 0.96,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": false,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": null,
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "f1266495-b47c-44ed-b5ce-900ccd77513e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 4 - 1 - 1 - 1",
+            "parentItemId": 933626,
+            "hotspots": [
+                {
+                    "name": "Audio for #70424203-7691-43b5-9abe-1f12d7f8ae2d",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "6e8d531a-c523-4bd3-91bf-b8a9754b004a"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Details",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.2663165791447862,
+                        "height": 0.032042666666666664,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "amazon"
+                            }
+                        ],
+                        "positionX": 0.01875468867216804,
+                        "positionY": 0.7373333333333333,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": false,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": null,
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "6fc22c31-1910-4302-a8ae-23e08e8ff3ed",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 5 - 1 - 1 - 1",
+            "parentItemId": 933627,
+            "hotspots": [
+                {
+                    "name": "Audio for #ddd9f947-9634-4058-8f62-0a60b9779cbd",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "3e090138-087d-49d3-a8b4-16ed40913596"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Details",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.18843843843843844,
+                        "height": 0.10933333333333334,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "amazon"
+                            },
+                            {
+                                "score": 1,
+                                "keyword": "112-4271078-3081033"
+                            },
+                            {
+                                "score": 1,
+                                "keyword": "olb-smpb-14t"
+                            }
+                        ],
+                        "positionX": 0.15165165165165165,
+                        "positionY": 0.548,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": false,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": null,
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "0fb2e4df-4a1a-453a-a68c-6f79b60b75a4",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 6 - 1 - 1 - 1",
+            "parentItemId": 933628,
+            "hotspots": [
+                {
+                    "name": "Audio for #1f53a213-9328-4782-8f37-f95fec09c6a3",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "82192a41-2adc-4d29-ba3c-d787390fb567"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Details",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.18031555221637863,
+                        "height": 0.11466666666666668,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "wayfair"
+                            },
+                            {
+                                "score": 1,
+                                "keyword": "3212030793"
+                            },
+                            {
+                                "score": 1,
+                                "keyword": "swpbbha-12k"
+                            }
+                        ],
+                        "positionX": 0.1592787377911345,
+                        "positionY": 0.5466666666666666,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": false,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": null,
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "0952223b-dc3b-4719-91de-af8b2516abef",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 7 - 1 - 1 - 1",
+            "parentItemId": 933629,
+            "hotspots": [
+                {
+                    "name": "Audio for #f4dd1eec-f784-4bb0-95d9-a21c11a59a50",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "39e572d1-01d9-4577-a2cb-fbbbe8197bfb"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Details",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.13878469617404351,
+                        "height": 0.07866666666666666,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "amazon"
+                            },
+                            {
+                                "score": 1,
+                                "keyword": "114-7356340-3187427"
+                            },
+                            {
+                                "score": 1,
+                                "keyword": "zu-mfmbhd-08q"
+                            }
+                        ],
+                        "positionX": 0.16504126031507876,
+                        "positionY": 0.444,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": false,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": null,
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "ae78ff13-6fd6-4c42-b002-3b991f8dd883",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 8 - 1 - 1 - 1",
+            "parentItemId": 933630,
+            "hotspots": [
+                {
+                    "name": "Audio for #941e7f9a-928a-42a0-b320-b668800b6131",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d630b4cf-313d-48db-9b5d-c27b684065a0"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Details",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.19879969992498123,
+                        "height": 0.032042666666666664,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "zinus"
+                            }
+                        ],
+                        "positionX": 0.11177794448612154,
+                        "positionY": 0.616,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": false,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": null,
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "87c90a3e-d4bb-4e61-9bd1-fede58349b75",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 9 - 1 - 1 - 1",
+            "parentItemId": 933631,
+            "hotspots": [
+                {
+                    "name": "Audio for #1e7a8c01-ffd6-4f00-afc4-89e9ccfaf5c5",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "15e32188-a986-4595-b76e-1c29768a3389"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Details",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.19684447783621337,
+                        "height": 0.228,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "amazon"
+                            },
+                            {
+                                "score": 1,
+                                "keyword": "112-6749078-9885022"
+                            },
+                            {
+                                "score": 1,
+                                "keyword": "sc-sbbk-14k-fr"
+                            }
+                        ],
+                        "positionX": 0.10518407212622088,
+                        "positionY": 0.7293333333333333,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": false,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": null,
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        },
+        {
+            "fileId": "f0828bb2-f76b-448d-bd90-d9c123070cd3",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 10 - 1 - 1 - 1",
+            "parentItemId": 933632,
+            "hotspots": [
+                {
+                    "name": "Audio for #0eb348e5-a42e-4b90-96b7-e642ecb92eb6",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "766b7229-f0e3-4540-a70e-97d60e92befb"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Details",
+                    "type": "TEXT_FIELD",
+                    "settings": {
+                        "width": 0.17854463615903976,
+                        "height": 0.10133333333333332,
+                        "fontSize": 16,
+                        "keywords": [
+                            {
+                                "score": 1,
+                                "keyword": "amazon"
+                            },
+                            {
+                                "score": 1,
+                                "keyword": "113-6429156-9089000"
+                            },
+                            {
+                                "score": 1,
+                                "keyword": "olb-swpbbha-12k"
+                            }
+                        ],
+                        "positionX": 0.2003000750187547,
+                        "positionY": 0.504,
+                        "isAnyValue": true,
+                        "isPassword": false,
+                        "hasKeywords": true,
+                        "isHighlight": false,
+                        "isWhiteField": false,
+                        "expectedValue": "",
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "backgroundColor": "transparent",
+                        "interactionTimeout": 0,
+                        "allowKeywordsPunctuation": false
+                    },
+                    "sequenceNumber": 2
+                }
+            ]
+        }
+    ]
+}

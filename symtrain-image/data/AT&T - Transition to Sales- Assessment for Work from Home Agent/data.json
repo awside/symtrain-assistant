@@ -1,0 +1,326 @@
+{
+    "name": "AT&T - Transition to Sales- Assessment for Work from Home Agent",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": true,
+    "voiceName": "Jennifer",
+    "voiceId": "a1da9ea5-800c-11ed-a9d0-02719d001499",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "395ddae2-3498-4d71-8f2c-8cb0c9c85adc",
+            "sequenceNumber": 1,
+            "fileTranscript": "Being an AT&T work from home agent is not only rewarding, but also fun helping customers achieve more and realize more value from AT&T. In this simulation you have resolved a customers concern regarding their device, but then have an opportunity to transition to sales. There are 2 different transitions where we want to know what you would do. What would you say in response?",
+            "fileId": "c9741051-f05a-4859-b7a1-61adb149acfc",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "8f6eaf34-1df8-4ee4-99fa-49e118c574e8",
+            "sequenceNumber": 2,
+            "fileTranscript": "Thank you for calling AT&T. I hope we resolved your issue today. Is there anything else I can assist you with?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank you",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "resolved",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "issue",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "assist",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "2aa54811-b618-4a75-917e-d96abfdb758f",
+            "sequenceNumber": 3,
+            "fileTranscript": "No, I just really needed to reset my data hotspot because it's my backup when the cable goes out.",
+            "fileId": "a718a85a-02b6-42cb-a42e-173a8331f74a",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "d776e2e4-2b95-42c4-b59c-3e4e0ec0a36b",
+            "sequenceNumber": 4,
+            "fileTranscript": "OK.... stop... How would you respond here?",
+            "fileId": "43223070-47fc-4fc5-8e21-c005b3ff81f2",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "62539081-f4fb-41a3-9a96-dc5de8c9f6b5",
+            "sequenceNumber": 5,
+            "fileTranscript": "Respond here.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "0ac0e340-4a09-4b79-b221-6d3ce6384b00",
+            "sequenceNumber": 6,
+            "fileTranscript": "Thanks for the offer but I can't have my internet backup and my main internet service provider be from the same company, because I start working from home next month and need a reliable backup plan.",
+            "fileId": "20409304-18e1-46eb-b29d-a7f90bae5405",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "e1e200a8-9d1e-4acc-8fb9-76c38e26c07e",
+            "sequenceNumber": 7,
+            "fileTranscript": "OK.... stop... How would you respond here?",
+            "fileId": "9baa5157-0fee-4c84-89d9-1873e85829f6",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "21217242-43af-40bd-8aa6-3d5ffffef861",
+            "sequenceNumber": 8,
+            "fileTranscript": "Respond here.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "881de402-e2a6-46ad-89e3-26aad1957342",
+            "sequenceNumber": 9,
+            "fileTranscript": "This concludes your simulation.",
+            "fileId": "501dba22-54d8-4e4e-9aed-898009e2b6a3",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "d111eb6f-df1d-477c-88ea-45df444f8fa6",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 1 - 1 - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Audio for #6dcc328b-330a-4e75-a7d2-3abf88b795f4",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "395ddae2-3498-4d71-8f2c-8cb0c9c85adc"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "7c8f2768-ae1d-4ebb-9dc4-4ab9446b2e40",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 8 - 1 - 1",
+            "parentItemId": 4671939,
+            "hotspots": [
+                {
+                    "name": "Start Troubleshooting",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.036896877956480605,
+                        "height": 0.05723905723905724,
+                        "positionX": 0.42857142857142855,
+                        "positionY": 0.5959595959595959,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#f2b612",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #0a189652-f6ee-48f6-9e4b-0878c74a0634",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8f6eaf34-1df8-4ee4-99fa-49e118c574e8"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #2980a220-d7c5-4261-ad63-9b6b66356e6f",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "2aa54811-b618-4a75-917e-d96abfdb758f"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                }
+            ]
+        },
+        {
+            "fileId": "dc12959a-9183-433b-a1b6-27d68a92dd52",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 9 - 1 - 1",
+            "parentItemId": 4671940,
+            "hotspots": [
+                {
+                    "name": "No outage",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.35288552507095555,
+                        "height": 0.11447811447811448,
+                        "positionX": 0.2507095553453169,
+                        "positionY": 0.6498316498316499,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#f2b612",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Sales and Promotion",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.1315042573320719,
+                        "height": 0.04040404040404041,
+                        "positionX": 0.6546830652790918,
+                        "positionY": 0.06902356902356903,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#f2b612",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Audio for #7a873844-d641-471b-8f37-7784c729fb77",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "d776e2e4-2b95-42c4-b59c-3e4e0ec0a36b"
+                        }
+                    ],
+                    "sequenceNumber": 7
+                }
+            ]
+        },
+        {
+            "fileId": "0461d914-4370-4f75-86e4-15d58436e6af",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 10 - 1 - 1",
+            "parentItemId": 4671941,
+            "hotspots": [
+                {
+                    "name": "highlight",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.9398359161349134,
+                        "height": 0.9076175040518638,
+                        "positionX": 0.04557885141294439,
+                        "positionY": 0.04862236628849271,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 7
+                },
+                {
+                    "name": "Audio for #f3daba0b-27e3-406b-9e7a-09fa98e50520",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "62539081-f4fb-41a3-9a96-dc5de8c9f6b5"
+                        }
+                    ],
+                    "sequenceNumber": 8
+                },
+                {
+                    "name": "Audio for #534bec22-3c23-4922-81d9-f4593019e963",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "0ac0e340-4a09-4b79-b221-6d3ce6384b00"
+                        }
+                    ],
+                    "sequenceNumber": 9
+                },
+                {
+                    "name": "Audio for #596b8127-9795-45ed-bb6f-6c1a3cdeb0b4",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e1e200a8-9d1e-4acc-8fb9-76c38e26c07e"
+                        }
+                    ],
+                    "sequenceNumber": 10
+                },
+                {
+                    "name": "Audio for #01ba4ff8-f0ee-4093-9636-af32148ee859",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "21217242-43af-40bd-8aa6-3d5ffffef861"
+                        }
+                    ],
+                    "sequenceNumber": 11
+                }
+            ]
+        },
+        {
+            "fileId": "e5e13a60-41ff-4771-ba30-5334b0bb44cf",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 15 - 1 - 1",
+            "parentItemId": 4671942,
+            "hotspots": [
+                {
+                    "name": "Audio for #a5266a9f-7042-421a-856c-4c1f1cbdff28",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "881de402-e2a6-46ad-89e3-26aad1957342"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        }
+    ]
+}

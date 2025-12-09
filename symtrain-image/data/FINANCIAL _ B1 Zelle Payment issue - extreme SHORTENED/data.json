@@ -1,0 +1,618 @@
+{
+    "name": "FINANCIAL | B1 Zelle Payment issue - extreme SHORTENED",
+    "description": null,
+    "agentName": "Agent",
+    "symType": "VISUAL",
+    "lang": "en",
+    "sentimentalScoreEnabled": true,
+    "keywordScoreEnabled": true,
+    "testModeHotspotEnabled": true,
+    "isPostSurveyEnabled": false,
+    "scriptInRatingModeEnabled": true,
+    "ttsRequired": false,
+    "voiceName": "Amy",
+    "voiceId": "a26a0bb3-b721-11eb-ab80-12a3f1d4ce57",
+    "branches": [],
+    "labels": [],
+    "audioContentItems": [
+        {
+            "externalId": "b0f5c229-3be5-4846-b61f-0610bb6b5d54",
+            "sequenceNumber": 1,
+            "fileTranscript": "[Mario wants to know why a Zelle payment is not showing up in his account]",
+            "fileId": "c270e459-ad36-4491-ad5e-20e2a2c39a8d",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "13dcd5d0-44b1-4692-bbad-bcd5d9c19ef8",
+            "sequenceNumber": 5,
+            "fileTranscript": "[snarky] Why, so you can steal even more? I had to enter it just to get connected to you. Why do I have to give it again? ",
+            "fileId": "ae9645e7-af3e-49f5-9ccb-246b17618903",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "f7a8bb33-48ff-4303-ac9e-d2fc1035645e",
+            "sequenceNumber": 3,
+            "fileTranscript": "Yeah, what's going on here? My buddy just sent me some money through Zelle but it never made it into my account. I saw him do it. But the money's not in my account. You guys either lost it or stole it. I need you to find it and put it in my account NOW. ",
+            "fileId": "a078c2a0-bdef-47a0-88b7-5cf776f7a9f8",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "67597244-5edc-4b28-ac43-ef0d20fd350a",
+            "sequenceNumber": 8,
+            "fileTranscript": "Thank you. I'm checking now to see if the transfer is pending.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "e8d57678-d8e9-4fab-b670-13d6e12b3c87",
+            "sequenceNumber": 9,
+            "fileTranscript": "What do you mean PENDING? This is supposed to be INSTANT. Just put the money into my account.  NOW.",
+            "fileId": "352dcce9-3af2-4089-a122-23cae5009d3b",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "1f423a5d-2e16-4271-b3bd-899489288d02",
+            "sequenceNumber": 2,
+            "fileTranscript": "Thank you for calling. How can I help you?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "thank",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "thanks",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "how",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "help",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "assist",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "5035a0e9-c60d-4d6b-839e-8807d5a4a23f",
+            "sequenceNumber": 12,
+            "fileTranscript": "So, the reason the funds haven’t processed yet is that your e-mail address is not registered.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "reason",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "why",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "explanation",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "explain",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "88cd68d8-4480-4fc3-b33d-f57f740ec760",
+            "sequenceNumber": 4,
+            "fileTranscript": "I'd be happy to assist you. What is the account the money is going into?",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "account",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "happy",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "glad",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "keyword": "assist",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "help",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "4552bf7f-f02d-40f9-86b9-e6266710bc10",
+            "sequenceNumber": 14,
+            "fileTranscript": "I’m sorry about it, but for security reasons I can’t do it for you. But if you login, I can walk you through the one click process.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "security",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "reasons",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "walk",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "sorry",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "apologize",
+                            "score": 1
+                        },
+                        {
+                            "keyword": "wish",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "09afebc2-0509-4883-8672-d69b32d554e9",
+            "sequenceNumber": 15,
+            "fileTranscript": "Are you kidding me? Fine. But this better be the LAST TIME I register my email. You guys are idiots. ",
+            "fileId": "d96087fe-4d27-42bd-b0ec-5fa3396f424c",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b1d6f572-efea-40b5-ba0b-1f944f45a447",
+            "sequenceNumber": 19,
+            "fileTranscript": "This completes your simulation.",
+            "fileId": "b9b2da6c-8b36-43d0-8121-e44ef2d88364",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "f99ccc0a-55c5-459d-a4f4-168bcb2109d3",
+            "sequenceNumber": 13,
+            "fileTranscript": "No way. I DID give my email. I set this up a few days ago, I know I did. Go register it NOW and put my money in the account NOW.",
+            "fileId": "7e58aae9-3fe5-4176-bb34-3db08d05f411",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "bebc4e18-06a0-449e-a2a5-2b5bb1102a4b",
+            "sequenceNumber": 16,
+            "fileTranscript": "I understand your frustration. Now, see the box that says ACTIVATE EMAIL on your home screen? Click on that please.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "understand",
+                    "score": 1,
+                    "alternatives": []
+                }
+            ],
+            "settings": null
+        },
+        {
+            "externalId": "6ebb708d-a1c7-4c80-8d18-6c6376a3d384",
+            "sequenceNumber": 10,
+            "fileTranscript": "One moment please. ",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "f502d592-e5b4-42f5-a794-426555117c4d",
+            "sequenceNumber": 11,
+            "fileTranscript": "[sighing loudly]",
+            "fileId": "8eb28a20-0e37-46d7-bb42-26f30a43c338",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "b67c72b5-4176-4517-88ff-ada35e91a771",
+            "sequenceNumber": 6,
+            "fileTranscript": "We have to ask for security reasons.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "8a390a4c-0a9f-49f2-b33d-54cdd84324d5",
+            "sequenceNumber": 7,
+            "fileTranscript": "[exasperated] OK it's 2 2 2 2    2 2 2 2    2 2",
+            "fileId": "ac09980a-ea28-4fd9-8f9e-82edaddcdeda",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "80c051b6-0299-40a1-a41a-89e76745a97c",
+            "sequenceNumber": 17,
+            "fileTranscript": "Alright, fine. ",
+            "fileId": "571dcc74-9c05-4e70-9e0d-d676a7a6df30",
+            "actor": "SYM",
+            "keywords": [],
+            "settings": null
+        },
+        {
+            "externalId": "26ca7893-2a7d-40c3-98f2-175dad075b82",
+            "sequenceNumber": 18,
+            "fileTranscript": "Thank you, that took care of it. You should see the funds  now.",
+            "fileId": "",
+            "actor": "TRAINEE",
+            "keywords": [
+                {
+                    "keyword": "see",
+                    "score": 1,
+                    "alternatives": []
+                },
+                {
+                    "keyword": "thank you",
+                    "score": 1,
+                    "alternatives": [
+                        {
+                            "keyword": "thanks",
+                            "score": 1
+                        }
+                    ]
+                }
+            ],
+            "settings": null
+        }
+    ],
+    "visualContentItems": [
+        {
+            "fileId": "279966b3-14e0-4d84-9569-e22f204b892e",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": null,
+            "hotspots": [
+                {
+                    "name": "Audio for #cb69859a-1865-4fb3-9f5f-b233bc19d3d5",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b0f5c229-3be5-4846-b61f-0610bb6b5d54"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                }
+            ]
+        },
+        {
+            "fileId": "a10cad6f-2a80-4d18-85bc-e1cf6f897c3f",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": 636608,
+            "hotspots": [
+                {
+                    "name": "Audio for #442b73dc-bb31-4d6f-a032-b6a0ac765788",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "1f423a5d-2e16-4271-b3bd-899489288d02"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #0ffccd3f-9664-4899-adae-b48bf4281f42",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f7a8bb33-48ff-4303-ac9e-d2fc1035645e"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #68644e07-2413-48d1-b661-7aae93b925e3",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "88cd68d8-4480-4fc3-b33d-f57f740ec760"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #d388eb36-54de-411a-aa92-62207f6294a7",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "13dcd5d0-44b1-4692-bbad-bcd5d9c19ef8"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #fad9c9ef-98c8-4d38-b255-1eb2b120b8ce",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b67c72b5-4176-4517-88ff-ada35e91a771"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Audio for #d7fdc633-7ad1-448e-9e11-dc8b181aea39",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "8a390a4c-0a9f-49f2-b33d-54cdd84324d5"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                },
+                {
+                    "name": "Account Number",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.8877314814814815,
+                        "height": 0.06791907514450866,
+                        "positionX": 0.004629629629629629,
+                        "positionY": 0.6083815028901735,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 7
+                },
+                {
+                    "name": "Online Services",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.11226851851851852,
+                        "height": 0.03757225433526012,
+                        "positionX": 0.6053240740740741,
+                        "positionY": 0.15173410404624277,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 9
+                },
+                {
+                    "name": "Audio for #4dd185c6-1465-4f16-9c75-6dfd13653ec9",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "67597244-5edc-4b28-ac43-ef0d20fd350a"
+                        }
+                    ],
+                    "sequenceNumber": 10
+                }
+            ]
+        },
+        {
+            "fileId": "6eb279db-3f4c-49f4-9059-ed38f7fd2d7c",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 2 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": 636609,
+            "hotspots": [
+                {
+                    "name": "Audio for #c21c431c-267d-462b-9eea-ee4a3d585532",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "e8d57678-d8e9-4fab-b670-13d6e12b3c87"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #a1a49ebf-fdc0-4220-9182-ea30aa7a7088",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "6ebb708d-a1c7-4c80-8d18-6c6376a3d384"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #1cc109cd-da55-4fc8-afc9-2ae1364f43e8",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f502d592-e5b4-42f5-a794-426555117c4d"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Transfers",
+                    "type": "BUTTON",
+                    "settings": {
+                        "width": 0.1701388888888889,
+                        "height": 0.04190751445086705,
+                        "positionX": 0.4675925925925926,
+                        "positionY": 0.203757225433526,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": true
+                        },
+                        "interactionTimeout": 0
+                    },
+                    "sequenceNumber": 5
+                }
+            ]
+        },
+        {
+            "fileId": "c46d6691-7a09-4469-9587-cf7c2f620e93",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 3 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": 636610,
+            "hotspots": [
+                {
+                    "name": "Inactive",
+                    "type": "HIGHLIGHT",
+                    "settings": {
+                        "width": 0.12037037037037036,
+                        "height": 0.06936416184971098,
+                        "positionX": 0.3425925925925926,
+                        "positionY": 0.43786127167630057,
+                        "isHighlight": true,
+                        "highlightProp": {
+                            "highlightColor": "#fe3636",
+                            "isClickToAdvance": false
+                        },
+                        "interactionTimeout": 2000
+                    },
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #bcb11847-c835-4850-94d7-b3cdeccedb8c",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "5035a0e9-c60d-4d6b-839e-8807d5a4a23f"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #4df87b38-bd8a-42f8-a625-751d0c1815af",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "f99ccc0a-55c5-459d-a4f4-168bcb2109d3"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                }
+            ]
+        },
+        {
+            "fileId": "2b75f98e-0415-436b-976e-e8d25bc0d151",
+            "allAtOnceHotspots": false,
+            "isFitToScreen": false,
+            "name": "Screen - 4 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1",
+            "parentItemId": 636611,
+            "hotspots": [
+                {
+                    "name": "Audio for #af69ea44-835f-4837-9626-711a6247978f",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "4552bf7f-f02d-40f9-86b9-e6266710bc10"
+                        }
+                    ],
+                    "sequenceNumber": 1
+                },
+                {
+                    "name": "Audio for #ceb338b1-a189-4565-ab07-e7c152cc0dbc",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "09afebc2-0509-4883-8672-d69b32d554e9"
+                        }
+                    ],
+                    "sequenceNumber": 2
+                },
+                {
+                    "name": "Audio for #c7a53d97-08bb-4ebf-99bd-4bc32a38e84f",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "bebc4e18-06a0-449e-a2a5-2b5bb1102a4b"
+                        }
+                    ],
+                    "sequenceNumber": 3
+                },
+                {
+                    "name": "Audio for #3e39f49a-93a3-4828-b616-9afb3a542d26",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "80c051b6-0299-40a1-a41a-89e76745a97c"
+                        }
+                    ],
+                    "sequenceNumber": 4
+                },
+                {
+                    "name": "Audio for #33d8cc0d-caa0-4d74-9186-aa615c066c14",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "26ca7893-2a7d-40c3-98f2-175dad075b82"
+                        }
+                    ],
+                    "sequenceNumber": 5
+                },
+                {
+                    "name": "Audio for #5d7653a6-42d4-41b9-a7ba-12d63aac5990",
+                    "type": "AUDIO",
+                    "settings": [
+                        {
+                            "audioContentItemId": "b1d6f572-efea-40b5-ba0b-1f944f45a447"
+                        }
+                    ],
+                    "sequenceNumber": 6
+                }
+            ]
+        }
+    ]
+}
