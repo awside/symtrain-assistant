@@ -1,6 +1,6 @@
 """
 Bonus Task: Vision-based Step-to-Image Mapping
-Updated to support SymTrain JSON format
+Updated to support SymTrain JSON format with enhanced matching algorithms
 """
 
 import json
@@ -9,6 +9,7 @@ from typing import List, Dict, Any, Tuple, Optional
 from pathlib import Path
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
+from difflib import SequenceMatcher
 
 class VisionMapper:
     """
@@ -17,22 +18,32 @@ class VisionMapper:
     """
     
     def __init__(self):
-        # Common UI action keywords
+        # Common UI action keywords with expanded synonyms
         self.action_keywords = {
-            'click': ['click', 'press', 'tap', 'select', 'choose'],
-            'enter': ['enter', 'type', 'input', 'fill', 'write'],
-            'navigate': ['navigate', 'go to', 'open', 'access', 'visit'],
-            'update': ['update', 'change', 'modify', 'edit', 'alter'],
-            'view': ['view', 'see', 'check', 'look at', 'review'],
-            'submit': ['submit', 'save', 'confirm', 'apply'],
-            'search': ['search', 'find', 'lookup', 'locate']
+            'click': ['click', 'press', 'tap', 'select', 'choose', 'hit', 'push'],
+            'enter': ['enter', 'type', 'input', 'fill', 'write', 'provide', 'insert', 'add'],
+            'navigate': ['navigate', 'go to', 'open', 'access', 'visit', 'move to', 'switch to'],
+            'update': ['update', 'change', 'modify', 'edit', 'alter', 'revise', 'adjust'],
+            'view': ['view', 'see', 'check', 'look at', 'review', 'examine', 'inspect'],
+            'submit': ['submit', 'save', 'confirm', 'apply', 'complete', 'finish'],
+            'search': ['search', 'find', 'lookup', 'locate', 'seek']
         }
-        
+
         # Common UI element types
         self.element_types = [
             'button', 'link', 'menu', 'dropdown', 'field', 'input',
-            'checkbox', 'radio', 'tab', 'icon', 'text'
+            'checkbox', 'radio', 'tab', 'icon', 'text', 'form', 'box'
         ]
+
+        # Common action-element synonyms
+        self.element_synonyms = {
+            'payment': ['payment', 'pay', 'billing', 'card', 'credit', 'transaction'],
+            'order': ['order', 'purchase', 'transaction', 'booking', 'reservation'],
+            'account': ['account', 'profile', 'settings', 'preferences'],
+            'address': ['address', 'location', 'shipping', 'delivery'],
+            'insurance': ['insurance', 'policy', 'claim', 'coverage'],
+            'contact': ['contact', 'phone', 'email', 'call', 'reach']
+        }
     
     def normalize_hotspot(self, hotspot: Dict[str, Any], image_size: Tuple[int, int] = (1200, 800)) -> Dict[str, Any]:
         """
@@ -93,7 +104,40 @@ class VisionMapper:
             }
         
         return normalized
-    
+
+    def fuzzy_match_score(self, str1: str, str2: str) -> float:
+        """Calculate fuzzy string similarity using SequenceMatcher.
+
+        Args:
+            str1: First string
+            str2: Second string
+
+        Returns:
+            Similarity score between 0 and 1
+        """
+        return SequenceMatcher(None, str1.lower(), str2.lower()).ratio()
+
+    def expand_keywords_with_synonyms(self, keywords: List[str]) -> List[str]:
+        """Expand keywords with known synonyms.
+
+        Args:
+            keywords: Original keywords
+
+        Returns:
+            Expanded list including synonyms
+        """
+        expanded = set(keywords)
+
+        for keyword in keywords:
+            keyword_lower = keyword.lower()
+            # Check if keyword matches any synonym category
+            for category, synonyms in self.element_synonyms.items():
+                if keyword_lower in synonyms:
+                    expanded.update(synonyms)
+                    break
+
+        return list(expanded)
+
     def extract_keywords_from_step(self, step: str) -> Dict[str, List[str]]:
         """Extract relevant keywords from a step description."""
         step_lower = step.lower()
@@ -131,8 +175,8 @@ class VisionMapper:
         return keywords
     
     def calculate_relevance_score(self, step: str, hotspot: Dict[str, Any], request_context: str = "") -> float:
-        """Calculate how relevant a hotspot is to a step.
-        
+        """Calculate how relevant a hotspot is to a step with enhanced matching.
+
         Args:
             step: The instruction step
             hotspot: The UI hotspot
@@ -140,28 +184,28 @@ class VisionMapper:
         """
         # Normalize hotspot first
         norm_hotspot = self.normalize_hotspot(hotspot)
-        
+
         step_keywords = self.extract_keywords_from_step(step)
         hotspot_text = norm_hotspot.get('text', '').lower()
         hotspot_type = norm_hotspot.get('type', '').lower()
-        
+
         # Generic terms that shouldn't score high
-        generic_terms = {'click', 'button', 'text', 'field', 'input', 'next', 'back', 
+        generic_terms = {'click', 'button', 'text', 'field', 'input', 'next', 'back',
                         'submit', 'ok', 'yes', 'no', 'continue', 'cancel', 'close',
                         'audio', 'for', 'the'}
-        
+
         # Stop words to ignore in matching
-        stop_words = {'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 
+        stop_words = {'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to',
                      'for', 'of', 'with', 'by', 'from', 'is', 'are', 'was', 'were',
-                     'my', 'your', 'can', 'you', 'help', 'me', 'with', 'that', 'this'}
-        
+                     'my', 'your', 'can', 'you', 'help', 'me', 'that', 'this'}
+
         score = 0.0
-        
+
         # PENALTY: Penalize generic hotspot names (but not too harshly)
         if hotspot_text.strip() in generic_terms:
-            score -= 0.2  # Reduced penalty (was -0.5)
-        
-        # SEMANTIC DOMAIN MATCHING: Check if hotspot relates to request domain
+            score -= 0.15  # Reduced penalty from 0.2
+
+        # ENHANCED SEMANTIC DOMAIN MATCHING: Check if hotspot relates to request domain
         if request_context:
             request_lower = request_context.lower()
             # Extract domain keywords from request (important nouns/verbs)
@@ -169,61 +213,109 @@ class VisionMapper:
             for word in request_lower.split():
                 if len(word) > 4 and word not in stop_words:
                     domain_keywords.append(word)
-            
-            # Check if hotspot text contains ANY domain keywords
+
+            # Expand domain keywords with synonyms
+            expanded_keywords = self.expand_keywords_with_synonyms(domain_keywords)
+
+            # Check if hotspot text contains ANY domain keywords or synonyms
             domain_match_count = 0
-            for keyword in domain_keywords:
+            fuzzy_match_scores = []
+
+            for keyword in expanded_keywords:
+                # Exact substring match
                 if keyword in hotspot_text:
                     domain_match_count += 1
-            
+                else:
+                    # Fuzzy matching for partial matches
+                    fuzzy_score = self.fuzzy_match_score(keyword, hotspot_text)
+                    if fuzzy_score > 0.7:  # High similarity threshold
+                        fuzzy_match_scores.append(fuzzy_score)
+
             if domain_match_count > 0:
                 # Big bonus for domain relevance! This helps filter out irrelevant UIs
-                score += domain_match_count * 0.4
-        
-        # Check if hotspot text matches any targets (HIGH PRIORITY)
+                score += domain_match_count * 0.5  # Increased from 0.4
+
+            # Add fuzzy match bonuses
+            if fuzzy_match_scores:
+                score += max(fuzzy_match_scores) * 0.3
+
+        # ENHANCED TARGET MATCHING: Check if hotspot text matches any targets (HIGH PRIORITY)
         for target in step_keywords['targets']:
             target_lower = target.lower()
-            # Exact match = high score
+            # Exact match = very high score
             if target_lower == hotspot_text.strip():
-                score += 1.0
-            # Substring match = medium score
+                score += 1.2  # Increased from 1.0
+            # Substring match = high score
             elif target_lower in hotspot_text or hotspot_text in target_lower:
-                score += 0.5  # Increased from 0.6
-        
-        # Check if hotspot type matches step actions (MEDIUM PRIORITY)
+                score += 0.7  # Increased from 0.5
+            else:
+                # Fuzzy match for close matches
+                fuzzy_score = self.fuzzy_match_score(target_lower, hotspot_text)
+                if fuzzy_score > 0.75:
+                    score += fuzzy_score * 0.6  # New: fuzzy matching bonus
+
+        # ENHANCED TYPE MATCHING: Check if hotspot type matches step actions (MEDIUM PRIORITY)
         if hotspot_type:
             if 'button' in hotspot_type and 'click' in step_keywords['actions']:
-                score += 0.3  # Increased from 0.2
+                score += 0.35  # Increased from 0.3
             if 'input' in hotspot_type or 'field' in hotspot_type or 'text_field' in hotspot_type:
                 if 'enter' in step_keywords['actions']:
-                    score += 0.3  # Increased from 0.2
+                    score += 0.35  # Increased from 0.3
             if 'menu' in hotspot_type and 'navigate' in step_keywords['actions']:
-                score += 0.3  # Increased from 0.2
-        
-        # Partial text matching (LOW PRIORITY) - only meaningful words
+                score += 0.35  # Increased from 0.3
+
+        # ENHANCED PARTIAL TEXT MATCHING: with fuzzy matching
         step_words = set(step.lower().split()) - stop_words
         hotspot_words = set(hotspot_text.split()) - stop_words
         common_words = step_words & hotspot_words
-        
+
         if common_words:
             # Filter out generic terms and short words
-            meaningful_common = [w for w in common_words 
+            meaningful_common = [w for w in common_words
                                if len(w) > 3 and w not in generic_terms]
             if meaningful_common:
-                # Give small bonus
-                score += len(meaningful_common) * 0.1  # Increased from 0.05
-        
-        return max(0.0, min(score, 1.0))  # Clamp between 0 and 1
+                # Give bonus based on word importance
+                score += len(meaningful_common) * 0.15  # Increased from 0.1
+
+        # NEW: Cross-word fuzzy matching for compound terms
+        if not common_words and len(hotspot_words) > 0 and len(step_words) > 0:
+            max_fuzzy = 0.0
+            for step_word in step_words:
+                if len(step_word) > 4:  # Only check meaningful words
+                    for hotspot_word in hotspot_words:
+                        if len(hotspot_word) > 4:
+                            fuzzy_score = self.fuzzy_match_score(step_word, hotspot_word)
+                            max_fuzzy = max(max_fuzzy, fuzzy_score)
+
+            if max_fuzzy > 0.8:  # Very similar words
+                score += max_fuzzy * 0.2
+
+        return max(0.0, min(score, 2.0))  # Allow scores up to 2.0 for very strong matches
     
     def map_steps_to_images(
         self,
         steps: List[str],
         visual_items: List[Dict[str, Any]],
-        threshold: float = 0.2,  # Lowered back to 0.2 for more matches
+        threshold: float = 0.15,  # Lowered to 0.15 for better matching with enhanced scoring
         debug: bool = False,  # Enable debug output
-        request_context: str = ""  # Original user request for semantic matching
+        request_context: str = "",  # Original user request for semantic matching
+        max_image_reuse: int = 3,  # Maximum times same image can be used
+        diversity_penalty: float = 0.15  # Penalty per reuse (0.15 recommended)
     ) -> List[Dict[str, Any]]:
-        """Map each step to the most relevant image and hotspot."""
+        """Map each step to the most relevant image and hotspot with enhanced matching.
+
+        Args:
+            steps: List of instruction steps
+            visual_items: List of visual content items with hotspots
+            threshold: Minimum relevance score to consider a match (0-2 scale now)
+            debug: Enable debug output
+            request_context: Original user request for semantic domain matching
+            max_image_reuse: Maximum times same image can be reused
+            diversity_penalty: Penalty multiplier per image reuse
+
+        Returns:
+            List of step-to-image mappings with relevance scores
+        """
         mappings = []
         used_images = {}  # Track how many times each image is used
         
@@ -264,9 +356,10 @@ class VisionMapper:
                         print(f"    {file_id[:20]}... | {hotspot_name[:30]:30s} | Score: {score:.2f}")
                     
                     if score >= threshold:
-                        # Apply diversity bonus: penalize overused images
-                        diversity_penalty = used_images.get(file_id, 0) * 0.1
-                        adjusted_score = score - diversity_penalty
+                        # Apply diversity penalty: penalize overused images
+                        reuse_count = used_images.get(file_id, 0)
+                        penalty = reuse_count * diversity_penalty
+                        adjusted_score = score - penalty
                         
                         candidates.append({
                             'file_id': file_id,
@@ -278,15 +371,33 @@ class VisionMapper:
             # Select best candidate based on adjusted score (with diversity)
             if candidates:
                 best_candidate = max(candidates, key=lambda x: x['adjusted_score'])
-                best_match['file_id'] = best_candidate['file_id']
-                best_match['hotspot'] = best_candidate['hotspot']
-                best_match['relevance_score'] = best_candidate['score']
-                
-                # Track image usage for diversity
-                used_images[best_candidate['file_id']] = used_images.get(best_candidate['file_id'], 0) + 1
-                
-                if debug:
-                    print(f"    ✅ BEST: {best_candidate['file_id'][:30]}... (score: {best_candidate['score']:.2f})")
+
+                # Only use if not exceeding max reuse limit
+                if used_images.get(best_candidate['file_id'], 0) < max_image_reuse:
+                    best_match['file_id'] = best_candidate['file_id']
+                    best_match['hotspot'] = best_candidate['hotspot']
+                    best_match['relevance_score'] = best_candidate['score']
+
+                    # Track image usage for diversity
+                    used_images[best_candidate['file_id']] = used_images.get(best_candidate['file_id'], 0) + 1
+
+                    if debug:
+                        print(f"    ✅ BEST: {best_candidate['file_id'][:30]}... (score: {best_candidate['score']:.2f}, adjusted: {best_candidate['adjusted_score']:.2f})")
+                else:
+                    # Try second best if first exceeds limit
+                    sorted_candidates = sorted(candidates, key=lambda x: x['adjusted_score'], reverse=True)
+                    for candidate in sorted_candidates[1:]:
+                        if used_images.get(candidate['file_id'], 0) < max_image_reuse:
+                            best_match['file_id'] = candidate['file_id']
+                            best_match['hotspot'] = candidate['hotspot']
+                            best_match['relevance_score'] = candidate['score']
+                            used_images[candidate['file_id']] = used_images.get(candidate['file_id'], 0) + 1
+                            if debug:
+                                print(f"    ✅ ALTERNATIVE: {candidate['file_id'][:30]}... (score: {candidate['score']:.2f})")
+                            break
+                    else:
+                        if debug:
+                            print(f"    ⚠️  Best match exceeds reuse limit")
             else:
                 if debug:
                     print(f"    ❌ NO MATCH (all scores below {threshold})")
