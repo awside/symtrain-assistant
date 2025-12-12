@@ -61,3 +61,5 @@ streamlit run main.py
 - DistilBERT embeddings for semantic similarity
 - Clustering and data exploration notebooks
 - Foundation work and experimentation
+
+Demo Link: https://youtu.be/t0e70QdVCIA
