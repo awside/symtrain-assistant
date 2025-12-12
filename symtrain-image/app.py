@@ -7,6 +7,7 @@ import streamlit as st
 import json
 import os
 from pathlib import Path
+from dotenv import load_dotenv
 from utils import (
     load_dataset,
     merge_dialogue,
@@ -16,6 +17,9 @@ from utils import (
     load_all_simulations
 )
 from vision_mapper import VisionMapper, create_mapping_report
+
+# Load environment variables
+load_dotenv()
 
 # Page configuration
 st.set_page_config(
@@ -54,11 +58,12 @@ def initialize_session_state():
     if 'simulations' not in st.session_state:
         st.session_state.simulations = None
     if 'api_key' not in st.session_state:
-        st.session_state.api_key = ""
+        # Try to load API key from environment
+        st.session_state.api_key = os.getenv('OPENAI_API_KEY', "")
     if 'enable_vision' not in st.session_state:
         st.session_state.enable_vision = False
     if 'image_directory' not in st.session_state:
-        st.session_state.image_directory = "./data"
+        st.session_state.image_directory = "./symtrain-image/data"
 
 def main():
     # Header
@@ -83,7 +88,7 @@ def main():
         # Data directory input
         data_dir = st.text_input(
             "Training Data Directory",
-            value="./data",
+            value="./symtrain-image/data",
             help="Path to the directory containing simulation JSON files"
         )
         
@@ -333,7 +338,7 @@ def main():
                                                 st.image(
                                                     mapping['highlighted_image'],
                                                     caption=f"UI Screenshot with highlighted element",
-                                                    use_container_width=True
+                                                    use_column_width=True
                                                 )
                                             elif mapping.get('image_found'):
                                                 st.warning("Image found but could not highlight (processing error)")
